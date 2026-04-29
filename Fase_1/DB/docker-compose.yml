@@ -1,0 +1,21 @@
+services:
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: db-mundial
+    user: root
+    ports:
+      - "1433:1433"
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=Mundial.123
+      - MSSQL_PID=Developer
+    volumes:
+      - ./1_init.sql:/1_init.sql
+      - ./2_insertData.sql:/2_insertData.sql
+      - ./3_views.sql:/3_views.sql
+      - ./4_store_procedures.sql:/4_store_procedures.sql
+      - ./setup.sh:/setup.sh
+      - ./backup/:/backup/
+      - ../Tablas_parceadas:/var/opt/mssql/data/Tablas_parceadas
+    command: >
+      bash -c "(/setup.sh &) && /opt/mssql/bin/sqlservr"

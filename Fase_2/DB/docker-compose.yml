@@ -1,0 +1,23 @@
+services:
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: fase2-mundial
+    user: root
+    ports:
+      - "1435:1433"
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=Mundial.123
+      - MSSQL_PID=Developer
+    volumes:
+      - ./init/1_init.sql:/1_init.sql
+      - ./init/2_insertData.sql:/2_insertData.sql
+      - ./init/3_views.sql:/3_views.sql
+      - ./init/4_store_procedures.sql:/4_store_procedures.sql
+      - ./init/5_triggers.sql:/5_triggers.sql
+      - ./setup.sh:/setup.sh
+      - ../Tablas_parceadas:/var/opt/mssql/data/Tablas_parceadas
+      - ../backups/completo:/backups/completo/
+      - ../backups/diferencial:/backups/diferencial/
+    command: >
+      bash -c "(/setup.sh &) && /opt/mssql/bin/sqlservr"

@@ -1,0 +1,545 @@
+﻿id,mundial,pais1,pais2,tipo_ronda,grupo,turno,jugador,referencia,equipo,anotado,detalle
+1,2022,Catar,Ecuador,"1ra Ronda, Grupo A",A,0,Enner Valencia,,Ecuador,True,gol_normal
+2,2022,Inglaterra,Irán,"1ra Ronda, Grupo B",B,0,Mehdi Taremi,,Irán,True,gol_normal
+3,2022,Estados Unidos,Gales,"1ra Ronda, Grupo B",B,0,Gareth Bale,,Gales,True,gol_normal
+4,2022,Argentina,Arabia Saudita,"1ra Ronda, Grupo C",C,0,Lionel Messi,,Argentina,True,gol_normal
+5,2022,Alemania,Japón,"1ra Ronda, Grupo E",E,0,Ilkay Gündogan,,Alemania,True,gol_normal
+6,2022,España,Costa Rica,"1ra Ronda, Grupo E",E,0,Ferran Torres,,España,True,gol_normal
+7,2022,Portugal,Ghana,"1ra Ronda, Grupo H",H,0,Cristiano Ronaldo,,Portugal,True,gol_normal
+8,2022,Francia,Polonia,Octavos,,0,Robert Lewandowski,,Polonia,True,gol_normal
+9,2022,Japón,Croacia,Octavos,,1,Takumi Minamino,,Japón,False,atajado
+10,2022,Japón,Croacia,Octavos,,1,Nikola Vlasic,,Croacia,True,
+11,2022,Japón,Croacia,Octavos,,2,Kaoru Mitoma,,Japón,False,atajado
+12,2022,Japón,Croacia,Octavos,,2,Marcelo Brozovic,,Croacia,True,
+13,2022,Japón,Croacia,Octavos,,3,Takuma Asano,,Japón,True,
+14,2022,Japón,Croacia,Octavos,,3,Marko Livaja,,Croacia,False,palo
+15,2022,Japón,Croacia,Octavos,,4,Maya Yoshida,,Japón,False,atajado
+16,2022,Japón,Croacia,Octavos,,4,Mario Pasalic,,Croacia,True,
+17,2022,Marruecos,España,Octavos,,1,Abdelhamid Sabiri,,Marruecos,True,
+18,2022,Marruecos,España,Octavos,,1,Pablo Sarabia,,España,False,palo
+19,2022,Marruecos,España,Octavos,,2,Hakim Ziyech,,Marruecos,True,
+20,2022,Marruecos,España,Octavos,,2,Carlos Soler,,España,False,atajado
+21,2022,Marruecos,España,Octavos,,3,Badr Benoun,,Marruecos,False,atajado
+22,2022,Marruecos,España,Octavos,,3,Sergio Busquets,,España,False,atajado
+23,2022,Marruecos,España,Octavos,,4,Achraf Hakimi,,Marruecos,True,
+24,2022,Marruecos,España,Octavos,,4,,,España,False,fallado
+25,2022,Paises Bajos,Argentina,Cuartos,,0,Lionel Messi,,Argentina,True,gol_normal
+26,2022,Paises Bajos,Argentina,Cuartos,,1,Virgil Van Dijk,,Paises Bajos,False,atajado
+27,2022,Paises Bajos,Argentina,Cuartos,,1,Lionel Messi,,Argentina,True,
+28,2022,Paises Bajos,Argentina,Cuartos,,2,Steven Berghuis,,Paises Bajos,False,atajado
+29,2022,Paises Bajos,Argentina,Cuartos,,2,Leandro Paredes,,Argentina,True,
+30,2022,Paises Bajos,Argentina,Cuartos,,3,Teun Koopmeiners,,Paises Bajos,True,
+31,2022,Paises Bajos,Argentina,Cuartos,,3,Gonzalo Montiel,,Argentina,True,
+32,2022,Paises Bajos,Argentina,Cuartos,,4,Wout Weghorst,,Paises Bajos,True,
+33,2022,Paises Bajos,Argentina,Cuartos,,4,Enzo Fernandez,,Argentina,False,desviado
+34,2022,Paises Bajos,Argentina,Cuartos,,5,Luuk De Jong,,Paises Bajos,True,
+35,2022,Paises Bajos,Argentina,Cuartos,,5,Lautaro Martinez,,Argentina,True,
+36,2022,Croacia,Brasil,Cuartos,,1,Nikola Vlasic,,Croacia,True,
+37,2022,Croacia,Brasil,Cuartos,,1,Rodrygo,,Brasil,False,atajado
+38,2022,Croacia,Brasil,Cuartos,,2,Lovro Majer,,Croacia,True,
+39,2022,Croacia,Brasil,Cuartos,,2,Casemiro,,Brasil,True,
+40,2022,Croacia,Brasil,Cuartos,,3,Luka Modric,,Croacia,True,
+41,2022,Croacia,Brasil,Cuartos,,3,Pedro,,Brasil,True,
+42,2022,Croacia,Brasil,Cuartos,,4,Mislav Orsic,,Croacia,True,
+43,2022,Croacia,Brasil,Cuartos,,4,Marquinhos,,Brasil,False,palo
+44,2022,Inglaterra,Francia,Cuartos,,0,Harry Kane,,Inglaterra,True,gol_normal
+45,2022,Argentina,Croacia,Semis,,0,Lionel Messi,,Argentina,True,gol_normal
+46,2022,Argentina,Francia,Final,,0,Lionel Messi,,Argentina,True,gol_normal
+47,2022,Argentina,Francia,Final,,0,Kylian Mbappé,,Francia,True,gol_normal
+48,2022,Argentina,Francia,Final,,0,Kylian Mbappé,,Francia,True,gol_normal
+49,2022,Argentina,Francia,Final,,1,Lionel Messi,,Francia,True,
+50,2022,Argentina,Francia,Final,,1,Kylian Mbappé,,Argentina,True,
+51,2022,Argentina,Francia,Final,,2,Paulo Dybala,,Francia,True,
+52,2022,Argentina,Francia,Final,,2,Kingsley Coman,,Argentina,False,atajado
+53,2022,Argentina,Francia,Final,,3,Leandro Paredes,,Francia,True,
+54,2022,Argentina,Francia,Final,,3,Aurélien Tchouaméni,,Argentina,False,desviado
+55,2022,Argentina,Francia,Final,,4,Gonzalo Montiel,,Francia,True,
+56,2022,Argentina,Francia,Final,,4,Randal Kolo Muani,,Argentina,True,
+57,2018,Portugal,España,"1ra Ronda, Grupo B",B,0,Cristiano Ronaldo,,Portugal,True,gol_normal
+58,2018,Francia,Australia,"1ra Ronda, Grupo C",C,0,Antoine Griezmann,,Francia,True,gol_normal
+59,2018,Francia,Australia,"1ra Ronda, Grupo C",C,0,Mile Jedinak,,Australia,True,gol_normal
+60,2018,Croacia,Nigeria,"1ra Ronda, Grupo D",D,0,Luka Modric,,Croacia,True,gol_normal
+61,2018,Suecia,Corea del Sur,"1ra Ronda, Grupo F",F,0,Andreas Granqvist,,Suecia,True,gol_normal
+62,2018,Túnez,Inglaterra,"1ra Ronda, Grupo G",G,0,Ferjani Sassi,,Túnez,True,gol_normal
+63,2018,Colombia,Japón,"1ra Ronda, Grupo H",H,0,Shinji Kagawa,,Japón,True,gol_normal
+64,2018,Rusia,Egipto,"1ra Ronda, Grupo A",A,0,Mohamed Salah,,Egipto,True,gol_normal
+65,2018,Dinamarca,Australia,"1ra Ronda, Grupo C",C,0,Mile Jedinak,,Australia,True,gol_normal
+66,2018,Corea del Sur,México,"1ra Ronda, Grupo F",F,0,Carlos Vela,,México,True,gol_normal
+67,2018,Bélgica,Túnez,"1ra Ronda, Grupo G",G,0,Eden Hazard,,Bélgica,True,gol_normal
+68,2018,Inglaterra,Panamá,"1ra Ronda, Grupo G",G,0,Harry Kane,,Inglaterra,True,gol_normal
+69,2018,Inglaterra,Panamá,"1ra Ronda, Grupo G",G,0,Harry Kane,,Inglaterra,True,gol_normal
+70,2018,Arabia Saudita,Egipto,"1ra Ronda, Grupo A",A,0,Salman Al-Faraj,,Arabia Saudita,True,gol_normal
+71,2018,Irán,Portugal,"1ra Ronda, Grupo B",B,0,Karim Ansarifard,,Irán,True,gol_normal
+72,2018,Nigeria,Argentina,"1ra Ronda, Grupo D",D,0,Victor Moses,,Nigeria,True,gol_normal
+73,2018,Islandia,Croacia,"1ra Ronda, Grupo D",D,0,Gylfi Sigurdsson,,Islandia,True,gol_normal
+74,2018,México,Suecia,"1ra Ronda, Grupo F",F,0,Andreas Granqvist,,Suecia,True,gol_normal
+75,2018,Francia,Argentina,Octavos,,0,Antoine Griezmann,,Francia,True,gol_normal
+76,2018,España,Rusia,Octavos,,0,Artem Dzyuba,,Rusia,True,gol_normal
+77,2018,España,Rusia,Octavos,,1,Andrés Iniesta,,España,True,
+78,2018,España,Rusia,Octavos,,1,Fyodor Smolov,,Rusia,True,
+79,2018,España,Rusia,Octavos,,2,Gerard Piqué,,España,True,
+80,2018,España,Rusia,Octavos,,2,Sergei Ignashevich,,Rusia,True,
+81,2018,España,Rusia,Octavos,,3,Koke,,España,False,atajado
+82,2018,España,Rusia,Octavos,,3,Aleksandr Golovin,,Rusia,True,
+83,2018,España,Rusia,Octavos,,4,Sergio Ramos,,España,True,
+84,2018,España,Rusia,Octavos,,4,Denis Cheryshev,,Rusia,True,
+85,2018,España,Rusia,Octavos,,5,Iago Aspas,,España,False,atajado
+86,2018,España,Rusia,Octavos,,5,,,Rusia,False,fallado
+87,2018,Croacia,Dinamarca,Octavos,,1,Milan Badelj,,Dinamarca,False,atajado
+88,2018,Croacia,Dinamarca,Octavos,,1,Christian Eriksen,,Croacia,False,atajado
+89,2018,Croacia,Dinamarca,Octavos,,2,Andrej Kramarić,,Dinamarca,True,
+90,2018,Croacia,Dinamarca,Octavos,,2,Simon Kjaer,,Croacia,True,
+91,2018,Croacia,Dinamarca,Octavos,,3,Luka Modric,,Dinamarca,True,
+92,2018,Croacia,Dinamarca,Octavos,,3,Michael Krohn-Dehli,,Croacia,True,
+93,2018,Croacia,Dinamarca,Octavos,,4,Josip Pivarić,,Dinamarca,False,atajado
+94,2018,Croacia,Dinamarca,Octavos,,4,Lasse Schöne,,Croacia,False,atajado
+95,2018,Croacia,Dinamarca,Octavos,,5,Ivan Rakitic,,Dinamarca,True,
+96,2018,Croacia,Dinamarca,Octavos,,5,Nicolai Jørgensen,,Croacia,False,atajado
+97,2018,Colombia,Inglaterra,Octavos,,0,Harry Kane,,Inglaterra,True,gol_normal
+98,2018,Colombia,Inglaterra,Octavos,,1,Radamel Falcao,,Colombia,True,
+99,2018,Colombia,Inglaterra,Octavos,,1,Harry Kane,,Inglaterra,True,
+100,2018,Colombia,Inglaterra,Octavos,,2,Juan Guillermo Cuadrado,,Colombia,True,
+101,2018,Colombia,Inglaterra,Octavos,,2,Marcus Rashford,,Inglaterra,True,
+102,2018,Colombia,Inglaterra,Octavos,,3,Luis Muriel,,Colombia,True,
+103,2018,Colombia,Inglaterra,Octavos,,3,Jordan Henderson,,Inglaterra,False,atajado
+104,2018,Colombia,Inglaterra,Octavos,,4,Mateus Uribe,,Colombia,False,fallado
+105,2018,Colombia,Inglaterra,Octavos,,4,Kieran Trippier,,Inglaterra,True,
+106,2018,Colombia,Inglaterra,Octavos,,5,Carlos Bacca,,Colombia,False,atajado
+107,2018,Colombia,Inglaterra,Octavos,,5,Eric Dier,,Inglaterra,True,
+108,2018,Rusia,Croacia,Cuartos,,1,Fyodor Smolov,,Rusia,False,atajado
+109,2018,Rusia,Croacia,Cuartos,,1,Marcelo Brozovic,,Croacia,True,
+110,2018,Rusia,Croacia,Cuartos,,2,Alan Dzagoev,,Rusia,True,
+111,2018,Rusia,Croacia,Cuartos,,2,Mateo Kovacic,,Croacia,False,atajado
+112,2018,Rusia,Croacia,Cuartos,,3,Mário Fernandes,,Rusia,False,desviado
+113,2018,Rusia,Croacia,Cuartos,,3,Luka Modric,,Croacia,True,
+114,2018,Rusia,Croacia,Cuartos,,4,Sergei Ignashevich,,Rusia,True,
+115,2018,Rusia,Croacia,Cuartos,,4,Domagoj Vida,,Croacia,True,
+116,2018,Rusia,Croacia,Cuartos,,5,Daler Kuzyayev,,Rusia,True,
+117,2018,Rusia,Croacia,Cuartos,,5,Ivan Rakitic,,Croacia,True,
+118,2018,Francia,Croacia,Final,,0,Antoine Griezmann,,Francia,True,gol_normal
+119,2014,Brasil,Croacia,"1ra Ronda, Grupo A",A,0,Neymar Jr.,,Brasil,True,gol_normal
+120,2014,España,Paises Bajos,"1ra Ronda, Grupo B",B,0,Xabi Alonso,,España,True,gol_normal
+121,2014,Uruguay,Costa Rica,"1ra Ronda, Grupo D",D,0,Edinson Cavani,,Uruguay,True,gol_normal
+122,2014,Francia,Honduras,"1ra Ronda, Grupo E",E,0,Karim Benzema,,Francia,True,gol_normal
+123,2014,Alemania,Portugal,"1ra Ronda, Grupo G",G,0,Thomas Müller,,Alemania,True,gol_normal
+124,2014,Bélgica,Argelia,"1ra Ronda, Grupo H",H,0,Sofiane Feghouli,,Argelia,True,gol_normal
+125,2014,Australia,Paises Bajos,"1ra Ronda, Grupo B",B,0,Mile Jedinak,,Australia,True,gol_normal
+126,2014,Japón,Colombia,"1ra Ronda, Grupo C",C,0,Juan Guillermo Cuadrado,,Colombia,True,gol_normal
+127,2014,Grecia,Costa de Marfil,"1ra Ronda, Grupo C",C,0,Georgios Samaras,,Grecia,True,gol_normal
+128,2014,Brasil,Chile,Octavos,,1,David Luiz,,Brasil,True,
+129,2014,Brasil,Chile,Octavos,,1,Mauricio Pinilla,,Chile,False,atajado
+130,2014,Brasil,Chile,Octavos,,2,Willian,,Brasil,False,desviado
+131,2014,Brasil,Chile,Octavos,,2,Alexis Sanchez,,Chile,False,atajado
+132,2014,Brasil,Chile,Octavos,,3,Marcelo,,Brasil,True,
+133,2014,Brasil,Chile,Octavos,,3,Charles Aránguiz,,Chile,True,
+134,2014,Brasil,Chile,Octavos,,4,Hulk,,Brasil,False,atajado
+135,2014,Brasil,Chile,Octavos,,4,Marcelo Díaz,,Chile,True,
+136,2014,Brasil,Chile,Octavos,,5,Neymar Jr.,,Brasil,True,
+137,2014,Brasil,Chile,Octavos,,5,Gonzalo Jara,,Chile,False,palo
+138,2014,Paises Bajos,México,Octavos,,0,Klaas Jan Huntelaar,,Paises Bajos,True,gol_normal
+139,2014,Costa Rica,Grecia,Octavos,,1,Celso Borges,,Costa Rica,True,
+140,2014,Costa Rica,Grecia,Octavos,,1,Kostas Mitroglou,,Grecia,True,
+141,2014,Costa Rica,Grecia,Octavos,,2,Bryan Ruiz,,Costa Rica,True,
+142,2014,Costa Rica,Grecia,Octavos,,2,Lazaros Christodoulopoulos,,Grecia,True,
+143,2014,Costa Rica,Grecia,Octavos,,3,Giancarlo Gonzalez,,Costa Rica,True,
+144,2014,Costa Rica,Grecia,Octavos,,3,José Holebas,,Grecia,True,
+145,2014,Costa Rica,Grecia,Octavos,,4,Joel Campbell,,Costa Rica,True,
+146,2014,Costa Rica,Grecia,Octavos,,4,Theofanis Gekas,,Grecia,False,atajado
+147,2014,Costa Rica,Grecia,Octavos,,5,Michael Umaña,,Costa Rica,True,
+148,2014,Costa Rica,Grecia,Octavos,,5,,,Grecia,False,fallado
+149,2014,Brasil,Colombia,Cuartos,,0,James Rodríguez,,Colombia,True,gol_normal
+150,2014,Paises Bajos,Costa Rica,Cuartos,,1,Robin Van Persie,,Costa Rica,True,
+151,2014,Paises Bajos,Costa Rica,Cuartos,,1,Celso Borges,,Paises Bajos,True,
+152,2014,Paises Bajos,Costa Rica,Cuartos,,2,Arjen Robben,,Costa Rica,True,
+153,2014,Paises Bajos,Costa Rica,Cuartos,,2,Bryan Ruiz,,Paises Bajos,False,atajado
+154,2014,Paises Bajos,Costa Rica,Cuartos,,3,Wesley Sneijder,,Costa Rica,True,
+155,2014,Paises Bajos,Costa Rica,Cuartos,,3,Giancarlo Gonzalez,,Paises Bajos,True,
+156,2014,Paises Bajos,Costa Rica,Cuartos,,4,Dirk Kuyt,,Costa Rica,True,
+157,2014,Paises Bajos,Costa Rica,Cuartos,,4,Christian Bolaños,,Paises Bajos,True,
+158,2014,Paises Bajos,Costa Rica,Cuartos,,5,,,Costa Rica,False,fallado
+159,2014,Paises Bajos,Costa Rica,Cuartos,,5,Michael Umaña,,Paises Bajos,False,atajado
+160,2014,Paises Bajos,Argentina,Semis,,1,Ron Vlaar,,Paises Bajos,False,atajado
+161,2014,Paises Bajos,Argentina,Semis,,1,Lionel Messi,,Argentina,True,
+162,2014,Paises Bajos,Argentina,Semis,,2,Arjen Robben,,Paises Bajos,True,
+163,2014,Paises Bajos,Argentina,Semis,,2,Ezequiel Garay,,Argentina,True,
+164,2014,Paises Bajos,Argentina,Semis,,3,Wesley Sneijder,,Paises Bajos,False,atajado
+165,2014,Paises Bajos,Argentina,Semis,,3,Sergio Agüero,,Argentina,True,
+166,2014,Paises Bajos,Argentina,Semis,,4,Dirk Kuyt,,Paises Bajos,True,
+167,2014,Paises Bajos,Argentina,Semis,,4,Maxi Rodriguez,,Argentina,True,
+168,2014,Brasil,Paises Bajos,3er Puesto,,0,Robin Van Persie,,Paises Bajos,True,gol_normal
+169,2010,Serbia,Ghana,"1ra Ronda, Grupo D",D,0,Asamoah Gyan,,Ghana,True,gol_normal
+170,2010,Sudáfrica,Uruguay,"1ra Ronda, Grupo A",A,0,Diego Forlan,,Uruguay,True,gol_normal
+171,2010,Francia,México,"1ra Ronda, Grupo A",A,0,Cuauhtemoc Blanco,,México,True,gol_normal
+172,2010,Ghana,Australia,"1ra Ronda, Grupo D",D,0,Asamoah Gyan,,Ghana,True,gol_normal
+173,2010,Italia,Nueva Zelanda,"1ra Ronda, Grupo F",F,0,Vincenzo Iaquinta,,Italia,True,gol_normal
+174,2010,Nigeria,Corea del Sur,"1ra Ronda, Grupo B",B,0,Yakubu Aiyegbeni,,Nigeria,True,gol_normal
+175,2010,Camerún,Paises Bajos,"1ra Ronda, Grupo E",E,0,Samuel Eto'o,,Camerún,True,gol_normal
+176,2010,Paises Bajos,Eslovaquia,Octavos,,0,Robert Vittek,,Eslovaquia,True,gol_normal
+177,2010,Paraguay,Japón,Octavos,,1,Edgar Barreto,,Paraguay,True,
+178,2010,Paraguay,Japón,Octavos,,1,Yasuhito Endo,,Japón,True,
+179,2010,Paraguay,Japón,Octavos,,2,Lucas Barrios,,Paraguay,True,
+180,2010,Paraguay,Japón,Octavos,,2,Makoto Hasebe,,Japón,True,
+181,2010,Paraguay,Japón,Octavos,,3,Cristian Riveros,,Paraguay,True,
+182,2010,Paraguay,Japón,Octavos,,3,Yuichi Komano,,Japón,False,fallado
+183,2010,Paraguay,Japón,Octavos,,4,Nelson Valdez,,Paraguay,True,
+184,2010,Paraguay,Japón,Octavos,,4,Keisuke Honda,,Japón,True,
+185,2010,Paraguay,Japón,Octavos,,5,Oscar Cardozo,,Paraguay,True,
+186,2010,Paraguay,Japón,Octavos,,5,,,Japón,False,fallado
+187,2010,Uruguay,Ghana,Cuartos,,1,Diego Forlan,,Uruguay,True,
+188,2010,Uruguay,Ghana,Cuartos,,1,Asamoah Gyan,,Ghana,True,
+189,2010,Uruguay,Ghana,Cuartos,,2,Mauricio Victorino,,Uruguay,True,
+190,2010,Uruguay,Ghana,Cuartos,,2,Stephen Appiah,,Ghana,True,
+191,2010,Uruguay,Ghana,Cuartos,,3,Andres Scotti,,Uruguay,True,
+192,2010,Uruguay,Ghana,Cuartos,,3,John Mensah,,Ghana,False,atajado
+193,2010,Uruguay,Ghana,Cuartos,,4,Maximiliano Pereira,,Uruguay,False,desviado
+194,2010,Uruguay,Ghana,Cuartos,,4,Dominic Adiyiah,,Ghana,False,atajado
+195,2010,Uruguay,Ghana,Cuartos,,5,Sebastian Abreu,,Uruguay,True,
+196,2010,Uruguay,Ghana,Cuartos,,5,,,Ghana,False,fallado
+197,2006,España,Ucrania,"1ra Ronda, Grupo H",H,0,David Villa,,España,True,gol_normal
+198,2006,Portugal,Irán,"1ra Ronda, Grupo D",D,0,Cristiano Ronaldo,,Portugal,True,gol_normal
+199,2006,España,Túnez,"1ra Ronda, Grupo H",H,0,Fernando Torres,,España,True,gol_normal
+200,2006,Costa de Marfil,Serbia y Montenegro,"1ra Ronda, Grupo C",C,0,Aruna Dindane,,Costa de Marfil,True,gol_normal
+201,2006,Costa de Marfil,Serbia y Montenegro,"1ra Ronda, Grupo C",C,0,Bonaventure Kalou,,Costa de Marfil,True,gol_normal
+202,2006,Portugal,México,"1ra Ronda, Grupo D",D,0,Simao,,Portugal,True,gol_normal
+203,2006,Ghana,Estados Unidos,"1ra Ronda, Grupo E",E,0,Stephen Appiah,,Ghana,True,gol_normal
+204,2006,Croacia,Australia,"1ra Ronda, Grupo F",F,0,Craig Moore,,Australia,True,gol_normal
+205,2006,Ucrania,Túnez,"1ra Ronda, Grupo H",H,0,Andriy Shevchenko,,Ucrania,True,gol_normal
+206,2006,Italia,Australia,Octavos,,0,Francesco Totti,,Italia,True,gol_normal
+207,2006,Suiza,Ucrania,Octavos,,1,Marco Streller,,Ucrania,False,atajado
+208,2006,Suiza,Ucrania,Octavos,,1,Andriy Shevchenko,,Suiza,False,atajado
+209,2006,Suiza,Ucrania,Octavos,,2,Tranquillo Barnetta,,Ucrania,False,fallado
+210,2006,Suiza,Ucrania,Octavos,,2,Artem Milevskiy,,Suiza,True,
+211,2006,Suiza,Ucrania,Octavos,,3,Ricardo Cabanas,,Ucrania,False,atajado
+212,2006,Suiza,Ucrania,Octavos,,3,Serhiy Rebrov,,Suiza,True,
+213,2006,Suiza,Ucrania,Octavos,,4,,,Ucrania,False,fallado
+214,2006,Suiza,Ucrania,Octavos,,4,Oleg Gusev,,Suiza,True,
+215,2006,España,Francia,Octavos,,0,David Villa,,España,True,gol_normal
+216,2006,Alemania,Argentina,Cuartos,,1,Oliver Neuville,,Alemania,True,
+217,2006,Alemania,Argentina,Cuartos,,1,Julio Cruz,,Argentina,True,
+218,2006,Alemania,Argentina,Cuartos,,2,Michael Ballack,,Alemania,True,
+219,2006,Alemania,Argentina,Cuartos,,2,Roberto Ayala,,Argentina,False,atajado
+220,2006,Alemania,Argentina,Cuartos,,3,Lukas Podolski,,Alemania,True,
+221,2006,Alemania,Argentina,Cuartos,,3,Maxi Rodriguez,,Argentina,True,
+222,2006,Alemania,Argentina,Cuartos,,4,Tim Borowski,,Alemania,True,
+223,2006,Alemania,Argentina,Cuartos,,4,Esteban Cambiasso,,Argentina,False,atajado
+224,2006,Inglaterra,Portugal,Cuartos,,1,Frank Lampard,,Portugal,False,atajado
+225,2006,Inglaterra,Portugal,Cuartos,,1,Simao,,Inglaterra,True,
+226,2006,Inglaterra,Portugal,Cuartos,,2,Owen Hargreaves,,Portugal,True,
+227,2006,Inglaterra,Portugal,Cuartos,,2,Hugo Viana,,Inglaterra,False,palo
+228,2006,Inglaterra,Portugal,Cuartos,,3,Steven Gerrard,,Portugal,False,atajado
+229,2006,Inglaterra,Portugal,Cuartos,,3,Petit,,Inglaterra,False,desviado
+230,2006,Inglaterra,Portugal,Cuartos,,4,Jamie Carragher,,Portugal,False,atajado
+231,2006,Inglaterra,Portugal,Cuartos,,4,Helder Postiga,,Inglaterra,True,
+232,2006,Inglaterra,Portugal,Cuartos,,5,,,Portugal,False,fallado
+233,2006,Inglaterra,Portugal,Cuartos,,5,Cristiano Ronaldo,,Inglaterra,True,
+234,2006,Portugal,Francia,Semis,,0,Zinedine Zidane,,Francia,True,gol_normal
+235,2006,Italia,Francia,Final,,0,Zinedine Zidane,,Francia,True,gol_normal
+236,2006,Italia,Francia,Final,,1,Andrea Pirlo,,Italia,True,
+237,2006,Italia,Francia,Final,,1,Sylvain Wiltord,,Francia,True,
+238,2006,Italia,Francia,Final,,2,Marco Materazzi,,Italia,True,
+239,2006,Italia,Francia,Final,,2,David Trezeguet,,Francia,False,fallado
+240,2006,Italia,Francia,Final,,3,Daniele De Rossi,,Italia,True,
+241,2006,Italia,Francia,Final,,3,Eric Abidal,,Francia,True,
+242,2006,Italia,Francia,Final,,4,Alessandro Del Piero,,Italia,True,
+243,2006,Italia,Francia,Final,,4,Willy Sagnol,,Francia,True,
+244,2006,Italia,Francia,Final,,5,Fabio Grosso,,Italia,True,
+245,2006,Italia,Francia,Final,,5,,,Francia,False,fallado
+246,2002,Paraguay,Sudáfrica,"1ra Ronda, Grupo B",B,0,Quinton Fortune,,Sudáfrica,True,gol_normal
+247,2002,España,Eslovenia,"1ra Ronda, Grupo B",B,0,Fernando Hierro,,España,True,gol_normal
+248,2002,Croacia,México,"1ra Ronda, Grupo G",G,0,Cuauhtemoc Blanco,,México,True,gol_normal
+249,2002,Brasil,Turquía,"1ra Ronda, Grupo C",C,0,Rivaldo,,Brasil,True,gol_normal
+250,2002,Rusia,Túnez,"1ra Ronda, Grupo H",H,0,Valeri Karpin,,Rusia,True,gol_normal
+251,2002,Dinamarca,Senegal,"1ra Ronda, Grupo A",A,0,Jon Dahl Tomasson,,Dinamarca,True,gol_normal
+252,2002,Suecia,Nigeria,"1ra Ronda, Grupo F",F,0,Henrik Larsson,,Suecia,True,gol_normal
+253,2002,España,Paraguay,"1ra Ronda, Grupo B",B,0,Fernando Hierro,,España,True,gol_normal
+254,2002,Argentina,Inglaterra,"1ra Ronda, Grupo F",F,0,David Beckham,,Inglaterra,True,gol_normal
+255,2002,Brasil,China,"1ra Ronda, Grupo C",C,0,Ronaldinho,,Brasil,True,gol_normal
+256,2002,Senegal,Uruguay,"1ra Ronda, Grupo A",A,0,Khalilou Fadiga,,Senegal,True,gol_normal
+257,2002,Senegal,Uruguay,"1ra Ronda, Grupo A",A,0,Alvaro Recoba,,Uruguay,True,gol_normal
+258,2002,España,Irlanda,Octavos,,0,Robbie Keane,,Irlanda,True,gol_normal
+259,2002,España,Irlanda,Octavos,,1,Fernando Hierro,,Irlanda,True,
+260,2002,España,Irlanda,Octavos,,1,Robbie Keane,,España,True,
+261,2002,España,Irlanda,Octavos,,2,Ruben Baraja,,Irlanda,True,
+262,2002,España,Irlanda,Octavos,,2,Matt Holland,,España,False,fallado
+263,2002,España,Irlanda,Octavos,,3,Juanfran,,Irlanda,False,desviado
+264,2002,España,Irlanda,Octavos,,3,David Connolly,,España,False,atajado
+265,2002,España,Irlanda,Octavos,,4,Juan Carlos Valeron,,Irlanda,False,palo
+266,2002,España,Irlanda,Octavos,,4,Kevin Kilbane,,España,False,atajado
+267,2002,España,Irlanda,Octavos,,5,Gaizka Mendieta,,Irlanda,True,
+268,2002,España,Irlanda,Octavos,,5,Steve Finnan,,España,True,
+269,2002,España,Corea del Sur,Cuartos,,1,Fernando Hierro,,Corea del Sur,True,
+270,2002,España,Corea del Sur,Cuartos,,1,Sun Hong Hwang,,España,True,
+271,2002,España,Corea del Sur,Cuartos,,2,Ruben Baraja,,Corea del Sur,True,
+272,2002,España,Corea del Sur,Cuartos,,2,Ji Sung Park,,España,True,
+273,2002,España,Corea del Sur,Cuartos,,3,Xavi,,Corea del Sur,True,
+274,2002,España,Corea del Sur,Cuartos,,3,Ki Hyeon Seol,,España,True,
+275,2002,España,Corea del Sur,Cuartos,,4,Joaquin,,Corea del Sur,False,atajado
+276,2002,España,Corea del Sur,Cuartos,,4,Jung Hwan Ahn,,España,True,
+277,2002,España,Corea del Sur,Cuartos,,5,,,Corea del Sur,False,fallado
+278,2002,España,Corea del Sur,Cuartos,,5,Myung Bo Hong,,España,True,
+279,1998,Brasil,Escocia,"1ra Ronda, Grupo A",A,0,John Collins,,Escocia,True,gol_normal
+280,1998,Italia,Chile,"1ra Ronda, Grupo B",B,0,Roberto Baggio,,Italia,True,gol_normal
+281,1998,Bélgica,México,"1ra Ronda, Grupo E",E,0,Alberto Garcia Aspe,,México,True,gol_normal
+282,1998,Argentina,Jamaica,"1ra Ronda, Grupo H",H,0,Gabriel Batistuta,,Argentina,True,gol_normal
+283,1998,Italia,Austria,"1ra Ronda, Grupo B",B,0,Andreas Herzog,,Austria,True,gol_normal
+284,1998,Brasil,Noruega,"1ra Ronda, Grupo A",A,0,Kjetil Rekdal,,Noruega,True,gol_normal
+285,1998,España,Bulgaria,"1ra Ronda, Grupo D",D,0,Fernando Hierro,,España,True,gol_normal
+286,1998,Francia,Dinamarca,"1ra Ronda, Grupo C",C,0,Youri Djorkaeff,,Francia,True,gol_normal
+287,1998,Francia,Dinamarca,"1ra Ronda, Grupo C",C,0,Michael Laudrup,,Dinamarca,True,gol_normal
+288,1998,Sudáfrica,Arabia Saudita,"1ra Ronda, Grupo C",C,0,Sami Al Jaber,,Arabia Saudita,True,gol_normal
+289,1998,Sudáfrica,Arabia Saudita,"1ra Ronda, Grupo C",C,0,Youssef Al Tunayan,,Arabia Saudita,True,gol_normal
+290,1998,Sudáfrica,Arabia Saudita,"1ra Ronda, Grupo C",C,0,Shaun Bartlett,,Sudáfrica,True,gol_normal
+291,1998,Rumania,Túnez,"1ra Ronda, Grupo G",G,0,Skander Souayah,,Túnez,True,gol_normal
+292,1998,Brasil,Chile,Octavos,,0,Ronaldo,,Brasil,True,gol_normal
+293,1998,Argentina,Inglaterra,Octavos,,0,Gabriel Batistuta,,Argentina,True,gol_normal
+294,1998,Argentina,Inglaterra,Octavos,,0,Alan Shearer,,Inglaterra,True,gol_normal
+295,1998,Argentina,Inglaterra,Octavos,,1,Sergio Berti,,Argentina,True,
+296,1998,Argentina,Inglaterra,Octavos,,1,Alan Shearer,,Inglaterra,True,
+297,1998,Argentina,Inglaterra,Octavos,,2,Hernan Crespo,,Argentina,False,atajado
+298,1998,Argentina,Inglaterra,Octavos,,2,Paul Ince,,Inglaterra,False,atajado
+299,1998,Argentina,Inglaterra,Octavos,,3,Juan Veron,,Argentina,True,
+300,1998,Argentina,Inglaterra,Octavos,,3,Paul Merson,,Inglaterra,True,
+301,1998,Argentina,Inglaterra,Octavos,,4,Marcelo Gallardo,,Argentina,True,
+302,1998,Argentina,Inglaterra,Octavos,,4,Michael Owen,,Inglaterra,True,
+303,1998,Argentina,Inglaterra,Octavos,,5,Roberto Ayala,,Argentina,True,
+304,1998,Argentina,Inglaterra,Octavos,,5,David Batty,,Inglaterra,False,atajado
+305,1998,Rumania,Croacia,Octavos,,0,Davor Suker,,Croacia,True,gol_normal
+306,1998,Italia,Francia,Cuartos,,1,Roberto Baggio,,Francia,True,
+307,1998,Italia,Francia,Cuartos,,1,Zinedine Zidane,,Italia,True,
+308,1998,Italia,Francia,Cuartos,,2,Demetrio Albertini,,Francia,False,atajado
+309,1998,Italia,Francia,Cuartos,,2,Bixente Lizarazu,,Italia,False,atajado
+310,1998,Italia,Francia,Cuartos,,3,Alessandro Costacurta,,Francia,True,
+311,1998,Italia,Francia,Cuartos,,3,David Trezeguet,,Italia,True,
+312,1998,Italia,Francia,Cuartos,,4,Christian Vieri,,Francia,True,
+313,1998,Italia,Francia,Cuartos,,4,Thierry Henry,,Italia,True,
+314,1998,Italia,Francia,Cuartos,,5,Luigi Di Biagio,,Francia,False,fallado
+315,1998,Italia,Francia,Cuartos,,5,Laurent Blanc,,Italia,True,
+316,1998,Brasil,Paises Bajos,Semis,,1,Ronaldo,,Brasil,True,
+317,1998,Brasil,Paises Bajos,Semis,,1,Frank De Boer,,Paises Bajos,True,
+318,1998,Brasil,Paises Bajos,Semis,,2,Rivaldo,,Brasil,True,
+319,1998,Brasil,Paises Bajos,Semis,,2,Dennis Bergkamp,,Paises Bajos,True,
+320,1998,Brasil,Paises Bajos,Semis,,3,Emerson,,Brasil,True,
+321,1998,Brasil,Paises Bajos,Semis,,3,Phillip Cocu,,Paises Bajos,False,atajado
+322,1998,Brasil,Paises Bajos,Semis,,4,Dunga,,Brasil,True,
+323,1998,Brasil,Paises Bajos,Semis,,4,Ronald De Boer,,Paises Bajos,False,atajado
+324,1994,Brasil,Rusia,"1ra Ronda, Grupo B",B,0,Rai,,Brasil,True,gol_normal
+325,1994,Argentina,Grecia,"1ra Ronda, Grupo D",D,0,Gabriel Batistuta,,Argentina,True,gol_normal
+326,1994,Suecia,Rusia,"1ra Ronda, Grupo B",B,0,Oleg Salenko,,Rusia,True,gol_normal
+327,1994,Suecia,Rusia,"1ra Ronda, Grupo B",B,0,Tomas Brolin,,Suecia,True,gol_normal
+328,1994,Arabia Saudita,Marruecos,"1ra Ronda, Grupo F",F,0,Sami Al Jaber,,Arabia Saudita,True,gol_normal
+329,1994,Bulgaria,Grecia,"1ra Ronda, Grupo D",D,0,Hristo Stoichkov,,Bulgaria,True,gol_normal
+330,1994,Bulgaria,Grecia,"1ra Ronda, Grupo D",D,0,Hristo Stoichkov,,Bulgaria,True,gol_normal
+331,1994,Bolivia,España,"1ra Ronda, Grupo C",C,0,Pep Guardiola,,España,True,gol_normal
+332,1994,Rusia,Camerún,"1ra Ronda, Grupo B",B,0,Oleg Salenko,,Rusia,True,gol_normal
+333,1994,España,Suiza,Octavos,,0,Txiki Beguiristain,,España,True,gol_normal
+334,1994,Rumania,Argentina,Octavos,,0,Gabriel Batistuta,,Argentina,True,gol_normal
+335,1994,Nigeria,Italia,Octavos,,0,Roberto Baggio,,Italia,True,gol_normal
+336,1994,México,Bulgaria,Octavos,,0,Alberto Garcia Aspe,,México,True,gol_normal
+337,1994,México,Bulgaria,Octavos,,1,Alberto Garcia Aspe,,México,False,desviado
+338,1994,México,Bulgaria,Octavos,,1,Krassimir Balakov,,Bulgaria,False,atajado
+339,1994,México,Bulgaria,Octavos,,2,Marcelino Bernal,,México,False,atajado
+340,1994,México,Bulgaria,Octavos,,2,Boncho Genchev,,Bulgaria,True,
+341,1994,México,Bulgaria,Octavos,,3,Jorge Rodriguez,,México,False,atajado
+342,1994,México,Bulgaria,Octavos,,3,Daniel Borimirov,,Bulgaria,True,
+343,1994,México,Bulgaria,Octavos,,4,Claudio Suarez,,México,True,
+344,1994,México,Bulgaria,Octavos,,4,Iordan Letchkov,,Bulgaria,True,
+345,1994,Bulgaria,Alemania,Cuartos,,0,Lothar Matthaeus,,Alemania,True,gol_normal
+346,1994,Rumania,Suecia,Cuartos,,1,Florin Raducioiu,,Suecia,True,
+347,1994,Rumania,Suecia,Cuartos,,1,Hakan Mild,,Rumania,False,desviado
+348,1994,Rumania,Suecia,Cuartos,,2,Gheorghe Hagi,,Suecia,True,
+349,1994,Rumania,Suecia,Cuartos,,2,Kennet Andersson,,Rumania,True,
+350,1994,Rumania,Suecia,Cuartos,,3,Ioan Lupescu,,Suecia,True,
+351,1994,Rumania,Suecia,Cuartos,,3,Tomas Brolin,,Rumania,True,
+352,1994,Rumania,Suecia,Cuartos,,4,Dan Petrescu,,Suecia,False,atajado
+353,1994,Rumania,Suecia,Cuartos,,4,Klas Ingesson,,Rumania,True,
+354,1994,Rumania,Suecia,Cuartos,,5,Ilie Dumitrescu,,Suecia,True,
+355,1994,Rumania,Suecia,Cuartos,,5,Roland Nilsson,,Rumania,True,
+356,1994,Rumania,Suecia,Cuartos,,6,Miodrag Belodedici,,Suecia,False,atajado
+357,1994,Rumania,Suecia,Cuartos,,6,Henrik Larsson,,Rumania,True,
+358,1994,Bulgaria,Italia,Semis,,0,Hristo Stoichkov,,Bulgaria,True,gol_normal
+359,1994,Brasil,Italia,Final,,1,Marcio Santos,,Italia,False,atajado
+360,1994,Brasil,Italia,Final,,1,Franco Baresi,,Brasil,False,desviado
+361,1994,Brasil,Italia,Final,,2,Romario,,Italia,True,
+362,1994,Brasil,Italia,Final,,2,Demetrio Albertini,,Brasil,True,
+363,1994,Brasil,Italia,Final,,3,Branco,,Italia,True,
+364,1994,Brasil,Italia,Final,,3,Alberigo Evani,,Brasil,True,
+365,1994,Brasil,Italia,Final,,4,Dunga,,Italia,True,
+366,1994,Brasil,Italia,Final,,4,Daniele Massaro,,Brasil,False,atajado
+367,1994,Brasil,Italia,Final,,5,,,Italia,False,fallado
+368,1994,Brasil,Italia,Final,,5,Roberto Baggio,,Brasil,False,desviado
+369,1990,URSS,Rumania,"1ra Ronda, Grupo B",B,0,Marius Lacatus,,Rumania,True,gol_normal
+370,1990,Estados Unidos,Checoslovaquia,"1ra Ronda, Grupo A",A,0,Michal Bilek,,Checoslovaquia,True,gol_normal
+371,1990,Paises Bajos,Egipto,"1ra Ronda, Grupo F",F,0,Magdy Abedelghani,,Egipto,True,gol_normal
+372,1990,Austria,Checoslovaquia,"1ra Ronda, Grupo A",A,0,Michal Bilek,,Checoslovaquia,True,gol_normal
+373,1990,Suecia,Escocia,"1ra Ronda, Grupo C",C,0,Mo Johnston,,Escocia,True,gol_normal
+374,1990,Bélgica,España,"1ra Ronda, Grupo E",E,0,Michel,,España,True,gol_normal
+375,1990,Alemania Occidental,Paises Bajos,Octavos,,0,Ronald Koeman,,Paises Bajos,True,gol_normal
+376,1990,Irlanda,Rumania,Octavos,,1,Kevin Sheedy,,Rumania,True,
+377,1990,Irlanda,Rumania,Octavos,,1,Gheorghe Hagi,,Irlanda,True,
+378,1990,Irlanda,Rumania,Octavos,,2,Ray Houghton,,Rumania,True,
+379,1990,Irlanda,Rumania,Octavos,,2,Danut Lupu,,Irlanda,True,
+380,1990,Irlanda,Rumania,Octavos,,3,Andy Townsend,,Rumania,True,
+381,1990,Irlanda,Rumania,Octavos,,3,Iosif Rotariu,,Irlanda,True,
+382,1990,Irlanda,Rumania,Octavos,,4,Tony Cascarino,,Rumania,True,
+383,1990,Irlanda,Rumania,Octavos,,4,Ioan Lupescu,,Irlanda,True,
+384,1990,Irlanda,Rumania,Octavos,,5,David O'Leary,,Rumania,True,
+385,1990,Irlanda,Rumania,Octavos,,5,Daniel Timofte,,Irlanda,False,atajado
+386,1990,Argentina,Yugoslavia,Cuartos,,1,Jose Serrizuela,,Argentina,True,
+387,1990,Argentina,Yugoslavia,Cuartos,,1,Dragan Stojkovic,,Yugoslavia,False,fallado
+388,1990,Argentina,Yugoslavia,Cuartos,,2,Jorge Burruchaga,,Argentina,True,
+389,1990,Argentina,Yugoslavia,Cuartos,,2,Robert Prosinecki,,Yugoslavia,True,
+390,1990,Argentina,Yugoslavia,Cuartos,,3,Diego Maradona,,Argentina,False,atajado
+391,1990,Argentina,Yugoslavia,Cuartos,,3,Dejan Savicevic,,Yugoslavia,True,
+392,1990,Argentina,Yugoslavia,Cuartos,,4,Pedro Troglio,,Argentina,False,palo
+393,1990,Argentina,Yugoslavia,Cuartos,,4,Dragoljub Brnovic,,Yugoslavia,False,atajado
+394,1990,Argentina,Yugoslavia,Cuartos,,5,Gustavo Dezotti,,Argentina,True,
+395,1990,Argentina,Yugoslavia,Cuartos,,5,Faruk Hadzibegic,,Yugoslavia,False,atajado
+396,1990,Alemania Occidental,Checoslovaquia,Cuartos,,0,Lothar Matthaeus,,Alemania Occidental,True,gol_normal
+397,1990,Camerún,Inglaterra,Cuartos,,0,Emmanuel Kunde,,Camerún,True,gol_normal
+398,1990,Camerún,Inglaterra,Cuartos,,0,Gary Lineker,,Inglaterra,True,gol_normal
+399,1990,Camerún,Inglaterra,Cuartos,,0,Gary Lineker,,Inglaterra,True,gol_normal
+400,1990,Italia,Argentina,Semis,,1,Franco Baresi,,Italia,True,
+401,1990,Italia,Argentina,Semis,,1,Jose Serrizuela,,Argentina,True,
+402,1990,Italia,Argentina,Semis,,2,Roberto Baggio,,Italia,True,
+403,1990,Italia,Argentina,Semis,,2,Jorge Burruchaga,,Argentina,True,
+404,1990,Italia,Argentina,Semis,,3,Luigi De Agostini,,Italia,True,
+405,1990,Italia,Argentina,Semis,,3,Julio Olarticoechea,,Argentina,True,
+406,1990,Italia,Argentina,Semis,,4,Roberto Donadoni,,Italia,False,atajado
+407,1990,Italia,Argentina,Semis,,4,Diego Maradona,,Argentina,True,
+408,1990,Italia,Argentina,Semis,,5,Aldo Serena,,Italia,False,atajado
+409,1990,Italia,Argentina,Semis,,5,,,Argentina,False,fallado
+410,1990,Inglaterra,Alemania Occidental,Semis,,1,Gary Lineker,,Inglaterra,True,
+411,1990,Inglaterra,Alemania Occidental,Semis,,1,Andreas Brehme,,Alemania Occidental,True,
+412,1990,Inglaterra,Alemania Occidental,Semis,,2,Peter Beardsley,,Inglaterra,True,
+413,1990,Inglaterra,Alemania Occidental,Semis,,2,Lothar Matthaeus,,Alemania Occidental,True,
+414,1990,Inglaterra,Alemania Occidental,Semis,,3,David Platt,,Inglaterra,True,
+415,1990,Inglaterra,Alemania Occidental,Semis,,3,Karlheinz Riedle,,Alemania Occidental,True,
+416,1990,Inglaterra,Alemania Occidental,Semis,,4,Stuart Pearce,,Inglaterra,False,atajado
+417,1990,Inglaterra,Alemania Occidental,Semis,,4,Olaf Thon,,Alemania Occidental,True,
+418,1990,Inglaterra,Alemania Occidental,Semis,,5,Chris Waddle,,Inglaterra,False,desviado
+419,1990,Inglaterra,Alemania Occidental,Semis,,5,,,Alemania Occidental,False,fallado
+420,1990,Italia,Inglaterra,3er Puesto,,0,Salvatore Schillaci,,Italia,True,gol_normal
+421,1990,Argentina,Alemania Occidental,Final,,0,Andreas Brehme,,Alemania Occidental,True,gol_normal
+422,1986,URSS,Hungría,"1ra Ronda, Grupo C",C,0,Igor Belanov,,URSS,True,gol_normal
+423,1986,Italia,Argentina,"1ra Ronda, Grupo A",A,0,Alessandro Altobelli,,Italia,True,gol_normal
+424,1986,Iraq,Bélgica,"1ra Ronda, Grupo B",B,0,Nico Claesen,,Bélgica,True,gol_normal
+425,1986,Dinamarca,Uruguay,"1ra Ronda, Grupo E",E,0,Enzo Francescoli,,Uruguay,True,gol_normal
+426,1986,Dinamarca,Alemania Occidental,"1ra Ronda, Grupo E",E,0,Jesper Olsen,,Dinamarca,True,gol_normal
+427,1986,URSS,Bélgica,Octavos,,0,Igor Belanov,,URSS,True,gol_normal
+428,1986,Brasil,Polonia,Octavos,,0,Socrates,,Brasil,True,gol_normal
+429,1986,Brasil,Polonia,Octavos,,0,Careca,,Brasil,True,gol_normal
+430,1986,Dinamarca,España,Octavos,,0,Jesper Olsen,,Dinamarca,True,gol_normal
+431,1986,Dinamarca,España,Octavos,,0,Goikoetxea,,España,True,gol_normal
+432,1986,Dinamarca,España,Octavos,,0,Emilio Butragueño,,España,True,gol_normal
+433,1986,México,Alemania Occidental,Cuartos,,1,Manuel Negrete,,Alemania Occidental,True,
+434,1986,México,Alemania Occidental,Cuartos,,1,Klaus Allofs,,México,True,
+435,1986,México,Alemania Occidental,Cuartos,,2,Fernando Quirarte,,Alemania Occidental,False,atajado
+436,1986,México,Alemania Occidental,Cuartos,,2,Andreas Brehme,,México,True,
+437,1986,México,Alemania Occidental,Cuartos,,3,Raul Servin,,Alemania Occidental,False,atajado
+438,1986,México,Alemania Occidental,Cuartos,,3,Lothar Matthaeus,,México,True,
+439,1986,México,Alemania Occidental,Cuartos,,4,,,Alemania Occidental,False,fallado
+440,1986,México,Alemania Occidental,Cuartos,,4,Pierre Littbarski,,México,True,
+441,1986,Brasil,Francia,Cuartos,,1,Socrates,,Brasil,False,atajado
+442,1986,Brasil,Francia,Cuartos,,1,Yannick Stopyra,,Francia,True,
+443,1986,Brasil,Francia,Cuartos,,2,Alemao,,Brasil,True,
+444,1986,Brasil,Francia,Cuartos,,2,Manuel Amoros,,Francia,True,
+445,1986,Brasil,Francia,Cuartos,,3,Zico,,Brasil,True,
+446,1986,Brasil,Francia,Cuartos,,3,Bruno Bellone,,Francia,True,
+447,1986,Brasil,Francia,Cuartos,,4,Branco,,Brasil,True,
+448,1986,Brasil,Francia,Cuartos,,4,Michel Platini,,Francia,False,desviado
+449,1986,Brasil,Francia,Cuartos,,5,Julio Cesar,,Brasil,False,palo
+450,1986,Brasil,Francia,Cuartos,,5,Luis Fernandez,,Francia,True,
+451,1986,Bélgica,España,Cuartos,,1,Nico Claesen,,España,True,
+452,1986,Bélgica,España,Cuartos,,1,Juan Antonio Senor,,Bélgica,True,
+453,1986,Bélgica,España,Cuartos,,2,Enzo Scifo,,España,True,
+454,1986,Bélgica,España,Cuartos,,2,Eloy,,Bélgica,False,atajado
+455,1986,Bélgica,España,Cuartos,,3,Hugo Broos,,España,True,
+456,1986,Bélgica,España,Cuartos,,3,Chendo,,Bélgica,True,
+457,1986,Bélgica,España,Cuartos,,4,Patrick Vervoort,,España,True,
+458,1986,Bélgica,España,Cuartos,,4,Emilio Butragueño,,Bélgica,True,
+459,1986,Bélgica,España,Cuartos,,5,Leo Van Der Elst,,España,True,
+460,1986,Bélgica,España,Cuartos,,5,Victor,,Bélgica,True,
+461,1986,Bélgica,Francia,3er Puesto,,0,Manuel Amoros,,Francia,True,gol_normal
+462,1982,España,Honduras,"1ra Ronda, Grupo E",E,0,Lopez Ufarte,,España,True,gol_normal
+463,1982,Checoslovaquia,Kuwait,"1ra Ronda, Grupo D",D,0,Antonin Panenka,,Checoslovaquia,True,gol_normal
+464,1982,España,Yugoslavia,"1ra Ronda, Grupo E",E,0,Juanito,,España,True,gol_normal
+465,1982,Argentina,El Salvador,"1ra Ronda, Grupo C",C,0,Daniel Passarella,,Argentina,True,gol_normal
+466,1982,Honduras,Yugoslavia,"1ra Ronda, Grupo E",E,0,Vladimir Petrovic,,Yugoslavia,True,gol_normal
+467,1982,Francia,Checoslovaquia,"1ra Ronda, Grupo D",D,0,Antonin Panenka,,Checoslovaquia,True,gol_normal
+468,1982,Argelia,Chile,"1ra Ronda, Grupo B",B,0,Miguel Neira,,Chile,True,gol_normal
+469,1982,Alemania Occidental,Francia,Semis,,0,Michel Platini,,Francia,True,gol_normal
+470,1982,Alemania Occidental,Francia,Semis,,1,Manfred Kaltz,,Francia,True,
+471,1982,Alemania Occidental,Francia,Semis,,1,Alain Giresse,,Alemania Occidental,True,
+472,1982,Alemania Occidental,Francia,Semis,,2,Paul Breitner,,Francia,True,
+473,1982,Alemania Occidental,Francia,Semis,,2,Manuel Amoros,,Alemania Occidental,True,
+474,1982,Alemania Occidental,Francia,Semis,,3,Uli Stielike,,Francia,False,atajado
+475,1982,Alemania Occidental,Francia,Semis,,3,Dominique Rocheteau,,Alemania Occidental,True,
+476,1982,Alemania Occidental,Francia,Semis,,4,Pierre Littbarski,,Francia,True,
+477,1982,Alemania Occidental,Francia,Semis,,4,Didier Six,,Alemania Occidental,False,atajado
+478,1982,Alemania Occidental,Francia,Semis,,5,Karl-Heinz Rummenigge,,Francia,True,
+479,1982,Alemania Occidental,Francia,Semis,,5,Michel Platini,,Alemania Occidental,True,
+480,1982,Alemania Occidental,Francia,Semis,,6,Horst Hrubesch,,Francia,True,
+481,1982,Alemania Occidental,Francia,Semis,,6,Maxime Bossis,,Alemania Occidental,False,atajado
+482,1978,Túnez,México,"1ra Ronda, Grupo 2",2,0,Arturo Vasquez,,México,True,gol_normal
+483,1978,Paises Bajos,Irán,"1ra Ronda, Grupo 4",4,0,Rob Rensenbrink,,Paises Bajos,True,gol_normal
+484,1978,Paises Bajos,Irán,"1ra Ronda, Grupo 4",4,0,Rob Rensenbrink,,Paises Bajos,True,gol_normal
+485,1978,Argentina,Francia,"1ra Ronda, Grupo 1",1,0,Daniel Passarella,,Argentina,True,gol_normal
+486,1978,Italia,Hungría,"1ra Ronda, Grupo 1",1,0,Andras Toth,,Hungría,True,gol_normal
+487,1978,Austria,Suecia,"1ra Ronda, Grupo 3",3,0,Hans Krankl,,Austria,True,gol_normal
+488,1978,Perú,Irán,"1ra Ronda, Grupo 4",4,0,Teofilo Cubillas,,Perú,True,gol_normal
+489,1978,Perú,Irán,"1ra Ronda, Grupo 4",4,0,Teofilo Cubillas,,Perú,True,gol_normal
+490,1978,Escocia,Paises Bajos,"1ra Ronda, Grupo 4",4,0,Rob Rensenbrink,,Paises Bajos,True,gol_normal
+491,1978,Escocia,Paises Bajos,"1ra Ronda, Grupo 4",4,0,Archie Gemmill,,Escocia,True,gol_normal
+492,1978,Paises Bajos,Austria,"2da Ronda, Grupo A",A,0,Rob Rensenbrink,,Paises Bajos,True,gol_normal
+493,1978,Brasil,Perú,"2da Ronda, Grupo B",B,0,Zico,,Brasil,True,gol_normal
+494,1974,Bulgaria,Paises Bajos,"1ra Ronda, Grupo 3",3,0,Johan Neeskens,,Paises Bajos,True,gol_normal
+495,1974,Bulgaria,Paises Bajos,"1ra Ronda, Grupo 3",3,0,Johan Neeskens,,Paises Bajos,True,gol_normal
+496,1974,Polonia,Yugoslavia,"2da Ronda, Grupo B",B,0,Kazimierz Deyna,,Polonia,True,gol_normal
+497,1974,Alemania Occidental,Suecia,"2da Ronda, Grupo B",B,0,Uli Hoeness,,Alemania Occidental,True,gol_normal
+498,1974,Paises Bajos,Alemania Occidental,Final,,0,Johan Neeskens,,Paises Bajos,True,gol_normal
+499,1974,Paises Bajos,Alemania Occidental,Final,,0,Paul Breitner,,Alemania Occidental,True,gol_normal
+500,1970,Bélgica,El Salvador,"1ra Ronda, Grupo 1",1,0,Raoul Lambert,,Bélgica,True,gol_normal
+501,1970,Rumania,Checoslovaquia,"1ra Ronda, Grupo 3",3,0,Florea Dumitrache,,Rumania,True,gol_normal
+502,1970,Alemania Occidental,Bulgaria,"1ra Ronda, Grupo 4",4,0,Gerd Mueller,,Alemania Occidental,True,gol_normal
+503,1970,Inglaterra,Checoslovaquia,"1ra Ronda, Grupo 3",3,0,Allan Clarke,,Inglaterra,True,gol_normal
+504,1970,México,Bélgica,"1ra Ronda, Grupo 1",1,0,Gustavo Pena,,México,True,gol_normal
+505,1966,Alemania Occidental,Suiza,"1ra Ronda, Grupo 2",2,0,Helmut Haller,,Alemania Occidental,True,gol_normal
+506,1966,Uruguay,Francia,"1ra Ronda, Grupo 1",1,0,Hector De Bourgoing,,Francia,True,gol_normal
+507,1966,Hungría,Brasil,"1ra Ronda, Grupo 3",3,0,Kalman Meszoly,,Hungría,True,gol_normal
+508,1966,Corea del Norte,Chile,"1ra Ronda, Grupo 4",4,0,Ruben Marcos,,Chile,True,gol_normal
+509,1966,Portugal,Corea del Norte,Cuartos,,0,Eusebio,,Portugal,True,gol_normal
+510,1966,Portugal,Corea del Norte,Cuartos,,0,Eusebio,,Portugal,True,gol_normal
+511,1966,Inglaterra,Portugal,Semis,,0,Eusebio,,Portugal,True,gol_normal
+512,1966,Portugal,URSS,3er Puesto,,0,Eusebio,,Portugal,True,gol_normal
+513,1962,Uruguay,Colombia,"1ra Ronda, Grupo 1",1,0,Francisco Zuluaga,,Colombia,True,gol_normal
+514,1962,Hungría,Inglaterra,"1ra Ronda, Grupo 4",4,0,Ron Flowers,,Inglaterra,True,gol_normal
+515,1962,Yugoslavia,Uruguay,"1ra Ronda, Grupo 1",1,0,Josip Skoblar,,Yugoslavia,True,gol_normal
+516,1962,Inglaterra,Argentina,"1ra Ronda, Grupo 4",4,0,Ron Flowers,,Inglaterra,True,gol_normal
+517,1962,Alemania Occidental,Chile,"1ra Ronda, Grupo 2",2,0,Horst Szymaniak,,Alemania Occidental,True,gol_normal
+518,1962,México,Checoslovaquia,"1ra Ronda, Grupo 3",3,0,Hector Hernandez,,México,True,gol_normal
+519,1962,Yugoslavia,Checoslovaquia,Semis,,0,Adolf Scherer,,Checoslovaquia,True,gol_normal
+520,1962,Chile,Brasil,Semis,,0,Leonel Sanchez,,Chile,True,gol_normal
+521,1958,Francia,Paraguay,"1ra Ronda, Grupo 2",2,0,Florencio Amarilla,,Paraguay,True,gol_normal
+522,1958,URSS,Inglaterra,"1ra Ronda, Grupo 4",4,0,Tom Finney,,Inglaterra,True,gol_normal
+523,1958,Suecia,México,"1ra Ronda, Grupo 3",3,0,Nils Liedholm,,Suecia,True,gol_normal
+524,1958,Alemania Occidental,Checoslovaquia,"1ra Ronda, Grupo 1",1,0,Milan Dvorak,,Checoslovaquia,True,gol_normal
+525,1958,Argentina,Irlanda del Norte,"1ra Ronda, Grupo 1",1,0,Omar Oreste Corbatta,,Argentina,True,gol_normal
+526,1958,Checoslovaquia,Argentina,"1ra Ronda, Grupo 1",1,0,Omar Oreste Corbatta,,Argentina,True,gol_normal
+527,1958,Alemania Occidental,Francia,3er Puesto,,0,Raymond Kopa,,Francia,True,gol_normal
+528,1954,Francia,México,"1ra Ronda, Grupo 1",1,0,Raymond Kopa,,Francia,True,gol_normal
+529,1954,Italia,Bélgica,"1ra Ronda, Grupo 4",4,0,Egisto Pandolfini,,Italia,True,gol_normal
+530,1954,Hungría,Brasil,Cuartos,,0,Djalma Santos,,Brasil,True,gol_normal
+531,1954,Hungría,Brasil,Cuartos,,0,Mihaly Lantos,,Hungría,True,gol_normal
+532,1954,Alemania Occidental,Austria,Semis,,0,Fritz Walter,,Alemania Occidental,True,gol_normal
+533,1954,Alemania Occidental,Austria,Semis,,0,Fritz Walter,,Alemania Occidental,True,gol_normal
+534,1954,Uruguay,Austria,3er Puesto,,0,Ernst Stojaspal,,Austria,True,gol_normal
+535,1950,Yugoslavia,México,"1ra Ronda, Grupo 1",1,0,Hector Ortiz,,México,True,gol_normal
+536,1950,Chile,Estados Unidos,"1ra Ronda, Grupo 2",2,0,Joe Maca,,Estados Unidos,True,gol_normal
+537,1950,Brasil,Suecia,Ronda Final,,0,Sune Andersson,,Suecia,True,gol_normal
+538,1938,Brasil,Polonia,Octavos,,0,Fryedryk Szerfke,,Polonia,True,gol_normal
+539,1938,Brasil,Checoslovaquia,Cuartos,,0,Oldrich Nejedly,,Checoslovaquia,True,gol_normal
+540,1938,Brasil,Italia,Semis,,0,Giuseppe Meazza,,Italia,True,gol_normal
+541,1934,España,Brasil,Octavos,,0,Iraragorri,,España,True,gol_normal
+542,1934,Austria,Francia,Octavos,,0,Georges Verriest,,Francia,True,gol_normal
+543,1934,Austria,Hungría,Cuartos,,0,Gyorgy Sarosi,,Hungría,True,gol_normal
+544,1930,Argentina,México,"1ra Ronda, Grupo 1",1,0,Manuel Rosas,,México,True,gol_normal

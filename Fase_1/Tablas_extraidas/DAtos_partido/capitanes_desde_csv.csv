@@ -1,0 +1,1929 @@
+﻿id,mundial,pais1,pais2,tipo_ronda,grupo,equipo,jugador,referencia
+1,2022,Catar,Ecuador,"1ra Ronda, Grupo A",A,Catar,Hassan Al-Haydos,hassan_al_haidos.php
+2,2022,Catar,Ecuador,"1ra Ronda, Grupo A",A,Ecuador,Enner Valencia,enner_valencia.php
+3,2022,Inglaterra,Irán,"1ra Ronda, Grupo B",B,Inglaterra,Harry Kane,harry_kane.php
+4,2022,Inglaterra,Irán,"1ra Ronda, Grupo B",B,Irán,Ehsan Hajsafi,ehsan_hajsafi.php
+5,2022,Senegal,Paises Bajos,"1ra Ronda, Grupo A",A,Senegal,Kalidou Koulibaly,kalidou_koulibaly.php
+6,2022,Senegal,Paises Bajos,"1ra Ronda, Grupo A",A,Paises Bajos,Virgil Van Dijk,virgil_van_dijk.php
+7,2022,Estados Unidos,Gales,"1ra Ronda, Grupo B",B,Estados Unidos,Tyler Adams,tyler_adams.php
+8,2022,Estados Unidos,Gales,"1ra Ronda, Grupo B",B,Gales,Gareth Bale,gareth_bale.php
+9,2022,Argentina,Arabia Saudita,"1ra Ronda, Grupo C",C,Argentina,Lionel Messi,lionel_messi.php
+10,2022,Argentina,Arabia Saudita,"1ra Ronda, Grupo C",C,Arabia Saudita,Salman Al-Faraj,salman_al_faraj.php
+11,2022,Dinamarca,Túnez,"1ra Ronda, Grupo D",D,Dinamarca,Simon Kjaer,simon_kjaer.php
+12,2022,Dinamarca,Túnez,"1ra Ronda, Grupo D",D,Túnez,Youssef Msakni,youssef_msakni.php
+13,2022,México,Polonia,"1ra Ronda, Grupo C",C,México,Guillermo Ochoa,guillermo_ochoa.php
+14,2022,México,Polonia,"1ra Ronda, Grupo C",C,Polonia,Robert Lewandowski,robert_lewandowski.php
+15,2022,Francia,Australia,"1ra Ronda, Grupo D",D,Francia,Hugo Lloris,hugo_lloris.php
+16,2022,Francia,Australia,"1ra Ronda, Grupo D",D,Australia,Mathew Ryan,mathew_ryan.php
+17,2022,Marruecos,Croacia,"1ra Ronda, Grupo F",F,Marruecos,Romain Saïss,romain_saiss.php
+18,2022,Marruecos,Croacia,"1ra Ronda, Grupo F",F,Croacia,Luka Modric,luka_modric.php
+19,2022,Alemania,Japón,"1ra Ronda, Grupo E",E,Alemania,Manuel Neuer,manuel_neuer.php
+20,2022,Alemania,Japón,"1ra Ronda, Grupo E",E,Japón,Maya Yoshida,maya_yoshida.php
+21,2022,España,Costa Rica,"1ra Ronda, Grupo E",E,España,Sergio Busquets,sergio_busquets.php
+22,2022,España,Costa Rica,"1ra Ronda, Grupo E",E,Costa Rica,Keylor Navas,keylor_navas.php
+23,2022,Bélgica,Canadá,"1ra Ronda, Grupo F",F,Bélgica,Eden Hazard,eden_hazard.php
+24,2022,Bélgica,Canadá,"1ra Ronda, Grupo F",F,Canadá,Atiba Hutchinson,atiba_hutchinson.php
+25,2022,Suiza,Camerún,"1ra Ronda, Grupo G",G,Suiza,Granit Xhaka,granit_xhaka.php
+26,2022,Suiza,Camerún,"1ra Ronda, Grupo G",G,Camerún,Eric Maxim Choupo Moting,eric_choupo_moting.php
+27,2022,Uruguay,Corea del Sur,"1ra Ronda, Grupo H",H,Uruguay,Diego Godin,diego_godin.php
+28,2022,Uruguay,Corea del Sur,"1ra Ronda, Grupo H",H,Corea del Sur,Heung-Min Son,heung_min_son.php
+29,2022,Portugal,Ghana,"1ra Ronda, Grupo H",H,Portugal,Cristiano Ronaldo,cristiano_ronaldo.php
+30,2022,Portugal,Ghana,"1ra Ronda, Grupo H",H,Ghana,Andre Ayew,andre_ayew.php
+31,2022,Brasil,Serbia,"1ra Ronda, Grupo G",G,Brasil,Thiago Silva,thiago_silva.php
+32,2022,Brasil,Serbia,"1ra Ronda, Grupo G",G,Serbia,Dušan Tadić,dusan_tadic.php
+33,2022,Gales,Irán,"1ra Ronda, Grupo B",B,Gales,Gareth Bale,gareth_bale.php
+34,2022,Gales,Irán,"1ra Ronda, Grupo B",B,Irán,Ehsan Hajsafi,ehsan_hajsafi.php
+35,2022,Catar,Senegal,"1ra Ronda, Grupo A",A,Catar,Hassan Al-Haydos,hassan_al_haidos.php
+36,2022,Catar,Senegal,"1ra Ronda, Grupo A",A,Senegal,Kalidou Koulibaly,kalidou_koulibaly.php
+37,2022,Paises Bajos,Ecuador,"1ra Ronda, Grupo A",A,Paises Bajos,Virgil Van Dijk,virgil_van_dijk.php
+38,2022,Paises Bajos,Ecuador,"1ra Ronda, Grupo A",A,Ecuador,Enner Valencia,enner_valencia.php
+39,2022,Inglaterra,Estados Unidos,"1ra Ronda, Grupo B",B,Inglaterra,Harry Kane,harry_kane.php
+40,2022,Inglaterra,Estados Unidos,"1ra Ronda, Grupo B",B,Estados Unidos,Tyler Adams,tyler_adams.php
+41,2022,Túnez,Australia,"1ra Ronda, Grupo D",D,Túnez,Youssef Msakni,youssef_msakni.php
+42,2022,Túnez,Australia,"1ra Ronda, Grupo D",D,Australia,Mathew Ryan,mathew_ryan.php
+43,2022,Polonia,Arabia Saudita,"1ra Ronda, Grupo C",C,Polonia,Robert Lewandowski,robert_lewandowski.php
+44,2022,Polonia,Arabia Saudita,"1ra Ronda, Grupo C",C,Arabia Saudita,Salem Al-Dawsari,salem_al_dawsari.php
+45,2022,Francia,Dinamarca,"1ra Ronda, Grupo D",D,Francia,Hugo Lloris,hugo_lloris.php
+46,2022,Francia,Dinamarca,"1ra Ronda, Grupo D",D,Dinamarca,Kasper Schmeichel,kasper_schmeichel.php
+47,2022,Argentina,México,"1ra Ronda, Grupo C",C,Argentina,Lionel Messi,lionel_messi.php
+48,2022,Argentina,México,"1ra Ronda, Grupo C",C,México,Andres Guardado,andres_guardado.php
+49,2022,Japón,Costa Rica,"1ra Ronda, Grupo E",E,Japón,Maya Yoshida,maya_yoshida.php
+50,2022,Japón,Costa Rica,"1ra Ronda, Grupo E",E,Costa Rica,Keylor Navas,keylor_navas.php
+51,2022,Bélgica,Marruecos,"1ra Ronda, Grupo F",F,Bélgica,Eden Hazard,eden_hazard.php
+52,2022,Bélgica,Marruecos,"1ra Ronda, Grupo F",F,Marruecos,Romain Saïss,romain_saiss.php
+53,2022,Croacia,Canadá,"1ra Ronda, Grupo F",F,Croacia,Luka Modric,luka_modric.php
+54,2022,Croacia,Canadá,"1ra Ronda, Grupo F",F,Canadá,Atiba Hutchinson,atiba_hutchinson.php
+55,2022,España,Alemania,"1ra Ronda, Grupo E",E,España,Sergio Busquets,sergio_busquets.php
+56,2022,España,Alemania,"1ra Ronda, Grupo E",E,Alemania,Manuel Neuer,manuel_neuer.php
+57,2022,Camerún,Serbia,"1ra Ronda, Grupo G",G,Camerún,Eric Maxim Choupo Moting,eric_choupo_moting.php
+58,2022,Camerún,Serbia,"1ra Ronda, Grupo G",G,Serbia,Dušan Tadić,dusan_tadic.php
+59,2022,Corea del Sur,Ghana,"1ra Ronda, Grupo H",H,Corea del Sur,Heung-Min Son,heung_min_son.php
+60,2022,Corea del Sur,Ghana,"1ra Ronda, Grupo H",H,Ghana,Andre Ayew,andre_ayew.php
+61,2022,Brasil,Suiza,"1ra Ronda, Grupo G",G,Brasil,Thiago Silva,thiago_silva.php
+62,2022,Brasil,Suiza,"1ra Ronda, Grupo G",G,Suiza,Granit Xhaka,granit_xhaka.php
+63,2022,Portugal,Uruguay,"1ra Ronda, Grupo H",H,Portugal,Cristiano Ronaldo,cristiano_ronaldo.php
+64,2022,Portugal,Uruguay,"1ra Ronda, Grupo H",H,Uruguay,Diego Godin,diego_godin.php
+65,2022,Paises Bajos,Catar,"1ra Ronda, Grupo A",A,Paises Bajos,Virgil Van Dijk,virgil_van_dijk.php
+66,2022,Paises Bajos,Catar,"1ra Ronda, Grupo A",A,Catar,Hassan Al-Haydos,hassan_al_haidos.php
+67,2022,Ecuador,Senegal,"1ra Ronda, Grupo A",A,Ecuador,Enner Valencia,enner_valencia.php
+68,2022,Ecuador,Senegal,"1ra Ronda, Grupo A",A,Senegal,Kalidou Koulibaly,kalidou_koulibaly.php
+69,2022,Gales,Inglaterra,"1ra Ronda, Grupo B",B,Gales,Gareth Bale,gareth_bale.php
+70,2022,Gales,Inglaterra,"1ra Ronda, Grupo B",B,Inglaterra,Harry Kane,harry_kane.php
+71,2022,Irán,Estados Unidos,"1ra Ronda, Grupo B",B,Irán,Ehsan Hajsafi,ehsan_hajsafi.php
+72,2022,Irán,Estados Unidos,"1ra Ronda, Grupo B",B,Estados Unidos,Tyler Adams,tyler_adams.php
+73,2022,Australia,Dinamarca,"1ra Ronda, Grupo D",D,Australia,Mathew Ryan,mathew_ryan.php
+74,2022,Australia,Dinamarca,"1ra Ronda, Grupo D",D,Dinamarca,Christian Eriksen,christian_eriksen.php
+75,2022,Túnez,Francia,"1ra Ronda, Grupo D",D,Túnez,Wahbi Khazri,wahbi_khazri.php
+76,2022,Túnez,Francia,"1ra Ronda, Grupo D",D,Francia,Raphael Varane,raphael_varane.php
+77,2022,Arabia Saudita,México,"1ra Ronda, Grupo C",C,Arabia Saudita,Salem Al-Dawsari,salem_al_dawsari.php
+78,2022,Arabia Saudita,México,"1ra Ronda, Grupo C",C,México,Guillermo Ochoa,guillermo_ochoa.php
+79,2022,Polonia,Argentina,"1ra Ronda, Grupo C",C,Polonia,Robert Lewandowski,robert_lewandowski.php
+80,2022,Polonia,Argentina,"1ra Ronda, Grupo C",C,Argentina,Lionel Messi,lionel_messi.php
+81,2022,Croacia,Bélgica,"1ra Ronda, Grupo F",F,Croacia,Luka Modric,luka_modric.php
+82,2022,Croacia,Bélgica,"1ra Ronda, Grupo F",F,Bélgica,Kevin De Bruyne,kevin_de_bruyne.php
+83,2022,Canadá,Marruecos,"1ra Ronda, Grupo F",F,Canadá,Milan Borjan,milan_borjan.php
+84,2022,Canadá,Marruecos,"1ra Ronda, Grupo F",F,Marruecos,Romain Saïss,romain_saiss.php
+85,2022,Japón,España,"1ra Ronda, Grupo E",E,Japón,Maya Yoshida,maya_yoshida.php
+86,2022,Japón,España,"1ra Ronda, Grupo E",E,España,Sergio Busquets,sergio_busquets.php
+87,2022,Costa Rica,Alemania,"1ra Ronda, Grupo E",E,Costa Rica,Keylor Navas,keylor_navas.php
+88,2022,Costa Rica,Alemania,"1ra Ronda, Grupo E",E,Alemania,Manuel Neuer,manuel_neuer.php
+89,2022,Ghana,Uruguay,"1ra Ronda, Grupo H",H,Ghana,Andre Ayew,andre_ayew.php
+90,2022,Ghana,Uruguay,"1ra Ronda, Grupo H",H,Uruguay,Luis Suarez,luis_suarez.php
+91,2022,Corea del Sur,Portugal,"1ra Ronda, Grupo H",H,Corea del Sur,Heung-Min Son,heung_min_son.php
+92,2022,Corea del Sur,Portugal,"1ra Ronda, Grupo H",H,Portugal,Cristiano Ronaldo,cristiano_ronaldo.php
+93,2022,Serbia,Suiza,"1ra Ronda, Grupo G",G,Serbia,Dušan Tadić,dusan_tadic.php
+94,2022,Serbia,Suiza,"1ra Ronda, Grupo G",G,Suiza,Granit Xhaka,granit_xhaka.php
+95,2022,Camerún,Brasil,"1ra Ronda, Grupo G",G,Camerún,Vincent Aboubakar,vincent_aboubakar.php
+96,2022,Camerún,Brasil,"1ra Ronda, Grupo G",G,Brasil,Dani Alves,dani_alves.php
+97,2022,Paises Bajos,Estados Unidos,Octavos,,Paises Bajos,Virgil Van Dijk,virgil_van_dijk.php
+98,2022,Paises Bajos,Estados Unidos,Octavos,,Estados Unidos,Tyler Adams,tyler_adams.php
+99,2022,Argentina,Australia,Octavos,,Argentina,Lionel Messi,lionel_messi.php
+100,2022,Argentina,Australia,Octavos,,Australia,Mathew Ryan,mathew_ryan.php
+101,2022,Inglaterra,Senegal,Octavos,,Inglaterra,Harry Kane,harry_kane.php
+102,2022,Inglaterra,Senegal,Octavos,,Senegal,Kalidou Koulibaly,kalidou_koulibaly.php
+103,2022,Francia,Polonia,Octavos,,Francia,Hugo Lloris,hugo_lloris.php
+104,2022,Francia,Polonia,Octavos,,Polonia,Robert Lewandowski,robert_lewandowski.php
+105,2022,Japón,Croacia,Octavos,,Japón,Maya Yoshida,maya_yoshida.php
+106,2022,Japón,Croacia,Octavos,,Croacia,Luka Modric,luka_modric.php
+107,2022,Brasil,Corea del Sur,Octavos,,Brasil,Thiago Silva,thiago_silva.php
+108,2022,Brasil,Corea del Sur,Octavos,,Corea del Sur,Heung-Min Son,heung_min_son.php
+109,2022,Marruecos,España,Octavos,,Marruecos,Romain Saïss,romain_saiss.php
+110,2022,Marruecos,España,Octavos,,España,Sergio Busquets,sergio_busquets.php
+111,2022,Portugal,Suiza,Octavos,,Portugal,Pepe,pepe.php
+112,2022,Portugal,Suiza,Octavos,,Suiza,Granit Xhaka,granit_xhaka.php
+113,2022,Paises Bajos,Argentina,Cuartos,,Paises Bajos,Virgil Van Dijk,virgil_van_dijk.php
+114,2022,Paises Bajos,Argentina,Cuartos,,Argentina,Lionel Messi,lionel_messi.php
+115,2022,Croacia,Brasil,Cuartos,,Croacia,Luka Modric,luka_modric.php
+116,2022,Croacia,Brasil,Cuartos,,Brasil,Thiago Silva,thiago_silva.php
+117,2022,Inglaterra,Francia,Cuartos,,Inglaterra,Harry Kane,harry_kane.php
+118,2022,Inglaterra,Francia,Cuartos,,Francia,Hugo Lloris,hugo_lloris.php
+119,2022,Marruecos,Portugal,Cuartos,,Marruecos,Romain Saïss,romain_saiss.php
+120,2022,Marruecos,Portugal,Cuartos,,Portugal,Pepe,pepe.php
+121,2022,Argentina,Croacia,Semis,,Argentina,Lionel Messi,lionel_messi.php
+122,2022,Argentina,Croacia,Semis,,Croacia,Luka Modric,luka_modric.php
+123,2022,Francia,Marruecos,Semis,,Francia,Hugo Lloris,hugo_lloris.php
+124,2022,Francia,Marruecos,Semis,,Marruecos,Romain Saïss,romain_saiss.php
+125,2022,Croacia,Marruecos,3er Puesto,,Croacia,Luka Modric,luka_modric.php
+126,2022,Croacia,Marruecos,3er Puesto,,Marruecos,Hakim Ziyech,hakim_ziyech.php
+127,2022,Argentina,Francia,Final,,Argentina,Lionel Messi,lionel_messi.php
+128,2022,Argentina,Francia,Final,,Francia,Hugo Lloris,hugo_lloris.php
+129,2018,Rusia,Arabia Saudita,"1ra Ronda, Grupo A",A,Rusia,Igor Akinfeev,igor_akinfeev.php
+130,2018,Rusia,Arabia Saudita,"1ra Ronda, Grupo A",A,Arabia Saudita,Osama Hawsawi,osama_hawsawi.php
+131,2018,Egipto,Uruguay,"1ra Ronda, Grupo A",A,Egipto,Ahmed Fathy,ahmed_fathy.php
+132,2018,Egipto,Uruguay,"1ra Ronda, Grupo A",A,Uruguay,Diego Godin,diego_godin.php
+133,2018,Portugal,España,"1ra Ronda, Grupo B",B,Portugal,Cristiano Ronaldo,cristiano_ronaldo.php
+134,2018,Portugal,España,"1ra Ronda, Grupo B",B,España,Sergio Ramos,sergio_ramos.php
+135,2018,Marruecos,Irán,"1ra Ronda, Grupo B",B,Marruecos,Medhi Benatia,medhi_benatia.php
+136,2018,Marruecos,Irán,"1ra Ronda, Grupo B",B,Irán,Masoud Shojaei,masoud_shojaei.php
+137,2018,Francia,Australia,"1ra Ronda, Grupo C",C,Francia,Hugo Lloris,hugo_lloris.php
+138,2018,Francia,Australia,"1ra Ronda, Grupo C",C,Australia,Mile Jedinak,mile_jedinak.php
+139,2018,Perú,Dinamarca,"1ra Ronda, Grupo C",C,Perú,Alberto Rodríguez,alberto_junior_rodriguez.php
+140,2018,Perú,Dinamarca,"1ra Ronda, Grupo C",C,Dinamarca,Simon Kjaer,simon_kjaer.php
+141,2018,Argentina,Islandia,"1ra Ronda, Grupo D",D,Argentina,Lionel Messi,lionel_messi.php
+142,2018,Argentina,Islandia,"1ra Ronda, Grupo D",D,Islandia,Aron Gunnarsson,aron_gunnarsson.php
+143,2018,Croacia,Nigeria,"1ra Ronda, Grupo D",D,Croacia,Luka Modric,luka_modric.php
+144,2018,Croacia,Nigeria,"1ra Ronda, Grupo D",D,Nigeria,John Obi Mikel,john_obi_mikel.php
+145,2018,Brasil,Suiza,"1ra Ronda, Grupo E",E,Brasil,Marcelo,marcelo.php
+146,2018,Brasil,Suiza,"1ra Ronda, Grupo E",E,Suiza,Stephan Lichtsteiner,stephan_lichtsteiner.php
+147,2018,Costa Rica,Serbia,"1ra Ronda, Grupo E",E,Costa Rica,Bryan Ruiz,bryan_ruiz.php
+148,2018,Costa Rica,Serbia,"1ra Ronda, Grupo E",E,Serbia,Aleksandar Kolarov,aleksandar_kolarov.php
+149,2018,Alemania,México,"1ra Ronda, Grupo F",F,Alemania,Manuel Neuer,manuel_neuer.php
+150,2018,Alemania,México,"1ra Ronda, Grupo F",F,México,Andres Guardado,andres_guardado.php
+151,2018,Suecia,Corea del Sur,"1ra Ronda, Grupo F",F,Suecia,Andreas Granqvist,andreas_granqvist.php
+152,2018,Suecia,Corea del Sur,"1ra Ronda, Grupo F",F,Corea del Sur,Sung-yueng Ki,sung_yueng_ki.php
+153,2018,Bélgica,Panamá,"1ra Ronda, Grupo G",G,Bélgica,Eden Hazard,eden_hazard.php
+154,2018,Bélgica,Panamá,"1ra Ronda, Grupo G",G,Panamá,Román Torres,roman_torres.php
+155,2018,Túnez,Inglaterra,"1ra Ronda, Grupo G",G,Túnez,Wahbi Khazri,wahbi_khazri.php
+156,2018,Túnez,Inglaterra,"1ra Ronda, Grupo G",G,Inglaterra,Harry Kane,harry_kane.php
+157,2018,Polonia,Senegal,"1ra Ronda, Grupo H",H,Polonia,Robert Lewandowski,robert_lewandowski.php
+158,2018,Polonia,Senegal,"1ra Ronda, Grupo H",H,Senegal,Sadio Mané,sadio_mane.php
+159,2018,Colombia,Japón,"1ra Ronda, Grupo H",H,Colombia,Radamel Falcao,radamel_falcao.php
+160,2018,Colombia,Japón,"1ra Ronda, Grupo H",H,Japón,Makoto Hasebe,makoto_hasebe.php
+161,2018,Rusia,Egipto,"1ra Ronda, Grupo A",A,Rusia,Igor Akinfeev,igor_akinfeev.php
+162,2018,Rusia,Egipto,"1ra Ronda, Grupo A",A,Egipto,Ahmed Fathy,ahmed_fathy.php
+163,2018,Uruguay,Arabia Saudita,"1ra Ronda, Grupo A",A,Uruguay,Diego Godin,diego_godin.php
+164,2018,Uruguay,Arabia Saudita,"1ra Ronda, Grupo A",A,Arabia Saudita,Osama Hawsawi,osama_hawsawi.php
+165,2018,Portugal,Marruecos,"1ra Ronda, Grupo B",B,Portugal,Cristiano Ronaldo,cristiano_ronaldo.php
+166,2018,Portugal,Marruecos,"1ra Ronda, Grupo B",B,Marruecos,Medhi Benatia,medhi_benatia.php
+167,2018,Irán,España,"1ra Ronda, Grupo B",B,Irán,Ehsan Hajsafi,ehsan_hajsafi.php
+168,2018,Irán,España,"1ra Ronda, Grupo B",B,España,Sergio Ramos,sergio_ramos.php
+169,2018,Francia,Perú,"1ra Ronda, Grupo C",C,Francia,Hugo Lloris,hugo_lloris.php
+170,2018,Francia,Perú,"1ra Ronda, Grupo C",C,Perú,Paolo Guerrero,paolo_guerrero.php
+171,2018,Dinamarca,Australia,"1ra Ronda, Grupo C",C,Dinamarca,Simon Kjaer,simon_kjaer.php
+172,2018,Dinamarca,Australia,"1ra Ronda, Grupo C",C,Australia,Mile Jedinak,mile_jedinak.php
+173,2018,Argentina,Croacia,"1ra Ronda, Grupo D",D,Argentina,Lionel Messi,lionel_messi.php
+174,2018,Argentina,Croacia,"1ra Ronda, Grupo D",D,Croacia,Luka Modric,luka_modric.php
+175,2018,Nigeria,Islandia,"1ra Ronda, Grupo D",D,Nigeria,John Obi Mikel,john_obi_mikel.php
+176,2018,Nigeria,Islandia,"1ra Ronda, Grupo D",D,Islandia,Aron Gunnarsson,aron_gunnarsson.php
+177,2018,Brasil,Costa Rica,"1ra Ronda, Grupo E",E,Brasil,Thiago Silva,thiago_silva.php
+178,2018,Brasil,Costa Rica,"1ra Ronda, Grupo E",E,Costa Rica,Bryan Ruiz,bryan_ruiz.php
+179,2018,Serbia,Suiza,"1ra Ronda, Grupo E",E,Serbia,Aleksandar Kolarov,aleksandar_kolarov.php
+180,2018,Serbia,Suiza,"1ra Ronda, Grupo E",E,Suiza,Stephan Lichtsteiner,stephan_lichtsteiner.php
+181,2018,Alemania,Suecia,"1ra Ronda, Grupo F",F,Alemania,Manuel Neuer,manuel_neuer.php
+182,2018,Alemania,Suecia,"1ra Ronda, Grupo F",F,Suecia,Andreas Granqvist,andreas_granqvist.php
+183,2018,Corea del Sur,México,"1ra Ronda, Grupo F",F,Corea del Sur,Sung-yueng Ki,sung_yueng_ki.php
+184,2018,Corea del Sur,México,"1ra Ronda, Grupo F",F,México,Andres Guardado,andres_guardado.php
+185,2018,Bélgica,Túnez,"1ra Ronda, Grupo G",G,Bélgica,Eden Hazard,eden_hazard.php
+186,2018,Bélgica,Túnez,"1ra Ronda, Grupo G",G,Túnez,Wahbi Khazri,wahbi_khazri.php
+187,2018,Inglaterra,Panamá,"1ra Ronda, Grupo G",G,Inglaterra,Harry Kane,harry_kane.php
+188,2018,Inglaterra,Panamá,"1ra Ronda, Grupo G",G,Panamá,Román Torres,roman_torres.php
+189,2018,Polonia,Colombia,"1ra Ronda, Grupo H",H,Polonia,Robert Lewandowski,robert_lewandowski.php
+190,2018,Polonia,Colombia,"1ra Ronda, Grupo H",H,Colombia,Radamel Falcao,radamel_falcao.php
+191,2018,Japón,Senegal,"1ra Ronda, Grupo H",H,Japón,Makoto Hasebe,makoto_hasebe.php
+192,2018,Japón,Senegal,"1ra Ronda, Grupo H",H,Senegal,Sadio Mané,sadio_mane.php
+193,2018,Uruguay,Rusia,"1ra Ronda, Grupo A",A,Uruguay,Diego Godin,diego_godin.php
+194,2018,Uruguay,Rusia,"1ra Ronda, Grupo A",A,Rusia,Igor Akinfeev,igor_akinfeev.php
+195,2018,Arabia Saudita,Egipto,"1ra Ronda, Grupo A",A,Arabia Saudita,Osama Hawsawi,osama_hawsawi.php
+196,2018,Arabia Saudita,Egipto,"1ra Ronda, Grupo A",A,Egipto,Essam El-Hadary,essam_el_hadary.php
+197,2018,Irán,Portugal,"1ra Ronda, Grupo B",B,Irán,Ehsan Hajsafi,ehsan_hajsafi.php
+198,2018,Irán,Portugal,"1ra Ronda, Grupo B",B,Portugal,Cristiano Ronaldo,cristiano_ronaldo.php
+199,2018,España,Marruecos,"1ra Ronda, Grupo B",B,España,Sergio Ramos,sergio_ramos.php
+200,2018,España,Marruecos,"1ra Ronda, Grupo B",B,Marruecos,Mbark Boussoufa,mbark_boussoufa.php
+201,2018,Dinamarca,Francia,"1ra Ronda, Grupo C",C,Dinamarca,Simon Kjaer,simon_kjaer.php
+202,2018,Dinamarca,Francia,"1ra Ronda, Grupo C",C,Francia,Raphael Varane,raphael_varane.php
+203,2018,Australia,Perú,"1ra Ronda, Grupo C",C,Australia,Mile Jedinak,mile_jedinak.php
+204,2018,Australia,Perú,"1ra Ronda, Grupo C",C,Perú,Paolo Guerrero,paolo_guerrero.php
+205,2018,Nigeria,Argentina,"1ra Ronda, Grupo D",D,Nigeria,John Obi Mikel,john_obi_mikel.php
+206,2018,Nigeria,Argentina,"1ra Ronda, Grupo D",D,Argentina,Lionel Messi,lionel_messi.php
+207,2018,Islandia,Croacia,"1ra Ronda, Grupo D",D,Islandia,Aron Gunnarsson,aron_gunnarsson.php
+208,2018,Islandia,Croacia,"1ra Ronda, Grupo D",D,Croacia,Luka Modric,luka_modric.php
+209,2018,Serbia,Brasil,"1ra Ronda, Grupo E",E,Serbia,Aleksandar Kolarov,aleksandar_kolarov.php
+210,2018,Serbia,Brasil,"1ra Ronda, Grupo E",E,Brasil,Miranda,miranda.php
+211,2018,Suiza,Costa Rica,"1ra Ronda, Grupo E",E,Suiza,Stephan Lichtsteiner,stephan_lichtsteiner.php
+212,2018,Suiza,Costa Rica,"1ra Ronda, Grupo E",E,Costa Rica,Bryan Ruiz,bryan_ruiz.php
+213,2018,Corea del Sur,Alemania,"1ra Ronda, Grupo F",F,Corea del Sur,Heung-Min Son,heung_min_son.php
+214,2018,Corea del Sur,Alemania,"1ra Ronda, Grupo F",F,Alemania,Manuel Neuer,manuel_neuer.php
+215,2018,México,Suecia,"1ra Ronda, Grupo F",F,México,Andres Guardado,andres_guardado.php
+216,2018,México,Suecia,"1ra Ronda, Grupo F",F,Suecia,Andreas Granqvist,andreas_granqvist.php
+217,2018,Inglaterra,Bélgica,"1ra Ronda, Grupo G",G,Inglaterra,Eric Dier,eric_dier.php
+218,2018,Inglaterra,Bélgica,"1ra Ronda, Grupo G",G,Bélgica,Thibaut Courtois,thibaut_courtois.php
+219,2018,Panamá,Túnez,"1ra Ronda, Grupo G",G,Panamá,Román Torres,roman_torres.php
+220,2018,Panamá,Túnez,"1ra Ronda, Grupo G",G,Túnez,Aymen Mathlouthi,aymen_mathlouthi.php
+221,2018,Japón,Polonia,"1ra Ronda, Grupo H",H,Japón,Yuto Nagatomo,yuto_nagatomo.php
+222,2018,Japón,Polonia,"1ra Ronda, Grupo H",H,Polonia,Robert Lewandowski,robert_lewandowski.php
+223,2018,Senegal,Colombia,"1ra Ronda, Grupo H",H,Senegal,Cheikhou Kouyaté,cheikhou_kouyate.php
+224,2018,Senegal,Colombia,"1ra Ronda, Grupo H",H,Colombia,Radamel Falcao,radamel_falcao.php
+225,2018,Uruguay,Portugal,Octavos,,Uruguay,Diego Godin,diego_godin.php
+226,2018,Uruguay,Portugal,Octavos,,Portugal,Cristiano Ronaldo,cristiano_ronaldo.php
+227,2018,Francia,Argentina,Octavos,,Francia,Hugo Lloris,hugo_lloris.php
+228,2018,Francia,Argentina,Octavos,,Argentina,Lionel Messi,lionel_messi.php
+229,2018,España,Rusia,Octavos,,España,Sergio Ramos,sergio_ramos.php
+230,2018,España,Rusia,Octavos,,Rusia,Igor Akinfeev,igor_akinfeev.php
+231,2018,Croacia,Dinamarca,Octavos,,Croacia,Luka Modric,luka_modric.php
+232,2018,Croacia,Dinamarca,Octavos,,Dinamarca,Simon Kjaer,simon_kjaer.php
+233,2018,Brasil,México,Octavos,,Brasil,Thiago Silva,thiago_silva.php
+234,2018,Brasil,México,Octavos,,México,Rafael Marquez,rafael_marquez.php
+235,2018,Bélgica,Japón,Octavos,,Bélgica,Eden Hazard,eden_hazard.php
+236,2018,Bélgica,Japón,Octavos,,Japón,Makoto Hasebe,makoto_hasebe.php
+237,2018,Suecia,Suiza,Octavos,,Suecia,Andreas Granqvist,andreas_granqvist.php
+238,2018,Suecia,Suiza,Octavos,,Suiza,Valon Behrami,valon_behrami.php
+239,2018,Colombia,Inglaterra,Octavos,,Colombia,Radamel Falcao,radamel_falcao.php
+240,2018,Colombia,Inglaterra,Octavos,,Inglaterra,Harry Kane,harry_kane.php
+241,2018,Uruguay,Francia,Cuartos,,Uruguay,Diego Godin,diego_godin.php
+242,2018,Uruguay,Francia,Cuartos,,Francia,Hugo Lloris,hugo_lloris.php
+243,2018,Brasil,Bélgica,Cuartos,,Brasil,Miranda,miranda.php
+244,2018,Brasil,Bélgica,Cuartos,,Bélgica,Eden Hazard,eden_hazard.php
+245,2018,Rusia,Croacia,Cuartos,,Rusia,Igor Akinfeev,igor_akinfeev.php
+246,2018,Rusia,Croacia,Cuartos,,Croacia,Luka Modric,luka_modric.php
+247,2018,Suecia,Inglaterra,Cuartos,,Suecia,Andreas Granqvist,andreas_granqvist.php
+248,2018,Suecia,Inglaterra,Cuartos,,Inglaterra,Harry Kane,harry_kane.php
+249,2018,Francia,Bélgica,Semis,,Francia,Hugo Lloris,hugo_lloris.php
+250,2018,Francia,Bélgica,Semis,,Bélgica,Eden Hazard,eden_hazard.php
+251,2018,Croacia,Inglaterra,Semis,,Croacia,Luka Modric,luka_modric.php
+252,2018,Croacia,Inglaterra,Semis,,Inglaterra,Harry Kane,harry_kane.php
+253,2018,Bélgica,Inglaterra,3er Puesto,,Bélgica,Eden Hazard,eden_hazard.php
+254,2018,Bélgica,Inglaterra,3er Puesto,,Inglaterra,Harry Kane,harry_kane.php
+255,2018,Francia,Croacia,Final,,Francia,Hugo Lloris,hugo_lloris.php
+256,2018,Francia,Croacia,Final,,Croacia,Luka Modric,luka_modric.php
+257,2014,Brasil,Croacia,"1ra Ronda, Grupo A",A,Brasil,Thiago Silva,thiago_silva.php
+258,2014,Brasil,Croacia,"1ra Ronda, Grupo A",A,Croacia,Darijo Srna,darijo_srna.php
+259,2014,México,Camerún,"1ra Ronda, Grupo A",A,México,Rafael Marquez,rafael_marquez.php
+260,2014,México,Camerún,"1ra Ronda, Grupo A",A,Camerún,Samuel Eto'o,samuel_etoo.php
+261,2014,España,Paises Bajos,"1ra Ronda, Grupo B",B,España,Iker Casillas,iker_casillas.php
+262,2014,España,Paises Bajos,"1ra Ronda, Grupo B",B,Paises Bajos,Robin Van Persie,robin_van_persie.php
+263,2014,Chile,Australia,"1ra Ronda, Grupo B",B,Chile,Claudio Bravo,claudio_bravo.php
+264,2014,Chile,Australia,"1ra Ronda, Grupo B",B,Australia,Mile Jedinak,mile_jedinak.php
+265,2014,Colombia,Grecia,"1ra Ronda, Grupo C",C,Colombia,Mario Yepes,mario_yepes.php
+266,2014,Colombia,Grecia,"1ra Ronda, Grupo C",C,Grecia,Konstantinos Katsouranis,konstantinos_katsouranis.php
+267,2014,Costa de Marfil,Japón,"1ra Ronda, Grupo C",C,Costa de Marfil,Yaya Toure,yaya_toure.php
+268,2014,Costa de Marfil,Japón,"1ra Ronda, Grupo C",C,Japón,Makoto Hasebe,makoto_hasebe.php
+269,2014,Uruguay,Costa Rica,"1ra Ronda, Grupo D",D,Uruguay,Diego Lugano,diego_lugano.php
+270,2014,Uruguay,Costa Rica,"1ra Ronda, Grupo D",D,Costa Rica,Bryan Ruiz,bryan_ruiz.php
+271,2014,Inglaterra,Italia,"1ra Ronda, Grupo D",D,Inglaterra,Steven Gerrard,steven_gerrard.php
+272,2014,Inglaterra,Italia,"1ra Ronda, Grupo D",D,Italia,Andrea Pirlo,andrea_pirlo.php
+273,2014,Suiza,Ecuador,"1ra Ronda, Grupo E",E,Suiza,Gokhan Inler,gokhan_inler.php
+274,2014,Suiza,Ecuador,"1ra Ronda, Grupo E",E,Ecuador,Antonio Valencia,luis_antonio_valencia.php
+275,2014,Francia,Honduras,"1ra Ronda, Grupo E",E,Francia,Hugo Lloris,hugo_lloris.php
+276,2014,Francia,Honduras,"1ra Ronda, Grupo E",E,Honduras,Noel Valladares,noel_valladares.php
+277,2014,Argentina,Bosnia-Herzegovina,"1ra Ronda, Grupo F",F,Argentina,Lionel Messi,lionel_messi.php
+278,2014,Argentina,Bosnia-Herzegovina,"1ra Ronda, Grupo F",F,Bosnia-Herzegovina,Emir Spahic,emir_spahic.php
+279,2014,Irán,Nigeria,"1ra Ronda, Grupo F",F,Irán,Javad Nekounam,javad_nekounam.php
+280,2014,Irán,Nigeria,"1ra Ronda, Grupo F",F,Nigeria,Vincent Enyeama,vincent_enyeama.php
+281,2014,Alemania,Portugal,"1ra Ronda, Grupo G",G,Alemania,Philipp Lahm,philipp_lahm.php
+282,2014,Alemania,Portugal,"1ra Ronda, Grupo G",G,Portugal,Cristiano Ronaldo,cristiano_ronaldo.php
+283,2014,Ghana,Estados Unidos,"1ra Ronda, Grupo G",G,Ghana,Asamoah Gyan,asamoah_gyan.php
+284,2014,Ghana,Estados Unidos,"1ra Ronda, Grupo G",G,Estados Unidos,Clint Dempsey,clint_dempsey.php
+285,2014,Bélgica,Argelia,"1ra Ronda, Grupo H",H,Bélgica,Vincent Kompany,vincent_kompany.php
+286,2014,Bélgica,Argelia,"1ra Ronda, Grupo H",H,Argelia,Madjid Bougherra,madjid_bougherra.php
+287,2014,Rusia,Corea del Sur,"1ra Ronda, Grupo H",H,Rusia,Vassili Berezutski,vassili_berezutski.php
+288,2014,Rusia,Corea del Sur,"1ra Ronda, Grupo H",H,Corea del Sur,Ja-Cheol Koo,ja_cheol_koo.php
+289,2014,Brasil,México,"1ra Ronda, Grupo A",A,Brasil,Thiago Silva,thiago_silva.php
+290,2014,Brasil,México,"1ra Ronda, Grupo A",A,México,Rafael Marquez,rafael_marquez.php
+291,2014,Camerún,Croacia,"1ra Ronda, Grupo A",A,Camerún,Nicolas Nkoulou,nicolas_nkoulou.php
+292,2014,Camerún,Croacia,"1ra Ronda, Grupo A",A,Croacia,Darijo Srna,darijo_srna.php
+293,2014,España,Chile,"1ra Ronda, Grupo B",B,España,Iker Casillas,iker_casillas.php
+294,2014,España,Chile,"1ra Ronda, Grupo B",B,Chile,Claudio Bravo,claudio_bravo.php
+295,2014,Australia,Paises Bajos,"1ra Ronda, Grupo B",B,Australia,Mile Jedinak,mile_jedinak.php
+296,2014,Australia,Paises Bajos,"1ra Ronda, Grupo B",B,Paises Bajos,Robin Van Persie,robin_van_persie.php
+297,2014,Colombia,Costa de Marfil,"1ra Ronda, Grupo C",C,Colombia,Mario Yepes,mario_yepes.php
+298,2014,Colombia,Costa de Marfil,"1ra Ronda, Grupo C",C,Costa de Marfil,Yaya Toure,yaya_toure.php
+299,2014,Japón,Grecia,"1ra Ronda, Grupo C",C,Japón,Makoto Hasebe,makoto_hasebe.php
+300,2014,Japón,Grecia,"1ra Ronda, Grupo C",C,Grecia,Konstantinos Katsouranis,konstantinos_katsouranis.php
+301,2014,Uruguay,Inglaterra,"1ra Ronda, Grupo D",D,Uruguay,Diego Godin,diego_godin.php
+302,2014,Uruguay,Inglaterra,"1ra Ronda, Grupo D",D,Inglaterra,Steven Gerrard,steven_gerrard.php
+303,2014,Italia,Costa Rica,"1ra Ronda, Grupo D",D,Italia,Gianluigi Buffon,gianluigi_buffon.php
+304,2014,Italia,Costa Rica,"1ra Ronda, Grupo D",D,Costa Rica,Bryan Ruiz,bryan_ruiz.php
+305,2014,Suiza,Francia,"1ra Ronda, Grupo E",E,Suiza,Gokhan Inler,gokhan_inler.php
+306,2014,Suiza,Francia,"1ra Ronda, Grupo E",E,Francia,Hugo Lloris,hugo_lloris.php
+307,2014,Honduras,Ecuador,"1ra Ronda, Grupo E",E,Honduras,Noel Valladares,noel_valladares.php
+308,2014,Honduras,Ecuador,"1ra Ronda, Grupo E",E,Ecuador,Antonio Valencia,luis_antonio_valencia.php
+309,2014,Argentina,Irán,"1ra Ronda, Grupo F",F,Argentina,Lionel Messi,lionel_messi.php
+310,2014,Argentina,Irán,"1ra Ronda, Grupo F",F,Irán,Javad Nekounam,javad_nekounam.php
+311,2014,Nigeria,Bosnia-Herzegovina,"1ra Ronda, Grupo F",F,Nigeria,Joseph Yobo,joseph_yobo.php
+312,2014,Nigeria,Bosnia-Herzegovina,"1ra Ronda, Grupo F",F,Bosnia-Herzegovina,Emir Spahic,emir_spahic.php
+313,2014,Alemania,Ghana,"1ra Ronda, Grupo G",G,Alemania,Philipp Lahm,philipp_lahm.php
+314,2014,Alemania,Ghana,"1ra Ronda, Grupo G",G,Ghana,Asamoah Gyan,asamoah_gyan.php
+315,2014,Estados Unidos,Portugal,"1ra Ronda, Grupo G",G,Estados Unidos,Clint Dempsey,clint_dempsey.php
+316,2014,Estados Unidos,Portugal,"1ra Ronda, Grupo G",G,Portugal,Cristiano Ronaldo,cristiano_ronaldo.php
+317,2014,Bélgica,Rusia,"1ra Ronda, Grupo H",H,Bélgica,Vincent Kompany,vincent_kompany.php
+318,2014,Bélgica,Rusia,"1ra Ronda, Grupo H",H,Rusia,Vassili Berezutski,vassili_berezutski.php
+319,2014,Corea del Sur,Argelia,"1ra Ronda, Grupo H",H,Corea del Sur,Ja-Cheol Koo,ja_cheol_koo.php
+320,2014,Corea del Sur,Argelia,"1ra Ronda, Grupo H",H,Argelia,Madjid Bougherra,madjid_bougherra.php
+321,2014,Camerún,Brasil,"1ra Ronda, Grupo A",A,Camerún,Nicolas Nkoulou,nicolas_nkoulou.php
+322,2014,Camerún,Brasil,"1ra Ronda, Grupo A",A,Brasil,Thiago Silva,thiago_silva.php
+323,2014,Croacia,México,"1ra Ronda, Grupo A",A,Croacia,Darijo Srna,darijo_srna.php
+324,2014,Croacia,México,"1ra Ronda, Grupo A",A,México,Rafael Marquez,rafael_marquez.php
+325,2014,Australia,España,"1ra Ronda, Grupo B",B,Australia,Mile Jedinak,mile_jedinak.php
+326,2014,Australia,España,"1ra Ronda, Grupo B",B,España,Sergio Ramos,sergio_ramos.php
+327,2014,Paises Bajos,Chile,"1ra Ronda, Grupo B",B,Paises Bajos,Arjen Robben,arjen_robben.php
+328,2014,Paises Bajos,Chile,"1ra Ronda, Grupo B",B,Chile,Claudio Bravo,claudio_bravo.php
+329,2014,Japón,Colombia,"1ra Ronda, Grupo C",C,Japón,Makoto Hasebe,makoto_hasebe.php
+330,2014,Japón,Colombia,"1ra Ronda, Grupo C",C,Colombia,David Ospina,david_ospina.php
+331,2014,Grecia,Costa de Marfil,"1ra Ronda, Grupo C",C,Grecia,Georgios Karagounis,georgios_karagounis.php
+332,2014,Grecia,Costa de Marfil,"1ra Ronda, Grupo C",C,Costa de Marfil,Didier Drogba,didier_drogba.php
+333,2014,Italia,Uruguay,"1ra Ronda, Grupo D",D,Italia,Gianluigi Buffon,gianluigi_buffon.php
+334,2014,Italia,Uruguay,"1ra Ronda, Grupo D",D,Uruguay,Diego Godin,diego_godin.php
+335,2014,Costa Rica,Inglaterra,"1ra Ronda, Grupo D",D,Costa Rica,Bryan Ruiz,bryan_ruiz.php
+336,2014,Costa Rica,Inglaterra,"1ra Ronda, Grupo D",D,Inglaterra,Frank Lampard,frank_lampard.php
+337,2014,Honduras,Suiza,"1ra Ronda, Grupo E",E,Honduras,Noel Valladares,noel_valladares.php
+338,2014,Honduras,Suiza,"1ra Ronda, Grupo E",E,Suiza,Gokhan Inler,gokhan_inler.php
+339,2014,Ecuador,Francia,"1ra Ronda, Grupo E",E,Ecuador,Antonio Valencia,luis_antonio_valencia.php
+340,2014,Ecuador,Francia,"1ra Ronda, Grupo E",E,Francia,Hugo Lloris,hugo_lloris.php
+341,2014,Nigeria,Argentina,"1ra Ronda, Grupo F",F,Nigeria,Joseph Yobo,joseph_yobo.php
+342,2014,Nigeria,Argentina,"1ra Ronda, Grupo F",F,Argentina,Lionel Messi,lionel_messi.php
+343,2014,Bosnia-Herzegovina,Irán,"1ra Ronda, Grupo F",F,Bosnia-Herzegovina,Emir Spahic,emir_spahic.php
+344,2014,Bosnia-Herzegovina,Irán,"1ra Ronda, Grupo F",F,Irán,Javad Nekounam,javad_nekounam.php
+345,2014,Estados Unidos,Alemania,"1ra Ronda, Grupo G",G,Estados Unidos,Clint Dempsey,clint_dempsey.php
+346,2014,Estados Unidos,Alemania,"1ra Ronda, Grupo G",G,Alemania,Philipp Lahm,philipp_lahm.php
+347,2014,Portugal,Ghana,"1ra Ronda, Grupo G",G,Portugal,Cristiano Ronaldo,cristiano_ronaldo.php
+348,2014,Portugal,Ghana,"1ra Ronda, Grupo G",G,Ghana,Asamoah Gyan,asamoah_gyan.php
+349,2014,Corea del Sur,Bélgica,"1ra Ronda, Grupo H",H,Corea del Sur,Ja-Cheol Koo,ja_cheol_koo.php
+350,2014,Corea del Sur,Bélgica,"1ra Ronda, Grupo H",H,Bélgica,Jan Vertonghen,jan_vertonghen.php
+351,2014,Argelia,Rusia,"1ra Ronda, Grupo H",H,Argelia,Rafik Halliche,rafik_halliche.php
+352,2014,Argelia,Rusia,"1ra Ronda, Grupo H",H,Rusia,Vassili Berezutski,vassili_berezutski.php
+353,2014,Brasil,Chile,Octavos,,Brasil,Thiago Silva,thiago_silva.php
+354,2014,Brasil,Chile,Octavos,,Chile,Claudio Bravo,claudio_bravo.php
+355,2014,Colombia,Uruguay,Octavos,,Colombia,Mario Yepes,mario_yepes.php
+356,2014,Colombia,Uruguay,Octavos,,Uruguay,Diego Godin,diego_godin.php
+357,2014,Paises Bajos,México,Octavos,,Paises Bajos,Robin Van Persie,robin_van_persie.php
+358,2014,Paises Bajos,México,Octavos,,México,Rafael Marquez,rafael_marquez.php
+359,2014,Costa Rica,Grecia,Octavos,,Costa Rica,Bryan Ruiz,bryan_ruiz.php
+360,2014,Costa Rica,Grecia,Octavos,,Grecia,Georgios Karagounis,georgios_karagounis.php
+361,2014,Francia,Nigeria,Octavos,,Francia,Hugo Lloris,hugo_lloris.php
+362,2014,Francia,Nigeria,Octavos,,Nigeria,Joseph Yobo,joseph_yobo.php
+363,2014,Alemania,Argelia,Octavos,,Alemania,Philipp Lahm,philipp_lahm.php
+364,2014,Alemania,Argelia,Octavos,,Argelia,Rafik Halliche,rafik_halliche.php
+365,2014,Argentina,Suiza,Octavos,,Argentina,Lionel Messi,lionel_messi.php
+366,2014,Argentina,Suiza,Octavos,,Suiza,Gokhan Inler,gokhan_inler.php
+367,2014,Bélgica,Estados Unidos,Octavos,,Bélgica,Vincent Kompany,vincent_kompany.php
+368,2014,Bélgica,Estados Unidos,Octavos,,Estados Unidos,Clint Dempsey,clint_dempsey.php
+369,2014,Brasil,Colombia,Cuartos,,Brasil,Thiago Silva,thiago_silva.php
+370,2014,Brasil,Colombia,Cuartos,,Colombia,Mario Yepes,mario_yepes.php
+371,2014,Francia,Alemania,Cuartos,,Francia,Hugo Lloris,hugo_lloris.php
+372,2014,Francia,Alemania,Cuartos,,Alemania,Philipp Lahm,philipp_lahm.php
+373,2014,Paises Bajos,Costa Rica,Cuartos,,Paises Bajos,Robin Van Persie,robin_van_persie.php
+374,2014,Paises Bajos,Costa Rica,Cuartos,,Costa Rica,Bryan Ruiz,bryan_ruiz.php
+375,2014,Argentina,Bélgica,Cuartos,,Argentina,Lionel Messi,lionel_messi.php
+376,2014,Argentina,Bélgica,Cuartos,,Bélgica,Vincent Kompany,vincent_kompany.php
+377,2014,Brasil,Alemania,Semis,,Brasil,David Luiz,david_luiz.php
+378,2014,Brasil,Alemania,Semis,,Alemania,Philipp Lahm,philipp_lahm.php
+379,2014,Paises Bajos,Argentina,Semis,,Paises Bajos,Robin Van Persie,robin_van_persie.php
+380,2014,Paises Bajos,Argentina,Semis,,Argentina,Lionel Messi,lionel_messi.php
+381,2014,Brasil,Paises Bajos,3er Puesto,,Brasil,Thiago Silva,thiago_silva.php
+382,2014,Brasil,Paises Bajos,3er Puesto,,Paises Bajos,Robin Van Persie,robin_van_persie.php
+383,2014,Alemania,Argentina,Final,,Alemania,Philipp Lahm,philipp_lahm.php
+384,2014,Alemania,Argentina,Final,,Argentina,Lionel Messi,lionel_messi.php
+385,2010,Sudáfrica,México,"1ra Ronda, Grupo A",A,Sudáfrica,Aaron Mokoena,aaron_mokoena.php
+386,2010,Sudáfrica,México,"1ra Ronda, Grupo A",A,México,Gerardo Torrado,gerardo_torrado.php
+387,2010,Uruguay,Francia,"1ra Ronda, Grupo A",A,Uruguay,Diego Lugano,diego_lugano.php
+388,2010,Uruguay,Francia,"1ra Ronda, Grupo A",A,Francia,Patrice Evra,patrice_evra.php
+389,2010,Argentina,Nigeria,"1ra Ronda, Grupo B",B,Argentina,Javier Mascherano,javier_mascherano.php
+390,2010,Argentina,Nigeria,"1ra Ronda, Grupo B",B,Nigeria,Joseph Yobo,joseph_yobo.php
+391,2010,Corea del Sur,Grecia,"1ra Ronda, Grupo B",B,Corea del Sur,Ji Sung Park,ji_sung_park.php
+392,2010,Corea del Sur,Grecia,"1ra Ronda, Grupo B",B,Grecia,Georgios Karagounis,georgios_karagounis.php
+393,2010,Inglaterra,Estados Unidos,"1ra Ronda, Grupo C",C,Inglaterra,Steven Gerrard,steven_gerrard.php
+394,2010,Inglaterra,Estados Unidos,"1ra Ronda, Grupo C",C,Estados Unidos,Carlos Bocanegra,carlos_bocanegra.php
+395,2010,Argelia,Eslovenia,"1ra Ronda, Grupo C",C,Argelia,Anther Yahia,anther_yahia.php
+396,2010,Argelia,Eslovenia,"1ra Ronda, Grupo C",C,Eslovenia,Robert Koren,robert_koren.php
+397,2010,Alemania,Australia,"1ra Ronda, Grupo D",D,Alemania,Philipp Lahm,philipp_lahm.php
+398,2010,Alemania,Australia,"1ra Ronda, Grupo D",D,Australia,Lucas Neill,lucas_neill.php
+399,2010,Serbia,Ghana,"1ra Ronda, Grupo D",D,Serbia,Dejan Stankovic,dejan_stankovic.php
+400,2010,Serbia,Ghana,"1ra Ronda, Grupo D",D,Ghana,John Mensah,john_mensah.php
+401,2010,Paises Bajos,Dinamarca,"1ra Ronda, Grupo E",E,Paises Bajos,Giovanni Van Bronckhorst,giovanni_van_bronckhorst.php
+402,2010,Paises Bajos,Dinamarca,"1ra Ronda, Grupo E",E,Dinamarca,Martin Jorgensen,martin_jorgensen.php
+403,2010,Japón,Camerún,"1ra Ronda, Grupo E",E,Japón,Makoto Hasebe,makoto_hasebe.php
+404,2010,Japón,Camerún,"1ra Ronda, Grupo E",E,Camerún,Samuel Eto'o,samuel_etoo.php
+405,2010,Italia,Paraguay,"1ra Ronda, Grupo F",F,Italia,Fabio Cannavaro,fabio_cannavaro.php
+406,2010,Italia,Paraguay,"1ra Ronda, Grupo F",F,Paraguay,Justo Villar,justo_villar.php
+407,2010,Nueva Zelanda,Eslovaquia,"1ra Ronda, Grupo F",F,Nueva Zelanda,Ryan Nelsen,ryan_nelsen.php
+408,2010,Nueva Zelanda,Eslovaquia,"1ra Ronda, Grupo F",F,Eslovaquia,Marek Hamsik,marek_hamsik.php
+409,2010,Costa de Marfil,Portugal,"1ra Ronda, Grupo G",G,Costa de Marfil,Kolo Toure,kolo_toure.php
+410,2010,Costa de Marfil,Portugal,"1ra Ronda, Grupo G",G,Portugal,Cristiano Ronaldo,cristiano_ronaldo.php
+411,2010,Brasil,Corea del Norte,"1ra Ronda, Grupo G",G,Brasil,Lucio,lucio.php
+412,2010,Brasil,Corea del Norte,"1ra Ronda, Grupo G",G,Corea del Norte,Yong Jo Hong,yong_jo_hong.php
+413,2010,Honduras,Chile,"1ra Ronda, Grupo H",H,Honduras,Amado Guevara,amado_guevara.php
+414,2010,Honduras,Chile,"1ra Ronda, Grupo H",H,Chile,Claudio Bravo,claudio_bravo.php
+415,2010,España,Suiza,"1ra Ronda, Grupo H",H,España,Iker Casillas,iker_casillas.php
+416,2010,España,Suiza,"1ra Ronda, Grupo H",H,Suiza,Gokhan Inler,gokhan_inler.php
+417,2010,Sudáfrica,Uruguay,"1ra Ronda, Grupo A",A,Sudáfrica,Aaron Mokoena,aaron_mokoena.php
+418,2010,Sudáfrica,Uruguay,"1ra Ronda, Grupo A",A,Uruguay,Diego Lugano,diego_lugano.php
+419,2010,Francia,México,"1ra Ronda, Grupo A",A,Francia,Patrice Evra,patrice_evra.php
+420,2010,Francia,México,"1ra Ronda, Grupo A",A,México,Rafael Marquez,rafael_marquez.php
+421,2010,Grecia,Nigeria,"1ra Ronda, Grupo B",B,Grecia,Georgios Karagounis,georgios_karagounis.php
+422,2010,Grecia,Nigeria,"1ra Ronda, Grupo B",B,Nigeria,Joseph Yobo,joseph_yobo.php
+423,2010,Argentina,Corea del Sur,"1ra Ronda, Grupo B",B,Argentina,Javier Mascherano,javier_mascherano.php
+424,2010,Argentina,Corea del Sur,"1ra Ronda, Grupo B",B,Corea del Sur,Ji Sung Park,ji_sung_park.php
+425,2010,Alemania,Serbia,"1ra Ronda, Grupo D",D,Alemania,Philipp Lahm,philipp_lahm.php
+426,2010,Alemania,Serbia,"1ra Ronda, Grupo D",D,Serbia,Dejan Stankovic,dejan_stankovic.php
+427,2010,Eslovenia,Estados Unidos,"1ra Ronda, Grupo C",C,Eslovenia,Robert Koren,robert_koren.php
+428,2010,Eslovenia,Estados Unidos,"1ra Ronda, Grupo C",C,Estados Unidos,Carlos Bocanegra,carlos_bocanegra.php
+429,2010,Inglaterra,Argelia,"1ra Ronda, Grupo C",C,Inglaterra,Steven Gerrard,steven_gerrard.php
+430,2010,Inglaterra,Argelia,"1ra Ronda, Grupo C",C,Argelia,Anther Yahia,anther_yahia.php
+431,2010,Ghana,Australia,"1ra Ronda, Grupo D",D,Ghana,Richard Kingson,richard_kingson.php
+432,2010,Ghana,Australia,"1ra Ronda, Grupo D",D,Australia,Lucas Neill,lucas_neill.php
+433,2010,Paises Bajos,Japón,"1ra Ronda, Grupo E",E,Paises Bajos,Giovanni Van Bronckhorst,giovanni_van_bronckhorst.php
+434,2010,Paises Bajos,Japón,"1ra Ronda, Grupo E",E,Japón,Makoto Hasebe,makoto_hasebe.php
+435,2010,Camerún,Dinamarca,"1ra Ronda, Grupo E",E,Camerún,Samuel Eto'o,samuel_etoo.php
+436,2010,Camerún,Dinamarca,"1ra Ronda, Grupo E",E,Dinamarca,Jon Dahl Tomasson,jon_dahl_tomasson.php
+437,2010,Eslovaquia,Paraguay,"1ra Ronda, Grupo F",F,Eslovaquia,Marek Hamsik,marek_hamsik.php
+438,2010,Eslovaquia,Paraguay,"1ra Ronda, Grupo F",F,Paraguay,Justo Villar,justo_villar.php
+439,2010,Italia,Nueva Zelanda,"1ra Ronda, Grupo F",F,Italia,Fabio Cannavaro,fabio_cannavaro.php
+440,2010,Italia,Nueva Zelanda,"1ra Ronda, Grupo F",F,Nueva Zelanda,Ryan Nelsen,ryan_nelsen.php
+441,2010,Brasil,Costa de Marfil,"1ra Ronda, Grupo G",G,Brasil,Lucio,lucio.php
+442,2010,Brasil,Costa de Marfil,"1ra Ronda, Grupo G",G,Costa de Marfil,Didier Drogba,didier_drogba.php
+443,2010,Portugal,Corea del Norte,"1ra Ronda, Grupo G",G,Portugal,Cristiano Ronaldo,cristiano_ronaldo.php
+444,2010,Portugal,Corea del Norte,"1ra Ronda, Grupo G",G,Corea del Norte,Yong Jo Hong,yong_jo_hong.php
+445,2010,Chile,Suiza,"1ra Ronda, Grupo H",H,Chile,Claudio Bravo,claudio_bravo.php
+446,2010,Chile,Suiza,"1ra Ronda, Grupo H",H,Suiza,Alexander Frei,alexander_frei.php
+447,2010,España,Honduras,"1ra Ronda, Grupo H",H,España,Iker Casillas,iker_casillas.php
+448,2010,España,Honduras,"1ra Ronda, Grupo H",H,Honduras,Amado Guevara,amado_guevara.php
+449,2010,México,Uruguay,"1ra Ronda, Grupo A",A,México,Cuauhtemoc Blanco,cuauhtemoc_blanco.php
+450,2010,México,Uruguay,"1ra Ronda, Grupo A",A,Uruguay,Diego Lugano,diego_lugano.php
+451,2010,Francia,Sudáfrica,"1ra Ronda, Grupo A",A,Francia,Alou Diarra,alou_diarra.php
+452,2010,Francia,Sudáfrica,"1ra Ronda, Grupo A",A,Sudáfrica,Aaron Mokoena,aaron_mokoena.php
+453,2010,Nigeria,Corea del Sur,"1ra Ronda, Grupo B",B,Nigeria,Nwankwo Kanu,nwankwo_kanu.php
+454,2010,Nigeria,Corea del Sur,"1ra Ronda, Grupo B",B,Corea del Sur,Ji Sung Park,ji_sung_park.php
+455,2010,Grecia,Argentina,"1ra Ronda, Grupo B",B,Grecia,Georgios Karagounis,georgios_karagounis.php
+456,2010,Grecia,Argentina,"1ra Ronda, Grupo B",B,Argentina,Lionel Messi,lionel_messi.php
+457,2010,Eslovenia,Inglaterra,"1ra Ronda, Grupo C",C,Eslovenia,Robert Koren,robert_koren.php
+458,2010,Eslovenia,Inglaterra,"1ra Ronda, Grupo C",C,Inglaterra,Steven Gerrard,steven_gerrard.php
+459,2010,Estados Unidos,Argelia,"1ra Ronda, Grupo C",C,Estados Unidos,Carlos Bocanegra,carlos_bocanegra.php
+460,2010,Estados Unidos,Argelia,"1ra Ronda, Grupo C",C,Argelia,Anther Yahia,anther_yahia.php
+461,2010,Ghana,Alemania,"1ra Ronda, Grupo D",D,Ghana,John Mensah,john_mensah.php
+462,2010,Ghana,Alemania,"1ra Ronda, Grupo D",D,Alemania,Philipp Lahm,philipp_lahm.php
+463,2010,Australia,Serbia,"1ra Ronda, Grupo D",D,Australia,Lucas Neill,lucas_neill.php
+464,2010,Australia,Serbia,"1ra Ronda, Grupo D",D,Serbia,Dejan Stankovic,dejan_stankovic.php
+465,2010,Eslovaquia,Italia,"1ra Ronda, Grupo F",F,Eslovaquia,Marek Hamsik,marek_hamsik.php
+466,2010,Eslovaquia,Italia,"1ra Ronda, Grupo F",F,Italia,Fabio Cannavaro,fabio_cannavaro.php
+467,2010,Paraguay,Nueva Zelanda,"1ra Ronda, Grupo F",F,Paraguay,Denis Caniza,denis_caniza.php
+468,2010,Paraguay,Nueva Zelanda,"1ra Ronda, Grupo F",F,Nueva Zelanda,Ryan Nelsen,ryan_nelsen.php
+469,2010,Dinamarca,Japón,"1ra Ronda, Grupo E",E,Dinamarca,Jon Dahl Tomasson,jon_dahl_tomasson.php
+470,2010,Dinamarca,Japón,"1ra Ronda, Grupo E",E,Japón,Makoto Hasebe,makoto_hasebe.php
+471,2010,Camerún,Paises Bajos,"1ra Ronda, Grupo E",E,Camerún,Samuel Eto'o,samuel_etoo.php
+472,2010,Camerún,Paises Bajos,"1ra Ronda, Grupo E",E,Paises Bajos,Giovanni Van Bronckhorst,giovanni_van_bronckhorst.php
+473,2010,Portugal,Brasil,"1ra Ronda, Grupo G",G,Portugal,Cristiano Ronaldo,cristiano_ronaldo.php
+474,2010,Portugal,Brasil,"1ra Ronda, Grupo G",G,Brasil,Lucio,lucio.php
+475,2010,Corea del Norte,Costa de Marfil,"1ra Ronda, Grupo G",G,Corea del Norte,Yong Jo Hong,yong_jo_hong.php
+476,2010,Corea del Norte,Costa de Marfil,"1ra Ronda, Grupo G",G,Costa de Marfil,Didier Drogba,didier_drogba.php
+477,2010,Chile,España,"1ra Ronda, Grupo H",H,Chile,Claudio Bravo,claudio_bravo.php
+478,2010,Chile,España,"1ra Ronda, Grupo H",H,España,Iker Casillas,iker_casillas.php
+479,2010,Suiza,Honduras,"1ra Ronda, Grupo H",H,Suiza,Gokhan Inler,gokhan_inler.php
+480,2010,Suiza,Honduras,"1ra Ronda, Grupo H",H,Honduras,Noel Valladares,noel_valladares.php
+481,2010,Uruguay,Corea del Sur,Octavos,,Uruguay,Diego Lugano,diego_lugano.php
+482,2010,Uruguay,Corea del Sur,Octavos,,Corea del Sur,Ji Sung Park,ji_sung_park.php
+483,2010,Estados Unidos,Ghana,Octavos,,Estados Unidos,Carlos Bocanegra,carlos_bocanegra.php
+484,2010,Estados Unidos,Ghana,Octavos,,Ghana,John Mensah,john_mensah.php
+485,2010,Alemania,Inglaterra,Octavos,,Alemania,Philipp Lahm,philipp_lahm.php
+486,2010,Alemania,Inglaterra,Octavos,,Inglaterra,Steven Gerrard,steven_gerrard.php
+487,2010,Argentina,México,Octavos,,Argentina,Javier Mascherano,javier_mascherano.php
+488,2010,Argentina,México,Octavos,,México,Rafael Marquez,rafael_marquez.php
+489,2010,Paises Bajos,Eslovaquia,Octavos,,Paises Bajos,Giovanni Van Bronckhorst,giovanni_van_bronckhorst.php
+490,2010,Paises Bajos,Eslovaquia,Octavos,,Eslovaquia,Marek Hamsik,marek_hamsik.php
+491,2010,Brasil,Chile,Octavos,,Brasil,Lucio,lucio.php
+492,2010,Brasil,Chile,Octavos,,Chile,Claudio Bravo,claudio_bravo.php
+493,2010,Paraguay,Japón,Octavos,,Paraguay,Justo Villar,justo_villar.php
+494,2010,Paraguay,Japón,Octavos,,Japón,Makoto Hasebe,makoto_hasebe.php
+495,2010,España,Portugal,Octavos,,España,Iker Casillas,iker_casillas.php
+496,2010,España,Portugal,Octavos,,Portugal,Cristiano Ronaldo,cristiano_ronaldo.php
+497,2010,Paises Bajos,Brasil,Cuartos,,Paises Bajos,Giovanni Van Bronckhorst,giovanni_van_bronckhorst.php
+498,2010,Paises Bajos,Brasil,Cuartos,,Brasil,Lucio,lucio.php
+499,2010,Uruguay,Ghana,Cuartos,,Uruguay,Diego Lugano,diego_lugano.php
+500,2010,Uruguay,Ghana,Cuartos,,Ghana,John Mensah,john_mensah.php
+501,2010,Argentina,Alemania,Cuartos,,Argentina,Javier Mascherano,javier_mascherano.php
+502,2010,Argentina,Alemania,Cuartos,,Alemania,Philipp Lahm,philipp_lahm.php
+503,2010,Paraguay,España,Cuartos,,Paraguay,Justo Villar,justo_villar.php
+504,2010,Paraguay,España,Cuartos,,España,Iker Casillas,iker_casillas.php
+505,2010,Uruguay,Paises Bajos,Semis,,Uruguay,Diego Forlan,diego_forlan.php
+506,2010,Uruguay,Paises Bajos,Semis,,Paises Bajos,Giovanni Van Bronckhorst,giovanni_van_bronckhorst.php
+507,2010,Alemania,España,Semis,,Alemania,Philipp Lahm,philipp_lahm.php
+508,2010,Alemania,España,Semis,,España,Iker Casillas,iker_casillas.php
+509,2010,Uruguay,Alemania,3er Puesto,,Uruguay,Diego Lugano,diego_lugano.php
+510,2010,Uruguay,Alemania,3er Puesto,,Alemania,Bastian Schweinsteiger,bastian_schweinsteiger.php
+511,2010,Paises Bajos,España,Final,,Paises Bajos,Giovanni Van Bronckhorst,giovanni_van_bronckhorst.php
+512,2010,Paises Bajos,España,Final,,España,Iker Casillas,iker_casillas.php
+513,2006,Alemania,Costa Rica,"1ra Ronda, Grupo A",A,Alemania,Bernd Schneider,bernd_schneider.php
+514,2006,Alemania,Costa Rica,"1ra Ronda, Grupo A",A,Costa Rica,Luis Marin,luis_marin_3.php
+515,2006,Polonia,Ecuador,"1ra Ronda, Grupo A",A,Polonia,Jacek Bak,jacek_bak.php
+516,2006,Polonia,Ecuador,"1ra Ronda, Grupo A",A,Ecuador,Ivan Hurtado,ivan_hurtado.php
+517,2006,Inglaterra,Paraguay,"1ra Ronda, Grupo B",B,Inglaterra,David Beckham,david_beckham.php
+518,2006,Inglaterra,Paraguay,"1ra Ronda, Grupo B",B,Paraguay,Carlos Gamarra,carlos_gamarra.php
+519,2006,Trinidad y Tobago,Suecia,"1ra Ronda, Grupo B",B,Trinidad y Tobago,Dwight Yorke,dwight_yorke.php
+520,2006,Trinidad y Tobago,Suecia,"1ra Ronda, Grupo B",B,Suecia,Olof Mellberg,olof_mellberg.php
+521,2006,Argentina,Costa de Marfil,"1ra Ronda, Grupo C",C,Argentina,Juan Sorin,juan_sorin.php
+522,2006,Argentina,Costa de Marfil,"1ra Ronda, Grupo C",C,Costa de Marfil,Didier Drogba,didier_drogba.php
+523,2006,Serbia y Montenegro,Paises Bajos,"1ra Ronda, Grupo C",C,Serbia y Montenegro,Savo Milosevic,savo_milosevic.php
+524,2006,Serbia y Montenegro,Paises Bajos,"1ra Ronda, Grupo C",C,Paises Bajos,Edwin Van Der Sar,edwin_van_der_sar.php
+525,2006,México,Irán,"1ra Ronda, Grupo D",D,México,Rafael Marquez,rafael_marquez.php
+526,2006,México,Irán,"1ra Ronda, Grupo D",D,Irán,Ali Daei,ali_daei.php
+527,2006,Angola,Portugal,"1ra Ronda, Grupo D",D,Angola,Akwa,akwa.php
+528,2006,Angola,Portugal,"1ra Ronda, Grupo D",D,Portugal,Luis Figo,luis_figo.php
+529,2006,Italia,Ghana,"1ra Ronda, Grupo E",E,Italia,Fabio Cannavaro,fabio_cannavaro.php
+530,2006,Italia,Ghana,"1ra Ronda, Grupo E",E,Ghana,Stephen Appiah,stephen_appiah.php
+531,2006,Estados Unidos,República Checa,"1ra Ronda, Grupo E",E,Estados Unidos,Claudio Reyna,claudio_reyna.php
+532,2006,Estados Unidos,República Checa,"1ra Ronda, Grupo E",E,República Checa,Tomas Galasek,tomas_galasek.php
+533,2006,Australia,Japón,"1ra Ronda, Grupo F",F,Australia,Mark Viduka,mark_viduka.php
+534,2006,Australia,Japón,"1ra Ronda, Grupo F",F,Japón,Tsuneyasu Miyamoto,tsuneyasu_miyamoto.php
+535,2006,Brasil,Croacia,"1ra Ronda, Grupo F",F,Brasil,Cafu,cafu.php
+536,2006,Brasil,Croacia,"1ra Ronda, Grupo F",F,Croacia,Niko Kovac,niko_kovac.php
+537,2006,Francia,Suiza,"1ra Ronda, Grupo G",G,Francia,Zinedine Zidane,zinedine_zidane.php
+538,2006,Francia,Suiza,"1ra Ronda, Grupo G",G,Suiza,Johann Vogel,johann_vogel.php
+539,2006,Corea del Sur,Togo,"1ra Ronda, Grupo G",G,Corea del Sur,Woon Jae Lee,woon_jae_lee.php
+540,2006,Corea del Sur,Togo,"1ra Ronda, Grupo G",G,Togo,Jean-Paul Abalo,jean_paul_abalo.php
+541,2006,España,Ucrania,"1ra Ronda, Grupo H",H,España,Iker Casillas,iker_casillas.php
+542,2006,España,Ucrania,"1ra Ronda, Grupo H",H,Ucrania,Andriy Shevchenko,andriy_shevchenko.php
+543,2006,Túnez,Arabia Saudita,"1ra Ronda, Grupo H",H,Túnez,Riadh Bouazizi,riadh_bouazizi.php
+544,2006,Túnez,Arabia Saudita,"1ra Ronda, Grupo H",H,Arabia Saudita,Hussein Al Sulaimani,hussein_al_sulaimani.php
+545,2006,Alemania,Polonia,"1ra Ronda, Grupo A",A,Alemania,Michael Ballack,michael_ballack.php
+546,2006,Alemania,Polonia,"1ra Ronda, Grupo A",A,Polonia,Jacek Bak,jacek_bak.php
+547,2006,Ecuador,Costa Rica,"1ra Ronda, Grupo A",A,Ecuador,Ivan Hurtado,ivan_hurtado.php
+548,2006,Ecuador,Costa Rica,"1ra Ronda, Grupo A",A,Costa Rica,Luis Marin,luis_marin_3.php
+549,2006,Inglaterra,Trinidad y Tobago,"1ra Ronda, Grupo B",B,Inglaterra,David Beckham,david_beckham.php
+550,2006,Inglaterra,Trinidad y Tobago,"1ra Ronda, Grupo B",B,Trinidad y Tobago,Dwight Yorke,dwight_yorke.php
+551,2006,Suecia,Paraguay,"1ra Ronda, Grupo B",B,Suecia,Olof Mellberg,olof_mellberg.php
+552,2006,Suecia,Paraguay,"1ra Ronda, Grupo B",B,Paraguay,Carlos Gamarra,carlos_gamarra.php
+553,2006,Argentina,Serbia y Montenegro,"1ra Ronda, Grupo C",C,Argentina,Juan Sorin,juan_sorin.php
+554,2006,Argentina,Serbia y Montenegro,"1ra Ronda, Grupo C",C,Serbia y Montenegro,Savo Milosevic,savo_milosevic.php
+555,2006,Paises Bajos,Costa de Marfil,"1ra Ronda, Grupo C",C,Paises Bajos,Edwin Van Der Sar,edwin_van_der_sar.php
+556,2006,Paises Bajos,Costa de Marfil,"1ra Ronda, Grupo C",C,Costa de Marfil,Didier Drogba,didier_drogba.php
+557,2006,México,Angola,"1ra Ronda, Grupo D",D,México,Rafael Marquez,rafael_marquez.php
+558,2006,México,Angola,"1ra Ronda, Grupo D",D,Angola,Akwa,akwa.php
+559,2006,Portugal,Irán,"1ra Ronda, Grupo D",D,Portugal,Luis Figo,luis_figo.php
+560,2006,Portugal,Irán,"1ra Ronda, Grupo D",D,Irán,Yahya Golmohammadi,yahya_golmohammadi.php
+561,2006,Italia,Estados Unidos,"1ra Ronda, Grupo E",E,Italia,Fabio Cannavaro,fabio_cannavaro.php
+562,2006,Italia,Estados Unidos,"1ra Ronda, Grupo E",E,Estados Unidos,Claudio Reyna,claudio_reyna.php
+563,2006,República Checa,Ghana,"1ra Ronda, Grupo E",E,República Checa,Tomas Galasek,tomas_galasek.php
+564,2006,República Checa,Ghana,"1ra Ronda, Grupo E",E,Ghana,Stephen Appiah,stephen_appiah.php
+565,2006,Brasil,Australia,"1ra Ronda, Grupo F",F,Brasil,Cafu,cafu.php
+566,2006,Brasil,Australia,"1ra Ronda, Grupo F",F,Australia,Mark Viduka,mark_viduka.php
+567,2006,Japón,Croacia,"1ra Ronda, Grupo F",F,Japón,Tsuneyasu Miyamoto,tsuneyasu_miyamoto.php
+568,2006,Japón,Croacia,"1ra Ronda, Grupo F",F,Croacia,Niko Kovac,niko_kovac.php
+569,2006,Francia,Corea del Sur,"1ra Ronda, Grupo G",G,Francia,Zinedine Zidane,zinedine_zidane.php
+570,2006,Francia,Corea del Sur,"1ra Ronda, Grupo G",G,Corea del Sur,Woon Jae Lee,woon_jae_lee.php
+571,2006,Togo,Suiza,"1ra Ronda, Grupo G",G,Togo,Massamasso Tchangai,massamasso_tchangai.php
+572,2006,Togo,Suiza,"1ra Ronda, Grupo G",G,Suiza,Johann Vogel,johann_vogel.php
+573,2006,España,Túnez,"1ra Ronda, Grupo H",H,España,Iker Casillas,iker_casillas.php
+574,2006,España,Túnez,"1ra Ronda, Grupo H",H,Túnez,Riadh Bouazizi,riadh_bouazizi.php
+575,2006,Arabia Saudita,Ucrania,"1ra Ronda, Grupo H",H,Arabia Saudita,Hussein Al Sulaimani,hussein_al_sulaimani.php
+576,2006,Arabia Saudita,Ucrania,"1ra Ronda, Grupo H",H,Ucrania,Andriy Shevchenko,andriy_shevchenko.php
+577,2006,Ecuador,Alemania,"1ra Ronda, Grupo A",A,Ecuador,Marlon Ayovi,marlon_ayovi.php
+578,2006,Ecuador,Alemania,"1ra Ronda, Grupo A",A,Alemania,Michael Ballack,michael_ballack.php
+579,2006,Costa Rica,Polonia,"1ra Ronda, Grupo A",A,Costa Rica,Luis Marin,luis_marin_3.php
+580,2006,Costa Rica,Polonia,"1ra Ronda, Grupo A",A,Polonia,Jacek Bak,jacek_bak.php
+581,2006,Suecia,Inglaterra,"1ra Ronda, Grupo B",B,Suecia,Olof Mellberg,olof_mellberg.php
+582,2006,Suecia,Inglaterra,"1ra Ronda, Grupo B",B,Inglaterra,David Beckham,david_beckham.php
+583,2006,Paraguay,Trinidad y Tobago,"1ra Ronda, Grupo B",B,Paraguay,Carlos Gamarra,carlos_gamarra.php
+584,2006,Paraguay,Trinidad y Tobago,"1ra Ronda, Grupo B",B,Trinidad y Tobago,Dwight Yorke,dwight_yorke.php
+585,2006,Paises Bajos,Argentina,"1ra Ronda, Grupo C",C,Paises Bajos,Edwin Van Der Sar,edwin_van_der_sar.php
+586,2006,Paises Bajos,Argentina,"1ra Ronda, Grupo C",C,Argentina,Roberto Ayala,roberto_ayala.php
+587,2006,Costa de Marfil,Serbia y Montenegro,"1ra Ronda, Grupo C",C,Costa de Marfil,Cyrille Domoraud,cyrille_domoraud.php
+588,2006,Costa de Marfil,Serbia y Montenegro,"1ra Ronda, Grupo C",C,Serbia y Montenegro,Dejan Stankovic,dejan_stankovic.php
+589,2006,Portugal,México,"1ra Ronda, Grupo D",D,Portugal,Luis Figo,luis_figo.php
+590,2006,Portugal,México,"1ra Ronda, Grupo D",D,México,Rafael Marquez,rafael_marquez.php
+591,2006,Irán,Angola,"1ra Ronda, Grupo D",D,Irán,Ali Daei,ali_daei.php
+592,2006,Irán,Angola,"1ra Ronda, Grupo D",D,Angola,Akwa,akwa.php
+593,2006,República Checa,Italia,"1ra Ronda, Grupo E",E,República Checa,Pavel Nedved,pavel_nedved.php
+594,2006,República Checa,Italia,"1ra Ronda, Grupo E",E,Italia,Fabio Cannavaro,fabio_cannavaro.php
+595,2006,Ghana,Estados Unidos,"1ra Ronda, Grupo E",E,Ghana,Stephen Appiah,stephen_appiah.php
+596,2006,Ghana,Estados Unidos,"1ra Ronda, Grupo E",E,Estados Unidos,Claudio Reyna,claudio_reyna.php
+597,2006,Japón,Brasil,"1ra Ronda, Grupo F",F,Japón,Yuji Nakazawa,yuji_nakazawa.php
+598,2006,Japón,Brasil,"1ra Ronda, Grupo F",F,Brasil,Dida,dida_2.php
+599,2006,Croacia,Australia,"1ra Ronda, Grupo F",F,Croacia,Niko Kovac,niko_kovac.php
+600,2006,Croacia,Australia,"1ra Ronda, Grupo F",F,Australia,Mark Viduka,mark_viduka.php
+601,2006,Togo,Francia,"1ra Ronda, Grupo G",G,Togo,Jean-Paul Abalo,jean_paul_abalo.php
+602,2006,Togo,Francia,"1ra Ronda, Grupo G",G,Francia,Patrick Vieira,patrick_vieira.php
+603,2006,Suiza,Corea del Sur,"1ra Ronda, Grupo G",G,Suiza,Johann Vogel,johann_vogel.php
+604,2006,Suiza,Corea del Sur,"1ra Ronda, Grupo G",G,Corea del Sur,Woon Jae Lee,woon_jae_lee.php
+605,2006,Arabia Saudita,España,"1ra Ronda, Grupo H",H,Arabia Saudita,Sami Al Jaber,sami_al_jaber.php
+606,2006,Arabia Saudita,España,"1ra Ronda, Grupo H",H,España,Raul,raul.php
+607,2006,Ucrania,Túnez,"1ra Ronda, Grupo H",H,Ucrania,Andriy Shevchenko,andriy_shevchenko.php
+608,2006,Ucrania,Túnez,"1ra Ronda, Grupo H",H,Túnez,Riadh Bouazizi,riadh_bouazizi.php
+609,2006,Alemania,Suecia,Octavos,,Alemania,Michael Ballack,michael_ballack.php
+610,2006,Alemania,Suecia,Octavos,,Suecia,Olof Mellberg,olof_mellberg.php
+611,2006,Argentina,México,Octavos,,Argentina,Juan Sorin,juan_sorin.php
+612,2006,Argentina,México,Octavos,,México,Rafael Marquez,rafael_marquez.php
+613,2006,Inglaterra,Ecuador,Octavos,,Inglaterra,David Beckham,david_beckham.php
+614,2006,Inglaterra,Ecuador,Octavos,,Ecuador,Ivan Hurtado,ivan_hurtado.php
+615,2006,Portugal,Paises Bajos,Octavos,,Portugal,Luis Figo,luis_figo.php
+616,2006,Portugal,Paises Bajos,Octavos,,Paises Bajos,Edwin Van Der Sar,edwin_van_der_sar.php
+617,2006,Italia,Australia,Octavos,,Italia,Fabio Cannavaro,fabio_cannavaro.php
+618,2006,Italia,Australia,Octavos,,Australia,Mark Viduka,mark_viduka.php
+619,2006,Suiza,Ucrania,Octavos,,Suiza,Johann Vogel,johann_vogel.php
+620,2006,Suiza,Ucrania,Octavos,,Ucrania,Andriy Shevchenko,andriy_shevchenko.php
+621,2006,Brasil,Ghana,Octavos,,Brasil,Cafu,cafu.php
+622,2006,Brasil,Ghana,Octavos,,Ghana,Stephen Appiah,stephen_appiah.php
+623,2006,España,Francia,Octavos,,España,Raul,raul.php
+624,2006,España,Francia,Octavos,,Francia,Zinedine Zidane,zinedine_zidane.php
+625,2006,Alemania,Argentina,Cuartos,,Alemania,Michael Ballack,michael_ballack.php
+626,2006,Alemania,Argentina,Cuartos,,Argentina,Juan Sorin,juan_sorin.php
+627,2006,Italia,Ucrania,Cuartos,,Italia,Fabio Cannavaro,fabio_cannavaro.php
+628,2006,Italia,Ucrania,Cuartos,,Ucrania,Andriy Shevchenko,andriy_shevchenko.php
+629,2006,Inglaterra,Portugal,Cuartos,,Inglaterra,David Beckham,david_beckham.php
+630,2006,Inglaterra,Portugal,Cuartos,,Portugal,Luis Figo,luis_figo.php
+631,2006,Brasil,Francia,Cuartos,,Brasil,Cafu,cafu.php
+632,2006,Brasil,Francia,Cuartos,,Francia,Zinedine Zidane,zinedine_zidane.php
+633,2006,Alemania,Italia,Semis,,Alemania,Michael Ballack,michael_ballack.php
+634,2006,Alemania,Italia,Semis,,Italia,Fabio Cannavaro,fabio_cannavaro.php
+635,2006,Portugal,Francia,Semis,,Portugal,Luis Figo,luis_figo.php
+636,2006,Portugal,Francia,Semis,,Francia,Zinedine Zidane,zinedine_zidane.php
+637,2006,Alemania,Portugal,3er Puesto,,Alemania,Oliver Kahn,oliver_kahn.php
+638,2006,Alemania,Portugal,3er Puesto,,Portugal,Pauleta,pauleta.php
+639,2006,Italia,Francia,Final,,Italia,Fabio Cannavaro,fabio_cannavaro.php
+640,2006,Italia,Francia,Final,,Francia,Zinedine Zidane,zinedine_zidane.php
+641,2002,Francia,Senegal,"1ra Ronda, Grupo A",A,Francia,Marcel Desailly,marcel_desailly.php
+642,2002,Francia,Senegal,"1ra Ronda, Grupo A",A,Senegal,Aliou Cisse,aliou_cisse.php
+643,2002,Irlanda,Camerún,"1ra Ronda, Grupo E",E,Irlanda,Steve Staunton,steve_staunton.php
+644,2002,Irlanda,Camerún,"1ra Ronda, Grupo E",E,Camerún,Rigobert Song,rigobert_song.php
+645,2002,Uruguay,Dinamarca,"1ra Ronda, Grupo A",A,Uruguay,Paolo Montero,paolo_montero.php
+646,2002,Uruguay,Dinamarca,"1ra Ronda, Grupo A",A,Dinamarca,Jan Heintze,jan_heintze.php
+647,2002,Alemania,Arabia Saudita,"1ra Ronda, Grupo E",E,Alemania,Oliver Kahn,oliver_kahn.php
+648,2002,Alemania,Arabia Saudita,"1ra Ronda, Grupo E",E,Arabia Saudita,Sami Al Jaber,sami_al_jaber.php
+649,2002,Inglaterra,Suecia,"1ra Ronda, Grupo F",F,Inglaterra,David Beckham,david_beckham.php
+650,2002,Inglaterra,Suecia,"1ra Ronda, Grupo F",F,Suecia,Johan Mjallby,johan_mjallby.php
+651,2002,Paraguay,Sudáfrica,"1ra Ronda, Grupo B",B,Paraguay,Carlos Gamarra,carlos_gamarra.php
+652,2002,Paraguay,Sudáfrica,"1ra Ronda, Grupo B",B,Sudáfrica,Lucas Radebe,lucas_radebe.php
+653,2002,Argentina,Nigeria,"1ra Ronda, Grupo F",F,Argentina,Juan Veron,juan_veron.php
+654,2002,Argentina,Nigeria,"1ra Ronda, Grupo F",F,Nigeria,Jay Jay Okocha,jay_jay_okocha.php
+655,2002,España,Eslovenia,"1ra Ronda, Grupo B",B,España,Fernando Hierro,fernando_hierro.php
+656,2002,España,Eslovenia,"1ra Ronda, Grupo B",B,Eslovenia,Ales Ceh,ales_ceh.php
+657,2002,Croacia,México,"1ra Ronda, Grupo G",G,Croacia,Davor Suker,davor_suker.php
+658,2002,Croacia,México,"1ra Ronda, Grupo G",G,México,Rafael Marquez,rafael_marquez.php
+659,2002,Brasil,Turquía,"1ra Ronda, Grupo C",C,Brasil,Cafu,cafu.php
+660,2002,Brasil,Turquía,"1ra Ronda, Grupo C",C,Turquía,Hakan Sukur,hakan_sukur.php
+661,2002,Italia,Ecuador,"1ra Ronda, Grupo G",G,Italia,Paolo Maldini,paolo_maldini.php
+662,2002,Italia,Ecuador,"1ra Ronda, Grupo G",G,Ecuador,Alex Aguinaga,alex_aguinaga.php
+663,2002,China,Costa Rica,"1ra Ronda, Grupo C",C,China,Mingyu Ma,mingyu_ma.php
+664,2002,China,Costa Rica,"1ra Ronda, Grupo C",C,Costa Rica,Erick Lonnis,erick_lonnis.php
+665,2002,Japón,Bélgica,"1ra Ronda, Grupo H",H,Japón,Ryuzo Morioka,ryuzo_morioka.php
+666,2002,Japón,Bélgica,"1ra Ronda, Grupo H",H,Bélgica,Marc Wilmots,marc_wilmots.php
+667,2002,Corea del Sur,Polonia,"1ra Ronda, Grupo D",D,Corea del Sur,Myung Bo Hong,myung_bo_hong.php
+668,2002,Corea del Sur,Polonia,"1ra Ronda, Grupo D",D,Polonia,Tomasz Waldoch,tomasz_waldoch.php
+669,2002,Rusia,Túnez,"1ra Ronda, Grupo H",H,Rusia,Viktor Onopko,viktor_onopko.php
+670,2002,Rusia,Túnez,"1ra Ronda, Grupo H",H,Túnez,Adel El Sellimi,adel_el_sellimi.php
+671,2002,Estados Unidos,Portugal,"1ra Ronda, Grupo D",D,Estados Unidos,Earnie Stewart,earnie_stewart.php
+672,2002,Estados Unidos,Portugal,"1ra Ronda, Grupo D",D,Portugal,Fernando Fernando Couto,fernando_fernando_couto.php
+673,2002,Alemania,Irlanda,"1ra Ronda, Grupo E",E,Alemania,Oliver Kahn,oliver_kahn.php
+674,2002,Alemania,Irlanda,"1ra Ronda, Grupo E",E,Irlanda,Steve Staunton,steve_staunton.php
+675,2002,Francia,Uruguay,"1ra Ronda, Grupo A",A,Francia,Marcel Desailly,marcel_desailly.php
+676,2002,Francia,Uruguay,"1ra Ronda, Grupo A",A,Uruguay,Paolo Montero,paolo_montero.php
+677,2002,Camerún,Arabia Saudita,"1ra Ronda, Grupo E",E,Camerún,Rigobert Song,rigobert_song.php
+678,2002,Camerún,Arabia Saudita,"1ra Ronda, Grupo E",E,Arabia Saudita,Mohammed Al Deayea,mohammed_al_deayea.php
+679,2002,Dinamarca,Senegal,"1ra Ronda, Grupo A",A,Dinamarca,Jan Heintze,jan_heintze.php
+680,2002,Dinamarca,Senegal,"1ra Ronda, Grupo A",A,Senegal,Papa Malick Diop,papa_malick_diop.php
+681,2002,Suecia,Nigeria,"1ra Ronda, Grupo F",F,Suecia,Johan Mjallby,johan_mjallby.php
+682,2002,Suecia,Nigeria,"1ra Ronda, Grupo F",F,Nigeria,Jay Jay Okocha,jay_jay_okocha.php
+683,2002,España,Paraguay,"1ra Ronda, Grupo B",B,España,Fernando Hierro,fernando_hierro.php
+684,2002,España,Paraguay,"1ra Ronda, Grupo B",B,Paraguay,Jose Luis Chilavert,jose_luis_chilavert.php
+685,2002,Argentina,Inglaterra,"1ra Ronda, Grupo F",F,Argentina,Juan Veron,juan_veron.php
+686,2002,Argentina,Inglaterra,"1ra Ronda, Grupo F",F,Inglaterra,David Beckham,david_beckham.php
+687,2002,Sudáfrica,Eslovenia,"1ra Ronda, Grupo B",B,Sudáfrica,Lucas Radebe,lucas_radebe.php
+688,2002,Sudáfrica,Eslovenia,"1ra Ronda, Grupo B",B,Eslovenia,Ales Ceh,ales_ceh.php
+689,2002,Italia,Croacia,"1ra Ronda, Grupo G",G,Italia,Paolo Maldini,paolo_maldini.php
+690,2002,Italia,Croacia,"1ra Ronda, Grupo G",G,Croacia,Robert Jarni,robert_jarni.php
+691,2002,Brasil,China,"1ra Ronda, Grupo C",C,Brasil,Cafu,cafu.php
+692,2002,Brasil,China,"1ra Ronda, Grupo C",C,China,Mingyu Ma,mingyu_ma.php
+693,2002,México,Ecuador,"1ra Ronda, Grupo G",G,México,Rafael Marquez,rafael_marquez.php
+694,2002,México,Ecuador,"1ra Ronda, Grupo G",G,Ecuador,Ivan Hurtado,ivan_hurtado.php
+695,2002,Costa Rica,Turquía,"1ra Ronda, Grupo C",C,Costa Rica,Erick Lonnis,erick_lonnis.php
+696,2002,Costa Rica,Turquía,"1ra Ronda, Grupo C",C,Turquía,Hakan Sukur,hakan_sukur.php
+697,2002,Japón,Rusia,"1ra Ronda, Grupo H",H,Japón,Tsuneyasu Miyamoto,tsuneyasu_miyamoto.php
+698,2002,Japón,Rusia,"1ra Ronda, Grupo H",H,Rusia,Viktor Onopko,viktor_onopko.php
+699,2002,Corea del Sur,Estados Unidos,"1ra Ronda, Grupo D",D,Corea del Sur,Myung Bo Hong,myung_bo_hong.php
+700,2002,Corea del Sur,Estados Unidos,"1ra Ronda, Grupo D",D,Estados Unidos,Claudio Reyna,claudio_reyna.php
+701,2002,Túnez,Bélgica,"1ra Ronda, Grupo H",H,Túnez,Khaled Badra,khaled_badra.php
+702,2002,Túnez,Bélgica,"1ra Ronda, Grupo H",H,Bélgica,Marc Wilmots,marc_wilmots.php
+703,2002,Portugal,Polonia,"1ra Ronda, Grupo D",D,Portugal,Fernando Fernando Couto,fernando_fernando_couto.php
+704,2002,Portugal,Polonia,"1ra Ronda, Grupo D",D,Polonia,Tomasz Waldoch,tomasz_waldoch.php
+705,2002,Dinamarca,Francia,"1ra Ronda, Grupo A",A,Dinamarca,Rene Henriksen,rene_henriksen.php
+706,2002,Dinamarca,Francia,"1ra Ronda, Grupo A",A,Francia,Marcel Desailly,marcel_desailly.php
+707,2002,Senegal,Uruguay,"1ra Ronda, Grupo A",A,Senegal,Aliou Cisse,aliou_cisse.php
+708,2002,Senegal,Uruguay,"1ra Ronda, Grupo A",A,Uruguay,Paolo Montero,paolo_montero.php
+709,2002,Camerún,Alemania,"1ra Ronda, Grupo E",E,Camerún,Rigobert Song,rigobert_song.php
+710,2002,Camerún,Alemania,"1ra Ronda, Grupo E",E,Alemania,Oliver Kahn,oliver_kahn.php
+711,2002,Arabia Saudita,Irlanda,"1ra Ronda, Grupo E",E,Arabia Saudita,Mohammed Al Deayea,mohammed_al_deayea.php
+712,2002,Arabia Saudita,Irlanda,"1ra Ronda, Grupo E",E,Irlanda,Steve Staunton,steve_staunton.php
+713,2002,Suecia,Argentina,"1ra Ronda, Grupo F",F,Suecia,Johan Mjallby,johan_mjallby.php
+714,2002,Suecia,Argentina,"1ra Ronda, Grupo F",F,Argentina,Gabriel Batistuta,gabriel_batistuta.php
+715,2002,Nigeria,Inglaterra,"1ra Ronda, Grupo F",F,Nigeria,Jay Jay Okocha,jay_jay_okocha.php
+716,2002,Nigeria,Inglaterra,"1ra Ronda, Grupo F",F,Inglaterra,David Beckham,david_beckham.php
+717,2002,Sudáfrica,España,"1ra Ronda, Grupo B",B,Sudáfrica,Lucas Radebe,lucas_radebe.php
+718,2002,Sudáfrica,España,"1ra Ronda, Grupo B",B,España,Miguel Angel Nadal,miguel_angel_nadal.php
+719,2002,Eslovenia,Paraguay,"1ra Ronda, Grupo B",B,Eslovenia,Ales Ceh,ales_ceh.php
+720,2002,Eslovenia,Paraguay,"1ra Ronda, Grupo B",B,Paraguay,Jose Luis Chilavert,jose_luis_chilavert.php
+721,2002,Costa Rica,Brasil,"1ra Ronda, Grupo C",C,Costa Rica,Erick Lonnis,erick_lonnis.php
+722,2002,Costa Rica,Brasil,"1ra Ronda, Grupo C",C,Brasil,Cafu,cafu.php
+723,2002,Turquía,China,"1ra Ronda, Grupo C",C,Turquía,Hakan Sukur,hakan_sukur.php
+724,2002,Turquía,China,"1ra Ronda, Grupo C",C,China,Jin Jiang,jin_jiang.php
+725,2002,México,Italia,"1ra Ronda, Grupo G",G,México,Rafael Marquez,rafael_marquez.php
+726,2002,México,Italia,"1ra Ronda, Grupo G",G,Italia,Paolo Maldini,paolo_maldini.php
+727,2002,Ecuador,Croacia,"1ra Ronda, Grupo G",G,Ecuador,Ivan Hurtado,ivan_hurtado.php
+728,2002,Ecuador,Croacia,"1ra Ronda, Grupo G",G,Croacia,Robert Jarni,robert_jarni.php
+729,2002,Túnez,Japón,"1ra Ronda, Grupo H",H,Túnez,Khaled Badra,khaled_badra.php
+730,2002,Túnez,Japón,"1ra Ronda, Grupo H",H,Japón,Tsuneyasu Miyamoto,tsuneyasu_miyamoto.php
+731,2002,Bélgica,Rusia,"1ra Ronda, Grupo H",H,Bélgica,Marc Wilmots,marc_wilmots.php
+732,2002,Bélgica,Rusia,"1ra Ronda, Grupo H",H,Rusia,Viktor Onopko,viktor_onopko.php
+733,2002,Portugal,Corea del Sur,"1ra Ronda, Grupo D",D,Portugal,Fernando Fernando Couto,fernando_fernando_couto.php
+734,2002,Portugal,Corea del Sur,"1ra Ronda, Grupo D",D,Corea del Sur,Myung Bo Hong,myung_bo_hong.php
+735,2002,Polonia,Estados Unidos,"1ra Ronda, Grupo D",D,Polonia,Jacek Zielinski,jacek_zielinski.php
+736,2002,Polonia,Estados Unidos,"1ra Ronda, Grupo D",D,Estados Unidos,Claudio Reyna,claudio_reyna.php
+737,2002,Alemania,Paraguay,Octavos,,Alemania,Oliver Kahn,oliver_kahn.php
+738,2002,Alemania,Paraguay,Octavos,,Paraguay,Jose Luis Chilavert,jose_luis_chilavert.php
+739,2002,Dinamarca,Inglaterra,Octavos,,Dinamarca,Rene Henriksen,rene_henriksen.php
+740,2002,Dinamarca,Inglaterra,Octavos,,Inglaterra,David Beckham,david_beckham.php
+741,2002,Suecia,Senegal,Octavos,,Suecia,Johan Mjallby,johan_mjallby.php
+742,2002,Suecia,Senegal,Octavos,,Senegal,Aliou Cisse,aliou_cisse.php
+743,2002,España,Irlanda,Octavos,,España,Fernando Hierro,fernando_hierro.php
+744,2002,España,Irlanda,Octavos,,Irlanda,Steve Staunton,steve_staunton.php
+745,2002,México,Estados Unidos,Octavos,,México,Rafael Marquez,rafael_marquez.php
+746,2002,México,Estados Unidos,Octavos,,Estados Unidos,Claudio Reyna,claudio_reyna.php
+747,2002,Brasil,Bélgica,Octavos,,Brasil,Cafu,cafu.php
+748,2002,Brasil,Bélgica,Octavos,,Bélgica,Marc Wilmots,marc_wilmots.php
+749,2002,Japón,Turquía,Octavos,,Japón,Tsuneyasu Miyamoto,tsuneyasu_miyamoto.php
+750,2002,Japón,Turquía,Octavos,,Turquía,Hakan Sukur,hakan_sukur.php
+751,2002,Corea del Sur,Italia,Octavos,,Corea del Sur,Myung Bo Hong,myung_bo_hong.php
+752,2002,Corea del Sur,Italia,Octavos,,Italia,Paolo Maldini,paolo_maldini.php
+753,2002,Inglaterra,Brasil,Cuartos,,Inglaterra,David Beckham,david_beckham.php
+754,2002,Inglaterra,Brasil,Cuartos,,Brasil,Cafu,cafu.php
+755,2002,Alemania,Estados Unidos,Cuartos,,Alemania,Oliver Kahn,oliver_kahn.php
+756,2002,Alemania,Estados Unidos,Cuartos,,Estados Unidos,Claudio Reyna,claudio_reyna.php
+757,2002,España,Corea del Sur,Cuartos,,España,Fernando Hierro,fernando_hierro.php
+758,2002,España,Corea del Sur,Cuartos,,Corea del Sur,Myung Bo Hong,myung_bo_hong.php
+759,2002,Senegal,Turquía,Cuartos,,Senegal,Aliou Cisse,aliou_cisse.php
+760,2002,Senegal,Turquía,Cuartos,,Turquía,Hakan Sukur,hakan_sukur.php
+761,2002,Alemania,Corea del Sur,Semis,,Alemania,Oliver Kahn,oliver_kahn.php
+762,2002,Alemania,Corea del Sur,Semis,,Corea del Sur,Myung Bo Hong,myung_bo_hong.php
+763,2002,Brasil,Turquía,Semis,,Brasil,Cafu,cafu.php
+764,2002,Brasil,Turquía,Semis,,Turquía,Hakan Sukur,hakan_sukur.php
+765,2002,Corea del Sur,Turquía,3er Puesto,,Corea del Sur,Myung Bo Hong,myung_bo_hong.php
+766,2002,Corea del Sur,Turquía,3er Puesto,,Turquía,Hakan Sukur,hakan_sukur.php
+767,2002,Alemania,Brasil,Final,,Alemania,Oliver Kahn,oliver_kahn.php
+768,2002,Alemania,Brasil,Final,,Brasil,Cafu,cafu.php
+769,1998,Brasil,Escocia,"1ra Ronda, Grupo A",A,Brasil,Dunga,dunga.php
+770,1998,Brasil,Escocia,"1ra Ronda, Grupo A",A,Escocia,Colin Hendry,colin_hendry.php
+771,1998,Marruecos,Noruega,"1ra Ronda, Grupo A",A,Marruecos,Noureddine Naybet,noureddine_naybet.php
+772,1998,Marruecos,Noruega,"1ra Ronda, Grupo A",A,Noruega,Frode Grodas,frode_grodas.php
+773,1998,Camerún,Austria,"1ra Ronda, Grupo B",B,Camerún,Francois Omam-Biyik,francois_omam_biyik.php
+774,1998,Camerún,Austria,"1ra Ronda, Grupo B",B,Austria,Toni Polster,toni_polster.php
+775,1998,Italia,Chile,"1ra Ronda, Grupo B",B,Italia,Paolo Maldini,paolo_maldini.php
+776,1998,Italia,Chile,"1ra Ronda, Grupo B",B,Chile,Ivan Zamorano,ivan_zamorano.php
+777,1998,Arabia Saudita,Dinamarca,"1ra Ronda, Grupo C",C,Arabia Saudita,Fuad Amin,fuad_amin.php
+778,1998,Arabia Saudita,Dinamarca,"1ra Ronda, Grupo C",C,Dinamarca,Michael Laudrup,michael_laudrup.php
+779,1998,Francia,Sudáfrica,"1ra Ronda, Grupo C",C,Francia,Didier Deschamps,didier_deschamps.php
+780,1998,Francia,Sudáfrica,"1ra Ronda, Grupo C",C,Sudáfrica,Lucas Radebe,lucas_radebe.php
+781,1998,Paraguay,Bulgaria,"1ra Ronda, Grupo D",D,Paraguay,Jose Luis Chilavert,jose_luis_chilavert.php
+782,1998,Paraguay,Bulgaria,"1ra Ronda, Grupo D",D,Bulgaria,Trifon Ivanov,trifon_ivanov.php
+783,1998,Paises Bajos,Bélgica,"1ra Ronda, Grupo E",E,Paises Bajos,Frank De Boer,frank_de_boer.php
+784,1998,Paises Bajos,Bélgica,"1ra Ronda, Grupo E",E,Bélgica,Franky Van Der Elst,franky_van_der_elst.php
+785,1998,Corea del Sur,México,"1ra Ronda, Grupo E",E,Corea del Sur,Sang Chul Yoo,sang_chul_yoo.php
+786,1998,Corea del Sur,México,"1ra Ronda, Grupo E",E,México,Alberto Garcia Aspe,alberto_garcia_aspe.php
+787,1998,España,Nigeria,"1ra Ronda, Grupo D",D,España,Andoni Zubizarreta,andoni_zubizarreta.php
+788,1998,España,Nigeria,"1ra Ronda, Grupo D",D,Nigeria,Uche Okechukwu,uche_okechukwu.php
+789,1998,Jamaica,Croacia,"1ra Ronda, Grupo H",H,Jamaica,Warren Barrett,warren_barrett.php
+790,1998,Jamaica,Croacia,"1ra Ronda, Grupo H",H,Croacia,Zvonimir Boban,zvonimir_boban.php
+791,1998,RF de Yugoslavia,Irán,"1ra Ronda, Grupo F",F,RF de Yugoslavia,Dragan Stojkovic,dragan_stojkovic.php
+792,1998,RF de Yugoslavia,Irán,"1ra Ronda, Grupo F",F,Irán,Nader Khani,nader_khani.php
+793,1998,Argentina,Japón,"1ra Ronda, Grupo H",H,Argentina,Diego Simeone,diego_simeone.php
+794,1998,Argentina,Japón,"1ra Ronda, Grupo H",H,Japón,Masami Ihara,masami_ihara.php
+795,1998,Alemania,Estados Unidos,"1ra Ronda, Grupo F",F,Alemania,Juergen Klinsmann,juergen_klinsmann.php
+796,1998,Alemania,Estados Unidos,"1ra Ronda, Grupo F",F,Estados Unidos,Thomas Dooley,thomas_dooley.php
+797,1998,Rumania,Colombia,"1ra Ronda, Grupo G",G,Rumania,Gheorghe Hagi,gheorghe_hagi.php
+798,1998,Rumania,Colombia,"1ra Ronda, Grupo G",G,Colombia,Carlos Valderrama,carlos_valderrama.php
+799,1998,Inglaterra,Túnez,"1ra Ronda, Grupo G",G,Inglaterra,Alan Shearer,alan_shearer.php
+800,1998,Inglaterra,Túnez,"1ra Ronda, Grupo G",G,Túnez,Sami Trabelsi,sami_trabelsi.php
+801,1998,Escocia,Noruega,"1ra Ronda, Grupo A",A,Escocia,Colin Hendry,colin_hendry.php
+802,1998,Escocia,Noruega,"1ra Ronda, Grupo A",A,Noruega,Frode Grodas,frode_grodas.php
+803,1998,Brasil,Marruecos,"1ra Ronda, Grupo A",A,Brasil,Dunga,dunga.php
+804,1998,Brasil,Marruecos,"1ra Ronda, Grupo A",A,Marruecos,Noureddine Naybet,noureddine_naybet.php
+805,1998,Chile,Austria,"1ra Ronda, Grupo B",B,Chile,Ivan Zamorano,ivan_zamorano.php
+806,1998,Chile,Austria,"1ra Ronda, Grupo B",B,Austria,Toni Polster,toni_polster.php
+807,1998,Italia,Camerún,"1ra Ronda, Grupo B",B,Italia,Paolo Maldini,paolo_maldini.php
+808,1998,Italia,Camerún,"1ra Ronda, Grupo B",B,Camerún,Francois Omam-Biyik,francois_omam_biyik.php
+809,1998,Francia,Arabia Saudita,"1ra Ronda, Grupo C",C,Francia,Didier Deschamps,didier_deschamps.php
+810,1998,Francia,Arabia Saudita,"1ra Ronda, Grupo C",C,Arabia Saudita,Fuad Amin,fuad_amin.php
+811,1998,Sudáfrica,Dinamarca,"1ra Ronda, Grupo C",C,Sudáfrica,Lucas Radebe,lucas_radebe.php
+812,1998,Sudáfrica,Dinamarca,"1ra Ronda, Grupo C",C,Dinamarca,Michael Laudrup,michael_laudrup.php
+813,1998,Nigeria,Bulgaria,"1ra Ronda, Grupo D",D,Nigeria,Uche Okechukwu,uche_okechukwu.php
+814,1998,Nigeria,Bulgaria,"1ra Ronda, Grupo D",D,Bulgaria,Trifon Ivanov,trifon_ivanov.php
+815,1998,España,Paraguay,"1ra Ronda, Grupo D",D,España,Andoni Zubizarreta,andoni_zubizarreta.php
+816,1998,España,Paraguay,"1ra Ronda, Grupo D",D,Paraguay,Jose Luis Chilavert,jose_luis_chilavert.php
+817,1998,Paises Bajos,Corea del Sur,"1ra Ronda, Grupo E",E,Paises Bajos,Frank De Boer,frank_de_boer.php
+818,1998,Paises Bajos,Corea del Sur,"1ra Ronda, Grupo E",E,Corea del Sur,Sang Chul Yoo,sang_chul_yoo.php
+819,1998,Bélgica,México,"1ra Ronda, Grupo E",E,Bélgica,Franky Van Der Elst,franky_van_der_elst.php
+820,1998,Bélgica,México,"1ra Ronda, Grupo E",E,México,Alberto Garcia Aspe,alberto_garcia_aspe.php
+821,1998,Japón,Croacia,"1ra Ronda, Grupo H",H,Japón,Masami Ihara,masami_ihara.php
+822,1998,Japón,Croacia,"1ra Ronda, Grupo H",H,Croacia,Davor Suker,davor_suker.php
+823,1998,Argentina,Jamaica,"1ra Ronda, Grupo H",H,Argentina,Diego Simeone,diego_simeone.php
+824,1998,Argentina,Jamaica,"1ra Ronda, Grupo H",H,Jamaica,Warren Barrett,warren_barrett.php
+825,1998,Alemania,RF de Yugoslavia,"1ra Ronda, Grupo F",F,Alemania,Juergen Klinsmann,juergen_klinsmann.php
+826,1998,Alemania,RF de Yugoslavia,"1ra Ronda, Grupo F",F,RF de Yugoslavia,Dragan Stojkovic,dragan_stojkovic.php
+827,1998,Estados Unidos,Irán,"1ra Ronda, Grupo F",F,Estados Unidos,Thomas Dooley,thomas_dooley.php
+828,1998,Estados Unidos,Irán,"1ra Ronda, Grupo F",F,Irán,Ahmed Abedzadeh,ahmed_abedzadeh.php
+829,1998,Colombia,Túnez,"1ra Ronda, Grupo G",G,Colombia,Carlos Valderrama,carlos_valderrama.php
+830,1998,Colombia,Túnez,"1ra Ronda, Grupo G",G,Túnez,Sami Trabelsi,sami_trabelsi.php
+831,1998,Rumania,Inglaterra,"1ra Ronda, Grupo G",G,Rumania,Gheorghe Hagi,gheorghe_hagi.php
+832,1998,Rumania,Inglaterra,"1ra Ronda, Grupo G",G,Inglaterra,Alan Shearer,alan_shearer.php
+833,1998,Italia,Austria,"1ra Ronda, Grupo B",B,Italia,Paolo Maldini,paolo_maldini.php
+834,1998,Italia,Austria,"1ra Ronda, Grupo B",B,Austria,Toni Polster,toni_polster.php
+835,1998,Escocia,Marruecos,"1ra Ronda, Grupo A",A,Escocia,Colin Hendry,colin_hendry.php
+836,1998,Escocia,Marruecos,"1ra Ronda, Grupo A",A,Marruecos,Noureddine Naybet,noureddine_naybet.php
+837,1998,Brasil,Noruega,"1ra Ronda, Grupo A",A,Brasil,Dunga,dunga.php
+838,1998,Brasil,Noruega,"1ra Ronda, Grupo A",A,Noruega,Frode Grodas,frode_grodas.php
+839,1998,Chile,Camerún,"1ra Ronda, Grupo B",B,Chile,Ivan Zamorano,ivan_zamorano.php
+840,1998,Chile,Camerún,"1ra Ronda, Grupo B",B,Camerún,Francois Omam-Biyik,francois_omam_biyik.php
+841,1998,España,Bulgaria,"1ra Ronda, Grupo D",D,España,Andoni Zubizarreta,andoni_zubizarreta.php
+842,1998,España,Bulgaria,"1ra Ronda, Grupo D",D,Bulgaria,Trifon Ivanov,trifon_ivanov.php
+843,1998,Francia,Dinamarca,"1ra Ronda, Grupo C",C,Francia,Marcel Desailly,marcel_desailly.php
+844,1998,Francia,Dinamarca,"1ra Ronda, Grupo C",C,Dinamarca,Michael Laudrup,michael_laudrup.php
+845,1998,Nigeria,Paraguay,"1ra Ronda, Grupo D",D,Nigeria,Nwankwo Kanu,nwankwo_kanu.php
+846,1998,Nigeria,Paraguay,"1ra Ronda, Grupo D",D,Paraguay,Jose Luis Chilavert,jose_luis_chilavert.php
+847,1998,Sudáfrica,Arabia Saudita,"1ra Ronda, Grupo C",C,Sudáfrica,Lucas Radebe,lucas_radebe.php
+848,1998,Sudáfrica,Arabia Saudita,"1ra Ronda, Grupo C",C,Arabia Saudita,Fuad Amin,fuad_amin.php
+849,1998,Bélgica,Corea del Sur,"1ra Ronda, Grupo E",E,Bélgica,Enzo Scifo,enzo_scifo.php
+850,1998,Bélgica,Corea del Sur,"1ra Ronda, Grupo E",E,Corea del Sur,Sang Chul Yoo,sang_chul_yoo.php
+851,1998,Paises Bajos,México,"1ra Ronda, Grupo E",E,Paises Bajos,Frank De Boer,frank_de_boer.php
+852,1998,Paises Bajos,México,"1ra Ronda, Grupo E",E,México,Alberto Garcia Aspe,alberto_garcia_aspe.php
+853,1998,Alemania,Irán,"1ra Ronda, Grupo F",F,Alemania,Juergen Klinsmann,juergen_klinsmann.php
+854,1998,Alemania,Irán,"1ra Ronda, Grupo F",F,Irán,Ahmed Abedzadeh,ahmed_abedzadeh.php
+855,1998,Estados Unidos,RF de Yugoslavia,"1ra Ronda, Grupo F",F,Estados Unidos,Thomas Dooley,thomas_dooley.php
+856,1998,Estados Unidos,RF de Yugoslavia,"1ra Ronda, Grupo F",F,RF de Yugoslavia,Dragan Stojkovic,dragan_stojkovic.php
+857,1998,Rumania,Túnez,"1ra Ronda, Grupo G",G,Rumania,Gheorghe Hagi,gheorghe_hagi.php
+858,1998,Rumania,Túnez,"1ra Ronda, Grupo G",G,Túnez,Sami Trabelsi,sami_trabelsi.php
+859,1998,Colombia,Inglaterra,"1ra Ronda, Grupo G",G,Colombia,Carlos Valderrama,carlos_valderrama.php
+860,1998,Colombia,Inglaterra,"1ra Ronda, Grupo G",G,Inglaterra,Alan Shearer,alan_shearer.php
+861,1998,Japón,Jamaica,"1ra Ronda, Grupo H",H,Japón,Masami Ihara,masami_ihara.php
+862,1998,Japón,Jamaica,"1ra Ronda, Grupo H",H,Jamaica,Ian Goodison,ian_goodison.php
+863,1998,Argentina,Croacia,"1ra Ronda, Grupo H",H,Argentina,Gabriel Batistuta,gabriel_batistuta.php
+864,1998,Argentina,Croacia,"1ra Ronda, Grupo H",H,Croacia,Zvonimir Boban,zvonimir_boban.php
+865,1998,Brasil,Chile,Octavos,,Brasil,Dunga,dunga.php
+866,1998,Brasil,Chile,Octavos,,Chile,Ivan Zamorano,ivan_zamorano.php
+867,1998,Italia,Noruega,Octavos,,Italia,Paolo Maldini,paolo_maldini.php
+868,1998,Italia,Noruega,Octavos,,Noruega,Frode Grodas,frode_grodas.php
+869,1998,Nigeria,Dinamarca,Octavos,,Nigeria,Uche Okechukwu,uche_okechukwu.php
+870,1998,Nigeria,Dinamarca,Octavos,,Dinamarca,Michael Laudrup,michael_laudrup.php
+871,1998,Francia,Paraguay,Octavos,,Francia,Didier Deschamps,didier_deschamps.php
+872,1998,Francia,Paraguay,Octavos,,Paraguay,Jose Luis Chilavert,jose_luis_chilavert.php
+873,1998,Alemania,México,Octavos,,Alemania,Juergen Klinsmann,juergen_klinsmann.php
+874,1998,Alemania,México,Octavos,,México,Alberto Garcia Aspe,alberto_garcia_aspe.php
+875,1998,Paises Bajos,RF de Yugoslavia,Octavos,,Paises Bajos,Frank De Boer,frank_de_boer.php
+876,1998,Paises Bajos,RF de Yugoslavia,Octavos,,RF de Yugoslavia,Dragan Stojkovic,dragan_stojkovic.php
+877,1998,Argentina,Inglaterra,Octavos,,Argentina,Diego Simeone,diego_simeone.php
+878,1998,Argentina,Inglaterra,Octavos,,Inglaterra,Alan Shearer,alan_shearer.php
+879,1998,Rumania,Croacia,Octavos,,Rumania,Gheorghe Hagi,gheorghe_hagi.php
+880,1998,Rumania,Croacia,Octavos,,Croacia,Zvonimir Boban,zvonimir_boban.php
+881,1998,Italia,Francia,Cuartos,,Italia,Paolo Maldini,paolo_maldini.php
+882,1998,Italia,Francia,Cuartos,,Francia,Didier Deschamps,didier_deschamps.php
+883,1998,Brasil,Dinamarca,Cuartos,,Brasil,Dunga,dunga.php
+884,1998,Brasil,Dinamarca,Cuartos,,Dinamarca,Michael Laudrup,michael_laudrup.php
+885,1998,Alemania,Croacia,Cuartos,,Alemania,Juergen Klinsmann,juergen_klinsmann.php
+886,1998,Alemania,Croacia,Cuartos,,Croacia,Zvonimir Boban,zvonimir_boban.php
+887,1998,Paises Bajos,Argentina,Cuartos,,Paises Bajos,Frank De Boer,frank_de_boer.php
+888,1998,Paises Bajos,Argentina,Cuartos,,Argentina,Diego Simeone,diego_simeone.php
+889,1998,Brasil,Paises Bajos,Semis,,Brasil,Dunga,dunga.php
+890,1998,Brasil,Paises Bajos,Semis,,Paises Bajos,Frank De Boer,frank_de_boer.php
+891,1998,Francia,Croacia,Semis,,Francia,Didier Deschamps,didier_deschamps.php
+892,1998,Francia,Croacia,Semis,,Croacia,Zvonimir Boban,zvonimir_boban.php
+893,1998,Paises Bajos,Croacia,3er Puesto,,Paises Bajos,Phillip Cocu,phillip_cocu.php
+894,1998,Paises Bajos,Croacia,3er Puesto,,Croacia,Zvonimir Boban,zvonimir_boban.php
+895,1998,Brasil,Francia,Final,,Brasil,Dunga,dunga.php
+896,1998,Brasil,Francia,Final,,Francia,Didier Deschamps,didier_deschamps.php
+897,1994,Alemania,Bolivia,"1ra Ronda, Grupo C",C,Alemania,Lothar Matthaeus,lothar_matthaeus.php
+898,1994,Alemania,Bolivia,"1ra Ronda, Grupo C",C,Bolivia,Carlos Borja,carlos_borja.php
+899,1994,España,Corea del Sur,"1ra Ronda, Grupo C",C,España,Miguel Angel Nadal,miguel_angel_nadal.php
+900,1994,España,Corea del Sur,"1ra Ronda, Grupo C",C,Corea del Sur,In Young Choi,in_young_choi.php
+901,1994,Estados Unidos,Suiza,"1ra Ronda, Grupo A",A,Estados Unidos,Tony Meola,tony_meola.php
+902,1994,Estados Unidos,Suiza,"1ra Ronda, Grupo A",A,Suiza,Alain Geiger,alain_geiger.php
+903,1994,Italia,Irlanda,"1ra Ronda, Grupo E",E,Italia,Franco Baresi,franco_baresi.php
+904,1994,Italia,Irlanda,"1ra Ronda, Grupo E",E,Irlanda,Andy Townsend,andy_townsend.php
+905,1994,Colombia,Rumania,"1ra Ronda, Grupo A",A,Colombia,Carlos Valderrama,carlos_valderrama.php
+906,1994,Colombia,Rumania,"1ra Ronda, Grupo A",A,Rumania,Gheorghe Hagi,gheorghe_hagi.php
+907,1994,Bélgica,Marruecos,"1ra Ronda, Grupo F",F,Bélgica,Georges Grun,georges_grun.php
+908,1994,Bélgica,Marruecos,"1ra Ronda, Grupo F",F,Marruecos,Mustapha El Hadaoui,mustapha_el_hadaoui.php
+909,1994,Noruega,México,"1ra Ronda, Grupo E",E,Noruega,Rune Bratseth,rune_bratseth.php
+910,1994,Noruega,México,"1ra Ronda, Grupo E",E,México,Ignacio Ambriz,ignacio_ambriz.php
+911,1994,Camerún,Suecia,"1ra Ronda, Grupo B",B,Camerún,Stephen Tataw,stephen_tataw.php
+912,1994,Camerún,Suecia,"1ra Ronda, Grupo B",B,Suecia,Jonas Thern,jonas_thern.php
+913,1994,Brasil,Rusia,"1ra Ronda, Grupo B",B,Brasil,Rai,rai.php
+914,1994,Brasil,Rusia,"1ra Ronda, Grupo B",B,Rusia,Dmitri Kharin,dmitri_kharin.php
+915,1994,Paises Bajos,Arabia Saudita,"1ra Ronda, Grupo F",F,Paises Bajos,Ronald Koeman,ronald_koeman.php
+916,1994,Paises Bajos,Arabia Saudita,"1ra Ronda, Grupo F",F,Arabia Saudita,Majed Abdullah,majed_abdullah.php
+917,1994,Argentina,Grecia,"1ra Ronda, Grupo D",D,Argentina,Diego Maradona,diego_maradona.php
+918,1994,Argentina,Grecia,"1ra Ronda, Grupo D",D,Grecia,Dimitrios Saravakos,dimitrios_saravakos.php
+919,1994,Alemania,España,"1ra Ronda, Grupo C",C,Alemania,Lothar Matthaeus,lothar_matthaeus.php
+920,1994,Alemania,España,"1ra Ronda, Grupo C",C,España,Andoni Zubizarreta,andoni_zubizarreta.php
+921,1994,Nigeria,Bulgaria,"1ra Ronda, Grupo D",D,Nigeria,Peter Rufai,peter_rufai.php
+922,1994,Nigeria,Bulgaria,"1ra Ronda, Grupo D",D,Bulgaria,Borislav Mikhailov,borislav_mikhailov.php
+923,1994,Rumania,Suiza,"1ra Ronda, Grupo A",A,Rumania,Gheorghe Hagi,gheorghe_hagi.php
+924,1994,Rumania,Suiza,"1ra Ronda, Grupo A",A,Suiza,Alain Geiger,alain_geiger.php
+925,1994,Estados Unidos,Colombia,"1ra Ronda, Grupo A",A,Estados Unidos,Tony Meola,tony_meola.php
+926,1994,Estados Unidos,Colombia,"1ra Ronda, Grupo A",A,Colombia,Carlos Valderrama,carlos_valderrama.php
+927,1994,Italia,Noruega,"1ra Ronda, Grupo E",E,Italia,Franco Baresi,franco_baresi.php
+928,1994,Italia,Noruega,"1ra Ronda, Grupo E",E,Noruega,Rune Bratseth,rune_bratseth.php
+929,1994,Corea del Sur,Bolivia,"1ra Ronda, Grupo C",C,Corea del Sur,In Young Choi,in_young_choi.php
+930,1994,Corea del Sur,Bolivia,"1ra Ronda, Grupo C",C,Bolivia,Carlos Borja,carlos_borja.php
+931,1994,México,Irlanda,"1ra Ronda, Grupo E",E,México,Ignacio Ambriz,ignacio_ambriz.php
+932,1994,México,Irlanda,"1ra Ronda, Grupo E",E,Irlanda,Andy Townsend,andy_townsend.php
+933,1994,Brasil,Camerún,"1ra Ronda, Grupo B",B,Brasil,Rai,rai.php
+934,1994,Brasil,Camerún,"1ra Ronda, Grupo B",B,Camerún,Stephen Tataw,stephen_tataw.php
+935,1994,Suecia,Rusia,"1ra Ronda, Grupo B",B,Suecia,Jonas Thern,jonas_thern.php
+936,1994,Suecia,Rusia,"1ra Ronda, Grupo B",B,Rusia,Dmitri Kharin,dmitri_kharin.php
+937,1994,Bélgica,Paises Bajos,"1ra Ronda, Grupo F",F,Bélgica,Georges Grun,georges_grun.php
+938,1994,Bélgica,Paises Bajos,"1ra Ronda, Grupo F",F,Paises Bajos,Ronald Koeman,ronald_koeman.php
+939,1994,Arabia Saudita,Marruecos,"1ra Ronda, Grupo F",F,Arabia Saudita,Mohamed Abdeljawad,mohamed_abdeljawad.php
+940,1994,Arabia Saudita,Marruecos,"1ra Ronda, Grupo F",F,Marruecos,Khalil Azmi,khalil_azmi.php
+941,1994,Argentina,Nigeria,"1ra Ronda, Grupo D",D,Argentina,Diego Maradona,diego_maradona.php
+942,1994,Argentina,Nigeria,"1ra Ronda, Grupo D",D,Nigeria,Peter Rufai,peter_rufai.php
+943,1994,Bulgaria,Grecia,"1ra Ronda, Grupo D",D,Bulgaria,Borislav Mikhailov,borislav_mikhailov.php
+944,1994,Bulgaria,Grecia,"1ra Ronda, Grupo D",D,Grecia,Stratos Apostololakis,stratos_apostololakis.php
+945,1994,Estados Unidos,Rumania,"1ra Ronda, Grupo A",A,Estados Unidos,Tony Meola,tony_meola.php
+946,1994,Estados Unidos,Rumania,"1ra Ronda, Grupo A",A,Rumania,Gheorghe Hagi,gheorghe_hagi.php
+947,1994,Suiza,Colombia,"1ra Ronda, Grupo A",A,Suiza,Alain Geiger,alain_geiger.php
+948,1994,Suiza,Colombia,"1ra Ronda, Grupo A",A,Colombia,Carlos Valderrama,carlos_valderrama.php
+949,1994,Bolivia,España,"1ra Ronda, Grupo C",C,Bolivia,Carlos Borja,carlos_borja.php
+950,1994,Bolivia,España,"1ra Ronda, Grupo C",C,España,Andoni Zubizarreta,andoni_zubizarreta.php
+951,1994,Alemania,Corea del Sur,"1ra Ronda, Grupo C",C,Alemania,Lothar Matthaeus,lothar_matthaeus.php
+952,1994,Alemania,Corea del Sur,"1ra Ronda, Grupo C",C,Corea del Sur,In Young Choi,in_young_choi.php
+953,1994,Irlanda,Noruega,"1ra Ronda, Grupo E",E,Irlanda,Andy Townsend,andy_townsend.php
+954,1994,Irlanda,Noruega,"1ra Ronda, Grupo E",E,Noruega,Rune Bratseth,rune_bratseth.php
+955,1994,Italia,México,"1ra Ronda, Grupo E",E,Italia,Paolo Maldini,paolo_maldini.php
+956,1994,Italia,México,"1ra Ronda, Grupo E",E,México,Ignacio Ambriz,ignacio_ambriz.php
+957,1994,Rusia,Camerún,"1ra Ronda, Grupo B",B,Rusia,Viktor Onopko,viktor_onopko.php
+958,1994,Rusia,Camerún,"1ra Ronda, Grupo B",B,Camerún,Stephen Tataw,stephen_tataw.php
+959,1994,Brasil,Suecia,"1ra Ronda, Grupo B",B,Brasil,Rai,rai.php
+960,1994,Brasil,Suecia,"1ra Ronda, Grupo B",B,Suecia,Jonas Thern,jonas_thern.php
+961,1994,Marruecos,Paises Bajos,"1ra Ronda, Grupo F",F,Marruecos,Taher El Khalej,taher_el_khalej.php
+962,1994,Marruecos,Paises Bajos,"1ra Ronda, Grupo F",F,Paises Bajos,Ronald Koeman,ronald_koeman.php
+963,1994,Bélgica,Arabia Saudita,"1ra Ronda, Grupo F",F,Bélgica,Enzo Scifo,enzo_scifo.php
+964,1994,Bélgica,Arabia Saudita,"1ra Ronda, Grupo F",F,Arabia Saudita,Majed Abdullah,majed_abdullah.php
+965,1994,Grecia,Nigeria,"1ra Ronda, Grupo D",D,Grecia,Tassos Mitropoulos,tassos_mitropoulos.php
+966,1994,Grecia,Nigeria,"1ra Ronda, Grupo D",D,Nigeria,Stephen Keshi,stephen_keshi.php
+967,1994,Argentina,Bulgaria,"1ra Ronda, Grupo D",D,Argentina,Oscar Ruggeri,oscar_ruggeri.php
+968,1994,Argentina,Bulgaria,"1ra Ronda, Grupo D",D,Bulgaria,Borislav Mikhailov,borislav_mikhailov.php
+969,1994,Alemania,Bélgica,Octavos,,Alemania,Lothar Matthaeus,lothar_matthaeus.php
+970,1994,Alemania,Bélgica,Octavos,,Bélgica,Georges Grun,georges_grun.php
+971,1994,España,Suiza,Octavos,,España,Andoni Zubizarreta,andoni_zubizarreta.php
+972,1994,España,Suiza,Octavos,,Suiza,Alain Geiger,alain_geiger.php
+973,1994,Arabia Saudita,Suecia,Octavos,,Arabia Saudita,Mohamed Abdeljawad,mohamed_abdeljawad.php
+974,1994,Arabia Saudita,Suecia,Octavos,,Suecia,Jonas Thern,jonas_thern.php
+975,1994,Rumania,Argentina,Octavos,,Rumania,Gheorghe Hagi,gheorghe_hagi.php
+976,1994,Rumania,Argentina,Octavos,,Argentina,Oscar Ruggeri,oscar_ruggeri.php
+977,1994,Paises Bajos,Irlanda,Octavos,,Paises Bajos,Ronald Koeman,ronald_koeman.php
+978,1994,Paises Bajos,Irlanda,Octavos,,Irlanda,Andy Townsend,andy_townsend.php
+979,1994,Brasil,Estados Unidos,Octavos,,Brasil,Dunga,dunga.php
+980,1994,Brasil,Estados Unidos,Octavos,,Estados Unidos,Tony Meola,tony_meola.php
+981,1994,Nigeria,Italia,Octavos,,Nigeria,Peter Rufai,peter_rufai.php
+982,1994,Nigeria,Italia,Octavos,,Italia,Paolo Maldini,paolo_maldini.php
+983,1994,México,Bulgaria,Octavos,,México,Ignacio Ambriz,ignacio_ambriz.php
+984,1994,México,Bulgaria,Octavos,,Bulgaria,Borislav Mikhailov,borislav_mikhailov.php
+985,1994,Italia,España,Cuartos,,Italia,Paolo Maldini,paolo_maldini.php
+986,1994,Italia,España,Cuartos,,España,Andoni Zubizarreta,andoni_zubizarreta.php
+987,1994,Paises Bajos,Brasil,Cuartos,,Paises Bajos,Ronald Koeman,ronald_koeman.php
+988,1994,Paises Bajos,Brasil,Cuartos,,Brasil,Dunga,dunga.php
+989,1994,Bulgaria,Alemania,Cuartos,,Bulgaria,Borislav Mikhailov,borislav_mikhailov.php
+990,1994,Bulgaria,Alemania,Cuartos,,Alemania,Lothar Matthaeus,lothar_matthaeus.php
+991,1994,Rumania,Suecia,Cuartos,,Rumania,Gheorghe Hagi,gheorghe_hagi.php
+992,1994,Rumania,Suecia,Cuartos,,Suecia,Roland Nilsson,roland_nilsson.php
+993,1994,Bulgaria,Italia,Semis,,Bulgaria,Borislav Mikhailov,borislav_mikhailov.php
+994,1994,Bulgaria,Italia,Semis,,Italia,Paolo Maldini,paolo_maldini.php
+995,1994,Suecia,Brasil,Semis,,Suecia,Jonas Thern,jonas_thern.php
+996,1994,Suecia,Brasil,Semis,,Brasil,Dunga,dunga.php
+997,1994,Suecia,Bulgaria,3er Puesto,,Suecia,Roland Nilsson,roland_nilsson.php
+998,1994,Suecia,Bulgaria,3er Puesto,,Bulgaria,Borislav Mikhailov,borislav_mikhailov.php
+999,1994,Brasil,Italia,Final,,Brasil,Dunga,dunga.php
+1000,1994,Brasil,Italia,Final,,Italia,Franco Baresi,franco_baresi.php
+1001,1990,Argentina,Camerún,"1ra Ronda, Grupo B",B,Argentina,Diego Maradona,diego_maradona.php
+1002,1990,Argentina,Camerún,"1ra Ronda, Grupo B",B,Camerún,Stephen Tataw,stephen_tataw.php
+1003,1990,URSS,Rumania,"1ra Ronda, Grupo B",B,URSS,Rinat Dassayev,rinat_dassayev.php
+1004,1990,URSS,Rumania,"1ra Ronda, Grupo B",B,Rumania,Silviu Lung,silviu_lung.php
+1005,1990,Italia,Austria,"1ra Ronda, Grupo A",A,Italia,Giuseppe Bergomi,giuseppe_bergomi.php
+1006,1990,Italia,Austria,"1ra Ronda, Grupo A",A,Austria,Toni Polster,toni_polster.php
+1007,1990,Emiratos Arabes,Colombia,"1ra Ronda, Grupo D",D,Emiratos Arabes,Fahad Khamees,fahad_khamees.php
+1008,1990,Emiratos Arabes,Colombia,"1ra Ronda, Grupo D",D,Colombia,Carlos Valderrama,carlos_valderrama.php
+1009,1990,Estados Unidos,Checoslovaquia,"1ra Ronda, Grupo A",A,Estados Unidos,Michael Windischmann,michael_windischmann.php
+1010,1990,Estados Unidos,Checoslovaquia,"1ra Ronda, Grupo A",A,Checoslovaquia,Ivan Hasek,ivan_hasek.php
+1011,1990,Brasil,Suecia,"1ra Ronda, Grupo C",C,Brasil,Ricardo Gomes,ricardo_gomes.php
+1012,1990,Brasil,Suecia,"1ra Ronda, Grupo C",C,Suecia,Jonas Thern,jonas_thern.php
+1013,1990,Alemania Occidental,Yugoslavia,"1ra Ronda, Grupo D",D,Alemania Occidental,Lothar Matthaeus,lothar_matthaeus.php
+1014,1990,Alemania Occidental,Yugoslavia,"1ra Ronda, Grupo D",D,Yugoslavia,Zlatko Vujovic,zlatko_vujovic.php
+1015,1990,Costa Rica,Escocia,"1ra Ronda, Grupo C",C,Costa Rica,Roger Flores,roger_flores.php
+1016,1990,Costa Rica,Escocia,"1ra Ronda, Grupo C",C,Escocia,Roy Aitken,roy_aitken.php
+1017,1990,Inglaterra,Irlanda,"1ra Ronda, Grupo F",F,Inglaterra,Bryan Robson,bryan_robson.php
+1018,1990,Inglaterra,Irlanda,"1ra Ronda, Grupo F",F,Irlanda,Mick Mc Carthy,mick_mc_carthy.php
+1019,1990,Bélgica,Corea del Sur,"1ra Ronda, Grupo E",E,Bélgica,Eric Gerets,eric_gerets.php
+1020,1990,Bélgica,Corea del Sur,"1ra Ronda, Grupo E",E,Corea del Sur,Yong Hwan Chung,yong_hwan_chung.php
+1021,1990,Paises Bajos,Egipto,"1ra Ronda, Grupo F",F,Paises Bajos,Ruud Gullit,ruud_gullit.php
+1022,1990,Paises Bajos,Egipto,"1ra Ronda, Grupo F",F,Egipto,Gamal Abdelhamid,gamal_abdelhamid.php
+1023,1990,Uruguay,España,"1ra Ronda, Grupo E",E,Uruguay,Enzo Francescoli,enzo_francescoli.php
+1024,1990,Uruguay,España,"1ra Ronda, Grupo E",E,España,Emilio Butragueño,emilio_butragueno.php
+1025,1990,Argentina,URSS,"1ra Ronda, Grupo B",B,Argentina,Diego Maradona,diego_maradona.php
+1026,1990,Argentina,URSS,"1ra Ronda, Grupo B",B,URSS,Oleg Kuznetsov,oleg_kuznetsov.php
+1027,1990,Yugoslavia,Colombia,"1ra Ronda, Grupo D",D,Yugoslavia,Zlatko Vujovic,zlatko_vujovic.php
+1028,1990,Yugoslavia,Colombia,"1ra Ronda, Grupo D",D,Colombia,Carlos Valderrama,carlos_valderrama.php
+1029,1990,Italia,Estados Unidos,"1ra Ronda, Grupo A",A,Italia,Giuseppe Bergomi,giuseppe_bergomi.php
+1030,1990,Italia,Estados Unidos,"1ra Ronda, Grupo A",A,Estados Unidos,Michael Windischmann,michael_windischmann.php
+1031,1990,Camerún,Rumania,"1ra Ronda, Grupo B",B,Camerún,Stephen Tataw,stephen_tataw.php
+1032,1990,Camerún,Rumania,"1ra Ronda, Grupo B",B,Rumania,Silviu Lung,silviu_lung.php
+1033,1990,Austria,Checoslovaquia,"1ra Ronda, Grupo A",A,Austria,Toni Polster,toni_polster.php
+1034,1990,Austria,Checoslovaquia,"1ra Ronda, Grupo A",A,Checoslovaquia,Ivan Hasek,ivan_hasek.php
+1035,1990,Alemania Occidental,Emiratos Arabes,"1ra Ronda, Grupo D",D,Alemania Occidental,Lothar Matthaeus,lothar_matthaeus.php
+1036,1990,Alemania Occidental,Emiratos Arabes,"1ra Ronda, Grupo D",D,Emiratos Arabes,Mohamed Abdullah,mohamed_abdullah.php
+1037,1990,Brasil,Costa Rica,"1ra Ronda, Grupo C",C,Brasil,Ricardo Gomes,ricardo_gomes.php
+1038,1990,Brasil,Costa Rica,"1ra Ronda, Grupo C",C,Costa Rica,Roger Flores,roger_flores.php
+1039,1990,Suecia,Escocia,"1ra Ronda, Grupo C",C,Suecia,Glenn Hysen,glenn_hysen.php
+1040,1990,Suecia,Escocia,"1ra Ronda, Grupo C",C,Escocia,Roy Aitken,roy_aitken.php
+1041,1990,Inglaterra,Paises Bajos,"1ra Ronda, Grupo F",F,Inglaterra,Bryan Robson,bryan_robson.php
+1042,1990,Inglaterra,Paises Bajos,"1ra Ronda, Grupo F",F,Paises Bajos,Ruud Gullit,ruud_gullit.php
+1043,1990,Irlanda,Egipto,"1ra Ronda, Grupo F",F,Irlanda,Paul Mcgrath,paul_mcgrath.php
+1044,1990,Irlanda,Egipto,"1ra Ronda, Grupo F",F,Egipto,Rabie Yassin,rabie_yassin.php
+1045,1990,Bélgica,Uruguay,"1ra Ronda, Grupo E",E,Bélgica,Jan Ceulemans,jan_ceulemans.php
+1046,1990,Bélgica,Uruguay,"1ra Ronda, Grupo E",E,Uruguay,Enzo Francescoli,enzo_francescoli.php
+1047,1990,Corea del Sur,España,"1ra Ronda, Grupo E",E,Corea del Sur,Soon Ho Choi,soon_ho_choi.php
+1048,1990,Corea del Sur,España,"1ra Ronda, Grupo E",E,España,Emilio Butragueño,emilio_butragueno.php
+1049,1990,Argentina,Rumania,"1ra Ronda, Grupo B",B,Argentina,Diego Maradona,diego_maradona.php
+1050,1990,Argentina,Rumania,"1ra Ronda, Grupo B",B,Rumania,Silviu Lung,silviu_lung.php
+1051,1990,Camerún,URSS,"1ra Ronda, Grupo B",B,Camerún,Stephen Tataw,stephen_tataw.php
+1052,1990,Camerún,URSS,"1ra Ronda, Grupo B",B,URSS,Anatoli Demyanenko,anatoli_demyanenko.php
+1053,1990,Alemania Occidental,Colombia,"1ra Ronda, Grupo D",D,Alemania Occidental,Lothar Matthaeus,lothar_matthaeus.php
+1054,1990,Alemania Occidental,Colombia,"1ra Ronda, Grupo D",D,Colombia,Carlos Valderrama,carlos_valderrama.php
+1055,1990,Yugoslavia,Emiratos Arabes,"1ra Ronda, Grupo D",D,Yugoslavia,Zlatko Vujovic,zlatko_vujovic.php
+1056,1990,Yugoslavia,Emiratos Arabes,"1ra Ronda, Grupo D",D,Emiratos Arabes,Mohamed Abdullah,mohamed_abdullah.php
+1057,1990,Italia,Checoslovaquia,"1ra Ronda, Grupo A",A,Italia,Giuseppe Bergomi,giuseppe_bergomi.php
+1058,1990,Italia,Checoslovaquia,"1ra Ronda, Grupo A",A,Checoslovaquia,Ivan Hasek,ivan_hasek.php
+1059,1990,Austria,Estados Unidos,"1ra Ronda, Grupo A",A,Austria,Toni Polster,toni_polster.php
+1060,1990,Austria,Estados Unidos,"1ra Ronda, Grupo A",A,Estados Unidos,Michael Windischmann,michael_windischmann.php
+1061,1990,Brasil,Escocia,"1ra Ronda, Grupo C",C,Brasil,Ricardo Gomes,ricardo_gomes.php
+1062,1990,Brasil,Escocia,"1ra Ronda, Grupo C",C,Escocia,Roy Aitken,roy_aitken.php
+1063,1990,Suecia,Costa Rica,"1ra Ronda, Grupo C",C,Suecia,Glenn Hysen,glenn_hysen.php
+1064,1990,Suecia,Costa Rica,"1ra Ronda, Grupo C",C,Costa Rica,Roger Flores,roger_flores.php
+1065,1990,Bélgica,España,"1ra Ronda, Grupo E",E,Bélgica,Jan Ceulemans,jan_ceulemans.php
+1066,1990,Bélgica,España,"1ra Ronda, Grupo E",E,España,Emilio Butragueño,emilio_butragueno.php
+1067,1990,Corea del Sur,Uruguay,"1ra Ronda, Grupo E",E,Corea del Sur,Soon Ho Choi,soon_ho_choi.php
+1068,1990,Corea del Sur,Uruguay,"1ra Ronda, Grupo E",E,Uruguay,Enzo Francescoli,enzo_francescoli.php
+1069,1990,Inglaterra,Egipto,"1ra Ronda, Grupo F",F,Inglaterra,Peter Shilton,peter_shilton.php
+1070,1990,Inglaterra,Egipto,"1ra Ronda, Grupo F",F,Egipto,Gamal Abdelhamid,gamal_abdelhamid.php
+1071,1990,Irlanda,Paises Bajos,"1ra Ronda, Grupo F",F,Irlanda,Paul Mcgrath,paul_mcgrath.php
+1072,1990,Irlanda,Paises Bajos,"1ra Ronda, Grupo F",F,Paises Bajos,Ruud Gullit,ruud_gullit.php
+1073,1990,Camerún,Colombia,Octavos,,Camerún,Stephen Tataw,stephen_tataw.php
+1074,1990,Camerún,Colombia,Octavos,,Colombia,Carlos Valderrama,carlos_valderrama.php
+1075,1990,Checoslovaquia,Costa Rica,Octavos,,Checoslovaquia,Ivan Hasek,ivan_hasek.php
+1076,1990,Checoslovaquia,Costa Rica,Octavos,,Costa Rica,Roger Flores,roger_flores.php
+1077,1990,Brasil,Argentina,Octavos,,Brasil,Ricardo Gomes,ricardo_gomes.php
+1078,1990,Brasil,Argentina,Octavos,,Argentina,Diego Maradona,diego_maradona.php
+1079,1990,Alemania Occidental,Paises Bajos,Octavos,,Alemania Occidental,Lothar Matthaeus,lothar_matthaeus.php
+1080,1990,Alemania Occidental,Paises Bajos,Octavos,,Paises Bajos,Ruud Gullit,ruud_gullit.php
+1081,1990,Irlanda,Rumania,Octavos,,Irlanda,Paul Mcgrath,paul_mcgrath.php
+1082,1990,Irlanda,Rumania,Octavos,,Rumania,Silviu Lung,silviu_lung.php
+1083,1990,Italia,Uruguay,Octavos,,Italia,Giuseppe Bergomi,giuseppe_bergomi.php
+1084,1990,Italia,Uruguay,Octavos,,Uruguay,Enzo Francescoli,enzo_francescoli.php
+1085,1990,España,Yugoslavia,Octavos,,España,Emilio Butragueño,emilio_butragueno.php
+1086,1990,España,Yugoslavia,Octavos,,Yugoslavia,Zlatko Vujovic,zlatko_vujovic.php
+1087,1990,Inglaterra,Bélgica,Octavos,,Inglaterra,Terry Butcher,terry_butcher.php
+1088,1990,Inglaterra,Bélgica,Octavos,,Bélgica,Jan Ceulemans,jan_ceulemans.php
+1089,1990,Argentina,Yugoslavia,Cuartos,,Argentina,Diego Maradona,diego_maradona.php
+1090,1990,Argentina,Yugoslavia,Cuartos,,Yugoslavia,Zlatko Vujovic,zlatko_vujovic.php
+1091,1990,Italia,Irlanda,Cuartos,,Italia,Giuseppe Bergomi,giuseppe_bergomi.php
+1092,1990,Italia,Irlanda,Cuartos,,Irlanda,Mick Mc Carthy,mick_mc_carthy.php
+1093,1990,Alemania Occidental,Checoslovaquia,Cuartos,,Alemania Occidental,Lothar Matthaeus,lothar_matthaeus.php
+1094,1990,Alemania Occidental,Checoslovaquia,Cuartos,,Checoslovaquia,Ivan Hasek,ivan_hasek.php
+1095,1990,Camerún,Inglaterra,Cuartos,,Camerún,Stephen Tataw,stephen_tataw.php
+1096,1990,Camerún,Inglaterra,Cuartos,,Inglaterra,Terry Butcher,terry_butcher.php
+1097,1990,Italia,Argentina,Semis,,Italia,Giuseppe Bergomi,giuseppe_bergomi.php
+1098,1990,Italia,Argentina,Semis,,Argentina,Diego Maradona,diego_maradona.php
+1099,1990,Inglaterra,Alemania Occidental,Semis,,Inglaterra,Terry Butcher,terry_butcher.php
+1100,1990,Inglaterra,Alemania Occidental,Semis,,Alemania Occidental,Lothar Matthaeus,lothar_matthaeus.php
+1101,1990,Italia,Inglaterra,3er Puesto,,Italia,Giuseppe Bergomi,giuseppe_bergomi.php
+1102,1990,Italia,Inglaterra,3er Puesto,,Inglaterra,Peter Shilton,peter_shilton.php
+1103,1990,Argentina,Alemania Occidental,Final,,Argentina,Diego Maradona,diego_maradona.php
+1104,1990,Argentina,Alemania Occidental,Final,,Alemania Occidental,Lothar Matthaeus,lothar_matthaeus.php
+1105,1986,Bulgaria,Italia,"1ra Ronda, Grupo A",A,Bulgaria,Georgi Dimitrov,georgi_dimitrov.php
+1106,1986,Bulgaria,Italia,"1ra Ronda, Grupo A",A,Italia,Gaetano Scirea,gaetano_scirea.php
+1107,1986,España,Brasil,"1ra Ronda, Grupo D",D,España,Jose Antonio Camacho,jose_antonio_camacho.php
+1108,1986,España,Brasil,"1ra Ronda, Grupo D",D,Brasil,Edinho,edinho.php
+1109,1986,Canadá,Francia,"1ra Ronda, Grupo C",C,Canadá,Bruce Wilson,bruce_wilson.php
+1110,1986,Canadá,Francia,"1ra Ronda, Grupo C",C,Francia,Michel Platini,michel_platini.php
+1111,1986,Argentina,Corea del Sur,"1ra Ronda, Grupo A",A,Argentina,Diego Maradona,diego_maradona.php
+1112,1986,Argentina,Corea del Sur,"1ra Ronda, Grupo A",A,Corea del Sur,Chang Sun Park,chang_sun_park.php
+1113,1986,URSS,Hungría,"1ra Ronda, Grupo C",C,URSS,Anatoli Demyanenko,anatoli_demyanenko.php
+1114,1986,URSS,Hungría,"1ra Ronda, Grupo C",C,Hungría,Antal Nagy,antal_nagy_2.php
+1115,1986,Marruecos,Polonia,"1ra Ronda, Grupo F",F,Marruecos,Badou Zaki,badou_zaki.php
+1116,1986,Marruecos,Polonia,"1ra Ronda, Grupo F",F,Polonia,Zbigniew Boniek,zbigniew_boniek.php
+1117,1986,Bélgica,México,"1ra Ronda, Grupo B",B,Bélgica,Jan Ceulemans,jan_ceulemans.php
+1118,1986,Bélgica,México,"1ra Ronda, Grupo B",B,México,Tomas Boy,tomas_boy.php
+1119,1986,Portugal,Inglaterra,"1ra Ronda, Grupo F",F,Portugal,Bento,bento.php
+1120,1986,Portugal,Inglaterra,"1ra Ronda, Grupo F",F,Inglaterra,Bryan Robson,bryan_robson.php
+1121,1986,Argelia,Irlanda del Norte,"1ra Ronda, Grupo D",D,Argelia,Mahmoud Guendouz,mahmoud_guendouz.php
+1122,1986,Argelia,Irlanda del Norte,"1ra Ronda, Grupo D",D,Irlanda del Norte,Sam Mcilroy,sam_mcilroy.php
+1123,1986,Escocia,Dinamarca,"1ra Ronda, Grupo E",E,Escocia,Graeme Souness,graeme_souness.php
+1124,1986,Escocia,Dinamarca,"1ra Ronda, Grupo E",E,Dinamarca,Morten Olsen,morten_olsen.php
+1125,1986,Uruguay,Alemania Occidental,"1ra Ronda, Grupo E",E,Uruguay,Jorge Barrios,jorge_barrios.php
+1126,1986,Uruguay,Alemania Occidental,"1ra Ronda, Grupo E",E,Alemania Occidental,Harald Schumacher,harald_schumacher.php
+1127,1986,Paraguay,Iraq,"1ra Ronda, Grupo B",B,Paraguay,Rogelio Delgado,rogelio_delgado.php
+1128,1986,Paraguay,Iraq,"1ra Ronda, Grupo B",B,Iraq,Hammoudi Raad,hammoudi_raad.php
+1129,1986,Francia,URSS,"1ra Ronda, Grupo C",C,Francia,Michel Platini,michel_platini.php
+1130,1986,Francia,URSS,"1ra Ronda, Grupo C",C,URSS,Anatoli Demyanenko,anatoli_demyanenko.php
+1131,1986,Corea del Sur,Bulgaria,"1ra Ronda, Grupo A",A,Corea del Sur,Chang Sun Park,chang_sun_park.php
+1132,1986,Corea del Sur,Bulgaria,"1ra Ronda, Grupo A",A,Bulgaria,Georgi Dimitrov,georgi_dimitrov.php
+1133,1986,Italia,Argentina,"1ra Ronda, Grupo A",A,Italia,Gaetano Scirea,gaetano_scirea.php
+1134,1986,Italia,Argentina,"1ra Ronda, Grupo A",A,Argentina,Diego Maradona,diego_maradona.php
+1135,1986,Hungría,Canadá,"1ra Ronda, Grupo C",C,Hungría,Antal Nagy,antal_nagy_2.php
+1136,1986,Hungría,Canadá,"1ra Ronda, Grupo C",C,Canadá,Bruce Wilson,bruce_wilson.php
+1137,1986,Brasil,Argelia,"1ra Ronda, Grupo D",D,Brasil,Edinho,edinho.php
+1138,1986,Brasil,Argelia,"1ra Ronda, Grupo D",D,Argelia,Mahmoud Guendouz,mahmoud_guendouz.php
+1139,1986,Inglaterra,Marruecos,"1ra Ronda, Grupo F",F,Inglaterra,Bryan Robson,bryan_robson.php
+1140,1986,Inglaterra,Marruecos,"1ra Ronda, Grupo F",F,Marruecos,Badou Zaki,badou_zaki.php
+1141,1986,México,Paraguay,"1ra Ronda, Grupo B",B,México,Tomas Boy,tomas_boy.php
+1142,1986,México,Paraguay,"1ra Ronda, Grupo B",B,Paraguay,Rogelio Delgado,rogelio_delgado.php
+1143,1986,Polonia,Portugal,"1ra Ronda, Grupo F",F,Polonia,Zbigniew Boniek,zbigniew_boniek.php
+1144,1986,Polonia,Portugal,"1ra Ronda, Grupo F",F,Portugal,Gomes,gomes_2.php
+1145,1986,Irlanda del Norte,España,"1ra Ronda, Grupo D",D,Irlanda del Norte,Sam Mcilroy,sam_mcilroy.php
+1146,1986,Irlanda del Norte,España,"1ra Ronda, Grupo D",D,España,Jose Antonio Camacho,jose_antonio_camacho.php
+1147,1986,Iraq,Bélgica,"1ra Ronda, Grupo B",B,Iraq,Hammoudi Raad,hammoudi_raad.php
+1148,1986,Iraq,Bélgica,"1ra Ronda, Grupo B",B,Bélgica,Jan Ceulemans,jan_ceulemans.php
+1149,1986,Alemania Occidental,Escocia,"1ra Ronda, Grupo E",E,Alemania Occidental,Harald Schumacher,harald_schumacher.php
+1150,1986,Alemania Occidental,Escocia,"1ra Ronda, Grupo E",E,Escocia,Graeme Souness,graeme_souness.php
+1151,1986,Dinamarca,Uruguay,"1ra Ronda, Grupo E",E,Dinamarca,Morten Olsen,morten_olsen.php
+1152,1986,Dinamarca,Uruguay,"1ra Ronda, Grupo E",E,Uruguay,Eduardo Acevedo,eduardo_acevedo.php
+1153,1986,URSS,Canadá,"1ra Ronda, Grupo C",C,URSS,Oleg Blokhin,oleg_blokhin.php
+1154,1986,URSS,Canadá,"1ra Ronda, Grupo C",C,Canadá,Bruce Wilson,bruce_wilson.php
+1155,1986,Hungría,Francia,"1ra Ronda, Grupo C",C,Hungría,Imre Garaba,imre_garaba.php
+1156,1986,Hungría,Francia,"1ra Ronda, Grupo C",C,Francia,Michel Platini,michel_platini.php
+1157,1986,Corea del Sur,Italia,"1ra Ronda, Grupo A",A,Corea del Sur,Chang Sun Park,chang_sun_park.php
+1158,1986,Corea del Sur,Italia,"1ra Ronda, Grupo A",A,Italia,Gaetano Scirea,gaetano_scirea.php
+1159,1986,Argentina,Bulgaria,"1ra Ronda, Grupo A",A,Argentina,Diego Maradona,diego_maradona.php
+1160,1986,Argentina,Bulgaria,"1ra Ronda, Grupo A",A,Bulgaria,Georgi Dimitrov,georgi_dimitrov.php
+1161,1986,Paraguay,Bélgica,"1ra Ronda, Grupo B",B,Paraguay,Rogelio Delgado,rogelio_delgado.php
+1162,1986,Paraguay,Bélgica,"1ra Ronda, Grupo B",B,Bélgica,Jan Ceulemans,jan_ceulemans.php
+1163,1986,Inglaterra,Polonia,"1ra Ronda, Grupo F",F,Inglaterra,Peter Shilton,peter_shilton.php
+1164,1986,Inglaterra,Polonia,"1ra Ronda, Grupo F",F,Polonia,Zbigniew Boniek,zbigniew_boniek.php
+1165,1986,Portugal,Marruecos,"1ra Ronda, Grupo F",F,Portugal,Gomes,gomes_2.php
+1166,1986,Portugal,Marruecos,"1ra Ronda, Grupo F",F,Marruecos,Badou Zaki,badou_zaki.php
+1167,1986,Iraq,México,"1ra Ronda, Grupo B",B,Iraq,Khalil Mohamed,khalil_mohamed.php
+1168,1986,Iraq,México,"1ra Ronda, Grupo B",B,México,Tomas Boy,tomas_boy.php
+1169,1986,Irlanda del Norte,Brasil,"1ra Ronda, Grupo D",D,Irlanda del Norte,Sam Mcilroy,sam_mcilroy.php
+1170,1986,Irlanda del Norte,Brasil,"1ra Ronda, Grupo D",D,Brasil,Edinho,edinho.php
+1171,1986,Argelia,España,"1ra Ronda, Grupo D",D,Argelia,Mahmoud Guendouz,mahmoud_guendouz.php
+1172,1986,Argelia,España,"1ra Ronda, Grupo D",D,España,Jose Antonio Camacho,jose_antonio_camacho.php
+1173,1986,Dinamarca,Alemania Occidental,"1ra Ronda, Grupo E",E,Dinamarca,Morten Olsen,morten_olsen.php
+1174,1986,Dinamarca,Alemania Occidental,"1ra Ronda, Grupo E",E,Alemania Occidental,Harald Schumacher,harald_schumacher.php
+1175,1986,Escocia,Uruguay,"1ra Ronda, Grupo E",E,Escocia,Willie Miller,willie_miller.php
+1176,1986,Escocia,Uruguay,"1ra Ronda, Grupo E",E,Uruguay,Jorge Barrios,jorge_barrios.php
+1177,1986,URSS,Bélgica,Octavos,,URSS,Anatoli Demyanenko,anatoli_demyanenko.php
+1178,1986,URSS,Bélgica,Octavos,,Bélgica,Jan Ceulemans,jan_ceulemans.php
+1179,1986,México,Bulgaria,Octavos,,México,Tomas Boy,tomas_boy.php
+1180,1986,México,Bulgaria,Octavos,,Bulgaria,Georgi Dimitrov,georgi_dimitrov.php
+1181,1986,Brasil,Polonia,Octavos,,Brasil,Edinho,edinho.php
+1182,1986,Brasil,Polonia,Octavos,,Polonia,Zbigniew Boniek,zbigniew_boniek.php
+1183,1986,Argentina,Uruguay,Octavos,,Argentina,Diego Maradona,diego_maradona.php
+1184,1986,Argentina,Uruguay,Octavos,,Uruguay,Jorge Barrios,jorge_barrios.php
+1185,1986,Marruecos,Alemania Occidental,Octavos,,Marruecos,Badou Zaki,badou_zaki.php
+1186,1986,Marruecos,Alemania Occidental,Octavos,,Alemania Occidental,Karl-Heinz Rummenigge,karl_heinz_rummenigge.php
+1187,1986,Italia,Francia,Octavos,,Italia,Gaetano Scirea,gaetano_scirea.php
+1188,1986,Italia,Francia,Octavos,,Francia,Michel Platini,michel_platini.php
+1189,1986,Dinamarca,España,Octavos,,Dinamarca,Morten Olsen,morten_olsen.php
+1190,1986,Dinamarca,España,Octavos,,España,Jose Antonio Camacho,jose_antonio_camacho.php
+1191,1986,Inglaterra,Paraguay,Octavos,,Inglaterra,Peter Shilton,peter_shilton.php
+1192,1986,Inglaterra,Paraguay,Octavos,,Paraguay,Rogelio Delgado,rogelio_delgado.php
+1193,1986,México,Alemania Occidental,Cuartos,,México,Tomas Boy,tomas_boy.php
+1194,1986,México,Alemania Occidental,Cuartos,,Alemania Occidental,Karl-Heinz Rummenigge,karl_heinz_rummenigge.php
+1195,1986,Brasil,Francia,Cuartos,,Brasil,Edinho,edinho.php
+1196,1986,Brasil,Francia,Cuartos,,Francia,Michel Platini,michel_platini.php
+1197,1986,Bélgica,España,Cuartos,,Bélgica,Jan Ceulemans,jan_ceulemans.php
+1198,1986,Bélgica,España,Cuartos,,España,Jose Antonio Camacho,jose_antonio_camacho.php
+1199,1986,Argentina,Inglaterra,Cuartos,,Argentina,Diego Maradona,diego_maradona.php
+1200,1986,Argentina,Inglaterra,Cuartos,,Inglaterra,Peter Shilton,peter_shilton.php
+1201,1986,Argentina,Bélgica,Semis,,Argentina,Diego Maradona,diego_maradona.php
+1202,1986,Argentina,Bélgica,Semis,,Bélgica,Jan Ceulemans,jan_ceulemans.php
+1203,1986,Alemania Occidental,Francia,Semis,,Alemania Occidental,Karl-Heinz Rummenigge,karl_heinz_rummenigge.php
+1204,1986,Alemania Occidental,Francia,Semis,,Francia,Michel Platini,michel_platini.php
+1205,1986,Bélgica,Francia,3er Puesto,,Bélgica,Jan Ceulemans,jan_ceulemans.php
+1206,1986,Bélgica,Francia,3er Puesto,,Francia,Patrick Battiston,patrick_battiston.php
+1207,1986,Argentina,Alemania Occidental,Final,,Argentina,Diego Maradona,diego_maradona.php
+1208,1986,Argentina,Alemania Occidental,Final,,Alemania Occidental,Karl-Heinz Rummenigge,karl_heinz_rummenigge.php
+1209,1982,Argentina,Bélgica,"1ra Ronda, Grupo C",C,Argentina,Daniel Passarella,daniel_passarella.php
+1210,1982,Argentina,Bélgica,"1ra Ronda, Grupo C",C,Bélgica,Eric Gerets,eric_gerets.php
+1211,1982,Brasil,URSS,"1ra Ronda, Grupo F",F,Brasil,Socrates,socrates.php
+1212,1982,Brasil,URSS,"1ra Ronda, Grupo F",F,URSS,Aleksandr Chivadze,aleksandr_chivadze.php
+1213,1982,Italia,Polonia,"1ra Ronda, Grupo A",A,Italia,Dino Zoff,dino_zoff.php
+1214,1982,Italia,Polonia,"1ra Ronda, Grupo A",A,Polonia,Wladyslaw Zmuda,wladyslaw_zmuda.php
+1215,1982,Perú,Camerún,"1ra Ronda, Grupo A",A,Perú,Ruben Diaz,ruben_diaz.php
+1216,1982,Perú,Camerún,"1ra Ronda, Grupo A",A,Camerún,Thomas Nkono,thomas_nkono.php
+1217,1982,Escocia,Nueva Zelanda,"1ra Ronda, Grupo F",F,Escocia,Danny Mcgrain,danny_mcgrain.php
+1218,1982,Escocia,Nueva Zelanda,"1ra Ronda, Grupo F",F,Nueva Zelanda,Steve Sumner,steve_sumner.php
+1219,1982,Hungría,El Salvador,"1ra Ronda, Grupo C",C,Hungría,Tibor Nyilasi,tibor_nyilasi.php
+1220,1982,Hungría,El Salvador,"1ra Ronda, Grupo C",C,El Salvador,Jose Huezo,jose_huezo.php
+1221,1982,Alemania Occidental,Argelia,"1ra Ronda, Grupo B",B,Alemania Occidental,Karl-Heinz Rummenigge,karl_heinz_rummenigge.php
+1222,1982,Alemania Occidental,Argelia,"1ra Ronda, Grupo B",B,Argelia,Ali Fergani,ali_fergani.php
+1223,1982,España,Honduras,"1ra Ronda, Grupo E",E,España,Luis Arconada,luis_arconada.php
+1224,1982,España,Honduras,"1ra Ronda, Grupo E",E,Honduras,Ramon Maradiaga,ramon_maradiaga.php
+1225,1982,Inglaterra,Francia,"1ra Ronda, Grupo D",D,Inglaterra,Mick Mills,mick_mills.php
+1226,1982,Inglaterra,Francia,"1ra Ronda, Grupo D",D,Francia,Michel Platini,michel_platini.php
+1227,1982,Checoslovaquia,Kuwait,"1ra Ronda, Grupo D",D,Checoslovaquia,Zdenek Nehoda,zdenek_nehoda.php
+1228,1982,Checoslovaquia,Kuwait,"1ra Ronda, Grupo D",D,Kuwait,Saad Al Hutti,saad_al_hutti.php
+1229,1982,Yugoslavia,Irlanda del Norte,"1ra Ronda, Grupo E",E,Yugoslavia,Ivica Surjak,ivica_surjak.php
+1230,1982,Yugoslavia,Irlanda del Norte,"1ra Ronda, Grupo E",E,Irlanda del Norte,Martin O'Neill,martin_oneill.php
+1231,1982,Chile,Austria,"1ra Ronda, Grupo B",B,Chile,Elias Figueroa,elias_figueroa.php
+1232,1982,Chile,Austria,"1ra Ronda, Grupo B",B,Austria,Erich Obermayer,erich_obermayer.php
+1233,1982,Argentina,Hungría,"1ra Ronda, Grupo C",C,Argentina,Daniel Passarella,daniel_passarella.php
+1234,1982,Argentina,Hungría,"1ra Ronda, Grupo C",C,Hungría,Tibor Nyilasi,tibor_nyilasi.php
+1235,1982,Italia,Perú,"1ra Ronda, Grupo A",A,Italia,Dino Zoff,dino_zoff.php
+1236,1982,Italia,Perú,"1ra Ronda, Grupo A",A,Perú,Ruben Diaz,ruben_diaz.php
+1237,1982,Brasil,Escocia,"1ra Ronda, Grupo F",F,Brasil,Socrates,socrates.php
+1238,1982,Brasil,Escocia,"1ra Ronda, Grupo F",F,Escocia,Graeme Souness,graeme_souness.php
+1239,1982,Polonia,Camerún,"1ra Ronda, Grupo A",A,Polonia,Wladyslaw Zmuda,wladyslaw_zmuda.php
+1240,1982,Polonia,Camerún,"1ra Ronda, Grupo A",A,Camerún,Thomas Nkono,thomas_nkono.php
+1241,1982,Bélgica,El Salvador,"1ra Ronda, Grupo C",C,Bélgica,Eric Gerets,eric_gerets.php
+1242,1982,Bélgica,El Salvador,"1ra Ronda, Grupo C",C,El Salvador,Jose Huezo,jose_huezo.php
+1243,1982,URSS,Nueva Zelanda,"1ra Ronda, Grupo F",F,URSS,Aleksandr Chivadze,aleksandr_chivadze.php
+1244,1982,URSS,Nueva Zelanda,"1ra Ronda, Grupo F",F,Nueva Zelanda,Steve Sumner,steve_sumner.php
+1245,1982,España,Yugoslavia,"1ra Ronda, Grupo E",E,España,Luis Arconada,luis_arconada.php
+1246,1982,España,Yugoslavia,"1ra Ronda, Grupo E",E,Yugoslavia,Ivica Surjak,ivica_surjak.php
+1247,1982,Inglaterra,Checoslovaquia,"1ra Ronda, Grupo D",D,Inglaterra,Mick Mills,mick_mills.php
+1248,1982,Inglaterra,Checoslovaquia,"1ra Ronda, Grupo D",D,Checoslovaquia,Zdenek Nehoda,zdenek_nehoda.php
+1249,1982,Alemania Occidental,Chile,"1ra Ronda, Grupo B",B,Alemania Occidental,Karl-Heinz Rummenigge,karl_heinz_rummenigge.php
+1250,1982,Alemania Occidental,Chile,"1ra Ronda, Grupo B",B,Chile,Elias Figueroa,elias_figueroa.php
+1251,1982,Honduras,Irlanda del Norte,"1ra Ronda, Grupo E",E,Honduras,Ramon Maradiaga,ramon_maradiaga.php
+1252,1982,Honduras,Irlanda del Norte,"1ra Ronda, Grupo E",E,Irlanda del Norte,Martin O'Neill,martin_oneill.php
+1253,1982,Francia,Kuwait,"1ra Ronda, Grupo D",D,Francia,Michel Platini,michel_platini.php
+1254,1982,Francia,Kuwait,"1ra Ronda, Grupo D",D,Kuwait,Saad Al Hutti,saad_al_hutti.php
+1255,1982,Argelia,Austria,"1ra Ronda, Grupo B",B,Argelia,Ali Fergani,ali_fergani.php
+1256,1982,Argelia,Austria,"1ra Ronda, Grupo B",B,Austria,Erich Obermayer,erich_obermayer.php
+1257,1982,URSS,Escocia,"1ra Ronda, Grupo F",F,URSS,Aleksandr Chivadze,aleksandr_chivadze.php
+1258,1982,URSS,Escocia,"1ra Ronda, Grupo F",F,Escocia,Graeme Souness,graeme_souness.php
+1259,1982,Bélgica,Hungría,"1ra Ronda, Grupo C",C,Bélgica,Eric Gerets,eric_gerets.php
+1260,1982,Bélgica,Hungría,"1ra Ronda, Grupo C",C,Hungría,Tibor Nyilasi,tibor_nyilasi.php
+1261,1982,Polonia,Perú,"1ra Ronda, Grupo A",A,Polonia,Wladyslaw Zmuda,wladyslaw_zmuda.php
+1262,1982,Polonia,Perú,"1ra Ronda, Grupo A",A,Perú,Ruben Diaz,ruben_diaz.php
+1263,1982,Italia,Camerún,"1ra Ronda, Grupo A",A,Italia,Dino Zoff,dino_zoff.php
+1264,1982,Italia,Camerún,"1ra Ronda, Grupo A",A,Camerún,Thomas Nkono,thomas_nkono.php
+1265,1982,Argentina,El Salvador,"1ra Ronda, Grupo C",C,Argentina,Daniel Passarella,daniel_passarella.php
+1266,1982,Argentina,El Salvador,"1ra Ronda, Grupo C",C,El Salvador,Jose Huezo,jose_huezo.php
+1267,1982,Brasil,Nueva Zelanda,"1ra Ronda, Grupo F",F,Brasil,Socrates,socrates.php
+1268,1982,Brasil,Nueva Zelanda,"1ra Ronda, Grupo F",F,Nueva Zelanda,Steve Sumner,steve_sumner.php
+1269,1982,Honduras,Yugoslavia,"1ra Ronda, Grupo E",E,Honduras,Ramon Maradiaga,ramon_maradiaga.php
+1270,1982,Honduras,Yugoslavia,"1ra Ronda, Grupo E",E,Yugoslavia,Ivica Surjak,ivica_surjak.php
+1271,1982,Francia,Checoslovaquia,"1ra Ronda, Grupo D",D,Francia,Michel Platini,michel_platini.php
+1272,1982,Francia,Checoslovaquia,"1ra Ronda, Grupo D",D,Checoslovaquia,Zdenek Nehoda,zdenek_nehoda.php
+1273,1982,Argelia,Chile,"1ra Ronda, Grupo B",B,Argelia,Ali Fergani,ali_fergani.php
+1274,1982,Argelia,Chile,"1ra Ronda, Grupo B",B,Chile,Elias Figueroa,elias_figueroa.php
+1275,1982,Irlanda del Norte,España,"1ra Ronda, Grupo E",E,Irlanda del Norte,Martin O'Neill,martin_oneill.php
+1276,1982,Irlanda del Norte,España,"1ra Ronda, Grupo E",E,España,Luis Arconada,luis_arconada.php
+1277,1982,Alemania Occidental,Austria,"1ra Ronda, Grupo B",B,Alemania Occidental,Karl-Heinz Rummenigge,karl_heinz_rummenigge.php
+1278,1982,Alemania Occidental,Austria,"1ra Ronda, Grupo B",B,Austria,Erich Obermayer,erich_obermayer.php
+1279,1982,Inglaterra,Kuwait,"1ra Ronda, Grupo D",D,Inglaterra,Mick Mills,mick_mills.php
+1280,1982,Inglaterra,Kuwait,"1ra Ronda, Grupo D",D,Kuwait,Saad Al Hutti,saad_al_hutti.php
+1281,1982,Austria,Francia,"2da Ronda, Grupo 4",4,Austria,Erich Obermayer,erich_obermayer.php
+1282,1982,Austria,Francia,"2da Ronda, Grupo 4",4,Francia,Marius Tresor,marius_tresor.php
+1283,1982,Polonia,Bélgica,"2da Ronda, Grupo 1",1,Polonia,Wladyslaw Zmuda,wladyslaw_zmuda.php
+1284,1982,Polonia,Bélgica,"2da Ronda, Grupo 1",1,Bélgica,Walter Meeuws,walter_meeuws.php
+1285,1982,Alemania Occidental,Inglaterra,"2da Ronda, Grupo 2",2,Alemania Occidental,Karl-Heinz Rummenigge,karl_heinz_rummenigge.php
+1286,1982,Alemania Occidental,Inglaterra,"2da Ronda, Grupo 2",2,Inglaterra,Mick Mills,mick_mills.php
+1287,1982,Italia,Argentina,"2da Ronda, Grupo 3",3,Italia,Dino Zoff,dino_zoff.php
+1288,1982,Italia,Argentina,"2da Ronda, Grupo 3",3,Argentina,Daniel Passarella,daniel_passarella.php
+1289,1982,Bélgica,URSS,"2da Ronda, Grupo 1",1,Bélgica,Walter Meeuws,walter_meeuws.php
+1290,1982,Bélgica,URSS,"2da Ronda, Grupo 1",1,URSS,Aleksandr Chivadze,aleksandr_chivadze.php
+1291,1982,Austria,Irlanda del Norte,"2da Ronda, Grupo 4",4,Austria,Erich Obermayer,erich_obermayer.php
+1292,1982,Austria,Irlanda del Norte,"2da Ronda, Grupo 4",4,Irlanda del Norte,Martin O'Neill,martin_oneill.php
+1293,1982,Argentina,Brasil,"2da Ronda, Grupo 3",3,Argentina,Daniel Passarella,daniel_passarella.php
+1294,1982,Argentina,Brasil,"2da Ronda, Grupo 3",3,Brasil,Socrates,socrates.php
+1295,1982,Alemania Occidental,España,"2da Ronda, Grupo 2",2,Alemania Occidental,Karl-Heinz Rummenigge,karl_heinz_rummenigge.php
+1296,1982,Alemania Occidental,España,"2da Ronda, Grupo 2",2,España,Luis Arconada,luis_arconada.php
+1297,1982,Francia,Irlanda del Norte,"2da Ronda, Grupo 4",4,Francia,Michel Platini,michel_platini.php
+1298,1982,Francia,Irlanda del Norte,"2da Ronda, Grupo 4",4,Irlanda del Norte,Martin O'Neill,martin_oneill.php
+1299,1982,Polonia,URSS,"2da Ronda, Grupo 1",1,Polonia,Wladyslaw Zmuda,wladyslaw_zmuda.php
+1300,1982,Polonia,URSS,"2da Ronda, Grupo 1",1,URSS,Aleksandr Chivadze,aleksandr_chivadze.php
+1301,1982,Italia,Brasil,"2da Ronda, Grupo 3",3,Italia,Dino Zoff,dino_zoff.php
+1302,1982,Italia,Brasil,"2da Ronda, Grupo 3",3,Brasil,Socrates,socrates.php
+1303,1982,España,Inglaterra,"2da Ronda, Grupo 2",2,España,Luis Arconada,luis_arconada.php
+1304,1982,España,Inglaterra,"2da Ronda, Grupo 2",2,Inglaterra,Mick Mills,mick_mills.php
+1305,1982,Alemania Occidental,Francia,Semis,,Alemania Occidental,Manfred Kaltz,manfred_kaltz.php
+1306,1982,Alemania Occidental,Francia,Semis,,Francia,Michel Platini,michel_platini.php
+1307,1982,Polonia,Italia,Semis,,Polonia,Wladyslaw Zmuda,wladyslaw_zmuda.php
+1308,1982,Polonia,Italia,Semis,,Italia,Dino Zoff,dino_zoff.php
+1309,1982,Polonia,Francia,3er Puesto,,Polonia,Wladyslaw Zmuda,wladyslaw_zmuda.php
+1310,1982,Polonia,Francia,3er Puesto,,Francia,Marius Tresor,marius_tresor.php
+1311,1982,Italia,Alemania Occidental,Final,,Italia,Dino Zoff,dino_zoff.php
+1312,1982,Italia,Alemania Occidental,Final,,Alemania Occidental,Karl-Heinz Rummenigge,karl_heinz_rummenigge.php
+1313,1978,Alemania Occidental,Polonia,"1ra Ronda, Grupo 2",2,Alemania Occidental,Berti Vogts,berti_vogts.php
+1314,1978,Alemania Occidental,Polonia,"1ra Ronda, Grupo 2",2,Polonia,Kazimierz Deyna,kazimierz_deyna.php
+1315,1978,Túnez,México,"1ra Ronda, Grupo 2",2,Túnez,Temime Lakhzami,temime_lakhzami.php
+1316,1978,Túnez,México,"1ra Ronda, Grupo 2",2,México,Arturo Vasquez,arturo_vasquez.php
+1317,1978,Italia,Francia,"1ra Ronda, Grupo 1",1,Italia,Dino Zoff,dino_zoff.php
+1318,1978,Italia,Francia,"1ra Ronda, Grupo 1",1,Francia,Marius Tresor,marius_tresor.php
+1319,1978,Argentina,Hungría,"1ra Ronda, Grupo 1",1,Argentina,Daniel Passarella,daniel_passarella.php
+1320,1978,Argentina,Hungría,"1ra Ronda, Grupo 1",1,Hungría,Zoltan Kereki,zoltan_kereki.php
+1321,1978,Paises Bajos,Irán,"1ra Ronda, Grupo 4",4,Paises Bajos,Ruud Krol,ruud_krol.php
+1322,1978,Paises Bajos,Irán,"1ra Ronda, Grupo 4",4,Irán,Ali Parwin,ali_parwin.php
+1323,1978,Austria,España,"1ra Ronda, Grupo 3",3,Austria,Robert Sara,robert_sara.php
+1324,1978,Austria,España,"1ra Ronda, Grupo 3",3,España,Pirri,pirri.php
+1325,1978,Perú,Escocia,"1ra Ronda, Grupo 4",4,Perú,Hector Chumpitaz,hector_chumpitaz.php
+1326,1978,Perú,Escocia,"1ra Ronda, Grupo 4",4,Escocia,Bruce Rioch,bruce_rioch.php
+1327,1978,Suecia,Brasil,"1ra Ronda, Grupo 3",3,Suecia,Bjorn Nordqvist,bjorn_nordqvist.php
+1328,1978,Suecia,Brasil,"1ra Ronda, Grupo 3",3,Brasil,Rivelino,rivelino.php
+1329,1978,Alemania Occidental,México,"1ra Ronda, Grupo 2",2,Alemania Occidental,Berti Vogts,berti_vogts.php
+1330,1978,Alemania Occidental,México,"1ra Ronda, Grupo 2",2,México,Arturo Vasquez,arturo_vasquez.php
+1331,1978,Argentina,Francia,"1ra Ronda, Grupo 1",1,Argentina,Daniel Passarella,daniel_passarella.php
+1332,1978,Argentina,Francia,"1ra Ronda, Grupo 1",1,Francia,Marius Tresor,marius_tresor.php
+1333,1978,Polonia,Túnez,"1ra Ronda, Grupo 2",2,Polonia,Kazimierz Deyna,kazimierz_deyna.php
+1334,1978,Polonia,Túnez,"1ra Ronda, Grupo 2",2,Túnez,Temime Lakhzami,temime_lakhzami.php
+1335,1978,Italia,Hungría,"1ra Ronda, Grupo 1",1,Italia,Dino Zoff,dino_zoff.php
+1336,1978,Italia,Hungría,"1ra Ronda, Grupo 1",1,Hungría,Zoltan Kereki,zoltan_kereki.php
+1337,1978,Paises Bajos,Perú,"1ra Ronda, Grupo 4",4,Paises Bajos,Ruud Krol,ruud_krol.php
+1338,1978,Paises Bajos,Perú,"1ra Ronda, Grupo 4",4,Perú,Hector Chumpitaz,hector_chumpitaz.php
+1339,1978,Brasil,España,"1ra Ronda, Grupo 3",3,Brasil,Leao,leao.php
+1340,1978,Brasil,España,"1ra Ronda, Grupo 3",3,España,Juan Manuel Asensi,juan_manuel_asensi.php
+1341,1978,Escocia,Irán,"1ra Ronda, Grupo 4",4,Escocia,Archie Gemmill,archie_gemmill.php
+1342,1978,Escocia,Irán,"1ra Ronda, Grupo 4",4,Irán,Ali Parwin,ali_parwin.php
+1343,1978,Austria,Suecia,"1ra Ronda, Grupo 3",3,Austria,Robert Sara,robert_sara.php
+1344,1978,Austria,Suecia,"1ra Ronda, Grupo 3",3,Suecia,Bjorn Nordqvist,bjorn_nordqvist.php
+1345,1978,Italia,Argentina,"1ra Ronda, Grupo 1",1,Italia,Dino Zoff,dino_zoff.php
+1346,1978,Italia,Argentina,"1ra Ronda, Grupo 1",1,Argentina,Daniel Passarella,daniel_passarella.php
+1347,1978,Alemania Occidental,Túnez,"1ra Ronda, Grupo 2",2,Alemania Occidental,Berti Vogts,berti_vogts.php
+1348,1978,Alemania Occidental,Túnez,"1ra Ronda, Grupo 2",2,Túnez,Temime Lakhzami,temime_lakhzami.php
+1349,1978,Francia,Hungría,"1ra Ronda, Grupo 1",1,Francia,Dominique Bathenay,dominique_bathenay.php
+1350,1978,Francia,Hungría,"1ra Ronda, Grupo 1",1,Hungría,Zoltan Kereki,zoltan_kereki.php
+1351,1978,Polonia,México,"1ra Ronda, Grupo 2",2,Polonia,Kazimierz Deyna,kazimierz_deyna.php
+1352,1978,Polonia,México,"1ra Ronda, Grupo 2",2,México,Arturo Vasquez,arturo_vasquez.php
+1353,1978,Perú,Irán,"1ra Ronda, Grupo 4",4,Perú,Hector Chumpitaz,hector_chumpitaz.php
+1354,1978,Perú,Irán,"1ra Ronda, Grupo 4",4,Irán,Ali Parwin,ali_parwin.php
+1355,1978,España,Suecia,"1ra Ronda, Grupo 3",3,España,Juan Manuel Asensi,juan_manuel_asensi.php
+1356,1978,España,Suecia,"1ra Ronda, Grupo 3",3,Suecia,Bjorn Nordqvist,bjorn_nordqvist.php
+1357,1978,Escocia,Paises Bajos,"1ra Ronda, Grupo 4",4,Escocia,Bruce Rioch,bruce_rioch.php
+1358,1978,Escocia,Paises Bajos,"1ra Ronda, Grupo 4",4,Paises Bajos,Ruud Krol,ruud_krol.php
+1359,1978,Brasil,Austria,"1ra Ronda, Grupo 3",3,Brasil,Leao,leao.php
+1360,1978,Brasil,Austria,"1ra Ronda, Grupo 3",3,Austria,Robert Sara,robert_sara.php
+1361,1978,Paises Bajos,Austria,"2da Ronda, Grupo A",A,Paises Bajos,Ruud Krol,ruud_krol.php
+1362,1978,Paises Bajos,Austria,"2da Ronda, Grupo A",A,Austria,Robert Sara,robert_sara.php
+1363,1978,Alemania Occidental,Italia,"2da Ronda, Grupo A",A,Alemania Occidental,Berti Vogts,berti_vogts.php
+1364,1978,Alemania Occidental,Italia,"2da Ronda, Grupo A",A,Italia,Dino Zoff,dino_zoff.php
+1365,1978,Brasil,Perú,"2da Ronda, Grupo B",B,Brasil,Leao,leao.php
+1366,1978,Brasil,Perú,"2da Ronda, Grupo B",B,Perú,Hector Chumpitaz,hector_chumpitaz.php
+1367,1978,Argentina,Polonia,"2da Ronda, Grupo B",B,Argentina,Daniel Passarella,daniel_passarella.php
+1368,1978,Argentina,Polonia,"2da Ronda, Grupo B",B,Polonia,Kazimierz Deyna,kazimierz_deyna.php
+1369,1978,Argentina,Brasil,"2da Ronda, Grupo B",B,Argentina,Daniel Passarella,daniel_passarella.php
+1370,1978,Argentina,Brasil,"2da Ronda, Grupo B",B,Brasil,Leao,leao.php
+1371,1978,Polonia,Perú,"2da Ronda, Grupo B",B,Polonia,Kazimierz Deyna,kazimierz_deyna.php
+1372,1978,Polonia,Perú,"2da Ronda, Grupo B",B,Perú,Hector Chumpitaz,hector_chumpitaz.php
+1373,1978,Alemania Occidental,Paises Bajos,"2da Ronda, Grupo A",A,Alemania Occidental,Berti Vogts,berti_vogts.php
+1374,1978,Alemania Occidental,Paises Bajos,"2da Ronda, Grupo A",A,Paises Bajos,Ruud Krol,ruud_krol.php
+1375,1978,Italia,Austria,"2da Ronda, Grupo A",A,Italia,Dino Zoff,dino_zoff.php
+1376,1978,Italia,Austria,"2da Ronda, Grupo A",A,Austria,Robert Sara,robert_sara.php
+1377,1978,Argentina,Perú,"2da Ronda, Grupo B",B,Argentina,Daniel Passarella,daniel_passarella.php
+1378,1978,Argentina,Perú,"2da Ronda, Grupo B",B,Perú,Hector Chumpitaz,hector_chumpitaz.php
+1379,1978,Paises Bajos,Italia,"2da Ronda, Grupo A",A,Paises Bajos,Ruud Krol,ruud_krol.php
+1380,1978,Paises Bajos,Italia,"2da Ronda, Grupo A",A,Italia,Dino Zoff,dino_zoff.php
+1381,1978,Brasil,Polonia,"2da Ronda, Grupo B",B,Brasil,Leao,leao.php
+1382,1978,Brasil,Polonia,"2da Ronda, Grupo B",B,Polonia,Kazimierz Deyna,kazimierz_deyna.php
+1383,1978,Austria,Alemania Occidental,"2da Ronda, Grupo A",A,Austria,Robert Sara,robert_sara.php
+1384,1978,Austria,Alemania Occidental,"2da Ronda, Grupo A",A,Alemania Occidental,Berti Vogts,berti_vogts.php
+1385,1978,Brasil,Italia,3er Puesto,,Brasil,Leao,leao.php
+1386,1978,Brasil,Italia,3er Puesto,,Italia,Dino Zoff,dino_zoff.php
+1387,1978,Argentina,Paises Bajos,Final,,Argentina,Daniel Passarella,daniel_passarella.php
+1388,1978,Argentina,Paises Bajos,Final,,Paises Bajos,Ruud Krol,ruud_krol.php
+1389,1974,Brasil,Yugoslavia,"1ra Ronda, Grupo 2",2,Brasil,Wilson Piazza,wilson_piazza.php
+1390,1974,Brasil,Yugoslavia,"1ra Ronda, Grupo 2",2,Yugoslavia,Dragan Dzajic,dragan_dzajic.php
+1391,1974,Alemania Occidental,Chile,"1ra Ronda, Grupo 1",1,Alemania Occidental,Franz Beckenbauer,franz_beckenbauer.php
+1392,1974,Alemania Occidental,Chile,"1ra Ronda, Grupo 1",1,Chile,Francisco Valdes,francisco_valdes.php
+1393,1974,Alemania Oriental,Australia,"1ra Ronda, Grupo 1",1,Alemania Oriental,Bernd Bransch,bernd_bransch.php
+1394,1974,Alemania Oriental,Australia,"1ra Ronda, Grupo 1",1,Australia,Peter Wilson,peter_wilson.php
+1395,1974,Zaire,Escocia,"1ra Ronda, Grupo 2",2,Zaire,Kidumu Mantantu,kidumu_mantantu.php
+1396,1974,Zaire,Escocia,"1ra Ronda, Grupo 2",2,Escocia,Billy Bremner,billy_bremner.php
+1397,1974,Suecia,Bulgaria,"1ra Ronda, Grupo 3",3,Suecia,Bo Larsson,bo_larsson.php
+1398,1974,Suecia,Bulgaria,"1ra Ronda, Grupo 3",3,Bulgaria,Hristo Bonev,hristo_bonev.php
+1399,1974,Polonia,Argentina,"1ra Ronda, Grupo 4",4,Polonia,Kazimierz Deyna,kazimierz_deyna.php
+1400,1974,Polonia,Argentina,"1ra Ronda, Grupo 4",4,Argentina,Roberto Perfumo,roberto_perfumo.php
+1401,1974,Italia,Haití,"1ra Ronda, Grupo 4",4,Italia,Giacinto Facchetti,giacinto_facchetti.php
+1402,1974,Italia,Haití,"1ra Ronda, Grupo 4",4,Haití,Wilner Nazaire,wilner_nazaire.php
+1403,1974,Uruguay,Paises Bajos,"1ra Ronda, Grupo 3",3,Uruguay,Juan Masnik,juan_masnik.php
+1404,1974,Uruguay,Paises Bajos,"1ra Ronda, Grupo 3",3,Paises Bajos,Johan Cruyff,johan_cruyff.php
+1405,1974,Escocia,Brasil,"1ra Ronda, Grupo 2",2,Escocia,Billy Bremner,billy_bremner.php
+1406,1974,Escocia,Brasil,"1ra Ronda, Grupo 2",2,Brasil,Wilson Piazza,wilson_piazza.php
+1407,1974,Australia,Alemania Occidental,"1ra Ronda, Grupo 1",1,Australia,Peter Wilson,peter_wilson.php
+1408,1974,Australia,Alemania Occidental,"1ra Ronda, Grupo 1",1,Alemania Occidental,Franz Beckenbauer,franz_beckenbauer.php
+1409,1974,Yugoslavia,Zaire,"1ra Ronda, Grupo 2",2,Yugoslavia,Dragan Dzajic,dragan_dzajic.php
+1410,1974,Yugoslavia,Zaire,"1ra Ronda, Grupo 2",2,Zaire,Kidumu Mantantu,kidumu_mantantu.php
+1411,1974,Chile,Alemania Oriental,"1ra Ronda, Grupo 1",1,Chile,Francisco Valdes,francisco_valdes.php
+1412,1974,Chile,Alemania Oriental,"1ra Ronda, Grupo 1",1,Alemania Oriental,Bernd Bransch,bernd_bransch.php
+1413,1974,Paises Bajos,Suecia,"1ra Ronda, Grupo 3",3,Paises Bajos,Johan Cruyff,johan_cruyff.php
+1414,1974,Paises Bajos,Suecia,"1ra Ronda, Grupo 3",3,Suecia,Bo Larsson,bo_larsson.php
+1415,1974,Argentina,Italia,"1ra Ronda, Grupo 4",4,Argentina,Roberto Perfumo,roberto_perfumo.php
+1416,1974,Argentina,Italia,"1ra Ronda, Grupo 4",4,Italia,Giacinto Facchetti,giacinto_facchetti.php
+1417,1974,Haití,Polonia,"1ra Ronda, Grupo 4",4,Haití,Wilner Nazaire,wilner_nazaire.php
+1418,1974,Haití,Polonia,"1ra Ronda, Grupo 4",4,Polonia,Kazimierz Deyna,kazimierz_deyna.php
+1419,1974,Bulgaria,Uruguay,"1ra Ronda, Grupo 3",3,Bulgaria,Hristo Bonev,hristo_bonev.php
+1420,1974,Bulgaria,Uruguay,"1ra Ronda, Grupo 3",3,Uruguay,Ladislao Mazurkiewicz,ladislao_mazurkiewicz.php
+1421,1974,Zaire,Brasil,"1ra Ronda, Grupo 2",2,Zaire,Kidumu Mantantu,kidumu_mantantu.php
+1422,1974,Zaire,Brasil,"1ra Ronda, Grupo 2",2,Brasil,Wilson Piazza,wilson_piazza.php
+1423,1974,Alemania Oriental,Alemania Occidental,"1ra Ronda, Grupo 1",1,Alemania Oriental,Bernd Bransch,bernd_bransch.php
+1424,1974,Alemania Oriental,Alemania Occidental,"1ra Ronda, Grupo 1",1,Alemania Occidental,Franz Beckenbauer,franz_beckenbauer.php
+1425,1974,Australia,Chile,"1ra Ronda, Grupo 1",1,Australia,Peter Wilson,peter_wilson.php
+1426,1974,Australia,Chile,"1ra Ronda, Grupo 1",1,Chile,Francisco Valdes,francisco_valdes.php
+1427,1974,Escocia,Yugoslavia,"1ra Ronda, Grupo 2",2,Escocia,Billy Bremner,billy_bremner.php
+1428,1974,Escocia,Yugoslavia,"1ra Ronda, Grupo 2",2,Yugoslavia,Dragan Dzajic,dragan_dzajic.php
+1429,1974,Polonia,Italia,"1ra Ronda, Grupo 4",4,Polonia,Kazimierz Deyna,kazimierz_deyna.php
+1430,1974,Polonia,Italia,"1ra Ronda, Grupo 4",4,Italia,Giacinto Facchetti,giacinto_facchetti.php
+1431,1974,Argentina,Haití,"1ra Ronda, Grupo 4",4,Argentina,Roberto Perfumo,roberto_perfumo.php
+1432,1974,Argentina,Haití,"1ra Ronda, Grupo 4",4,Haití,Wilner Nazaire,wilner_nazaire.php
+1433,1974,Bulgaria,Paises Bajos,"1ra Ronda, Grupo 3",3,Bulgaria,Hristo Bonev,hristo_bonev.php
+1434,1974,Bulgaria,Paises Bajos,"1ra Ronda, Grupo 3",3,Paises Bajos,Johan Cruyff,johan_cruyff.php
+1435,1974,Suecia,Uruguay,"1ra Ronda, Grupo 3",3,Suecia,Bo Larsson,bo_larsson.php
+1436,1974,Suecia,Uruguay,"1ra Ronda, Grupo 3",3,Uruguay,Ladislao Mazurkiewicz,ladislao_mazurkiewicz.php
+1437,1974,Suecia,Polonia,"2da Ronda, Grupo B",B,Suecia,Bo Larsson,bo_larsson.php
+1438,1974,Suecia,Polonia,"2da Ronda, Grupo B",B,Polonia,Kazimierz Deyna,kazimierz_deyna.php
+1439,1974,Yugoslavia,Alemania Occidental,"2da Ronda, Grupo B",B,Yugoslavia,Dragan Dzajic,dragan_dzajic.php
+1440,1974,Yugoslavia,Alemania Occidental,"2da Ronda, Grupo B",B,Alemania Occidental,Franz Beckenbauer,franz_beckenbauer.php
+1441,1974,Paises Bajos,Argentina,"2da Ronda, Grupo A",A,Paises Bajos,Johan Cruyff,johan_cruyff.php
+1442,1974,Paises Bajos,Argentina,"2da Ronda, Grupo A",A,Argentina,Roberto Perfumo,roberto_perfumo.php
+1443,1974,Brasil,Alemania Oriental,"2da Ronda, Grupo A",A,Brasil,Marinho Peres,marinho_peres.php
+1444,1974,Brasil,Alemania Oriental,"2da Ronda, Grupo A",A,Alemania Oriental,Bernd Bransch,bernd_bransch.php
+1445,1974,Alemania Oriental,Paises Bajos,"2da Ronda, Grupo A",A,Alemania Oriental,Bernd Bransch,bernd_bransch.php
+1446,1974,Alemania Oriental,Paises Bajos,"2da Ronda, Grupo A",A,Paises Bajos,Johan Cruyff,johan_cruyff.php
+1447,1974,Argentina,Brasil,"2da Ronda, Grupo A",A,Argentina,Miguel Brindisi,miguel_brindisi.php
+1448,1974,Argentina,Brasil,"2da Ronda, Grupo A",A,Brasil,Marinho Peres,marinho_peres.php
+1449,1974,Polonia,Yugoslavia,"2da Ronda, Grupo B",B,Polonia,Kazimierz Deyna,kazimierz_deyna.php
+1450,1974,Polonia,Yugoslavia,"2da Ronda, Grupo B",B,Yugoslavia,Jovan Acimovic,jovan_acimovic.php
+1451,1974,Alemania Occidental,Suecia,"2da Ronda, Grupo B",B,Alemania Occidental,Franz Beckenbauer,franz_beckenbauer.php
+1452,1974,Alemania Occidental,Suecia,"2da Ronda, Grupo B",B,Suecia,Bo Larsson,bo_larsson.php
+1453,1974,Suecia,Yugoslavia,"2da Ronda, Grupo B",B,Suecia,Bjorn Nordqvist,bjorn_nordqvist.php
+1454,1974,Suecia,Yugoslavia,"2da Ronda, Grupo B",B,Yugoslavia,Dragan Dzajic,dragan_dzajic.php
+1455,1974,Argentina,Alemania Oriental,"2da Ronda, Grupo A",A,Argentina,Enrique Wolff,enrique_wolff.php
+1456,1974,Argentina,Alemania Oriental,"2da Ronda, Grupo A",A,Alemania Oriental,Bernd Bransch,bernd_bransch.php
+1457,1974,Polonia,Alemania Occidental,"2da Ronda, Grupo B",B,Polonia,Kazimierz Deyna,kazimierz_deyna.php
+1458,1974,Polonia,Alemania Occidental,"2da Ronda, Grupo B",B,Alemania Occidental,Franz Beckenbauer,franz_beckenbauer.php
+1459,1974,Paises Bajos,Brasil,"2da Ronda, Grupo A",A,Paises Bajos,Johan Cruyff,johan_cruyff.php
+1460,1974,Paises Bajos,Brasil,"2da Ronda, Grupo A",A,Brasil,Marinho Peres,marinho_peres.php
+1461,1974,Brasil,Polonia,3er Puesto,,Brasil,Marinho Peres,marinho_peres.php
+1462,1974,Brasil,Polonia,3er Puesto,,Polonia,Kazimierz Deyna,kazimierz_deyna.php
+1463,1974,Paises Bajos,Alemania Occidental,Final,,Paises Bajos,Johan Cruyff,johan_cruyff.php
+1464,1974,Paises Bajos,Alemania Occidental,Final,,Alemania Occidental,Franz Beckenbauer,franz_beckenbauer.php
+1465,1970,México,URSS,"1ra Ronda, Grupo 1",1,México,Gustavo Pena,gustavo_pena.php
+1466,1970,México,URSS,"1ra Ronda, Grupo 1",1,URSS,Albert Shesternyov,albert_shesternyov.php
+1467,1970,Inglaterra,Rumania,"1ra Ronda, Grupo 3",3,Inglaterra,Bobby Moore,bobby_moore.php
+1468,1970,Inglaterra,Rumania,"1ra Ronda, Grupo 3",3,Rumania,Mircea Lucescu,mircea_lucescu.php
+1469,1970,Uruguay,Israel,"1ra Ronda, Grupo 2",2,Uruguay,Pedro Rocha,pedro_rocha.php
+1470,1970,Uruguay,Israel,"1ra Ronda, Grupo 2",2,Israel,Mordechai Spiegler,mordechai_spiegler.php
+1471,1970,Perú,Bulgaria,"1ra Ronda, Grupo 4",4,Perú,Hector Chumpitaz,hector_chumpitaz.php
+1472,1970,Perú,Bulgaria,"1ra Ronda, Grupo 4",4,Bulgaria,Ivan Dimitrov,ivan_dimitrov.php
+1473,1970,Italia,Suecia,"1ra Ronda, Grupo 2",2,Italia,Giacinto Facchetti,giacinto_facchetti.php
+1474,1970,Italia,Suecia,"1ra Ronda, Grupo 2",2,Suecia,Bjorn Nordqvist,bjorn_nordqvist.php
+1475,1970,Alemania Occidental,Marruecos,"1ra Ronda, Grupo 4",4,Alemania Occidental,Uwe Seeler,uwe_seeler.php
+1476,1970,Alemania Occidental,Marruecos,"1ra Ronda, Grupo 4",4,Marruecos,Driss Bamous,driss_bamous.php
+1477,1970,Bélgica,El Salvador,"1ra Ronda, Grupo 1",1,Bélgica,Paul Van Himst,paul_van_himst.php
+1478,1970,Bélgica,El Salvador,"1ra Ronda, Grupo 1",1,El Salvador,Salvador Mariona,salvador_mariona.php
+1479,1970,Brasil,Checoslovaquia,"1ra Ronda, Grupo 3",3,Brasil,Carlos Alberto,carlos_alberto.php
+1480,1970,Brasil,Checoslovaquia,"1ra Ronda, Grupo 3",3,Checoslovaquia,Alexander Horvath,alexander_horvath.php
+1481,1970,Perú,Marruecos,"1ra Ronda, Grupo 4",4,Perú,Hector Chumpitaz,hector_chumpitaz.php
+1482,1970,Perú,Marruecos,"1ra Ronda, Grupo 4",4,Marruecos,Driss Bamous,driss_bamous.php
+1483,1970,Rumania,Checoslovaquia,"1ra Ronda, Grupo 3",3,Rumania,Mircea Lucescu,mircea_lucescu.php
+1484,1970,Rumania,Checoslovaquia,"1ra Ronda, Grupo 3",3,Checoslovaquia,Alexander Horvath,alexander_horvath.php
+1485,1970,URSS,Bélgica,"1ra Ronda, Grupo 1",1,URSS,Albert Shesternyov,albert_shesternyov.php
+1486,1970,URSS,Bélgica,"1ra Ronda, Grupo 1",1,Bélgica,Paul Van Himst,paul_van_himst.php
+1487,1970,Uruguay,Italia,"1ra Ronda, Grupo 2",2,Uruguay,Luis Ubina,luis_ubina.php
+1488,1970,Uruguay,Italia,"1ra Ronda, Grupo 2",2,Italia,Giacinto Facchetti,giacinto_facchetti.php
+1489,1970,Suecia,Israel,"1ra Ronda, Grupo 2",2,Suecia,Tommy Svensson,tommy_svensson.php
+1490,1970,Suecia,Israel,"1ra Ronda, Grupo 2",2,Israel,Mordechai Spiegler,mordechai_spiegler.php
+1491,1970,México,El Salvador,"1ra Ronda, Grupo 1",1,México,Gustavo Pena,gustavo_pena.php
+1492,1970,México,El Salvador,"1ra Ronda, Grupo 1",1,El Salvador,Salvador Mariona,salvador_mariona.php
+1493,1970,Alemania Occidental,Bulgaria,"1ra Ronda, Grupo 4",4,Alemania Occidental,Uwe Seeler,uwe_seeler.php
+1494,1970,Alemania Occidental,Bulgaria,"1ra Ronda, Grupo 4",4,Bulgaria,Boris Gaganelov,boris_gaganelov.php
+1495,1970,Brasil,Inglaterra,"1ra Ronda, Grupo 3",3,Brasil,Carlos Alberto,carlos_alberto.php
+1496,1970,Brasil,Inglaterra,"1ra Ronda, Grupo 3",3,Inglaterra,Bobby Moore,bobby_moore.php
+1497,1970,URSS,El Salvador,"1ra Ronda, Grupo 1",1,URSS,Albert Shesternyov,albert_shesternyov.php
+1498,1970,URSS,El Salvador,"1ra Ronda, Grupo 1",1,El Salvador,Salvador Mariona,salvador_mariona.php
+1499,1970,Suecia,Uruguay,"1ra Ronda, Grupo 2",2,Suecia,Bjorn Nordqvist,bjorn_nordqvist.php
+1500,1970,Suecia,Uruguay,"1ra Ronda, Grupo 2",2,Uruguay,Luis Ubina,luis_ubina.php
+1501,1970,Alemania Occidental,Perú,"1ra Ronda, Grupo 4",4,Alemania Occidental,Uwe Seeler,uwe_seeler.php
+1502,1970,Alemania Occidental,Perú,"1ra Ronda, Grupo 4",4,Perú,Hector Chumpitaz,hector_chumpitaz.php
+1503,1970,Brasil,Rumania,"1ra Ronda, Grupo 3",3,Brasil,Carlos Alberto,carlos_alberto.php
+1504,1970,Brasil,Rumania,"1ra Ronda, Grupo 3",3,Rumania,Mircea Lucescu,mircea_lucescu.php
+1505,1970,Bulgaria,Marruecos,"1ra Ronda, Grupo 4",4,Bulgaria,Aleksandar Shalamanov,aleksandar_shalamanov.php
+1506,1970,Bulgaria,Marruecos,"1ra Ronda, Grupo 4",4,Marruecos,Driss Bamous,driss_bamous.php
+1507,1970,Inglaterra,Checoslovaquia,"1ra Ronda, Grupo 3",3,Inglaterra,Bobby Moore,bobby_moore.php
+1508,1970,Inglaterra,Checoslovaquia,"1ra Ronda, Grupo 3",3,Checoslovaquia,Ivo Viktor,ivo_viktor.php
+1509,1970,México,Bélgica,"1ra Ronda, Grupo 1",1,México,Gustavo Pena,gustavo_pena.php
+1510,1970,México,Bélgica,"1ra Ronda, Grupo 1",1,Bélgica,Paul Van Himst,paul_van_himst.php
+1511,1970,Italia,Israel,"1ra Ronda, Grupo 2",2,Italia,Giacinto Facchetti,giacinto_facchetti.php
+1512,1970,Italia,Israel,"1ra Ronda, Grupo 2",2,Israel,Mordechai Spiegler,mordechai_spiegler.php
+1513,1970,Alemania Occidental,Inglaterra,Cuartos,,Alemania Occidental,Uwe Seeler,uwe_seeler.php
+1514,1970,Alemania Occidental,Inglaterra,Cuartos,,Inglaterra,Bobby Moore,bobby_moore.php
+1515,1970,Italia,México,Cuartos,,Italia,Giacinto Facchetti,giacinto_facchetti.php
+1516,1970,Italia,México,Cuartos,,México,Gustavo Pena,gustavo_pena.php
+1517,1970,Uruguay,URSS,Cuartos,,Uruguay,Luis Ubina,luis_ubina.php
+1518,1970,Uruguay,URSS,Cuartos,,URSS,Albert Shesternyov,albert_shesternyov.php
+1519,1970,Brasil,Perú,Cuartos,,Brasil,Carlos Alberto,carlos_alberto.php
+1520,1970,Brasil,Perú,Cuartos,,Perú,Hector Chumpitaz,hector_chumpitaz.php
+1521,1970,Uruguay,Brasil,Semis,,Uruguay,Luis Ubina,luis_ubina.php
+1522,1970,Uruguay,Brasil,Semis,,Brasil,Carlos Alberto,carlos_alberto.php
+1523,1970,Italia,Alemania Occidental,Semis,,Italia,Giacinto Facchetti,giacinto_facchetti.php
+1524,1970,Italia,Alemania Occidental,Semis,,Alemania Occidental,Uwe Seeler,uwe_seeler.php
+1525,1970,Uruguay,Alemania Occidental,3er Puesto,,Uruguay,Luis Ubina,luis_ubina.php
+1526,1970,Uruguay,Alemania Occidental,3er Puesto,,Alemania Occidental,Uwe Seeler,uwe_seeler.php
+1527,1970,Brasil,Italia,Final,,Brasil,Carlos Alberto,carlos_alberto.php
+1528,1970,Brasil,Italia,Final,,Italia,Giacinto Facchetti,giacinto_facchetti.php
+1529,1966,Inglaterra,Uruguay,"1ra Ronda, Grupo 1",1,Inglaterra,Bobby Moore,bobby_moore.php
+1530,1966,Inglaterra,Uruguay,"1ra Ronda, Grupo 1",1,Uruguay,Horacio Troche,horacio_troche.php
+1531,1966,Alemania Occidental,Suiza,"1ra Ronda, Grupo 2",2,Alemania Occidental,Uwe Seeler,uwe_seeler.php
+1532,1966,Alemania Occidental,Suiza,"1ra Ronda, Grupo 2",2,Suiza,Heinz Schneiter,heinz_schneiter.php
+1533,1966,URSS,Corea del Norte,"1ra Ronda, Grupo 4",4,URSS,Albert Shesternyov,albert_shesternyov.php
+1534,1966,URSS,Corea del Norte,"1ra Ronda, Grupo 4",4,Corea del Norte,Seung Zin Pak,seung_zin_pak.php
+1535,1966,Brasil,Bulgaria,"1ra Ronda, Grupo 3",3,Brasil,Bellini,bellini.php
+1536,1966,Brasil,Bulgaria,"1ra Ronda, Grupo 3",3,Bulgaria,Boris Gaganelov,boris_gaganelov.php
+1537,1966,Francia,México,"1ra Ronda, Grupo 1",1,Francia,Marcel Artelesa,marcel_artelesa.php
+1538,1966,Francia,México,"1ra Ronda, Grupo 1",1,México,Gustavo Pena,gustavo_pena.php
+1539,1966,Italia,Chile,"1ra Ronda, Grupo 4",4,Italia,Sandro Salvadore,sandro_salvadore.php
+1540,1966,Italia,Chile,"1ra Ronda, Grupo 4",4,Chile,Leonel Sanchez,leonel_sanchez.php
+1541,1966,Portugal,Hungría,"1ra Ronda, Grupo 3",3,Portugal,Coluna,coluna.php
+1542,1966,Portugal,Hungría,"1ra Ronda, Grupo 3",3,Hungría,Ferenc Sipos,ferenc_sipos.php
+1543,1966,Argentina,España,"1ra Ronda, Grupo 2",2,Argentina,Antonio Rattin,antonio_rattin.php
+1544,1966,Argentina,España,"1ra Ronda, Grupo 2",2,España,Francisco Gento,francisco_gento.php
+1545,1966,Uruguay,Francia,"1ra Ronda, Grupo 1",1,Uruguay,Horacio Troche,horacio_troche.php
+1546,1966,Uruguay,Francia,"1ra Ronda, Grupo 1",1,Francia,Marcel Artelesa,marcel_artelesa.php
+1547,1966,Hungría,Brasil,"1ra Ronda, Grupo 3",3,Hungría,Ferenc Sipos,ferenc_sipos.php
+1548,1966,Hungría,Brasil,"1ra Ronda, Grupo 3",3,Brasil,Bellini,bellini.php
+1549,1966,España,Suiza,"1ra Ronda, Grupo 2",2,España,Francisco Gento,francisco_gento.php
+1550,1966,España,Suiza,"1ra Ronda, Grupo 2",2,Suiza,Rene Brodmann,rene_brodmann.php
+1551,1966,Corea del Norte,Chile,"1ra Ronda, Grupo 4",4,Corea del Norte,Seung Zin Pak,seung_zin_pak.php
+1552,1966,Corea del Norte,Chile,"1ra Ronda, Grupo 4",4,Chile,Leonel Sanchez,leonel_sanchez.php
+1553,1966,Portugal,Bulgaria,"1ra Ronda, Grupo 3",3,Portugal,Coluna,coluna.php
+1554,1966,Portugal,Bulgaria,"1ra Ronda, Grupo 3",3,Bulgaria,Boris Gaganelov,boris_gaganelov.php
+1555,1966,Alemania Occidental,Argentina,"1ra Ronda, Grupo 2",2,Alemania Occidental,Uwe Seeler,uwe_seeler.php
+1556,1966,Alemania Occidental,Argentina,"1ra Ronda, Grupo 2",2,Argentina,Antonio Rattin,antonio_rattin.php
+1557,1966,URSS,Italia,"1ra Ronda, Grupo 4",4,URSS,Albert Shesternyov,albert_shesternyov.php
+1558,1966,URSS,Italia,"1ra Ronda, Grupo 4",4,Italia,Sandro Salvadore,sandro_salvadore.php
+1559,1966,Inglaterra,México,"1ra Ronda, Grupo 1",1,Inglaterra,Bobby Moore,bobby_moore.php
+1560,1966,Inglaterra,México,"1ra Ronda, Grupo 1",1,México,Gustavo Pena,gustavo_pena.php
+1561,1966,Portugal,Brasil,"1ra Ronda, Grupo 3",3,Portugal,Coluna,coluna.php
+1562,1966,Portugal,Brasil,"1ra Ronda, Grupo 3",3,Brasil,Orlando,orlando.php
+1563,1966,Uruguay,México,"1ra Ronda, Grupo 1",1,Uruguay,Horacio Troche,horacio_troche.php
+1564,1966,Uruguay,México,"1ra Ronda, Grupo 1",1,México,Gustavo Pena,gustavo_pena.php
+1565,1966,Argentina,Suiza,"1ra Ronda, Grupo 2",2,Argentina,Antonio Rattin,antonio_rattin.php
+1566,1966,Argentina,Suiza,"1ra Ronda, Grupo 2",2,Suiza,Rene Brodmann,rene_brodmann.php
+1567,1966,Corea del Norte,Italia,"1ra Ronda, Grupo 4",4,Corea del Norte,Seung Zin Pak,seung_zin_pak.php
+1568,1966,Corea del Norte,Italia,"1ra Ronda, Grupo 4",4,Italia,Giacomo Bulgarelli,giacomo_bulgarelli.php
+1569,1966,Inglaterra,Francia,"1ra Ronda, Grupo 1",1,Inglaterra,Bobby Moore,bobby_moore.php
+1570,1966,Inglaterra,Francia,"1ra Ronda, Grupo 1",1,Francia,Marcel Artelesa,marcel_artelesa.php
+1571,1966,Alemania Occidental,España,"1ra Ronda, Grupo 2",2,Alemania Occidental,Uwe Seeler,uwe_seeler.php
+1572,1966,Alemania Occidental,España,"1ra Ronda, Grupo 2",2,España,Zoco,zoco.php
+1573,1966,URSS,Chile,"1ra Ronda, Grupo 4",4,URSS,Albert Shesternyov,albert_shesternyov.php
+1574,1966,URSS,Chile,"1ra Ronda, Grupo 4",4,Chile,Leonel Sanchez,leonel_sanchez.php
+1575,1966,Hungría,Bulgaria,"1ra Ronda, Grupo 3",3,Hungría,Ferenc Sipos,ferenc_sipos.php
+1576,1966,Hungría,Bulgaria,"1ra Ronda, Grupo 3",3,Bulgaria,Boris Gaganelov,boris_gaganelov.php
+1577,1966,Portugal,Corea del Norte,Cuartos,,Portugal,Coluna,coluna.php
+1578,1966,Portugal,Corea del Norte,Cuartos,,Corea del Norte,Seung Zin Pak,seung_zin_pak.php
+1579,1966,Inglaterra,Argentina,Cuartos,,Inglaterra,Bobby Moore,bobby_moore.php
+1580,1966,Inglaterra,Argentina,Cuartos,,Argentina,Antonio Rattin,antonio_rattin.php
+1581,1966,Alemania Occidental,Uruguay,Cuartos,,Alemania Occidental,Uwe Seeler,uwe_seeler.php
+1582,1966,Alemania Occidental,Uruguay,Cuartos,,Uruguay,Horacio Troche,horacio_troche.php
+1583,1966,URSS,Hungría,Cuartos,,URSS,Albert Shesternyov,albert_shesternyov.php
+1584,1966,URSS,Hungría,Cuartos,,Hungría,Ferenc Sipos,ferenc_sipos.php
+1585,1966,Alemania Occidental,URSS,Semis,,Alemania Occidental,Uwe Seeler,uwe_seeler.php
+1586,1966,Alemania Occidental,URSS,Semis,,URSS,Albert Shesternyov,albert_shesternyov.php
+1587,1966,Inglaterra,Portugal,Semis,,Inglaterra,Bobby Moore,bobby_moore.php
+1588,1966,Inglaterra,Portugal,Semis,,Portugal,Coluna,coluna.php
+1589,1966,Portugal,URSS,3er Puesto,,Portugal,Coluna,coluna.php
+1590,1966,Portugal,URSS,3er Puesto,,URSS,Lev Yashin,lev_yashin.php
+1591,1966,Inglaterra,Alemania Occidental,Final,,Inglaterra,Bobby Moore,bobby_moore.php
+1592,1966,Inglaterra,Alemania Occidental,Final,,Alemania Occidental,Uwe Seeler,uwe_seeler.php
+1593,1962,Uruguay,Colombia,"1ra Ronda, Grupo 1",1,Uruguay,Horacio Troche,horacio_troche.php
+1594,1962,Uruguay,Colombia,"1ra Ronda, Grupo 1",1,Colombia,Francisco Zuluaga,francisco_zuluaga.php
+1595,1962,Brasil,México,"1ra Ronda, Grupo 3",3,Brasil,Mauro Ramos,mauro_ramos.php
+1596,1962,Brasil,México,"1ra Ronda, Grupo 3",3,México,Antonio Carbajal,antonio_carbajal.php
+1597,1962,Chile,Suiza,"1ra Ronda, Grupo 2",2,Chile,Sergio Navarro,sergio_navarro.php
+1598,1962,Chile,Suiza,"1ra Ronda, Grupo 2",2,Suiza,Kiki Antenen,kiki_antenen.php
+1599,1962,Argentina,Bulgaria,"1ra Ronda, Grupo 4",4,Argentina,Ruben Navarro,ruben_navarro.php
+1600,1962,Argentina,Bulgaria,"1ra Ronda, Grupo 4",4,Bulgaria,Kiril Rakarov,kiril_rakarov.php
+1601,1962,Checoslovaquia,España,"1ra Ronda, Grupo 3",3,Checoslovaquia,Ladislav Novak,ladislav_novak.php
+1602,1962,Checoslovaquia,España,"1ra Ronda, Grupo 3",3,España,Joan Segarra,joan_segarra.php
+1603,1962,URSS,Yugoslavia,"1ra Ronda, Grupo 1",1,URSS,Igor Netto,igor_netto.php
+1604,1962,URSS,Yugoslavia,"1ra Ronda, Grupo 1",1,Yugoslavia,Muhamed Mujic,muhamed_mujic.php
+1605,1962,Hungría,Inglaterra,"1ra Ronda, Grupo 4",4,Hungría,Gyula Grosics,gyula_grosics.php
+1606,1962,Hungría,Inglaterra,"1ra Ronda, Grupo 4",4,Inglaterra,John Haynes,john_haynes.php
+1607,1962,Alemania Occidental,Italia,"1ra Ronda, Grupo 2",2,Alemania Occidental,Hans Schaefer,hans_schaefer.php
+1608,1962,Alemania Occidental,Italia,"1ra Ronda, Grupo 2",2,Italia,Lorenzo Buffon,lorenzo_buffon.php
+1609,1962,Chile,Italia,"1ra Ronda, Grupo 2",2,Chile,Sergio Navarro,sergio_navarro.php
+1610,1962,Chile,Italia,"1ra Ronda, Grupo 2",2,Italia,Bruno Mora,bruno_mora.php
+1611,1962,Brasil,Checoslovaquia,"1ra Ronda, Grupo 3",3,Brasil,Mauro Ramos,mauro_ramos.php
+1612,1962,Brasil,Checoslovaquia,"1ra Ronda, Grupo 3",3,Checoslovaquia,Ladislav Novak,ladislav_novak.php
+1613,1962,Yugoslavia,Uruguay,"1ra Ronda, Grupo 1",1,Yugoslavia,Milan Galic,milan_galic.php
+1614,1962,Yugoslavia,Uruguay,"1ra Ronda, Grupo 1",1,Uruguay,Horacio Troche,horacio_troche.php
+1615,1962,Inglaterra,Argentina,"1ra Ronda, Grupo 4",4,Inglaterra,John Haynes,john_haynes.php
+1616,1962,Inglaterra,Argentina,"1ra Ronda, Grupo 4",4,Argentina,Ruben Navarro,ruben_navarro.php
+1617,1962,Hungría,Bulgaria,"1ra Ronda, Grupo 4",4,Hungría,Laszlo Sarosi,laszlo_sarosi.php
+1618,1962,Hungría,Bulgaria,"1ra Ronda, Grupo 4",4,Bulgaria,Kiril Rakarov,kiril_rakarov.php
+1619,1962,URSS,Colombia,"1ra Ronda, Grupo 1",1,URSS,Igor Netto,igor_netto.php
+1620,1962,URSS,Colombia,"1ra Ronda, Grupo 1",1,Colombia,Efrain Sanchez,efrain_sanchez.php
+1621,1962,España,México,"1ra Ronda, Grupo 3",3,España,Francisco Gento,francisco_gento.php
+1622,1962,España,México,"1ra Ronda, Grupo 3",3,México,Antonio Carbajal,antonio_carbajal.php
+1623,1962,Alemania Occidental,Suiza,"1ra Ronda, Grupo 2",2,Alemania Occidental,Hans Schaefer,hans_schaefer.php
+1624,1962,Alemania Occidental,Suiza,"1ra Ronda, Grupo 2",2,Suiza,Kiki Antenen,kiki_antenen.php
+1625,1962,Alemania Occidental,Chile,"1ra Ronda, Grupo 2",2,Alemania Occidental,Hans Schaefer,hans_schaefer.php
+1626,1962,Alemania Occidental,Chile,"1ra Ronda, Grupo 2",2,Chile,Sergio Navarro,sergio_navarro.php
+1627,1962,Hungría,Argentina,"1ra Ronda, Grupo 4",4,Hungría,Gyula Grosics,gyula_grosics.php
+1628,1962,Hungría,Argentina,"1ra Ronda, Grupo 4",4,Argentina,Martin Pando,martin_pando.php
+1629,1962,URSS,Uruguay,"1ra Ronda, Grupo 1",1,URSS,Igor Netto,igor_netto.php
+1630,1962,URSS,Uruguay,"1ra Ronda, Grupo 1",1,Uruguay,Horacio Troche,horacio_troche.php
+1631,1962,Brasil,España,"1ra Ronda, Grupo 3",3,Brasil,Mauro Ramos,mauro_ramos.php
+1632,1962,Brasil,España,"1ra Ronda, Grupo 3",3,España,Enrique Collar,enrique_collar.php
+1633,1962,Yugoslavia,Colombia,"1ra Ronda, Grupo 1",1,Yugoslavia,Milan Galic,milan_galic.php
+1634,1962,Yugoslavia,Colombia,"1ra Ronda, Grupo 1",1,Colombia,Efrain Sanchez,efrain_sanchez.php
+1635,1962,México,Checoslovaquia,"1ra Ronda, Grupo 3",3,México,Antonio Carbajal,antonio_carbajal.php
+1636,1962,México,Checoslovaquia,"1ra Ronda, Grupo 3",3,Checoslovaquia,Ladislav Novak,ladislav_novak.php
+1637,1962,Italia,Suiza,"1ra Ronda, Grupo 2",2,Italia,Lorenzo Buffon,lorenzo_buffon.php
+1638,1962,Italia,Suiza,"1ra Ronda, Grupo 2",2,Suiza,Kiki Antenen,kiki_antenen.php
+1639,1962,Inglaterra,Bulgaria,"1ra Ronda, Grupo 4",4,Inglaterra,John Haynes,john_haynes.php
+1640,1962,Inglaterra,Bulgaria,"1ra Ronda, Grupo 4",4,Bulgaria,Nikola Kovachev,nikola_kovachev.php
+1641,1962,Brasil,Inglaterra,Cuartos,,Brasil,Mauro Ramos,mauro_ramos.php
+1642,1962,Brasil,Inglaterra,Cuartos,,Inglaterra,John Haynes,john_haynes.php
+1643,1962,Checoslovaquia,Hungría,Cuartos,,Checoslovaquia,Ladislav Novak,ladislav_novak.php
+1644,1962,Checoslovaquia,Hungría,Cuartos,,Hungría,Gyula Grosics,gyula_grosics.php
+1645,1962,Yugoslavia,Alemania Occidental,Cuartos,,Yugoslavia,Milan Galic,milan_galic.php
+1646,1962,Yugoslavia,Alemania Occidental,Cuartos,,Alemania Occidental,Hans Schaefer,hans_schaefer.php
+1647,1962,Chile,URSS,Cuartos,,Chile,Sergio Navarro,sergio_navarro.php
+1648,1962,Chile,URSS,Cuartos,,URSS,Igor Netto,igor_netto.php
+1649,1962,Yugoslavia,Checoslovaquia,Semis,,Yugoslavia,Milan Galic,milan_galic.php
+1650,1962,Yugoslavia,Checoslovaquia,Semis,,Checoslovaquia,Ladislav Novak,ladislav_novak.php
+1651,1962,Chile,Brasil,Semis,,Chile,Jorge Toro,jorge_toro.php
+1652,1962,Chile,Brasil,Semis,,Brasil,Mauro Ramos,mauro_ramos.php
+1653,1962,Chile,Yugoslavia,3er Puesto,,Chile,Jorge Toro,jorge_toro.php
+1654,1962,Chile,Yugoslavia,3er Puesto,,Yugoslavia,Milan Galic,milan_galic.php
+1655,1962,Brasil,Checoslovaquia,Final,,Brasil,Mauro Ramos,mauro_ramos.php
+1656,1962,Brasil,Checoslovaquia,Final,,Checoslovaquia,Ladislav Novak,ladislav_novak.php
+1657,1958,Hungría,Gales,"1ra Ronda, Grupo 3",3,Hungría,Nandor Hidegkuti,nandor_hidegkuti.php
+1658,1958,Hungría,Gales,"1ra Ronda, Grupo 3",3,Gales,Dave Bowen,dave_bowen.php
+1659,1958,Irlanda del Norte,Checoslovaquia,"1ra Ronda, Grupo 1",1,Irlanda del Norte,Danny Blanchflower,danny_blanchflower.php
+1660,1958,Irlanda del Norte,Checoslovaquia,"1ra Ronda, Grupo 1",1,Checoslovaquia,Ladislav Novak,ladislav_novak.php
+1661,1958,Brasil,Austria,"1ra Ronda, Grupo 4",4,Brasil,Bellini,bellini.php
+1662,1958,Brasil,Austria,"1ra Ronda, Grupo 4",4,Austria,Gerhard Hanappi,gerhard_hanappi.php
+1663,1958,Francia,Paraguay,"1ra Ronda, Grupo 2",2,Francia,Robert Jonquet,robert_jonquet.php
+1664,1958,Francia,Paraguay,"1ra Ronda, Grupo 2",2,Paraguay,Juan Aguero,juan_aguero.php
+1665,1958,Argentina,Alemania Occidental,"1ra Ronda, Grupo 1",1,Argentina,Pedro Dellacha,pedro_dellacha.php
+1666,1958,Argentina,Alemania Occidental,"1ra Ronda, Grupo 1",1,Alemania Occidental,Hans Schaefer,hans_schaefer.php
+1667,1958,URSS,Inglaterra,"1ra Ronda, Grupo 4",4,URSS,Nikita Simonyan,nikita_simonyan.php
+1668,1958,URSS,Inglaterra,"1ra Ronda, Grupo 4",4,Inglaterra,Billy Wright,billy_wright.php
+1669,1958,Yugoslavia,Escocia,"1ra Ronda, Grupo 2",2,Yugoslavia,Branko Zebec,branko_zebec.php
+1670,1958,Yugoslavia,Escocia,"1ra Ronda, Grupo 2",2,Escocia,Tommy Younger,tommy_younger.php
+1671,1958,Suecia,México,"1ra Ronda, Grupo 3",3,Suecia,Nils Liedholm,nils_liedholm.php
+1672,1958,Suecia,México,"1ra Ronda, Grupo 3",3,México,Antonio Carbajal,antonio_carbajal.php
+1673,1958,Yugoslavia,Francia,"1ra Ronda, Grupo 2",2,Yugoslavia,Branko Zebec,branko_zebec.php
+1674,1958,Yugoslavia,Francia,"1ra Ronda, Grupo 2",2,Francia,Roger Marche,roger_marche.php
+1675,1958,Paraguay,Escocia,"1ra Ronda, Grupo 2",2,Paraguay,Juan Aguero,juan_aguero.php
+1676,1958,Paraguay,Escocia,"1ra Ronda, Grupo 2",2,Escocia,Tommy Younger,tommy_younger.php
+1677,1958,México,Gales,"1ra Ronda, Grupo 3",3,México,Antonio Carbajal,antonio_carbajal.php
+1678,1958,México,Gales,"1ra Ronda, Grupo 3",3,Gales,Dave Bowen,dave_bowen.php
+1679,1958,Alemania Occidental,Checoslovaquia,"1ra Ronda, Grupo 1",1,Alemania Occidental,Hans Schaefer,hans_schaefer.php
+1680,1958,Alemania Occidental,Checoslovaquia,"1ra Ronda, Grupo 1",1,Checoslovaquia,Ladislav Novak,ladislav_novak.php
+1681,1958,URSS,Austria,"1ra Ronda, Grupo 4",4,URSS,Nikita Simonyan,nikita_simonyan.php
+1682,1958,URSS,Austria,"1ra Ronda, Grupo 4",4,Austria,Gerhard Hanappi,gerhard_hanappi.php
+1683,1958,Argentina,Irlanda del Norte,"1ra Ronda, Grupo 1",1,Argentina,Pedro Dellacha,pedro_dellacha.php
+1684,1958,Argentina,Irlanda del Norte,"1ra Ronda, Grupo 1",1,Irlanda del Norte,Danny Blanchflower,danny_blanchflower.php
+1685,1958,Brasil,Inglaterra,"1ra Ronda, Grupo 4",4,Brasil,Bellini,bellini.php
+1686,1958,Brasil,Inglaterra,"1ra Ronda, Grupo 4",4,Inglaterra,Billy Wright,billy_wright.php
+1687,1958,Suecia,Hungría,"1ra Ronda, Grupo 3",3,Suecia,Nils Liedholm,nils_liedholm.php
+1688,1958,Suecia,Hungría,"1ra Ronda, Grupo 3",3,Hungría,Jozsef Bozsik,jozsef_bozsik.php
+1689,1958,Francia,Escocia,"1ra Ronda, Grupo 2",2,Francia,Robert Jonquet,robert_jonquet.php
+1690,1958,Francia,Escocia,"1ra Ronda, Grupo 2",2,Escocia,Bobby Evans,bobby_evans.php
+1691,1958,Suecia,Gales,"1ra Ronda, Grupo 3",3,Suecia,Bengt Gustavsson,bengt_gustavsson.php
+1692,1958,Suecia,Gales,"1ra Ronda, Grupo 3",3,Gales,Dave Bowen,dave_bowen.php
+1693,1958,Alemania Occidental,Irlanda del Norte,"1ra Ronda, Grupo 1",1,Alemania Occidental,Hans Schaefer,hans_schaefer.php
+1694,1958,Alemania Occidental,Irlanda del Norte,"1ra Ronda, Grupo 1",1,Irlanda del Norte,Danny Blanchflower,danny_blanchflower.php
+1695,1958,Paraguay,Yugoslavia,"1ra Ronda, Grupo 2",2,Paraguay,Juan Aguero,juan_aguero.php
+1696,1958,Paraguay,Yugoslavia,"1ra Ronda, Grupo 2",2,Yugoslavia,Branko Zebec,branko_zebec.php
+1697,1958,Brasil,URSS,"1ra Ronda, Grupo 4",4,Brasil,Bellini,bellini.php
+1698,1958,Brasil,URSS,"1ra Ronda, Grupo 4",4,URSS,Igor Netto,igor_netto.php
+1699,1958,Inglaterra,Austria,"1ra Ronda, Grupo 4",4,Inglaterra,Billy Wright,billy_wright.php
+1700,1958,Inglaterra,Austria,"1ra Ronda, Grupo 4",4,Austria,Gerhard Hanappi,gerhard_hanappi.php
+1701,1958,Hungría,México,"1ra Ronda, Grupo 3",3,Hungría,Nandor Hidegkuti,nandor_hidegkuti.php
+1702,1958,Hungría,México,"1ra Ronda, Grupo 3",3,México,Antonio Carbajal,antonio_carbajal.php
+1703,1958,Checoslovaquia,Argentina,"1ra Ronda, Grupo 1",1,Checoslovaquia,Ladislav Novak,ladislav_novak.php
+1704,1958,Checoslovaquia,Argentina,"1ra Ronda, Grupo 1",1,Argentina,Pedro Dellacha,pedro_dellacha.php
+1705,1958,Irlanda del Norte,Checoslovaquia,"1ra Ronda, Grupo 1",1,Irlanda del Norte,Danny Blanchflower,danny_blanchflower.php
+1706,1958,Irlanda del Norte,Checoslovaquia,"1ra Ronda, Grupo 1",1,Checoslovaquia,Ladislav Novak,ladislav_novak.php
+1707,1958,Gales,Hungría,"1ra Ronda, Grupo 3",3,Gales,Dave Bowen,dave_bowen.php
+1708,1958,Gales,Hungría,"1ra Ronda, Grupo 3",3,Hungría,Jozsef Bozsik,jozsef_bozsik.php
+1709,1958,URSS,Inglaterra,"1ra Ronda, Grupo 4",4,URSS,Nikita Simonyan,nikita_simonyan.php
+1710,1958,URSS,Inglaterra,"1ra Ronda, Grupo 4",4,Inglaterra,Billy Wright,billy_wright.php
+1711,1958,Francia,Irlanda del Norte,Cuartos,,Francia,Robert Jonquet,robert_jonquet.php
+1712,1958,Francia,Irlanda del Norte,Cuartos,,Irlanda del Norte,Danny Blanchflower,danny_blanchflower.php
+1713,1958,Alemania Occidental,Yugoslavia,Cuartos,,Alemania Occidental,Hans Schaefer,hans_schaefer.php
+1714,1958,Alemania Occidental,Yugoslavia,Cuartos,,Yugoslavia,Branko Zebec,branko_zebec.php
+1715,1958,Brasil,Gales,Cuartos,,Brasil,Bellini,bellini.php
+1716,1958,Brasil,Gales,Cuartos,,Gales,Dave Bowen,dave_bowen.php
+1717,1958,Suecia,URSS,Cuartos,,Suecia,Nils Liedholm,nils_liedholm.php
+1718,1958,Suecia,URSS,Cuartos,,URSS,Nikita Simonyan,nikita_simonyan.php
+1719,1958,Alemania Occidental,Suecia,Semis,,Alemania Occidental,Hans Schaefer,hans_schaefer.php
+1720,1958,Alemania Occidental,Suecia,Semis,,Suecia,Nils Liedholm,nils_liedholm.php
+1721,1958,Francia,Brasil,Semis,,Francia,Robert Jonquet,robert_jonquet.php
+1722,1958,Francia,Brasil,Semis,,Brasil,Bellini,bellini.php
+1723,1958,Alemania Occidental,Francia,3er Puesto,,Alemania Occidental,Hans Schaefer,hans_schaefer.php
+1724,1958,Alemania Occidental,Francia,3er Puesto,,Francia,Armand Penverne,armand_penverne.php
+1725,1958,Suecia,Brasil,Final,,Suecia,Nils Liedholm,nils_liedholm.php
+1726,1958,Suecia,Brasil,Final,,Brasil,Bellini,bellini.php
+1727,1954,Yugoslavia,Francia,"1ra Ronda, Grupo 1",1,Yugoslavia,Stjepan Bobek,stjepan_bobek.php
+1728,1954,Yugoslavia,Francia,"1ra Ronda, Grupo 1",1,Francia,Robert Jonquet,robert_jonquet.php
+1729,1954,Austria,Escocia,"1ra Ronda, Grupo 3",3,Austria,Kurt Schmied,kurt_schmied.php
+1730,1954,Austria,Escocia,"1ra Ronda, Grupo 3",3,Escocia,Willie Cunningham,willie_cunningham.php
+1731,1954,Uruguay,Checoslovaquia,"1ra Ronda, Grupo 3",3,Uruguay,Obdulio Varela,obdulio_varela.php
+1732,1954,Uruguay,Checoslovaquia,"1ra Ronda, Grupo 3",3,Checoslovaquia,Ladislav Novak,ladislav_novak.php
+1733,1954,Brasil,México,"1ra Ronda, Grupo 1",1,Brasil,Bauer,bauer.php
+1734,1954,Brasil,México,"1ra Ronda, Grupo 1",1,México,Jose Naranjo,jose_naranjo.php
+1735,1954,Hungría,Corea del Sur,"1ra Ronda, Grupo 2",2,Hungría,Ferenc Puskas,ferenc_puskas.php
+1736,1954,Hungría,Corea del Sur,"1ra Ronda, Grupo 2",2,Corea del Sur,Byung Dae Min,byung_dae_min.php
+1737,1954,Inglaterra,Bélgica,"1ra Ronda, Grupo 4",4,Inglaterra,Billy Wright,billy_wright.php
+1738,1954,Inglaterra,Bélgica,"1ra Ronda, Grupo 4",4,Bélgica,Joseph Mermans,joseph_mermans.php
+1739,1954,Alemania Occidental,Turquía,"1ra Ronda, Grupo 2",2,Alemania Occidental,Fritz Walter,fritz_walter.php
+1740,1954,Alemania Occidental,Turquía,"1ra Ronda, Grupo 2",2,Turquía,Seren Turgay,seren_turgay.php
+1741,1954,Suiza,Italia,"1ra Ronda, Grupo 4",4,Suiza,Roger Bocquet,roger_bocquet.php
+1742,1954,Suiza,Italia,"1ra Ronda, Grupo 4",4,Italia,Giampiero Boniperti,giampiero_boniperti.php
+1743,1954,Francia,México,"1ra Ronda, Grupo 1",1,Francia,Roger Marche,roger_marche.php
+1744,1954,Francia,México,"1ra Ronda, Grupo 1",1,México,Jose Naranjo,jose_naranjo.php
+1745,1954,Brasil,Yugoslavia,"1ra Ronda, Grupo 1",1,Brasil,Bauer,bauer.php
+1746,1954,Brasil,Yugoslavia,"1ra Ronda, Grupo 1",1,Yugoslavia,Rajko Mitic,rajko_mitic.php
+1747,1954,Austria,Checoslovaquia,"1ra Ronda, Grupo 3",3,Austria,Ernst Ocwirk,ernst_ocwirk.php
+1748,1954,Austria,Checoslovaquia,"1ra Ronda, Grupo 3",3,Checoslovaquia,Ladislav Novak,ladislav_novak.php
+1749,1954,Uruguay,Escocia,"1ra Ronda, Grupo 3",3,Uruguay,Obdulio Varela,obdulio_varela.php
+1750,1954,Uruguay,Escocia,"1ra Ronda, Grupo 3",3,Escocia,Willie Cunningham,willie_cunningham.php
+1751,1954,Hungría,Alemania Occidental,"1ra Ronda, Grupo 2",2,Hungría,Ferenc Puskas,ferenc_puskas.php
+1752,1954,Hungría,Alemania Occidental,"1ra Ronda, Grupo 2",2,Alemania Occidental,Fritz Walter,fritz_walter.php
+1753,1954,Turquía,Corea del Sur,"1ra Ronda, Grupo 2",2,Turquía,Seren Turgay,seren_turgay.php
+1754,1954,Turquía,Corea del Sur,"1ra Ronda, Grupo 2",2,Corea del Sur,Kyu Chong Park,kyu_chong_park.php
+1755,1954,Inglaterra,Suiza,"1ra Ronda, Grupo 4",4,Inglaterra,Billy Wright,billy_wright.php
+1756,1954,Inglaterra,Suiza,"1ra Ronda, Grupo 4",4,Suiza,Roger Bocquet,roger_bocquet.php
+1757,1954,Italia,Bélgica,"1ra Ronda, Grupo 4",4,Italia,Egisto Pandolfini,egisto_pandolfini.php
+1758,1954,Italia,Bélgica,"1ra Ronda, Grupo 4",4,Bélgica,Joseph Mermans,joseph_mermans.php
+1759,1954,Suiza,Italia,"1ra Ronda, Grupo 4",4,Suiza,Roger Bocquet,roger_bocquet.php
+1760,1954,Suiza,Italia,"1ra Ronda, Grupo 4",4,Italia,Egisto Pandolfini,egisto_pandolfini.php
+1761,1954,Alemania Occidental,Turquía,"1ra Ronda, Grupo 2",2,Alemania Occidental,Fritz Walter,fritz_walter.php
+1762,1954,Alemania Occidental,Turquía,"1ra Ronda, Grupo 2",2,Turquía,Lefter Kucukandonyadis,lefter_kucukandonyadis.php
+1763,1954,Uruguay,Inglaterra,Cuartos,,Uruguay,Obdulio Varela,obdulio_varela.php
+1764,1954,Uruguay,Inglaterra,Cuartos,,Inglaterra,Billy Wright,billy_wright.php
+1765,1954,Austria,Suiza,Cuartos,,Austria,Ernst Ocwirk,ernst_ocwirk.php
+1766,1954,Austria,Suiza,Cuartos,,Suiza,Roger Bocquet,roger_bocquet.php
+1767,1954,Hungría,Brasil,Cuartos,,Hungría,Jozsef Bozsik,jozsef_bozsik.php
+1768,1954,Hungría,Brasil,Cuartos,,Brasil,Bauer,bauer.php
+1769,1954,Alemania Occidental,Yugoslavia,Cuartos,,Alemania Occidental,Fritz Walter,fritz_walter.php
+1770,1954,Alemania Occidental,Yugoslavia,Cuartos,,Yugoslavia,Rajko Mitic,rajko_mitic.php
+1771,1954,Hungría,Uruguay,Semis,,Hungría,Jozsef Bozsik,jozsef_bozsik.php
+1772,1954,Hungría,Uruguay,Semis,,Uruguay,William Martinez,william_martinez.php
+1773,1954,Alemania Occidental,Austria,Semis,,Alemania Occidental,Fritz Walter,fritz_walter.php
+1774,1954,Alemania Occidental,Austria,Semis,,Austria,Ernst Ocwirk,ernst_ocwirk.php
+1775,1954,Uruguay,Austria,3er Puesto,,Uruguay,William Martinez,william_martinez.php
+1776,1954,Uruguay,Austria,3er Puesto,,Austria,Ernst Ocwirk,ernst_ocwirk.php
+1777,1954,Hungría,Alemania Occidental,Final,,Hungría,Ferenc Puskas,ferenc_puskas.php
+1778,1954,Hungría,Alemania Occidental,Final,,Alemania Occidental,Fritz Walter,fritz_walter.php
+1779,1950,Brasil,México,"1ra Ronda, Grupo 1",1,Brasil,Augusto,augusto.php
+1780,1950,Brasil,México,"1ra Ronda, Grupo 1",1,México,Alfonso Montemayor,alfonso_montemayor.php
+1781,1950,Suecia,Italia,"1ra Ronda, Grupo 3",3,Suecia,Erik Nilsson,erik_nilsson.php
+1782,1950,Suecia,Italia,"1ra Ronda, Grupo 3",3,Italia,Riccardo Carapellese,riccardo_carapellese.php
+1783,1950,Yugoslavia,Suiza,"1ra Ronda, Grupo 1",1,Yugoslavia,Rajko Mitic,rajko_mitic.php
+1784,1950,Yugoslavia,Suiza,"1ra Ronda, Grupo 1",1,Suiza,Fredy Bickel,fredy_bickel.php
+1785,1950,Inglaterra,Chile,"1ra Ronda, Grupo 2",2,Inglaterra,Billy Wright,billy_wright.php
+1786,1950,Inglaterra,Chile,"1ra Ronda, Grupo 2",2,Chile,Sergio Livingstone,sergio_livingstone.php
+1787,1950,España,Estados Unidos,"1ra Ronda, Grupo 2",2,España,Ignacio Eizaguirre,ignacio_eizaguirre.php
+1788,1950,España,Estados Unidos,"1ra Ronda, Grupo 2",2,Estados Unidos,Harry Keough,harry_keough.php
+1789,1950,Yugoslavia,México,"1ra Ronda, Grupo 1",1,Yugoslavia,Ivan Horvat,ivan_horvat.php
+1790,1950,Yugoslavia,México,"1ra Ronda, Grupo 1",1,México,Horacio Casarin,horacio_casarin.php
+1791,1950,Brasil,Suiza,"1ra Ronda, Grupo 1",1,Brasil,Augusto,augusto.php
+1792,1950,Brasil,Suiza,"1ra Ronda, Grupo 1",1,Suiza,Fredy Bickel,fredy_bickel.php
+1793,1950,Suecia,Paraguay,"1ra Ronda, Grupo 3",3,Suecia,Erik Nilsson,erik_nilsson.php
+1794,1950,Suecia,Paraguay,"1ra Ronda, Grupo 3",3,Paraguay,Cesar Lopez Fretes,cesar_lopez_fretes.php
+1795,1950,Estados Unidos,Inglaterra,"1ra Ronda, Grupo 2",2,Estados Unidos,Ed Mcilvenny,ed_mcilvenny.php
+1796,1950,Estados Unidos,Inglaterra,"1ra Ronda, Grupo 2",2,Inglaterra,Billy Wright,billy_wright.php
+1797,1950,España,Chile,"1ra Ronda, Grupo 2",2,España,Piru Gainza,piru_gainza.php
+1798,1950,España,Chile,"1ra Ronda, Grupo 2",2,Chile,Sergio Livingstone,sergio_livingstone.php
+1799,1950,Brasil,Yugoslavia,"1ra Ronda, Grupo 1",1,Brasil,Augusto,augusto.php
+1800,1950,Brasil,Yugoslavia,"1ra Ronda, Grupo 1",1,Yugoslavia,Zlatko Cajkovski,zlatko_cajkovski.php
+1801,1950,Uruguay,Bolivia,"1ra Ronda, Grupo 4",4,Uruguay,Obdulio Varela,obdulio_varela.php
+1802,1950,Uruguay,Bolivia,"1ra Ronda, Grupo 4",4,Bolivia,Jose Bustamante-Nava,jose_bustamante_nava.php
+1803,1950,Suiza,México,"1ra Ronda, Grupo 1",1,Suiza,Roger Bocquet,roger_bocquet.php
+1804,1950,Suiza,México,"1ra Ronda, Grupo 1",1,México,Horacio Casarin,horacio_casarin.php
+1805,1950,España,Inglaterra,"1ra Ronda, Grupo 2",2,España,Piru Gainza,piru_gainza.php
+1806,1950,España,Inglaterra,"1ra Ronda, Grupo 2",2,Inglaterra,Billy Wright,billy_wright.php
+1807,1950,Chile,Estados Unidos,"1ra Ronda, Grupo 2",2,Chile,Sergio Livingstone,sergio_livingstone.php
+1808,1950,Chile,Estados Unidos,"1ra Ronda, Grupo 2",2,Estados Unidos,Walter Bahr,walter_bahr.php
+1809,1950,Italia,Paraguay,"1ra Ronda, Grupo 3",3,Italia,Riccardo Carapellese,riccardo_carapellese.php
+1810,1950,Italia,Paraguay,"1ra Ronda, Grupo 3",3,Paraguay,Cesar Lopez Fretes,cesar_lopez_fretes.php
+1811,1950,Brasil,Suecia,Ronda Final,,Brasil,Augusto,augusto.php
+1812,1950,Brasil,Suecia,Ronda Final,,Suecia,Erik Nilsson,erik_nilsson.php
+1813,1950,Uruguay,España,Ronda Final,,Uruguay,Obdulio Varela,obdulio_varela.php
+1814,1950,Uruguay,España,Ronda Final,,España,Piru Gainza,piru_gainza.php
+1815,1950,Uruguay,Suecia,Ronda Final,,Uruguay,Obdulio Varela,obdulio_varela.php
+1816,1950,Uruguay,Suecia,Ronda Final,,Suecia,Erik Nilsson,erik_nilsson.php
+1817,1950,Brasil,España,Ronda Final,,Brasil,Augusto,augusto.php
+1818,1950,Brasil,España,Ronda Final,,España,Piru Gainza,piru_gainza.php
+1819,1950,Suecia,España,Ronda Final,,Suecia,Erik Nilsson,erik_nilsson.php
+1820,1950,Suecia,España,Ronda Final,,España,Zarra,zarra.php
+1821,1950,Uruguay,Brasil,Ronda Final,,Uruguay,Obdulio Varela,obdulio_varela.php
+1822,1950,Uruguay,Brasil,Ronda Final,,Brasil,Augusto,augusto.php
+1823,1938,Suiza,Alemania,Octavos,,Suiza,Severino Minelli,severino_minelli.php
+1824,1938,Suiza,Alemania,Octavos,,Alemania,Hans Mock,hans_mock.php
+1825,1938,Francia,Bélgica,Octavos,,Francia,Etienne Mattler,etienne_mattler.php
+1826,1938,Francia,Bélgica,Octavos,,Bélgica,Emile Stynen,emile_stynen.php
+1827,1938,Italia,Noruega,Octavos,,Italia,Giuseppe Meazza,giuseppe_meazza.php
+1828,1938,Italia,Noruega,Octavos,,Noruega,Nils Eriksen,nils_eriksen.php
+1829,1938,Brasil,Polonia,Octavos,,Brasil,Martim,martim.php
+1830,1938,Brasil,Polonia,Octavos,,Polonia,Wladyslaw Szszepaniak,wladyslaw_szszepaniak.php
+1831,1938,Hungría,Indias Orientales Holand.,Octavos,,Hungría,Gyorgy Sarosi,gyorgy_sarosi.php
+1832,1938,Hungría,Indias Orientales Holand.,Octavos,,Indias Orientales Holand.,Frans Meeng,frans_meeng.php
+1833,1938,Checoslovaquia,Paises Bajos,Octavos,,Checoslovaquia,Frantisek Planicka,frantisek_planicka.php
+1834,1938,Checoslovaquia,Paises Bajos,Octavos,,Paises Bajos,Puck Van Heel,puck_van_heel.php
+1835,1938,Cuba,Rumania,Octavos,,Cuba,Tomas Fernandez,tomas_fernandez.php
+1836,1938,Cuba,Rumania,Octavos,,Rumania,Nicolae Kovacs,nicolae_kovacs.php
+1837,1938,Suiza,Alemania,Octavos,,Suiza,Severino Minelli,severino_minelli.php
+1838,1938,Suiza,Alemania,Octavos,,Alemania,Fritz Szepan,fritz_szepan.php
+1839,1938,Cuba,Rumania,Octavos,,Cuba,Tomas Fernandez,tomas_fernandez.php
+1840,1938,Cuba,Rumania,Octavos,,Rumania,Stefan Dobay,stefan_dobay.php
+1841,1938,Cuba,Suecia,Cuartos,,Cuba,Tomas Fernandez,tomas_fernandez.php
+1842,1938,Cuba,Suecia,Cuartos,,Suecia,Tore Keller,tore_keller.php
+1843,1938,Italia,Francia,Cuartos,,Italia,Giuseppe Meazza,giuseppe_meazza.php
+1844,1938,Italia,Francia,Cuartos,,Francia,Etienne Mattler,etienne_mattler.php
+1845,1938,Hungría,Suiza,Cuartos,,Hungría,Gyorgy Sarosi,gyorgy_sarosi.php
+1846,1938,Hungría,Suiza,Cuartos,,Suiza,Andre Abegglen,andre_abegglen.php
+1847,1938,Brasil,Checoslovaquia,Cuartos,,Brasil,Martim,martim.php
+1848,1938,Brasil,Checoslovaquia,Cuartos,,Checoslovaquia,Frantisek Planicka,frantisek_planicka.php
+1849,1938,Brasil,Checoslovaquia,Cuartos,,Brasil,Leonidas,leonidas.php
+1850,1938,Brasil,Checoslovaquia,Cuartos,,Checoslovaquia,Jaroslav Burgr,jaroslav_burgr.php
+1851,1938,Hungría,Suecia,Semis,,Hungría,Gyorgy Sarosi,gyorgy_sarosi.php
+1852,1938,Hungría,Suecia,Semis,,Suecia,Tore Keller,tore_keller.php
+1853,1938,Brasil,Italia,Semis,,Brasil,Martim,martim.php
+1854,1938,Brasil,Italia,Semis,,Italia,Giuseppe Meazza,giuseppe_meazza.php
+1855,1938,Brasil,Suecia,3er Puesto,,Brasil,Leonidas,leonidas.php
+1856,1938,Brasil,Suecia,3er Puesto,,Suecia,Kurt Svanstrom,kurt_svanstrom.php
+1857,1938,Italia,Hungría,Final,,Italia,Giuseppe Meazza,giuseppe_meazza.php
+1858,1938,Italia,Hungría,Final,,Hungría,Gyorgy Sarosi,gyorgy_sarosi.php
+1859,1934,Alemania,Bélgica,Octavos,,Alemania,Fritz Szepan,fritz_szepan.php
+1860,1934,Alemania,Bélgica,Octavos,,Bélgica,Felix Welkenhuysen,felix_welkenhuysen.php
+1861,1934,Suecia,Argentina,Octavos,,Suecia,Nils Rosen,nils_rosen.php
+1862,1934,Suecia,Argentina,Octavos,,Argentina,Alfredo De Vincenzi,alfredo_de_vincenzi.php
+1863,1934,Italia,Estados Unidos,Octavos,,Italia,Virginio Rosetta,virginio_rosetta.php
+1864,1934,Italia,Estados Unidos,Octavos,,Estados Unidos,George Moorhouse,george_moorhouse.php
+1865,1934,Hungría,Egipto,Octavos,,Hungría,Laszlo Sternberg,laszlo_sternberg.php
+1866,1934,Hungría,Egipto,Octavos,,Egipto,Mahmoud Moukhtar,mahmoud_moukhtar.php
+1867,1934,España,Brasil,Octavos,,España,Ricardo Zamora,ricardo_zamora.php
+1868,1934,España,Brasil,Octavos,,Brasil,Martim,martim.php
+1869,1934,Checoslovaquia,Rumania,Octavos,,Checoslovaquia,Frantisek Planicka,frantisek_planicka.php
+1870,1934,Checoslovaquia,Rumania,Octavos,,Rumania,Emerich Vogl,emerich_vogl.php
+1871,1934,Suiza,Paises Bajos,Octavos,,Suiza,Severino Minelli,severino_minelli.php
+1872,1934,Suiza,Paises Bajos,Octavos,,Paises Bajos,Puck Van Heel,puck_van_heel.php
+1873,1934,Austria,Francia,Octavos,,Austria,Josef Smistik,josef_smistik.php
+1874,1934,Austria,Francia,Octavos,,Francia,Alex Thepot,alex_thepot.php
+1875,1934,Checoslovaquia,Suiza,Cuartos,,Checoslovaquia,Frantisek Planicka,frantisek_planicka.php
+1876,1934,Checoslovaquia,Suiza,Cuartos,,Suiza,Severino Minelli,severino_minelli.php
+1877,1934,Austria,Hungría,Cuartos,,Austria,Johann Horvath,johann_horvath.php
+1878,1934,Austria,Hungría,Cuartos,,Hungría,Laszlo Sternberg,laszlo_sternberg.php
+1879,1934,Alemania,Suecia,Cuartos,,Alemania,Fritz Szepan,fritz_szepan.php
+1880,1934,Alemania,Suecia,Cuartos,,Suecia,Nils Rosen,nils_rosen.php
+1881,1934,Italia,España,Cuartos,,Italia,Giampiero Combi,giampiero_combi.php
+1882,1934,Italia,España,Cuartos,,España,Ricardo Zamora,ricardo_zamora.php
+1883,1934,Italia,España,Cuartos,,Italia,Giampiero Combi,giampiero_combi.php
+1884,1934,Italia,España,Cuartos,,España,Quincoces I,quincoces_i.php
+1885,1934,Checoslovaquia,Alemania,Semis,,Checoslovaquia,Frantisek Planicka,frantisek_planicka.php
+1886,1934,Checoslovaquia,Alemania,Semis,,Alemania,Fritz Szepan,fritz_szepan.php
+1887,1934,Italia,Austria,Semis,,Italia,Giampiero Combi,giampiero_combi.php
+1888,1934,Italia,Austria,Semis,,Austria,Josef Smistik,josef_smistik.php
+1889,1934,Austria,Alemania,3er Puesto,,Austria,Johann Horvath,johann_horvath.php
+1890,1934,Austria,Alemania,3er Puesto,,Alemania,Fritz Szepan,fritz_szepan.php
+1891,1934,Italia,Checoslovaquia,Final,,Italia,Giampiero Combi,giampiero_combi.php
+1892,1934,Italia,Checoslovaquia,Final,,Checoslovaquia,Frantisek Planicka,frantisek_planicka.php
+1893,1930,Francia,México,"1ra Ronda, Grupo 1",1,Francia,Alex Villaplane,alex_villaplane.php
+1894,1930,Francia,México,"1ra Ronda, Grupo 1",1,México,Rafael Garza Gutierrez,rafael_gutierrez.php
+1895,1930,Estados Unidos,Bélgica,"1ra Ronda, Grupo 4",4,Estados Unidos,Tom Florie,tom_florie.php
+1896,1930,Estados Unidos,Bélgica,"1ra Ronda, Grupo 4",4,Bélgica,Pierre Braine,pierre_braine.php
+1897,1930,Rumania,Perú,"1ra Ronda, Grupo 3",3,Rumania,Emerich Vogl,emerich_vogl.php
+1898,1930,Rumania,Perú,"1ra Ronda, Grupo 3",3,Perú,Placido Galindo,placido_galindo.php
+1899,1930,Yugoslavia,Brasil,"1ra Ronda, Grupo 2",2,Yugoslavia,Milutin Ivkovic,milutin_ivkovic.php
+1900,1930,Yugoslavia,Brasil,"1ra Ronda, Grupo 2",2,Brasil,Preguinho,preguinho.php
+1901,1930,Argentina,Francia,"1ra Ronda, Grupo 1",1,Argentina,Manuel Ferreira,manuel_ferreira.php
+1902,1930,Argentina,Francia,"1ra Ronda, Grupo 1",1,Francia,Alex Villaplane,alex_villaplane.php
+1903,1930,Chile,México,"1ra Ronda, Grupo 1",1,Chile,Carlos Schneeberger,carlos_schneeberger.php
+1904,1930,Chile,México,"1ra Ronda, Grupo 1",1,México,Rafael Garza Gutierrez,rafael_gutierrez.php
+1905,1930,Yugoslavia,Bolivia,"1ra Ronda, Grupo 2",2,Yugoslavia,Milutin Ivkovic,milutin_ivkovic.php
+1906,1930,Yugoslavia,Bolivia,"1ra Ronda, Grupo 2",2,Bolivia,Rafael Mendez,rafael_mendez.php
+1907,1930,Estados Unidos,Paraguay,"1ra Ronda, Grupo 4",4,Estados Unidos,Tom Florie,tom_florie.php
+1908,1930,Estados Unidos,Paraguay,"1ra Ronda, Grupo 4",4,Paraguay,Luis Vargas Pena,luis_vargas_pena.php
+1909,1930,Uruguay,Perú,"1ra Ronda, Grupo 3",3,Uruguay,Jose Nasazzi,jose_nasazzi.php
+1910,1930,Uruguay,Perú,"1ra Ronda, Grupo 3",3,Perú,Antonio Maquilon,antonio_maquilon.php
+1911,1930,Argentina,México,"1ra Ronda, Grupo 1",1,Argentina,Angel Bossio,angel_bossio.php
+1912,1930,Argentina,México,"1ra Ronda, Grupo 1",1,México,Rafael Garza Gutierrez,rafael_gutierrez.php
+1913,1930,Chile,Francia,"1ra Ronda, Grupo 1",1,Chile,Carlos Schneeberger,carlos_schneeberger.php
+1914,1930,Chile,Francia,"1ra Ronda, Grupo 1",1,Francia,Alex Villaplane,alex_villaplane.php
+1915,1930,Paraguay,Bélgica,"1ra Ronda, Grupo 4",4,Paraguay,Luis Vargas Pena,luis_vargas_pena.php
+1916,1930,Paraguay,Bélgica,"1ra Ronda, Grupo 4",4,Bélgica,Pierre Braine,pierre_braine.php
+1917,1930,Brasil,Bolivia,"1ra Ronda, Grupo 2",2,Brasil,Preguinho,preguinho.php
+1918,1930,Brasil,Bolivia,"1ra Ronda, Grupo 2",2,Bolivia,Rafael Mendez,rafael_mendez.php
+1919,1930,Uruguay,Rumania,"1ra Ronda, Grupo 3",3,Uruguay,Jose Nasazzi,jose_nasazzi.php
+1920,1930,Uruguay,Rumania,"1ra Ronda, Grupo 3",3,Rumania,Emerich Vogl,emerich_vogl.php
+1921,1930,Argentina,Chile,"1ra Ronda, Grupo 1",1,Argentina,Manuel Ferreira,manuel_ferreira.php
+1922,1930,Argentina,Chile,"1ra Ronda, Grupo 1",1,Chile,Guillermo Subiabre,guillermo_subiabre.php
+1923,1930,Argentina,Estados Unidos,Semis,,Argentina,Manuel Ferreira,manuel_ferreira.php
+1924,1930,Argentina,Estados Unidos,Semis,,Estados Unidos,Tom Florie,tom_florie.php
+1925,1930,Uruguay,Yugoslavia,Semis,,Uruguay,Jose Nasazzi,jose_nasazzi.php
+1926,1930,Uruguay,Yugoslavia,Semis,,Yugoslavia,Milutin Ivkovic,milutin_ivkovic.php
+1927,1930,Argentina,Uruguay,Final,,Argentina,Manuel Ferreira,manuel_ferreira.php
+1928,1930,Argentina,Uruguay,Final,,Uruguay,Jose Nasazzi,jose_nasazzi.php

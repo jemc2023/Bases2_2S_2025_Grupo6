@@ -1,0 +1,17 @@
+services:
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: db-mundial
+    user: root
+    ports:
+      - "1433:1433"
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=Mundial.123
+      - MSSQL_PID=Developer
+    volumes:
+      - ./backup:/backup/
+      - ./recovery.sql:/recovery.sql
+      - ./setup.sh:/setup.sh
+    command: >
+      bash -c "(/setup.sh &) && /opt/mssql/bin/sqlservr"

@@ -1,0 +1,219 @@
+﻿id,mundial,pais1,pais2,tipo_ronda,grupo,equipo,jugador,referencia,detalle
+1,2022,Francia,Australia,"1ra Ronda, Grupo D",D,Francia,Karim Benzema,karim_benzema.php,lesionado
+2,2022,Francia,Dinamarca,"1ra Ronda, Grupo D",D,Francia,Lucas Hernandez,lucas_hernandez.php,lesionado
+3,2022,Francia,Dinamarca,"1ra Ronda, Grupo D",D,Francia,Karim Benzema,karim_benzema.php,lesionado
+4,2022,Ecuador,Senegal,"1ra Ronda, Grupo A",A,Ecuador,Jhegson Méndez,jhegson_mendez.php,suspendido
+5,2022,Gales,Inglaterra,"1ra Ronda, Grupo B",B,Gales,Wayne Heennesey,wayne_hennessey.php,suspendido
+6,2022,Irán,Estados Unidos,"1ra Ronda, Grupo B",B,Irán,Alireza Jahanbakhsh,alireza_jahanbakhsh.php,suspendido
+7,2022,Túnez,Francia,"1ra Ronda, Grupo D",D,Francia,Lucas Hernandez,lucas_hernandez.php,lesionado
+8,2022,Túnez,Francia,"1ra Ronda, Grupo D",D,Francia,Karim Benzema,karim_benzema.php,lesionado
+9,2022,Arabia Saudita,México,"1ra Ronda, Grupo C",C,Arabia Saudita,Abdulelah Al-Malki,abdulellah_al_malki.php,suspendido
+10,2022,Croacia,Bélgica,"1ra Ronda, Grupo F",F,Bélgica,Amadou Onana,amadou_onana.php,suspendido
+11,2022,Costa Rica,Alemania,"1ra Ronda, Grupo E",E,Costa Rica,Francisco Calvo,francisco_calvo.php,suspendido
+12,2022,Inglaterra,Senegal,Octavos,,Senegal,Idrissa Gana Gueye,idrissa_gueye.php,suspendido
+13,2022,Francia,Polonia,Octavos,,Francia,Lucas Hernandez,lucas_hernandez.php,lesionado
+14,2022,Francia,Polonia,Octavos,,Francia,Karim Benzema,karim_benzema.php,lesionado
+15,2022,Japón,Croacia,Octavos,,Japón,Ko Itakura,ko_itakura.php,suspendido
+16,2022,Inglaterra,Francia,Cuartos,,Francia,Lucas Hernandez,lucas_hernandez.php,lesionado
+17,2022,Inglaterra,Francia,Cuartos,,Francia,Karim Benzema,karim_benzema.php,lesionado
+18,2022,Argentina,Croacia,Semis,,Argentina,Gonzalo Montiel,gonzalo_montiel.php,suspendido
+19,2022,Argentina,Croacia,Semis,,Argentina,Marcos Acuña,marcos_acuna.php,suspendido
+20,2022,Francia,Marruecos,Semis,,Francia,Lucas Hernandez,lucas_hernandez.php,lesionado
+21,2022,Francia,Marruecos,Semis,,Francia,Karim Benzema,karim_benzema.php,lesionado
+22,2022,Francia,Marruecos,Semis,,Marruecos,Nayef Aguerd,nayef_aguerd.php,lesionado
+23,2022,Francia,Marruecos,Semis,,Marruecos,Walid Cheddira,walid_cheddira.php,suspendido
+24,2022,Argentina,Francia,Final,,Francia,Lucas Hernandez,lucas_hernandez.php,suspendido
+25,2022,Argentina,Francia,Final,,Francia,Karim Benzema,karim_benzema.php,suspendido
+26,2018,Marruecos,Irán,"1ra Ronda, Grupo B",B,Irán,Saeid Ezatolahi,saeid_ezatolahi.php,suspendido
+27,2018,Brasil,Suiza,"1ra Ronda, Grupo E",E,Brasil,Fred,fred_rodrigues.php,lesionado
+28,2018,Suecia,Corea del Sur,"1ra Ronda, Grupo F",F,Suecia,Victor Lindelöf,victor_lindelof.php,lesionado
+29,2018,Bélgica,Panamá,"1ra Ronda, Grupo G",G,Bélgica,Vincent Kompany,vincent_kompany.php,lesionado
+30,2018,Bélgica,Panamá,"1ra Ronda, Grupo G",G,Bélgica,Thomas Vermaelen,thomas_vermaelen.php,lesionado
+31,2018,Rusia,Egipto,"1ra Ronda, Grupo A",A,Rusia,Alan Dzagoev,alan_dzagoev.php,lesionado
+32,2018,Portugal,Marruecos,"1ra Ronda, Grupo B",B,Marruecos,Youssef Aït Bennasser,youssef_ait_bennasser.php,lesionado
+33,2018,Irán,España,"1ra Ronda, Grupo B",B,Irán,Rouzbeh Cheshmi,rouzbeh_cheshmi.php,lesionado
+34,2018,Dinamarca,Australia,"1ra Ronda, Grupo C",C,Dinamarca,William Kvist,william_kvist.php,lesionado
+35,2018,Argentina,Croacia,"1ra Ronda, Grupo D",D,Croacia,Nikola Kalinić,nikola_kalinic.php,lesionado
+36,2018,Brasil,Costa Rica,"1ra Ronda, Grupo E",E,Brasil,Danilo,danilo.php,lesionado
+37,2018,Corea del Sur,México,"1ra Ronda, Grupo F",F,Corea del Sur,Joo-Ho Park,joo_ho_park.php,lesionado
+38,2018,Bélgica,Túnez,"1ra Ronda, Grupo G",G,Túnez,Mouez Hassen,mouez_hassen.php,lesionado
+39,2018,Polonia,Colombia,"1ra Ronda, Grupo H",H,Colombia,Carlos Sánchez,carlos_sanchez.php,suspendido
+40,2018,Uruguay,Rusia,"1ra Ronda, Grupo A",A,Uruguay,José María Giménez,jose_maria_gimenez.php,lesionado
+41,2018,Uruguay,Rusia,"1ra Ronda, Grupo A",A,Rusia,Alan Dzagoev,alan_dzagoev.php,lesionado
+42,2018,Arabia Saudita,Egipto,"1ra Ronda, Grupo A",A,Arabia Saudita,Ali Al-Bulaihi,ali_al_bulaihi.php,lesionado
+43,2018,Arabia Saudita,Egipto,"1ra Ronda, Grupo A",A,Arabia Saudita,Omar Hawsawi,omar_hawsawi.php,lesionado
+44,2018,Arabia Saudita,Egipto,"1ra Ronda, Grupo A",A,Arabia Saudita,Taisir Al-Jassim,taisir_al_jassim.php,lesionado
+45,2018,Arabia Saudita,Egipto,"1ra Ronda, Grupo A",A,Egipto,Omar Gaber,omar_gaber.php,lesionado
+46,2018,Irán,Portugal,"1ra Ronda, Grupo B",B,Irán,Rouzbeh Cheshmi,rouzbeh_cheshmi.php,lesionado
+47,2018,España,Marruecos,"1ra Ronda, Grupo B",B,Marruecos,Ahmed Reda Tagnaouti,ahmed_reda_tagnaouti.php,lesionado
+48,2018,España,Marruecos,"1ra Ronda, Grupo B",B,Marruecos,Youssef Aït Bennasser,youssef_ait_bennasser.php,lesionado
+49,2018,Dinamarca,Francia,"1ra Ronda, Grupo C",C,Dinamarca,Yussuf Yurary Poulsen,yussuf_poulsen.php,suspendido
+50,2018,Australia,Perú,"1ra Ronda, Grupo C",C,Perú,Jefferson Farfán,jefferson_farfan.php,lesionado
+51,2018,Islandia,Croacia,"1ra Ronda, Grupo D",D,Croacia,Nikola Kalinić,nikola_kalinic.php,lesionado
+52,2018,Serbia,Brasil,"1ra Ronda, Grupo E",E,Brasil,Danilo,danilo.php,lesionado
+53,2018,Serbia,Brasil,"1ra Ronda, Grupo E",E,Brasil,Douglas Costa,douglas_costa.php,lesionado
+54,2018,Suiza,Costa Rica,"1ra Ronda, Grupo E",E,Suiza,Steven Zuber,steven_zuber.php,lesionado
+55,2018,Corea del Sur,Alemania,"1ra Ronda, Grupo F",F,Alemania,Jérôme Boateng,jerome_boateng.php,suspendido
+56,2018,Panamá,Túnez,"1ra Ronda, Grupo G",G,Panamá,Ismael Díaz,ismael_diaz.php,lesionado
+57,2018,Panamá,Túnez,"1ra Ronda, Grupo G",G,Panamá,Michael Amir Murillo,michael_amir_murillo.php,suspendido
+58,2018,Panamá,Túnez,"1ra Ronda, Grupo G",G,Panamá,Armando Cooper,armando_cooper.php,suspendido
+59,2018,Panamá,Túnez,"1ra Ronda, Grupo G",G,Túnez,Farouk Ben Mustapha,farouk_ben_mustapha.php,lesionado
+60,2018,Panamá,Túnez,"1ra Ronda, Grupo G",G,Túnez,Mouez Hassen,mouez_hassen.php,lesionado
+61,2018,Panamá,Túnez,"1ra Ronda, Grupo G",G,Túnez,Syam Ben Youssef,syam_ben_youssef.php,lesionado
+62,2018,Panamá,Túnez,"1ra Ronda, Grupo G",G,Túnez,Dylan Bronn,dylan_bronn.php,lesionado
+63,2018,Senegal,Colombia,"1ra Ronda, Grupo H",H,Colombia,Abel Aguilar,abel_aguilar.php,lesionado
+64,2018,España,Rusia,Octavos,,Rusia,Igor Smolnikov,igor_smolnikov.php,suspendido
+65,2018,Croacia,Dinamarca,Octavos,,Croacia,Nikola Kalinić,nikola_kalinic.php,lesionado
+66,2018,Brasil,México,Octavos,,Brasil,Douglas Costa,douglas_costa.php,lesionado
+67,2018,Brasil,México,Octavos,,México,Hector Moreno,hector_moreno.php,suspendido
+68,2018,Suecia,Suiza,Octavos,,Suecia,Sebastian Larsson,sebastian_larsson.php,suspendido
+69,2018,Suecia,Suiza,Octavos,,Suiza,Stephan Lichtsteiner,stephan_lichtsteiner.php,suspendido
+70,2018,Suecia,Suiza,Octavos,,Suiza,Fabian Schär,fabian_schar.php,suspendido
+71,2018,Colombia,Inglaterra,Octavos,,Colombia,James Rodríguez,james_rodriguez.php,lesionado
+72,2018,Colombia,Inglaterra,Octavos,,Colombia,Miguel Borja,miguel_borja.php,lesionado
+73,2018,Colombia,Inglaterra,Octavos,,Inglaterra,Fabian Delph,fabian_delph.php,lesionado
+74,2018,Uruguay,Francia,Cuartos,,Uruguay,Edinson Cavani,edinson_cavani.php,lesionado
+75,2018,Uruguay,Francia,Cuartos,,Francia,Blaise Matuidi,blaise_matuidi.php,suspendido
+76,2018,Brasil,Bélgica,Cuartos,,Brasil,Casemiro,casemiro.php,suspendido
+77,2018,Brasil,Bélgica,Cuartos,,Brasil,Danilo,danilo.php,lesionado
+78,2018,Rusia,Croacia,Cuartos,,Croacia,Nikola Kalinić,nikola_kalinic.php,lesionado
+79,2018,Suecia,Inglaterra,Cuartos,,Suecia,Mikael Lustig,mikael_lustig.php,suspendido
+80,2018,Francia,Bélgica,Semis,,Bélgica,Thomas Meunier,thomas_meunier.php,suspendido
+81,2018,Croacia,Inglaterra,Semis,,Croacia,Nikola Kalinić,nikola_kalinic.php,lesionado
+82,2018,Francia,Croacia,Final,,Croacia,Nikola Kalinić,nikola_kalinic.php,lesionado
+83,2014,Camerún,Brasil,"1ra Ronda, Grupo A",A,Camerún,Alexandre Song,alexandre_song.php,suspendido
+84,2014,Camerún,Brasil,"1ra Ronda, Grupo A",A,Camerún,Benoit Assou-Ekotto,benoit_assou_ekotto.php,lesionado
+85,2014,Australia,España,"1ra Ronda, Grupo B",B,Australia,Tim Cahill,tim_cahill.php,suspendido
+86,2014,Australia,España,"1ra Ronda, Grupo B",B,Australia,Ivan Franjic,ivan_franjic.php,lesionado
+87,2014,Paises Bajos,Chile,"1ra Ronda, Grupo B",B,Paises Bajos,Robin Van Persie,robin_van_persie.php,suspendido
+88,2014,Japón,Colombia,"1ra Ronda, Grupo C",C,Colombia,Carlos Bacca,carlos_bacca.php,lesionado
+89,2014,Grecia,Costa de Marfil,"1ra Ronda, Grupo C",C,Grecia,Konstantinos Katsouranis,konstantinos_katsouranis.php,suspendido
+90,2014,Grecia,Costa de Marfil,"1ra Ronda, Grupo C",C,Costa de Marfil,Didier Zokora,didier_zokora.php,suspendido
+91,2014,Italia,Uruguay,"1ra Ronda, Grupo D",D,Italia,Daniele De Rossi,daniele_de_rossi.php,lesionado
+92,2014,Costa Rica,Inglaterra,"1ra Ronda, Grupo D",D,Inglaterra,Leighton Baines,leighton_baines.php,lesionado
+93,2014,Costa Rica,Inglaterra,"1ra Ronda, Grupo D",D,Inglaterra,Alex Oxlade-Chamberlain,alex_oxlade_chamberlain.php,lesionado
+94,2014,Honduras,Suiza,"1ra Ronda, Grupo E",E,Suiza,Steve Von Bergen,steve_von_bergen.php,lesionado
+95,2014,Ecuador,Francia,"1ra Ronda, Grupo E",E,Francia,Yohan Cabaye,yohan_cabaye.php,suspendido
+96,2014,Estados Unidos,Alemania,"1ra Ronda, Grupo G",G,Estados Unidos,Jozy Altidore,jozy_altidore.php,lesionado
+97,2014,Portugal,Ghana,"1ra Ronda, Grupo G",G,Portugal,André Almeida,andre_almeida.php,lesionado
+98,2014,Portugal,Ghana,"1ra Ronda, Grupo G",G,Portugal,Hugo Almeida,hugo_almeida.php,lesionado
+99,2014,Portugal,Ghana,"1ra Ronda, Grupo G",G,Portugal,Helder Postiga,helder_postiga.php,lesionado
+100,2014,Portugal,Ghana,"1ra Ronda, Grupo G",G,Portugal,Fabio Coentrao,fabio_coentrao.php,lesionado
+101,2014,Portugal,Ghana,"1ra Ronda, Grupo G",G,Ghana,Sulley Muntari,sulley_muntari.php,suspendido
+102,2014,Portugal,Ghana,"1ra Ronda, Grupo G",G,Ghana,Kevin Prince Boateng,kevin_prince_boateng.php,lesionado
+103,2014,Corea del Sur,Bélgica,"1ra Ronda, Grupo H",H,Bélgica,Thomas Vermaelen,thomas_vermaelen.php,lesionado
+104,2014,Corea del Sur,Bélgica,"1ra Ronda, Grupo H",H,Bélgica,Vincent Kompany,vincent_kompany.php,lesionado
+105,2014,Colombia,Uruguay,Octavos,,Uruguay,Luis Suarez,luis_suarez.php,suspendido
+106,2014,Paises Bajos,México,Octavos,,México,José Juan Vázquez,jose_juan_vazquez.php,suspendido
+107,2014,Francia,Nigeria,Octavos,,Nigeria,Michel Babatunde,michel_babatunde.php,lesionado
+108,2014,Alemania,Argelia,Octavos,,Alemania,Mats Hummels,mats_hummels.php,lesionado
+109,2014,Argentina,Suiza,Octavos,,Suiza,Steve Von Bergen,steve_von_bergen.php,lesionado
+110,2014,Argentina,Suiza,Octavos,,Suiza,Mario Gavranovic,mario_gavranovic.php,lesionado
+111,2014,Bélgica,Estados Unidos,Octavos,,Bélgica,Anthony Vanden Borre,anthony_vanden_borre.php,lesionado
+112,2014,Bélgica,Estados Unidos,Octavos,,Bélgica,Steven Defour,steven_defour.php,suspendido
+113,2014,Brasil,Colombia,Cuartos,,Brasil,Luiz Gustavo,luiz_gustavo.php,suspendido
+114,2014,Francia,Alemania,Cuartos,,Alemania,Shkodran Mustafi,shkodran_mustafi.php,lesionado
+115,2014,Paises Bajos,Costa Rica,Cuartos,,Paises Bajos,Nigel De Jong,nigel_de_jong.php,lesionado
+116,2014,Paises Bajos,Costa Rica,Cuartos,,Paises Bajos,Leroy Fer,leroy_fer.php,lesionado
+117,2014,Paises Bajos,Costa Rica,Cuartos,,Costa Rica,Óscar Duarte,oscar_duarte.php,suspendido
+118,2014,Paises Bajos,Costa Rica,Cuartos,,Costa Rica,Roy Miller,roy_miller.php,lesionado
+119,2014,Argentina,Bélgica,Cuartos,,Argentina,Marcos Rojo,marcos_rojo.php,suspendido
+120,2014,Argentina,Bélgica,Cuartos,,Bélgica,Anthony Vanden Borre,anthony_vanden_borre.php,lesionado
+121,2014,Brasil,Alemania,Semis,,Brasil,Thiago Silva,thiago_silva.php,suspendido
+122,2014,Brasil,Alemania,Semis,,Brasil,Neymar Jr.,neymar.php,lesionado
+123,2014,Brasil,Alemania,Semis,,Alemania,Shkodran Mustafi,shkodran_mustafi.php,lesionado
+124,2014,Paises Bajos,Argentina,Semis,,Paises Bajos,Leroy Fer,leroy_fer.php,lesionado
+125,2014,Paises Bajos,Argentina,Semis,,Argentina,Angel Di Maria,angel_di_maria.php,lesionado
+126,2014,Brasil,Paises Bajos,3er Puesto,,Brasil,Neymar Jr.,neymar.php,lesionado
+127,2014,Brasil,Paises Bajos,3er Puesto,,Paises Bajos,Nigel De Jong,nigel_de_jong.php,lesionado
+128,2014,Brasil,Paises Bajos,3er Puesto,,Paises Bajos,Wesley Sneijder,wesley_sneijder.php,lesionado
+129,2014,Brasil,Paises Bajos,3er Puesto,,Paises Bajos,Leroy Fer,leroy_fer.php,lesionado
+130,2014,Alemania,Argentina,Final,,Alemania,Shkodran Mustafi,shkodran_mustafi.php,lesionado
+131,2014,Alemania,Argentina,Final,,Alemania,Sami Khedira,sami_khedira.php,lesionado
+132,2010,Italia,Paraguay,"1ra Ronda, Grupo F",F,Italia,Andrea Pirlo,andrea_pirlo.php,lesionado
+133,2010,Nueva Zelanda,Eslovaquia,"1ra Ronda, Grupo F",F,Nueva Zelanda,Glen Moss,glen_moss.php,suspendido
+134,2010,Costa de Marfil,Portugal,"1ra Ronda, Grupo G",G,Costa de Marfil,Arthur Boka,arthur_boka.php,lesionado
+135,2010,Brasil,Corea del Norte,"1ra Ronda, Grupo G",G,Corea del Norte,Yong Jun Kim,yong_jun_kim.php,suspendido
+136,2010,Brasil,Corea del Norte,"1ra Ronda, Grupo G",G,Corea del Norte,Myong Won Kim,myong_won_kim.php,lesionado
+137,2010,Brasil,Corea del Norte,"1ra Ronda, Grupo G",G,Corea del Norte,Kyong Il Kim,kyong_il_kim.php,lesionado
+138,2010,Brasil,Corea del Norte,"1ra Ronda, Grupo G",G,Corea del Norte,Sung Hyok Pak,sung_hyok_pak.php,lesionado
+139,2010,Brasil,Corea del Norte,"1ra Ronda, Grupo G",G,Corea del Norte,Chol Hyok An,chol_hyok_an.php,lesionado
+140,2010,Honduras,Chile,"1ra Ronda, Grupo H",H,Honduras,Johnny Palacios,jhony_palacios.php,lesionado
+141,2010,España,Suiza,"1ra Ronda, Grupo H",H,Suiza,Valon Behrami,valon_behrami.php,lesionado
+142,2010,España,Suiza,"1ra Ronda, Grupo H",H,Suiza,Alexander Frei,alexander_frei.php,lesionado
+143,2010,Sudáfrica,Uruguay,"1ra Ronda, Grupo A",A,Uruguay,Nicolas Lodeiro,nicolas_lodeiro.php,suspendido
+144,2010,Francia,México,"1ra Ronda, Grupo A",A,Francia,Cedric Carrasso,cedric_carrasso.php,lesionado
+145,2010,Grecia,Nigeria,"1ra Ronda, Grupo B",B,Grecia,Athanasios Prittas,athanasios_prittas.php,lesionado
+146,2010,Alemania,Serbia,"1ra Ronda, Grupo D",D,Serbia,Aleksandar Lukovic,aleksandar_lukovic.php,suspendido
+147,2010,Inglaterra,Argelia,"1ra Ronda, Grupo C",C,Inglaterra,Ledley King,ledley_king.php,lesionado
+148,2010,Inglaterra,Argelia,"1ra Ronda, Grupo C",C,Argelia,Abdelkader Ghezzal,abdelkader_ghezzal.php,suspendido
+149,2010,Ghana,Australia,"1ra Ronda, Grupo D",D,Ghana,Isaac Vorsah,isaac_vorsah.php,lesionado
+150,2010,Ghana,Australia,"1ra Ronda, Grupo D",D,Australia,Vince Grella,vince_grella.php,lesionado
+151,2010,Ghana,Australia,"1ra Ronda, Grupo D",D,Australia,Tim Cahill,tim_cahill.php,suspendido
+152,2010,Eslovaquia,Paraguay,"1ra Ronda, Grupo F",F,Paraguay,Jonathan Santana,jonathan_santana.php,lesionado
+153,2010,Italia,Nueva Zelanda,"1ra Ronda, Grupo F",F,Italia,Gianluigi Buffon,gianluigi_buffon.php,lesionado
+154,2010,Italia,Nueva Zelanda,"1ra Ronda, Grupo F",F,Nueva Zelanda,Glen Moss,glen_moss.php,suspendido
+155,2010,Portugal,Corea del Norte,"1ra Ronda, Grupo G",G,Portugal,Ruben Amorim,ruben_amorim.php,lesionado
+156,2010,Portugal,Corea del Norte,"1ra Ronda, Grupo G",G,Portugal,Deco,deco.php,lesionado
+157,2010,Chile,Suiza,"1ra Ronda, Grupo H",H,Suiza,Philippe Senderos,philippe_senderos.php,lesionado
+158,2010,México,Uruguay,"1ra Ronda, Grupo A",A,México,Carlos Vela,carlos_vela.php,lesionado
+159,2010,México,Uruguay,"1ra Ronda, Grupo A",A,México,Efrain Juarez,efrain_juarez.php,suspendido
+160,2010,México,Uruguay,"1ra Ronda, Grupo A",A,Uruguay,Diego Godin,diego_godin.php,lesionado
+161,2010,Francia,Sudáfrica,"1ra Ronda, Grupo A",A,Francia,Cedric Carrasso,cedric_carrasso.php,lesionado
+162,2010,Francia,Sudáfrica,"1ra Ronda, Grupo A",A,Francia,Jeremy Toulalan,jeremy_toulalan.php,suspendido
+163,2010,Francia,Sudáfrica,"1ra Ronda, Grupo A",A,Francia,Nicolas Anelka,nicolas_anelka.php,lesionado
+164,2010,Francia,Sudáfrica,"1ra Ronda, Grupo A",A,Sudáfrica,Itumeleng Khune,itumeleng_khune.php,suspendido
+165,2010,Francia,Sudáfrica,"1ra Ronda, Grupo A",A,Sudáfrica,Kagisho Dikgacoi,kagisho_dikgacoi.php,suspendido
+166,2010,Nigeria,Corea del Sur,"1ra Ronda, Grupo B",B,Nigeria,Sani Kaita,sani_kaita.php,suspendido
+167,2010,Grecia,Argentina,"1ra Ronda, Grupo B",B,Grecia,Athanasios Prittas,athanasios_prittas.php,lesionado
+168,2010,Grecia,Argentina,"1ra Ronda, Grupo B",B,Argentina,Jonas Gutierrez,jonas_gutierrez.php,suspendido
+169,2010,Eslovenia,Inglaterra,"1ra Ronda, Grupo C",C,Eslovenia,Nejc Pecnik,nejc_pecnik.php,lesionado
+170,2010,Eslovenia,Inglaterra,"1ra Ronda, Grupo C",C,Inglaterra,Ledley King,ledley_king.php,lesionado
+171,2010,Eslovenia,Inglaterra,"1ra Ronda, Grupo C",C,Inglaterra,Jamie Carragher,jamie_carragher.php,suspendido
+172,2010,Estados Unidos,Argelia,"1ra Ronda, Grupo C",C,Estados Unidos,Robbie Findley,robbie_findley.php,suspendido
+173,2010,Ghana,Alemania,"1ra Ronda, Grupo D",D,Ghana,Isaac Vorsah,isaac_vorsah.php,lesionado
+174,2010,Ghana,Alemania,"1ra Ronda, Grupo D",D,Alemania,Miroslav Klose,miroslav_klose.php,suspendido
+175,2010,Australia,Serbia,"1ra Ronda, Grupo D",D,Australia,Vince Grella,vince_grella.php,lesionado
+176,2010,Australia,Serbia,"1ra Ronda, Grupo D",D,Australia,Craig Moore,craig_moore.php,suspendido
+177,2010,Australia,Serbia,"1ra Ronda, Grupo D",D,Australia,Harry Kewell,harry_kewell.php,suspendido
+178,2010,Dinamarca,Japón,"1ra Ronda, Grupo E",E,Dinamarca,Simon Kjaer,simon_kjaer.php,suspendido
+179,2010,Camerún,Paises Bajos,"1ra Ronda, Grupo E",E,Camerún,Alexandre Song,alexandre_song.php,lesionado
+180,2010,Camerún,Paises Bajos,"1ra Ronda, Grupo E",E,Camerún,Eyong Enoh,eyong_enoh.php,lesionado
+181,2010,Camerún,Paises Bajos,"1ra Ronda, Grupo E",E,Camerún,Georges Mandjeck,georges_mandjeck.php,lesionado
+182,2010,Portugal,Brasil,"1ra Ronda, Grupo G",G,Portugal,Ruben Amorim,ruben_amorim.php,lesionado
+183,2010,Portugal,Brasil,"1ra Ronda, Grupo G",G,Portugal,Deco,deco.php,lesionado
+184,2010,Portugal,Brasil,"1ra Ronda, Grupo G",G,Brasil,Elano,elano.php,lesionado
+185,2010,Portugal,Brasil,"1ra Ronda, Grupo G",G,Brasil,Kaká,kaka.php,suspendido
+186,2010,Corea del Norte,Costa de Marfil,"1ra Ronda, Grupo G",G,Costa de Marfil,Guy Demel,guy_demel.php,lesionado
+187,2010,Chile,España,"1ra Ronda, Grupo H",H,Chile,Carlos Carmona,carlos_carmona.php,suspendido
+188,2010,Chile,España,"1ra Ronda, Grupo H",H,Chile,Matias Fernandez,matias_fernandez.php,suspendido
+189,2010,Suiza,Honduras,"1ra Ronda, Grupo H",H,Suiza,Philippe Senderos,philippe_senderos.php,lesionado
+190,2010,Suiza,Honduras,"1ra Ronda, Grupo H",H,Suiza,Valon Behrami,valon_behrami.php,suspendido
+191,2010,Estados Unidos,Ghana,Octavos,,Ghana,Isaac Vorsah,isaac_vorsah.php,lesionado
+192,2010,Alemania,Inglaterra,Octavos,,Alemania,Cacau,cacau.php,lesionado
+193,2010,Paises Bajos,Eslovaquia,Octavos,,Eslovaquia,Zdenko Strba,zdenko_strba.php,suspendido
+194,2010,Brasil,Chile,Octavos,,Brasil,Felipe Melo,felipe_melo.php,lesionado
+195,2010,Brasil,Chile,Octavos,,Brasil,Elano,elano.php,lesionado
+196,2010,Brasil,Chile,Octavos,,Brasil,Julio Baptista,julio_baptista.php,lesionado
+197,2010,Brasil,Chile,Octavos,,Chile,Waldo Ponce,waldo_ponce.php,suspendido
+198,2010,Brasil,Chile,Octavos,,Chile,Gary Medel,gary_medel.php,suspendido
+199,2010,Brasil,Chile,Octavos,,Chile,Marco Estrada,marco_estrada.php,suspendido
+200,2010,Paraguay,Japón,Octavos,,Paraguay,Victor Caceres,victor_caceres.php,suspendido
+201,2010,España,Portugal,Octavos,,Portugal,Duda,duda.php,lesionado
+202,2010,España,Portugal,Octavos,,Portugal,Ruben Amorim,ruben_amorim.php,lesionado
+203,2010,Paises Bajos,Brasil,Cuartos,,Paises Bajos,Joris Mathijsen,joris_mathijsen.php,lesionado
+204,2010,Paises Bajos,Brasil,Cuartos,,Brasil,Elano,elano.php,lesionado
+205,2010,Paises Bajos,Brasil,Cuartos,,Brasil,Ramires,ramires.php,suspendido
+206,2010,Uruguay,Ghana,Cuartos,,Ghana,Jonathan Mensah,jonathan_mensah.php,suspendido
+207,2010,Uruguay,Ghana,Cuartos,,Ghana,Ibrahim Ayew,ibrahim_ayew.php,suspendido
+208,2010,Uruguay,Paises Bajos,Semis,,Uruguay,Nicolas Lodeiro,nicolas_lodeiro.php,lesionado
+209,2010,Uruguay,Paises Bajos,Semis,,Uruguay,Jorge Fucile,jorge_fucile.php,suspendido
+210,2010,Uruguay,Paises Bajos,Semis,,Uruguay,Luis Suarez,luis_suarez.php,suspendido
+211,2010,Uruguay,Paises Bajos,Semis,,Paises Bajos,Gregory Van Der Wiel,gregory_van_der_wiel.php,suspendido
+212,2010,Uruguay,Paises Bajos,Semis,,Paises Bajos,Nigel De Jong,nigel_de_jong.php,suspendido
+213,2010,Alemania,España,Semis,,Alemania,Thomas Müller,thomas_mueller.php,suspendido
+214,2010,Uruguay,Alemania,3er Puesto,,Uruguay,Nicolas Lodeiro,nicolas_lodeiro.php,lesionado
+215,2010,Uruguay,Alemania,3er Puesto,,Alemania,Tim Wiese,tim_wiese.php,lesionado
+216,2010,Uruguay,Alemania,3er Puesto,,Alemania,Philipp Lahm,philipp_lahm.php,lesionado
+217,1990,Argentina,Rumania,"1ra Ronda, Grupo B",B,Argentina,Nery Pumpido,nery_pumpido.php,lesionado
+218,1958,Brasil,Inglaterra,"1ra Ronda, Grupo 4",4,Brasil,Oreco,oreco.php,lesionado

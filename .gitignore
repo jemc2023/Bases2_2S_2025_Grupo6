@@ -1,0 +1,8 @@
+*/backups/completo/*
+*/backups/diferencial/*
+node_modules
+.venv/
+*.log
+Fase_3/*.json
+
+Fase_3/data/paises_data.json

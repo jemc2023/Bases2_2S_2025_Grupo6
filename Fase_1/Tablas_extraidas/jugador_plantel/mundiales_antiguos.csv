@@ -1,0 +1,516 @@
+﻿id,mundial,pais,grupo,jugador,referencia,camiseta,posicion
+10403,1950,Brasil,1,Barbosa,barbosa.php,,Arquero
+10404,1950,Brasil,1,Castilho,castilho.php,,Arquero
+10405,1950,Brasil,1,Ely Do Amparo,ely_do_amparo.php,,Defensor
+10406,1950,Brasil,1,Augusto,augusto.php,,Defensor
+10407,1950,Brasil,1,Nilton Santos,nilton_santos.php,,Defensor
+10408,1950,Brasil,1,Juvenal,juvenal.php,,Defensor
+10409,1950,Brasil,1,Nena,nena.php,,Defensor
+10410,1950,Brasil,1,Zizinho,zizinho.php,,Mediocampista
+10411,1950,Brasil,1,Noronha,noronha.php,,Mediocampista
+10412,1950,Brasil,1,Ruy,ruy.php,,Mediocampista
+10413,1950,Brasil,1,Danilo Alvim,danilo_alvim.php,,Mediocampista
+10414,1950,Brasil,1,Bauer,bauer.php,,Mediocampista
+10415,1950,Brasil,1,Bigode,bigode.php,,Mediocampista
+10416,1950,Brasil,1,Adaozinho,adaozinho.php,,Delantero
+10417,1950,Brasil,1,Ademir,ademir.php,,Delantero
+10418,1950,Brasil,1,Alfredo Ii,alfredo_ii.php,,Delantero
+10419,1950,Brasil,1,Baltazar,baltazar.php,,Delantero
+10420,1950,Brasil,1,Maneca,maneca.php,,Delantero
+10421,1950,Brasil,1,Jair,jair.php,,Delantero
+10422,1950,Brasil,1,Friaca,friaca.php,,Delantero
+10423,1950,Brasil,1,Francisco Rodrigues,francisco_rodrigues.php,,Delantero
+10424,1950,Brasil,1,Chico,chico.php,,Delantero
+10425,1950,México,1,Antonio Carbajal,antonio_carbajal.php,,Arquero
+10426,1950,México,1,Raul Cordoba,raul_cordoba.php,,Arquero
+10427,1950,México,1,Felipe Zetter,felipe_zetter.php,,Defensor
+10428,1950,México,1,Rodrigo Ruiz,rodrigo_ruiz.php,,Defensor
+10429,1950,México,1,Jose Roca,jose_roca.php,,Defensor
+10430,1950,México,1,Alfonso Montemayor,alfonso_montemayor.php,,Defensor
+10431,1950,México,1,Manuel Gutierrez,manuel_gutierrez.php,,Defensor
+10432,1950,México,1,Gregorio Gomez,gregorio_gomez.php,,Defensor
+10433,1950,México,1,Carlos Guevara,carlos_guevara.php,,Mediocampista
+10434,1950,México,1,Hector Ortiz,hector_ortiz.php,,Mediocampista
+10435,1950,México,1,Mario Ochoa,mario_ochoa.php,,Mediocampista
+10436,1950,México,1,Samuel Cuburu,samuel_cuburu.php,,Mediocampista
+10437,1950,México,1,Francisco Hernandez,francisco_hernandez_2.php,,Mediocampista
+10438,1950,México,1,Antonio Flores,antonio_flores.php,,Mediocampista
+10439,1950,México,1,Jose Naranjo,jose_naranjo.php,,Delantero
+10440,1950,México,1,Guadalupe Velazquez,guadalupe_velazquez.php,,Delantero
+10441,1950,México,1,Carlos Septien,carlos_septien.php,,Delantero
+10442,1950,México,1,Horacio Casarin,horacio_casarin.php,,Delantero
+10443,1950,México,1,Max Prieto,max_prieto.php,,Delantero
+10444,1950,México,1,Mario Perez,mario_perez_2.php,,Delantero
+10445,1950,México,1,Jose Navarro,jose_navarro.php,,Delantero
+10446,1950,México,1,Jose Borbolla,jose_borbolla.php,,Delantero
+10447,1950,Yugoslavia,1,Vladimir Beara,vladimir_beara.php,,Arquero
+10448,1950,Yugoslavia,1,Srdjan Mrkusic,srdjan_mrkusic.php,,Arquero
+10449,1950,Yugoslavia,1,Sinisa Zlatkovic,sinisa_zlatkovic.php,,Defensor
+10450,1950,Yugoslavia,1,Vladimir Firm,vladimir_firm.php,,Defensor
+10451,1950,Yugoslavia,1,Ratko Colic,ratko_colic.php,,Defensor
+10452,1950,Yugoslavia,1,Ivan Horvat,ivan_horvat.php,,Defensor
+10453,1950,Yugoslavia,1,Bozo Broketa,bozo_broketa.php,,Defensor
+10454,1950,Yugoslavia,1,Branko Stankovic,branko_stankovic.php,,Defensor
+10455,1950,Yugoslavia,1,Ivo Radovnikovic,ivo_radovnikovic.php,,Mediocampista
+10456,1950,Yugoslavia,1,Ervin Katnic,ervin_katnic.php,,Mediocampista
+10457,1950,Yugoslavia,1,Bela Palfi,bela_palfi.php,,Mediocampista
+10458,1950,Yugoslavia,1,Miodrag Jovanovic,miodrag_jovanovic.php,,Mediocampista
+10459,1950,Yugoslavia,1,Predrag Djajic,predrag_djajic.php,,Mediocampista
+10460,1950,Yugoslavia,1,Zlatko Cajkovski,zlatko_cajkovski.php,,Mediocampista
+10461,1950,Yugoslavia,1,Rajko Mitic,rajko_mitic.php,,Delantero
+10462,1950,Yugoslavia,1,Tihomir Ognjanov,tihomir_ognjanov.php,,Delantero
+10463,1950,Yugoslavia,1,Prvoslav Mihajlovic,prvoslav_mihajlovic.php,,Delantero
+10464,1950,Yugoslavia,1,Zeljko Cajkovski,zeljko_cajkovski.php,,Delantero
+10465,1950,Yugoslavia,1,Stjepan Bobek,stjepan_bobek.php,,Delantero
+10466,1950,Yugoslavia,1,Kosta Tomasevic,kosta_tomasevic.php,,Delantero
+10467,1950,Yugoslavia,1,Bernard Vukas,bernard_vukas.php,,Delantero
+10468,1950,Yugoslavia,1,Aleksandar Atanackovic,aleksandar_atanackovic.php,,Delantero
+10469,1950,Suiza,1,Adolphe Hug,adolphe_hug.php,,Arquero
+10470,1950,Suiza,1,Eugenio Corrodi,eugenio_corrodi.php,,Arquero
+10471,1950,Suiza,1,Georges Stuber,georges_stuber.php,,Arquero
+10472,1950,Suiza,1,Felice Soldini,felice_soldini.php,,Defensor
+10473,1950,Suiza,1,Gerhard Lusenti,gerhard_lusenti.php,,Defensor
+10474,1950,Suiza,1,Andre Neury,andre_neury.php,,Defensor
+10475,1950,Suiza,1,Ruedi Gyger,ruedi_gyger.php,,Defensor
+10476,1950,Suiza,1,Kurt Rey,kurt_rey.php,,Defensor
+10477,1950,Suiza,1,Roger Bocquet,roger_bocquet.php,,Defensor
+10478,1950,Suiza,1,Roger Quinche,roger_quinche.php,,Mediocampista
+10479,1950,Suiza,1,Oliver Eggimann,oliver_eggimann.php,,Mediocampista
+10480,1950,Suiza,1,Hans Siegenthaler,hans_siegenthaler.php,,Delantero
+10481,1950,Suiza,1,Kiki Antenen,kiki_antenen.php,,Delantero
+10482,1950,Suiza,1,Hans-Peter Friedlaender,hans_peter_friedlaender.php,,Delantero
+10483,1950,Suiza,1,Jackie Fatton,jackie_fatton.php,,Delantero
+10484,1950,Suiza,1,Fredy Bickel,fredy_bickel.php,,Delantero
+10485,1950,Suiza,1,Walter Beerli,walter_beerli.php,,Delantero
+10486,1950,Suiza,1,Rene Bader,rene_bader.php,,Delantero
+10487,1950,Suiza,1,Jean Tamini,jean_tamini.php,,Delantero
+10488,1950,España,2,Juan Acuña,juan_acuna.php,,Arquero
+10489,1950,España,2,Antonio Ramallets,antonio_ramallets.php,,Arquero
+10490,1950,España,2,Ignacio Eizaguirre,ignacio_eizaguirre.php,,Arquero
+10491,1950,España,2,Jose Parra,jose_parra.php,,Defensor
+10492,1950,España,2,Lesmes Ii,lesmes_ii.php,,Defensor
+10493,1950,España,2,Gonzalvo Ii,gonzalvo_ii.php,,Defensor
+10494,1950,España,2,Gabriel Alonso,gabriel_alonso.php,,Defensor
+10495,1950,España,2,Alfonso Silva,alfonso_silva.php,,Defensor
+10496,1950,España,2,Vicente Asensi,vicente_asensi.php,,Defensor
+10497,1950,España,2,Antunez,antunez.php,,Defensor
+10498,1950,España,2,Gonzalvo Iii,gonzalvo_iii.php,,Mediocampista
+10499,1950,España,2,Antonio Puchades,antonio_puchades.php,,Mediocampista
+10500,1950,España,2,Nando,nando.php,,Mediocampista
+10501,1950,España,2,Rosendo Hernandez,rosendo_hernandez.php,,Delantero
+10502,1950,España,2,Piru Gainza,piru_gainza.php,,Delantero
+10503,1950,España,2,Jose Panizo,jose_panizo.php,,Delantero
+10504,1950,España,2,Luis Molowny,luis_molowny.php,,Delantero
+10505,1950,España,2,Jose Juncosa,jose_juncosa.php,,Delantero
+10506,1950,España,2,Silvestre Igoa,silvestre_igoa.php,,Delantero
+10507,1950,España,2,Cesar,cesar_2.php,,Delantero
+10508,1950,España,2,Estanislao Basora,estanislao_basora.php,,Delantero
+10509,1950,España,2,Zarra,zarra.php,,Delantero
+10510,1950,Inglaterra,2,Bert Williams,bert_williams.php,,Arquero
+10511,1950,Inglaterra,2,Eddie Ditchburn,eddie_ditchburn.php,,Arquero
+10512,1950,Inglaterra,2,John Aston,john_aston.php,,Defensor
+10513,1950,Inglaterra,2,Jim Taylor,jim_taylor.php,,Defensor
+10514,1950,Inglaterra,2,Laurie Scott,laurie_scott.php,,Defensor
+10515,1950,Inglaterra,2,Alf Ramsey,alf_ramsey.php,,Defensor
+10516,1950,Inglaterra,2,Billy Wright,billy_wright.php,,Defensor
+10517,1950,Inglaterra,2,Bill Eckersley,bill_eckersley.php,,Defensor
+10518,1950,Inglaterra,2,Bill Nicholson,bill_nicholson.php,,Mediocampista
+10519,1950,Inglaterra,2,Laurie Hughes,laurie_hughes.php,,Mediocampista
+10520,1950,Inglaterra,2,Jimmy Dickinson,jimmy_dickinson.php,,Mediocampista
+10521,1950,Inglaterra,2,Willie Watson,willie_watson.php,,Mediocampista
+10522,1950,Inglaterra,2,Eddie Baily,eddie_baily.php,,Delantero
+10523,1950,Inglaterra,2,Roy Bentley,roy_bentley.php,,Delantero
+10524,1950,Inglaterra,2,Henry Cockburn,henry_cockburn.php,,Delantero
+10525,1950,Inglaterra,2,Tom Finney,tom_finney.php,,Delantero
+10526,1950,Inglaterra,2,Jimmy Mullen,jimmy_mullen.php,,Delantero
+10527,1950,Inglaterra,2,Stan Mortensen,stan_mortensen.php,,Delantero
+10528,1950,Inglaterra,2,Jackie Milburn,jackie_milburn.php,,Delantero
+10529,1950,Inglaterra,2,Wilf Mannion,wilf_mannion.php,,Delantero
+10530,1950,Inglaterra,2,Stanley Matthews,stanley_matthews.php,,Delantero
+10531,1950,Chile,2,Sergio Livingstone,sergio_livingstone.php,,Arquero
+10532,1950,Chile,2,Rene Quitral,rene_quitral.php,,Arquero
+10533,1950,Chile,2,Fernando Roldan,fernando_roldan.php,,Defensor
+10534,1950,Chile,2,Manuel Machuca,manuel_machuca.php,,Defensor
+10535,1950,Chile,2,Manuel Alvarez,manuel_alvarez.php,,Defensor
+10536,1950,Chile,2,Miguel Flores,miguel_flores.php,,Defensor
+10537,1950,Chile,2,Arturo Farias,arturo_farias.php,,Defensor
+10538,1950,Chile,2,Francisco Urroz,francisco_urroz.php,,Defensor
+10539,1950,Chile,2,Osvaldo Saez,osvaldo_saez.php,,Mediocampista
+10540,1950,Chile,2,Miguel Busquets,miguel_busquets.php,,Mediocampista
+10541,1950,Chile,2,Carlos Rojas,carlos_rojas.php,,Mediocampista
+10542,1950,Chile,2,Hernan Carvallo,hernan_carvallo.php,,Mediocampista
+10543,1950,Chile,2,Fernando Campos,fernando_campos.php,,Mediocampista
+10544,1950,Chile,2,Jorge Robledo,jorge_robledo.php,,Delantero
+10545,1950,Chile,2,Fernando Riera,fernando_riera.php,,Delantero
+10546,1950,Chile,2,Andres Prieto,andres_prieto.php,,Delantero
+10547,1950,Chile,2,Manuel Munoz,manuel_munoz.php,,Delantero
+10548,1950,Chile,2,Luis Mayanes,luis_mayanes.php,,Delantero
+10549,1950,Chile,2,Raymundo Infante,raymundo_infante.php,,Delantero
+10550,1950,Chile,2,Carlos Ibanez,carlos_ibanez.php,,Delantero
+10551,1950,Chile,2,Atilio Cremaschi,atilio_cremaschi.php,,Delantero
+10552,1950,Chile,2,Guillermo Diaz,guillermo_diaz.php,,Delantero
+10553,1950,Estados Unidos,2,Gino Gardassanich,gino_gardassanich.php,,Arquero
+10554,1950,Estados Unidos,2,Frank Borghi,frank_borghi.php,,Arquero
+10555,1950,Estados Unidos,2,Joe Maca,joe_maca.php,,Defensor
+10556,1950,Estados Unidos,2,Harry Keough,harry_keough.php,,Defensor
+10557,1950,Estados Unidos,2,Bob Annis,bob_annis.php,,Defensor
+10558,1950,Estados Unidos,2,Geoff Coombes,geoff_coombes.php,,Defensor
+10559,1950,Estados Unidos,2,Ed Mcilvenny,ed_mcilvenny.php,,Mediocampista
+10560,1950,Estados Unidos,2,John Souza,john_souza.php,,Mediocampista
+10561,1950,Estados Unidos,2,Charlie Colombo,charlie_colombo.php,,Mediocampista
+10562,1950,Estados Unidos,2,Walter Bahr,walter_bahr.php,,Mediocampista
+10563,1950,Estados Unidos,2,Frank Wallace,frank_wallace.php,,Delantero
+10564,1950,Estados Unidos,2,Ed Souza,ed_souza.php,,Delantero
+10565,1950,Estados Unidos,2,Gino Pariani,gino_pariani.php,,Delantero
+10566,1950,Estados Unidos,2,Bob Craddock,bob_craddock.php,,Delantero
+10567,1950,Estados Unidos,2,Joe Gaetjens,joe_gaetjens.php,,Delantero
+10568,1950,Estados Unidos,2,Nick Di Orio,nick_di_orio.php,,Delantero
+10569,1950,Estados Unidos,2,Adam Wolanin,adam_wolanin.php,,Delantero
+10570,1950,Suecia,3,Kalle Svensson,kalle_svensson.php,,Arquero
+10571,1950,Suecia,3,Torsten Lindberg,torsten_lindberg.php,,Arquero
+10572,1950,Suecia,3,Sune Andersson,sune_andersson.php,,Defensor
+10573,1950,Suecia,3,Lennart Samuelsson,lennart_samuelsson.php,,Defensor
+10574,1950,Suecia,3,Erik Nilsson,erik_nilsson.php,,Defensor
+10575,1950,Suecia,3,Gunnar Johansson Ii,gunnar_johansson_ii.php,,Defensor
+10576,1950,Suecia,3,Arne Mansson,arne_mansson.php,,Defensor
+10577,1950,Suecia,3,Knut Nordahl,knut_nordahl.php,,Mediocampista
+10578,1950,Suecia,3,Olle Ahlund,olle_ahlund.php,,Mediocampista
+10579,1950,Suecia,3,Ingvar Gard,ingvar_gard.php,,Mediocampista
+10580,1950,Suecia,3,Egon Jonsson,egon_jonsson.php,,Delantero
+10581,1950,Suecia,3,Stig Sundqvist,stig_sundqvist.php,,Delantero
+10582,1950,Suecia,3,Lennart Skoglund,lennart_skoglund.php,,Delantero
+10583,1950,Suecia,3,Ingvar Rydell,ingvar_rydell.php,,Delantero
+10584,1950,Suecia,3,Karl-Erik Palmer,karl_erik_palmer.php,,Delantero
+10585,1950,Suecia,3,Stellan Nilsson,stellan_nilsson.php,,Delantero
+10586,1950,Suecia,3,Hans Jeppsson,hans_jeppsson.php,,Delantero
+10587,1950,Suecia,3,Bror Mellberg,bror_mellberg.php,,Delantero
+10588,1950,Italia,3,Giuseppe Moro,giuseppe_moro.php,,Arquero
+10589,1950,Italia,3,Lucidio Sentimenti,lucidio_sentimenti.php,,Arquero
+10590,1950,Italia,3,Giuseppe Casari,giuseppe_casari.php,,Arquero
+10591,1950,Italia,3,Attilio Giovannini,attilio_giovannini.php,,Defensor
+10592,1950,Italia,3,Zeffiro Furiassi,zeffiro_furiassi.php,,Defensor
+10593,1950,Italia,3,Carlo Parola,carlo_parola.php,,Defensor
+10594,1950,Italia,3,Leandro Remondini,leandro_remondini.php,,Defensor
+10595,1950,Italia,3,Ivano Blason,ivano_blason.php,,Defensor
+10596,1950,Italia,3,Giacomo Mari,giacomo_mari.php,,Mediocampista
+10597,1950,Italia,3,Augusto Magli,augusto_magli.php,,Mediocampista
+10598,1950,Italia,3,Omero Tognon,omero_tognon.php,,Mediocampista
+10599,1950,Italia,3,Osvaldo Fattori,osvaldo_fattori.php,,Mediocampista
+10600,1950,Italia,3,Carlo Annovazzi,carlo_annovazzi.php,,Mediocampista
+10601,1950,Italia,3,Aldo Campatelli,aldo_campatelli.php,,Mediocampista
+10602,1950,Italia,3,Giampiero Boniperti,giampiero_boniperti.php,,Delantero
+10603,1950,Italia,3,Egisto Pandolfini,egisto_pandolfini.php,,Delantero
+10604,1950,Italia,3,Ermes Muccinelli,ermes_muccinelli.php,,Delantero
+10605,1950,Italia,3,Gino Cappello,gino_cappello.php,,Delantero
+10606,1950,Italia,3,Emilio Caprile,emilio_caprile.php,,Delantero
+10607,1950,Italia,3,Riccardo Carapellese,riccardo_carapellese.php,,Delantero
+10608,1950,Italia,3,Benito Lorenzi,benito_lorenzi.php,,Delantero
+10609,1950,Italia,3,Amedeo Amadei,amedeo_amadei.php,,Delantero
+10610,1950,Paraguay,3,Marcelino Vargas,marcelino_vargas.php,,Arquero
+10611,1950,Paraguay,3,Pablo Centurion,pablo_centurion.php,,Arquero
+10612,1950,Paraguay,3,Elioro Paredes,elioro_paredes.php,,Defensor
+10613,1950,Paraguay,3,Alberto Gonzalez,alberto_gonzalez.php,,Defensor
+10614,1950,Paraguay,3,Manuel Gavilan,manuel_gavilan.php,,Defensor
+10615,1950,Paraguay,3,Casiano Cespedes,casiano_cespedes.php,,Defensor
+10616,1950,Paraguay,3,Antonio Cabrera,antonio_cabrera.php,,Defensor
+10617,1950,Paraguay,3,Castor Cantero,castor_cantero.php,,Mediocampista
+10618,1950,Paraguay,3,Victoriano Leguizamon,victoriano_leguizamon.php,,Mediocampista
+10619,1950,Paraguay,3,Armando Gonzalez,armando_gonzalez.php,,Mediocampista
+10620,1950,Paraguay,3,Melanio Baez,melanio_baez.php,,Mediocampista
+10621,1950,Paraguay,3,Juan Leon Canete,juan_leon_canete.php,,Delantero
+10622,1950,Paraguay,3,Hilarion Osorio,hilarion_osorio.php,,Delantero
+10623,1950,Paraguay,3,Marcial Avalos,marcial_avalos.php,,Delantero
+10624,1950,Paraguay,3,Francisco Sosa,francisco_sosa.php,,Delantero
+10625,1950,Paraguay,3,Leongino Unzain,leongino_unzain.php,,Delantero
+10626,1950,Paraguay,3,Cesar Lopez Fretes,cesar_lopez_fretes.php,,Delantero
+10627,1950,Paraguay,3,Atilio Lopez,atilio_lopez.php,,Delantero
+10628,1950,Paraguay,3,Dario Jara Saguier,dario_jara_saguier.php,,Delantero
+10629,1950,Paraguay,3,Angel Berni,angel_berni.php,,Delantero
+10630,1950,Paraguay,3,Lorenzo Calonga,lorenzo_calonga.php,,Delantero
+10631,1950,Paraguay,3,Enrique Avalos,enrique_avalos.php,,Delantero
+10632,1950,Uruguay,4,Anibal Paz,anibal_paz.php,,Arquero
+10633,1950,Uruguay,4,Roque Maspoli,roque_maspoli.php,,Arquero
+10634,1950,Uruguay,4,William Martinez,william_martinez.php,,Defensor
+10635,1950,Uruguay,4,Matias Gonzalez,matias_gonzalez.php,,Defensor
+10636,1950,Uruguay,4,Hector Vilches,hector_vilches.php,,Defensor
+10637,1950,Uruguay,4,Schubert Gambetta,schubert_gambetta.php,,Defensor
+10638,1950,Uruguay,4,Eusebio Tejera,eusebio_tejera.php,,Defensor
+10639,1950,Uruguay,4,Carlos Romero,carlos_romero.php,,Mediocampista
+10640,1950,Uruguay,4,Obdulio Varela,obdulio_varela.php,,Mediocampista
+10641,1950,Uruguay,4,Rodolfo Pini,rodolfo_pini.php,,Mediocampista
+10642,1950,Uruguay,4,Victor Rodriguez Andrade,victor_rodriguez_andrade.php,,Mediocampista
+10643,1950,Uruguay,4,Washington Ortuno,washington_ortuno.php,,Mediocampista
+10644,1950,Uruguay,4,Juan Carlos Gonzalez,juan_carlos_gonzalez.php,,Mediocampista
+10645,1950,Uruguay,4,Ruben Moran,ruben_moran.php,,Delantero
+10646,1950,Uruguay,4,Ernesto Vidal,ernesto_vidal.php,,Delantero
+10647,1950,Uruguay,4,Juan Burgueno,juan_burgueno.php,,Delantero
+10648,1950,Uruguay,4,Juan Schiaffino,juan_schiaffino.php,,Delantero
+10649,1950,Uruguay,4,Alcides Ghiggia,alcides_ghiggia.php,,Delantero
+10650,1950,Uruguay,4,Luis Rijo,luis_rijo.php,,Delantero
+10651,1950,Uruguay,4,Oscar Miguez,oscar_miguez.php,,Delantero
+10652,1950,Uruguay,4,Julio Perez,julio_perez.php,,Delantero
+10653,1950,Uruguay,4,Julio Cesar Britos,julio_cesar_britos.php,,Delantero
+10654,1950,Bolivia,4,Eduardo Gutierrez,eduardo_gutierrez.php,,Arquero
+10655,1950,Bolivia,4,Vicente Arraya,vicente_arraya.php,,Arquero
+10656,1950,Bolivia,4,Alberto Acha,alberto_acha.php,,Defensor
+10657,1950,Bolivia,4,Jose Bustamante-Nava,jose_bustamante_nava.php,,Defensor
+10658,1950,Bolivia,4,Hector Saavedra,hector_saavedra.php,,Mediocampista
+10659,1950,Bolivia,4,Antonio Grecco,antonio_grecco.php,,Mediocampista
+10660,1950,Bolivia,4,Antonio Valencia,antonio_valencia.php,,Mediocampista
+10661,1950,Bolivia,4,Leonardo Ferrel,leonardo_ferrel.php,,Mediocampista
+10662,1950,Bolivia,4,Duberty Araoz,duberty_araoz.php,,Mediocampista
+10663,1950,Bolivia,4,Rene Cabrera,rene_cabrera.php,,Mediocampista
+10664,1950,Bolivia,4,Victor Ugarte,victor_ugarte.php,,Delantero
+10665,1950,Bolivia,4,Victor Algaranaz,victor_algaranaz.php,,Delantero
+10666,1950,Bolivia,4,Mario Mena,mario_mena.php,,Delantero
+10667,1950,Bolivia,4,Benjamin Maldonado,benjamin_maldonado.php,,Delantero
+10668,1950,Bolivia,4,Benedicto Godoy,benedicto_godoy.php,,Delantero
+10669,1950,Bolivia,4,Benigno Gutierrez,benigno_gutierrez.php,,Delantero
+10670,1950,Bolivia,4,Juan Guerra,juan_guerra.php,,Delantero
+10671,1950,Bolivia,4,Victor Brown,victor_brown.php,,Delantero
+10672,1950,Bolivia,4,Roberto Capparelli,roberto_capparelli.php,,Delantero
+10673,1930,Argentina,1,Angel Bossio,angel_bossio.php,,Arquero
+10674,1930,Argentina,1,Juan Botasso,juan_botasso.php,,Arquero
+10675,1930,Argentina,1,Fernando Paternoster,fernando_paternoster.php,,Defensor
+10676,1930,Argentina,1,Rodolfo Orlandini,rodolfo_orlandini.php,,Defensor
+10677,1930,Argentina,1,Ramon Muttis,ramon_muttis.php,,Defensor
+10678,1930,Argentina,1,Jose Della Torre,jose_della_torre.php,,Defensor
+10679,1930,Argentina,1,Adolfo Zumelzu,adolfo_zumelzu.php,,Defensor
+10680,1930,Argentina,1,Alberto Chividini,alberto_chividini.php,,Defensor
+10681,1930,Argentina,1,Edmundo Piaggio,edmundo_piaggio.php,,Mediocampista
+10682,1930,Argentina,1,Luis Monti,luis_monti.php,,Mediocampista
+10683,1930,Argentina,1,Pedro Suarez,pedro_suarez.php,,Mediocampista
+10684,1930,Argentina,1,Juan Evaristo,juan_evaristo.php,,Mediocampista
+10685,1930,Argentina,1,Francisco Varallo,francisco_varallo.php,,Delantero
+10686,1930,Argentina,1,Carlos Spadaro,carlos_spadaro.php,,Delantero
+10687,1930,Argentina,1,Alejandro Scopelli,alejandro_scopelli.php,,Delantero
+10688,1930,Argentina,1,Guillermo Stabile,guillermo_stabile.php,,Delantero
+10689,1930,Argentina,1,Carlos Peucelle,carlos_peucelle.php,,Delantero
+10690,1930,Argentina,1,Natalio Perinetti,natalio_perinetti.php,,Delantero
+10691,1930,Argentina,1,Roberto Cerro,roberto_cerro.php,,Delantero
+10692,1930,Argentina,1,Manuel Ferreira,manuel_ferreira.php,,Delantero
+10693,1930,Argentina,1,Mario Evaristo,mario_evaristo.php,,Delantero
+10694,1930,Argentina,1,Atilio Demaria,atilio_demaria.php,,Delantero
+10695,1930,Chile,1,Cesar Espinoza,cesar_espinoza.php,,Arquero
+10696,1930,Chile,1,Roberto Cortes,roberto_cortes.php,,Arquero
+10697,1930,Chile,1,Guillermo Riveros,guillermo_riveros.php,,Defensor
+10698,1930,Chile,1,Ernesto Chaparro,ernesto_chaparro.php,,Defensor
+10699,1930,Chile,1,Ulises Poirier,ulises_poirier.php,,Defensor
+10700,1930,Chile,1,Victor Morales,victor_morales.php,,Defensor
+10701,1930,Chile,1,Guillermo Saavedra,guillermo_saavedra.php,,Mediocampista
+10702,1930,Chile,1,Humberto Elgueta,humberto_elgueta.php,,Mediocampista
+10703,1930,Chile,1,Arturo Torres,arturo_torres.php,,Mediocampista
+10704,1930,Chile,1,Casimiro Torres,casimiro_torres.php,,Mediocampista
+10705,1930,Chile,1,Guillermo Subiabre,guillermo_subiabre.php,,Delantero
+10706,1930,Chile,1,Carlos Schneeberger,carlos_schneeberger.php,,Delantero
+10707,1930,Chile,1,Carlos Vidal,carlos_vidal.php,,Delantero
+10708,1930,Chile,1,Juan Aguilera,juan_aguilera.php,,Delantero
+10709,1930,Chile,1,Tomas Ojeda,tomas_ojeda.php,,Delantero
+10710,1930,Chile,1,Horacio Munoz,horacio_munoz.php,,Delantero
+10711,1930,Chile,1,Arturo Coddou,arturo_coddou.php,,Delantero
+10712,1930,Chile,1,Guillermo Arellano,guillermo_arellano.php,,Delantero
+10713,1930,Chile,1,Eberardo Villalobos,eberardo_villalobos.php,,Delantero
+10714,1930,Francia,1,Alex Thepot,alex_thepot.php,,Arquero
+10715,1930,Francia,1,Andre Tassin,andre_tassin.php,,Arquero
+10716,1930,Francia,1,Nouma Andoire,nouma_andoire.php,,Defensor
+10717,1930,Francia,1,Marcel Capelle,marcel_capelle.php,,Defensor
+10718,1930,Francia,1,Etienne Mattler,etienne_mattler.php,,Defensor
+10719,1930,Francia,1,Marcel Pinel,marcel_pinel.php,,Mediocampista
+10720,1930,Francia,1,Alex Villaplane,alex_villaplane.php,,Mediocampista
+10721,1930,Francia,1,Jean Laurent,jean_laurent.php,,Mediocampista
+10722,1930,Francia,1,Celestin Delmer,celestin_delmer.php,,Mediocampista
+10723,1930,Francia,1,Augustin Chantrel,augustin_chantrel.php,,Mediocampista
+10724,1930,Francia,1,Marcel Langiller,marcel_langiller.php,,Delantero
+10725,1930,Francia,1,Ernest Liberati,ernest_liberati.php,,Delantero
+10726,1930,Francia,1,Andre Maschinot,andre_maschinot.php,,Delantero
+10727,1930,Francia,1,Edmond Delfour,edmond_delfour.php,,Delantero
+10728,1930,Francia,1,Emile Veinante,emile_veinante.php,,Delantero
+10729,1930,Francia,1,Lucien Laurent,lucien_laurent.php,,Delantero
+10730,1930,México,1,Isidoro Sota,isidoro_sota.php,,Arquero
+10731,1930,México,1,Oscar Bonfiglio,oscar_bonfiglio.php,,Arquero
+10732,1930,México,1,Manuel Rosas,manuel_rosas.php,,Defensor
+10733,1930,México,1,Francisco Garza Gutierrez,francisco_gutierrez.php,,Defensor
+10734,1930,México,1,Rafael Garza Gutierrez,rafael_gutierrez.php,,Defensor
+10735,1930,México,1,Alfredo Sanchez,alfredo_sanchez.php,,Mediocampista
+10736,1930,México,1,Felipe Rosas,felipe_rosas.php,,Mediocampista
+10737,1930,México,1,Raimundo Rodriguez,raimundo_rodriguez.php,,Mediocampista
+10738,1930,México,1,Efrain Amezcua,efrain_amezcua.php,,Mediocampista
+10739,1930,México,1,Hilario Lopez,hilario_lopez.php,,Delantero
+10740,1930,México,1,Felipe Olivares,felipe_olivares.php,,Delantero
+10741,1930,México,1,Luis Perez,luis_perez.php,,Delantero
+10742,1930,México,1,Roberto Gayon,roberto_gayon.php,,Delantero
+10743,1930,México,1,Jesus Castro,jesus_castro.php,,Delantero
+10744,1930,México,1,Jose Ruiz,jose_ruiz.php,,Delantero
+10745,1930,México,1,Juan Carreno,juan_carreno.php,,Delantero
+10746,1930,México,1,Dioniso Mejia,dioniso_mejia.php,,Delantero
+10747,1930,Yugoslavia,2,Milan Stojanovic,milan_stojanovic.php,,Arquero
+10748,1930,Yugoslavia,2,Milovan Jaksic,milovan_jaksic.php,,Arquero
+10749,1930,Yugoslavia,2,Milutin Ivkovic,milutin_ivkovic.php,,Defensor
+10750,1930,Yugoslavia,2,Dragomir Tosic,dragomir_tosic.php,,Defensor
+10751,1930,Yugoslavia,2,Dragan Mihajlovic,dragan_mihajlovic.php,,Defensor
+10752,1930,Yugoslavia,2,Ljubisa Stefanovic,ljubisa_stefanovic.php,,Defensor
+10753,1930,Yugoslavia,2,Teofilo Spasojevic,teofilo_spasojevic.php,,Mediocampista
+10754,1930,Yugoslavia,2,Milorad Arsenijevic,milorad_arsenijevic.php,,Mediocampista
+10755,1930,Yugoslavia,2,Momcilo Djokic,momcilo_djokic.php,,Mediocampista
+10756,1930,Yugoslavia,2,Aleksandar Tirnanic,aleksandar_tirnanic.php,,Delantero
+10757,1930,Yugoslavia,2,Branislav Sekulic,branislav_sekulic.php,,Delantero
+10758,1930,Yugoslavia,2,Vlastimir Petkovic,vlastimir_petkovic.php,,Delantero
+10759,1930,Yugoslavia,2,Dragutin Najdanovic,dragutin_najdanovic.php,,Delantero
+10760,1930,Yugoslavia,2,Blagoje Marjanovic,blagoje_marjanovic.php,,Delantero
+10761,1930,Yugoslavia,2,Branislav Hrnjicek,branislav_hrnjicek.php,,Delantero
+10762,1930,Yugoslavia,2,Ivica Bek,ivica_bek.php,,Delantero
+10763,1930,Yugoslavia,2,Djordje Vujadinovic,djordje_vujadinovic.php,,Delantero
+10764,1930,Brasil,2,Velloso,velloso.php,,Arquero
+10765,1930,Brasil,2,Joel,joel.php,,Arquero
+10766,1930,Brasil,2,Ze Luis,ze_luis.php,,Defensor
+10767,1930,Brasil,2,Brilhante,brilhante.php,,Defensor
+10768,1930,Brasil,2,Italia,italia.php,,Defensor
+10769,1930,Brasil,2,Pamplona,pamplona.php,,Mediocampista
+10770,1930,Brasil,2,Oscarino,oscarino.php,,Mediocampista
+10771,1930,Brasil,2,Ivan Mariz,ivan_mariz.php,,Mediocampista
+10772,1930,Brasil,2,Hermogenes,hermogenes.php,,Mediocampista
+10773,1930,Brasil,2,Fortes,fortes.php,,Mediocampista
+10774,1930,Brasil,2,Fernando Giudicelli,fernando_giudicelli.php,,Mediocampista
+10775,1930,Brasil,2,Fausto,fausto.php,,Mediocampista
+10776,1930,Brasil,2,Benvenutto,benvenutto.php,,Mediocampista
+10777,1930,Brasil,2,Benedicto,benedicto.php,,Delantero
+10778,1930,Brasil,2,Teophilo,teophilo.php,,Delantero
+10779,1930,Brasil,2,Russinho,russinho.php,,Delantero
+10780,1930,Brasil,2,Preguinho,preguinho.php,,Delantero
+10781,1930,Brasil,2,Poly,poly.php,,Delantero
+10782,1930,Brasil,2,Carvalho Leite,carvalho_leite.php,,Delantero
+10783,1930,Brasil,2,Nilo,nilo.php,,Delantero
+10784,1930,Brasil,2,Moderato,moderato.php,,Delantero
+10785,1930,Brasil,2,Manoelzinho,manoelzinho.php,,Delantero
+10786,1930,Brasil,2,Doca,doca.php,,Delantero
+10787,1930,Brasil,2,Araken,araken.php,,Delantero
+10788,1930,Bolivia,2,Miguel Murillo,miguel_murillo.php,,Arquero
+10789,1930,Bolivia,2,Jesus Bermudez,jesus_bermudez.php,,Arquero
+10790,1930,Bolivia,2,Casiano Chavarria,casiano_chavarria.php,,Defensor
+10791,1930,Bolivia,2,Segundo Durandal,segundo_durandal.php,,Defensor
+10792,1930,Bolivia,2,Luis Reyes Penaranda,luis_reyes_penaranda.php,,Defensor
+10793,1930,Bolivia,2,Renato Sainz,renato_sainz.php,,Mediocampista
+10794,1930,Bolivia,2,Miguel Brito,miguel_brito.php,,Mediocampista
+10795,1930,Bolivia,2,Jorge Balderrama,jorge_balderrama.php,,Mediocampista
+10796,1930,Bolivia,2,Jorge Argote,jorge_argote.php,,Mediocampista
+10797,1930,Bolivia,2,Diogenes Lara,diogenes_lara.php,,Mediocampista
+10798,1930,Bolivia,2,Eduardo Reyes Ortiz,eduardo_reyes_ortiz.php,,Delantero
+10799,1930,Bolivia,2,Jose Noya,jose_noya.php,,Delantero
+10800,1930,Bolivia,2,Rafael Mendez,rafael_mendez.php,,Delantero
+10801,1930,Bolivia,2,Gumercindo Gomez,gumercindo_gomez.php,,Delantero
+10802,1930,Bolivia,2,Rene Fernandez,rene_fernandez.php,,Delantero
+10803,1930,Bolivia,2,Jose Bustamante,jose_bustamante.php,,Delantero
+10804,1930,Bolivia,2,Mario Alborta,mario_alborta.php,,Delantero
+10805,1930,Uruguay,3,Enrique Ballestrero,enrique_ballestrero.php,,Arquero
+10806,1930,Uruguay,3,Miguel Cappuccini,miguel_cappuccini.php,,Arquero
+10807,1930,Uruguay,3,Jose Nasazzi,jose_nasazzi.php,,Defensor
+10808,1930,Uruguay,3,Ernesto Mascheroni,ernesto_mascheroni.php,,Defensor
+10809,1930,Uruguay,3,Emilio Recoba,emilio_recoba.php,,Defensor
+10810,1930,Uruguay,3,Domingo Tejera,domingo_tejera.php,,Defensor
+10811,1930,Uruguay,3,Jose Andrade,jose_andrade.php,,Mediocampista
+10812,1930,Uruguay,3,Angel Melogno,angel_melogno.php,,Mediocampista
+10813,1930,Uruguay,3,Alvaro Gestido,alvaro_gestido.php,,Mediocampista
+10814,1930,Uruguay,3,Lorenzo Fernandez,lorenzo_fernandez.php,,Mediocampista
+10815,1930,Uruguay,3,Conduelo Piriz,conduelo_piriz.php,,Mediocampista
+10816,1930,Uruguay,3,Carlos Riolfo,carlos_riolfo.php,,Mediocampista
+10817,1930,Uruguay,3,Pedro Petrone,pedro_petrone.php,,Delantero
+10818,1930,Uruguay,3,Hector Scarone,hector_scarone.php,,Delantero
+10819,1930,Uruguay,3,Zoilo Saldombide,zoilo_saldombide.php,,Delantero
+10820,1930,Uruguay,3,Victoriano Iriarte,victoriano_iriarte.php,,Delantero
+10821,1930,Uruguay,3,Pablo Dorado,pablo_dorado.php,,Delantero
+10822,1930,Uruguay,3,Pedro Cea,pedro_cea.php,,Delantero
+10823,1930,Uruguay,3,Hector Castro,hector_castro.php,,Delantero
+10824,1930,Uruguay,3,Juan Carlos Calvo,juan_carlos_calvo.php,,Delantero
+10825,1930,Uruguay,3,Juan Anselmo,juan_anselmo.php,,Delantero
+10826,1930,Uruguay,3,Santos Urdinaran,santos_urdinaran.php,,Delantero
+10827,1930,Perú,3,Juan Valdivieso,juan_valdivieso.php,,Arquero
+10828,1930,Perú,3,Jorge Pardon,jorge_pardon.php,,Arquero
+10829,1930,Perú,3,Antonio Maquilon,antonio_maquilon.php,,Defensor
+10830,1930,Perú,3,Mario De Las Casas,mario_de_las_casas.php,,Defensor
+10831,1930,Perú,3,Alberto Soria,alberto_soria.php,,Defensor
+10832,1930,Perú,3,Arturo Fernandez,arturo_fernandez.php,,Defensor
+10833,1930,Perú,3,Juan Alfonso Valle,juan_alfonso_valle.php,,Mediocampista
+10834,1930,Perú,3,Julio Quintana,julio_quintana.php,,Mediocampista
+10835,1930,Perú,3,Eduardo Astengo,eduardo_astengo.php,,Mediocampista
+10836,1930,Perú,3,Placido Galindo,placido_galindo.php,,Mediocampista
+10837,1930,Perú,3,Alberto Denegri,alberto_denegri.php,,Mediocampista
+10838,1930,Perú,3,Domingo Garcia,domingo_garcia.php,,Mediocampista
+10839,1930,Perú,3,Carlos Cilloniz,carlos_cilloniz.php,,Delantero
+10840,1930,Perú,3,Luis Souza,luis_souza.php,,Delantero
+10841,1930,Perú,3,Jorge Sarmiento,jorge_sarmiento.php,,Delantero
+10842,1930,Perú,3,Jose Maria Lavalle,jose_maria_lavalle.php,,Delantero
+10843,1930,Perú,3,Pablo Pacheco,pablo_pacheco.php,,Delantero
+10844,1930,Perú,3,Lizardo Nue Rodriguez,lizardo_nue_rodriguez.php,,Delantero
+10845,1930,Perú,3,Demetrio Neyra,demetrio_neyra.php,,Delantero
+10846,1930,Perú,3,Jorge Gongora,jorge_gongora.php,,Delantero
+10847,1930,Perú,3,Julio Lores,julio_lores.php,,Delantero
+10848,1930,Perú,3,Alejandro Villanueva,alejandro_villanueva.php,,Delantero
+10849,1930,Rumania,3,Samuel Zauber,samuel_zauber.php,,Arquero
+10850,1930,Rumania,3,Ion Lapusneanu,ion_lapusneanu.php,,Arquero
+10851,1930,Rumania,3,Rudolf Buerger,rudolf_buerger.php,,Defensor
+10852,1930,Rumania,3,Emerich Vogl,emerich_vogl.php,,Defensor
+10853,1930,Rumania,3,Iosif Czako,iosif_czako.php,,Defensor
+10854,1930,Rumania,3,Adalbert Steiner,adalbert_steiner.php,,Defensor
+10855,1930,Rumania,3,Corneliu Robe,corneliu_robe.php,,Mediocampista
+10856,1930,Rumania,3,Ladislau Raffinski,ladislau_raffinski.php,,Mediocampista
+10857,1930,Rumania,3,Alfred Eisenbeisser,alfred_eisenbeisser.php,,Mediocampista
+10858,1930,Rumania,3,Nicolae Kovacs,nicolae_kovacs.php,,Delantero
+10859,1930,Rumania,3,Constantin Stanciu,constantin_stanciu.php,,Delantero
+10860,1930,Rumania,3,Adalbert Desu,adalbert_desu.php,,Delantero
+10861,1930,Rumania,3,Ilile Subaseanu,ilile_subaseanu.php,,Delantero
+10862,1930,Rumania,3,Rudolf Wetzer,rudolf_wetzer.php,,Delantero
+10863,1930,Rumania,3,Stefan Barbu,stefan_barbu.php,,Delantero
+10864,1930,Estados Unidos,4,Jimmy Douglas,jimmy_douglas.php,,Arquero
+10865,1930,Estados Unidos,4,Alexander Wood,alexander_wood.php,,Defensor
+10866,1930,Estados Unidos,4,George Moorhouse,george_moorhouse.php,,Defensor
+10867,1930,Estados Unidos,4,Ralph Tracey,ralph_tracey.php,,Defensor
+10868,1930,Estados Unidos,4,Frank Vaughn,frank_vaughn.php,,Defensor
+10869,1930,Estados Unidos,4,Mike Bookie,mike_bookie.php,,Mediocampista
+10870,1930,Estados Unidos,4,Jimmy Gallagher,jimmy_gallagher.php,,Mediocampista
+10871,1930,Estados Unidos,4,Arnie Oliver,arnie_oliver.php,,Mediocampista
+10872,1930,Estados Unidos,4,Phil Slone,phil_slone.php,,Mediocampista
+10873,1930,Estados Unidos,4,Bert Patenaude,bert_patenaude.php,,Delantero
+10874,1930,Estados Unidos,4,Bart Mcghee,bart_mcghee.php,,Delantero
+10875,1930,Estados Unidos,4,Billy Gonsalves,billy_gonsalves.php,,Delantero
+10876,1930,Estados Unidos,4,Jim Gentle,jim_gentle.php,,Delantero
+10877,1930,Estados Unidos,4,Tom Florie,tom_florie.php,,Delantero
+10878,1930,Estados Unidos,4,Jim Brown,jim_brown.php,,Delantero
+10879,1930,Estados Unidos,4,Andrew Auld,andrew_auld.php,,Delantero
+10880,1930,Paraguay,4,Pedro Benitez,pedro_benitez.php,,Arquero
+10881,1930,Paraguay,4,Modesto Denis,modesto_denis.php,,Arquero
+10882,1930,Paraguay,4,Eustaquio Chamorro,eustaquio_chamorro.php,,Defensor
+10883,1930,Paraguay,4,Quiterio Olmedo,quiterio_olmedo.php,,Defensor
+10884,1930,Paraguay,4,Jose Leon Miracca,jose_leon_miracca.php,,Defensor
+10885,1930,Paraguay,4,Salvador Flores,salvador_flores.php,,Defensor
+10886,1930,Paraguay,4,Diego Florentin,diego_florentin.php,,Mediocampista
+10887,1930,Paraguay,4,Francisco Aguirre,francisco_aguirre.php,,Mediocampista
+10888,1930,Paraguay,4,Tranquilino Garcete,tranquilino_garcete.php,,Mediocampista
+10889,1930,Paraguay,4,Romildo Etcheverry,romildo_etcheverry.php,,Mediocampista
+10890,1930,Paraguay,4,Eusebio Diaz,eusebio_diaz.php,,Mediocampista
+10891,1930,Paraguay,4,Santiago Benitez,santiago_benitez.php,,Mediocampista
+10892,1930,Paraguay,4,Diogenes Dominguez,diogenes_dominguez.php,,Delantero
+10893,1930,Paraguay,4,Luis Vargas Pena,luis_vargas_pena.php,,Delantero
+10894,1930,Paraguay,4,Gerardo Romero,gerardo_romero.php,,Delantero
+10895,1930,Paraguay,4,Bernabe Rivera,bernabe_rivera.php,,Delantero
+10896,1930,Paraguay,4,Amadeo Ortega,amadeo_ortega.php,,Delantero
+10897,1930,Paraguay,4,Delfin Benitez Caceres,delfin_benitez_caceres.php,,Delantero
+10898,1930,Paraguay,4,Lino Nessi,lino_nessi.php,,Delantero
+10899,1930,Paraguay,4,Aurelio Gonzalez,aurelio_gonzalez.php,,Delantero
+10900,1930,Paraguay,4,Cayetano Carreras Sagueir,cayetano_carreras_sagueir.php,,Delantero
+10901,1930,Paraguay,4,Jacinto Villalba,jacinto_villalba.php,,Delantero
+10902,1930,Bélgica,4,Arnold Badjou,arnold_badjou.php,,Arquero
+10903,1930,Bélgica,4,Jean De Bie,jean_de_bie.php,,Arquero
+10904,1930,Bélgica,4,Theodore Nouwens,theodore_nouwens.php,,Defensor
+10905,1930,Bélgica,4,Nikolaas Hoydonckx,nikolaas_hoydonckx.php,,Defensor
+10906,1930,Bélgica,4,Henri De Deken,henri_de_deken.php,,Defensor
+10907,1930,Bélgica,4,Auguste Hellemans,auguste_hellemans.php,,Mediocampista
+10908,1930,Bélgica,4,Jan Diddens,jan_diddens.php,,Mediocampista
+10909,1930,Bélgica,4,Jean De Clerq,jean_de_clerq.php,,Mediocampista
+10910,1930,Bélgica,4,Alexis Chantraine,alexis_chantraine.php,,Mediocampista
+10911,1930,Bélgica,4,Pierre Braine,pierre_braine.php,,Mediocampista
+10912,1930,Bélgica,4,Andre Saeys,andre_saeys.php,,Delantero
+10913,1930,Bélgica,4,Louis Versyp,louis_versyp.php,,Delantero
+10914,1930,Bélgica,4,Fernand Adams,fernand_adams.php,,Delantero
+10915,1930,Bélgica,4,Jacques Moeschal,jacques_moeschal.php,,Delantero
+10916,1930,Bélgica,4,Gerard Delbeke,gerard_delbeke.php,,Delantero
+10917,1930,Bélgica,4,Bernard Voorhoof,bernard_voorhoof.php,,Delantero

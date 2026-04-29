@@ -1,0 +1,965 @@
+﻿id,pais1,pais2,grupo_pais1,grupo_pais2,fecha,tipo_fase,mundial,hubo_tiempo_extra,hubo_penales
+1,Catar,Ecuador,A,A,20-Nov-2022,1ra Ronda,2022,False,False
+2,Inglaterra,Irán,B,B,21-Nov-2022,1ra Ronda,2022,False,False
+3,Senegal,Paises Bajos,A,A,21-Nov-2022,1ra Ronda,2022,False,False
+4,Estados Unidos,Gales,B,B,21-Nov-2022,1ra Ronda,2022,False,False
+5,Argentina,Arabia Saudita,C,C,22-Nov-2022,1ra Ronda,2022,False,False
+6,Dinamarca,Túnez,D,D,22-Nov-2022,1ra Ronda,2022,False,False
+7,México,Polonia,C,C,22-Nov-2022,1ra Ronda,2022,False,False
+8,Francia,Australia,D,D,22-Nov-2022,1ra Ronda,2022,False,False
+9,Marruecos,Croacia,F,F,23-Nov-2022,1ra Ronda,2022,False,False
+10,Alemania,Japón,E,E,23-Nov-2022,1ra Ronda,2022,False,False
+11,España,Costa Rica,E,E,23-Nov-2022,1ra Ronda,2022,False,False
+12,Bélgica,Canadá,F,F,23-Nov-2022,1ra Ronda,2022,False,False
+13,Suiza,Camerún,G,G,24-Nov-2022,1ra Ronda,2022,False,False
+14,Uruguay,Corea del Sur,H,H,24-Nov-2022,1ra Ronda,2022,False,False
+15,Portugal,Ghana,H,H,24-Nov-2022,1ra Ronda,2022,False,False
+16,Brasil,Serbia,G,G,24-Nov-2022,1ra Ronda,2022,False,False
+17,Gales,Irán,B,B,25-Nov-2022,1ra Ronda,2022,False,False
+18,Catar,Senegal,A,A,25-Nov-2022,1ra Ronda,2022,False,False
+19,Paises Bajos,Ecuador,A,A,25-Nov-2022,1ra Ronda,2022,False,False
+20,Inglaterra,Estados Unidos,B,B,25-Nov-2022,1ra Ronda,2022,False,False
+21,Túnez,Australia,D,D,26-Nov-2022,1ra Ronda,2022,False,False
+22,Polonia,Arabia Saudita,C,C,26-Nov-2022,1ra Ronda,2022,False,False
+23,Francia,Dinamarca,D,D,26-Nov-2022,1ra Ronda,2022,False,False
+24,Argentina,México,C,C,26-Nov-2022,1ra Ronda,2022,False,False
+25,Japón,Costa Rica,E,E,27-Nov-2022,1ra Ronda,2022,False,False
+26,Bélgica,Marruecos,F,F,27-Nov-2022,1ra Ronda,2022,False,False
+27,Croacia,Canadá,F,F,27-Nov-2022,1ra Ronda,2022,False,False
+28,España,Alemania,E,E,27-Nov-2022,1ra Ronda,2022,False,False
+29,Camerún,Serbia,G,G,28-Nov-2022,1ra Ronda,2022,False,False
+30,Corea del Sur,Ghana,H,H,28-Nov-2022,1ra Ronda,2022,False,False
+31,Brasil,Suiza,G,G,28-Nov-2022,1ra Ronda,2022,False,False
+32,Portugal,Uruguay,H,H,28-Nov-2022,1ra Ronda,2022,False,False
+33,Paises Bajos,Catar,A,A,29-Nov-2022,1ra Ronda,2022,False,False
+34,Ecuador,Senegal,A,A,29-Nov-2022,1ra Ronda,2022,False,False
+35,Gales,Inglaterra,B,B,29-Nov-2022,1ra Ronda,2022,False,False
+36,Irán,Estados Unidos,B,B,29-Nov-2022,1ra Ronda,2022,False,False
+37,Australia,Dinamarca,D,D,30-Nov-2022,1ra Ronda,2022,False,False
+38,Túnez,Francia,D,D,30-Nov-2022,1ra Ronda,2022,False,False
+39,Arabia Saudita,México,C,C,30-Nov-2022,1ra Ronda,2022,False,False
+40,Polonia,Argentina,C,C,30-Nov-2022,1ra Ronda,2022,False,False
+41,Croacia,Bélgica,F,F,01-Dec-2022,1ra Ronda,2022,False,False
+42,Canadá,Marruecos,F,F,01-Dec-2022,1ra Ronda,2022,False,False
+43,Japón,España,E,E,01-Dec-2022,1ra Ronda,2022,False,False
+44,Costa Rica,Alemania,E,E,01-Dec-2022,1ra Ronda,2022,False,False
+45,Ghana,Uruguay,H,H,02-Dec-2022,1ra Ronda,2022,False,False
+46,Corea del Sur,Portugal,H,H,02-Dec-2022,1ra Ronda,2022,False,False
+47,Serbia,Suiza,G,G,02-Dec-2022,1ra Ronda,2022,False,False
+48,Camerún,Brasil,G,G,02-Dec-2022,1ra Ronda,2022,False,False
+49,Paises Bajos,Estados Unidos,,,03-Dec-2022,Octavos de final,2022,False,False
+50,Argentina,Australia,,,03-Dec-2022,Octavos de final,2022,False,False
+51,Inglaterra,Senegal,,,04-Dec-2022,Octavos de final,2022,False,False
+52,Francia,Polonia,,,04-Dec-2022,Octavos de final,2022,False,False
+53,Japón,Croacia,,,05-Dec-2022,Octavos de final,2022,True,True
+54,Brasil,Corea del Sur,,,05-Dec-2022,Octavos de final,2022,False,False
+55,Marruecos,España,,,06-Dec-2022,Octavos de final,2022,True,True
+56,Portugal,Suiza,,,06-Dec-2022,Octavos de final,2022,False,False
+57,Paises Bajos,Argentina,,,09-Dec-2022,Cuartos de final,2022,True,True
+58,Croacia,Brasil,,,09-Dec-2022,Cuartos de final,2022,True,True
+59,Inglaterra,Francia,,,10-Dec-2022,Cuartos de final,2022,False,False
+60,Marruecos,Portugal,,,10-Dec-2022,Cuartos de final,2022,False,False
+61,Argentina,Croacia,,,13-Dec-2022,Semifinales,2022,False,False
+62,Francia,Marruecos,,,14-Dec-2022,Semifinales,2022,False,False
+63,Croacia,Marruecos,,,17-Dec-2022,3er puesto,2022,False,False
+64,Argentina,Francia,,,18-Dec-2022,Final,2022,True,True
+65,Rusia,Arabia Saudita,A,A,14-Jun-2018,1ra Ronda,2018,False,False
+66,Egipto,Uruguay,A,A,15-Jun-2018,1ra Ronda,2018,False,False
+67,Portugal,España,B,B,15-Jun-2018,1ra Ronda,2018,False,False
+68,Marruecos,Irán,B,B,15-Jun-2018,1ra Ronda,2018,False,False
+69,Francia,Australia,C,C,16-Jun-2018,1ra Ronda,2018,False,False
+70,Perú,Dinamarca,C,C,16-Jun-2018,1ra Ronda,2018,False,False
+71,Argentina,Islandia,D,D,16-Jun-2018,1ra Ronda,2018,False,False
+72,Croacia,Nigeria,D,D,16-Jun-2018,1ra Ronda,2018,False,False
+73,Brasil,Suiza,E,E,17-Jun-2018,1ra Ronda,2018,False,False
+74,Costa Rica,Serbia,E,E,17-Jun-2018,1ra Ronda,2018,False,False
+75,Alemania,México,F,F,17-Jun-2018,1ra Ronda,2018,False,False
+76,Suecia,Corea del Sur,F,F,18-Jun-2018,1ra Ronda,2018,False,False
+77,Bélgica,Panamá,G,G,18-Jun-2018,1ra Ronda,2018,False,False
+78,Túnez,Inglaterra,G,G,18-Jun-2018,1ra Ronda,2018,False,False
+79,Polonia,Senegal,H,H,19-Jun-2018,1ra Ronda,2018,False,False
+80,Colombia,Japón,H,H,19-Jun-2018,1ra Ronda,2018,False,False
+81,Rusia,Egipto,A,A,19-Jun-2018,1ra Ronda,2018,False,False
+82,Uruguay,Arabia Saudita,A,A,20-Jun-2018,1ra Ronda,2018,False,False
+83,Portugal,Marruecos,B,B,20-Jun-2018,1ra Ronda,2018,False,False
+84,Irán,España,B,B,20-Jun-2018,1ra Ronda,2018,False,False
+85,Francia,Perú,C,C,21-Jun-2018,1ra Ronda,2018,False,False
+86,Dinamarca,Australia,C,C,21-Jun-2018,1ra Ronda,2018,False,False
+87,Argentina,Croacia,D,D,21-Jun-2018,1ra Ronda,2018,False,False
+88,Nigeria,Islandia,D,D,22-Jun-2018,1ra Ronda,2018,False,False
+89,Brasil,Costa Rica,E,E,22-Jun-2018,1ra Ronda,2018,False,False
+90,Serbia,Suiza,E,E,22-Jun-2018,1ra Ronda,2018,False,False
+91,Alemania,Suecia,F,F,23-Jun-2018,1ra Ronda,2018,False,False
+92,Corea del Sur,México,F,F,23-Jun-2018,1ra Ronda,2018,False,False
+93,Bélgica,Túnez,G,G,23-Jun-2018,1ra Ronda,2018,False,False
+94,Inglaterra,Panamá,G,G,24-Jun-2018,1ra Ronda,2018,False,False
+95,Polonia,Colombia,H,H,24-Jun-2018,1ra Ronda,2018,False,False
+96,Japón,Senegal,H,H,24-Jun-2018,1ra Ronda,2018,False,False
+97,Uruguay,Rusia,A,A,25-Jun-2018,1ra Ronda,2018,False,False
+98,Arabia Saudita,Egipto,A,A,25-Jun-2018,1ra Ronda,2018,False,False
+99,Irán,Portugal,B,B,25-Jun-2018,1ra Ronda,2018,False,False
+100,España,Marruecos,B,B,25-Jun-2018,1ra Ronda,2018,False,False
+101,Dinamarca,Francia,C,C,26-Jun-2018,1ra Ronda,2018,False,False
+102,Australia,Perú,C,C,26-Jun-2018,1ra Ronda,2018,False,False
+103,Nigeria,Argentina,D,D,26-Jun-2018,1ra Ronda,2018,False,False
+104,Islandia,Croacia,D,D,26-Jun-2018,1ra Ronda,2018,False,False
+105,Serbia,Brasil,E,E,27-Jun-2018,1ra Ronda,2018,False,False
+106,Suiza,Costa Rica,E,E,27-Jun-2018,1ra Ronda,2018,False,False
+107,Corea del Sur,Alemania,F,F,27-Jun-2018,1ra Ronda,2018,False,False
+108,México,Suecia,F,F,27-Jun-2018,1ra Ronda,2018,False,False
+109,Inglaterra,Bélgica,G,G,28-Jun-2018,1ra Ronda,2018,False,False
+110,Panamá,Túnez,G,G,28-Jun-2018,1ra Ronda,2018,False,False
+111,Japón,Polonia,H,H,28-Jun-2018,1ra Ronda,2018,False,False
+112,Senegal,Colombia,H,H,28-Jun-2018,1ra Ronda,2018,False,False
+113,Uruguay,Portugal,,,30-Jun-2018,Octavos de final,2018,False,False
+114,Francia,Argentina,,,30-Jun-2018,Octavos de final,2018,False,False
+115,España,Rusia,,,01-Jul-2018,Octavos de final,2018,True,True
+116,Croacia,Dinamarca,,,01-Jul-2018,Octavos de final,2018,True,True
+117,Brasil,México,,,02-Jul-2018,Octavos de final,2018,False,False
+118,Bélgica,Japón,,,02-Jul-2018,Octavos de final,2018,False,False
+119,Suecia,Suiza,,,03-Jul-2018,Octavos de final,2018,False,False
+120,Colombia,Inglaterra,,,03-Jul-2018,Octavos de final,2018,True,True
+121,Uruguay,Francia,,,06-Jul-2018,Cuartos de final,2018,False,False
+122,Brasil,Bélgica,,,06-Jul-2018,Cuartos de final,2018,False,False
+123,Rusia,Croacia,,,07-Jul-2018,Cuartos de final,2018,True,True
+124,Suecia,Inglaterra,,,07-Jul-2018,Cuartos de final,2018,False,False
+125,Francia,Bélgica,,,10-Jul-2018,Semifinales,2018,False,False
+126,Croacia,Inglaterra,,,11-Jul-2018,Semifinales,2018,True,False
+127,Bélgica,Inglaterra,,,14-Jul-2018,3er puesto,2018,False,False
+128,Francia,Croacia,,,15-Jul-2018,Final,2018,False,False
+129,Brasil,Croacia,A,A,12-Jun-2014,1ra Ronda,2014,False,False
+130,México,Camerún,A,A,13-Jun-2014,1ra Ronda,2014,False,False
+131,España,Paises Bajos,B,B,13-Jun-2014,1ra Ronda,2014,False,False
+132,Chile,Australia,B,B,13-Jun-2014,1ra Ronda,2014,False,False
+133,Colombia,Grecia,C,C,14-Jun-2014,1ra Ronda,2014,False,False
+134,Costa de Marfil,Japón,C,C,14-Jun-2014,1ra Ronda,2014,False,False
+135,Uruguay,Costa Rica,D,D,14-Jun-2014,1ra Ronda,2014,False,False
+136,Inglaterra,Italia,D,D,14-Jun-2014,1ra Ronda,2014,False,False
+137,Suiza,Ecuador,E,E,15-Jun-2014,1ra Ronda,2014,False,False
+138,Francia,Honduras,E,E,15-Jun-2014,1ra Ronda,2014,False,False
+139,Argentina,Bosnia-Herzegovina,F,F,15-Jun-2014,1ra Ronda,2014,False,False
+140,Irán,Nigeria,F,F,16-Jun-2014,1ra Ronda,2014,False,False
+141,Alemania,Portugal,G,G,16-Jun-2014,1ra Ronda,2014,False,False
+142,Ghana,Estados Unidos,G,G,16-Jun-2014,1ra Ronda,2014,False,False
+143,Bélgica,Argelia,H,H,17-Jun-2014,1ra Ronda,2014,False,False
+144,Rusia,Corea del Sur,H,H,17-Jun-2014,1ra Ronda,2014,False,False
+145,Brasil,México,A,A,17-Jun-2014,1ra Ronda,2014,False,False
+146,Camerún,Croacia,A,A,18-Jun-2014,1ra Ronda,2014,False,False
+147,España,Chile,B,B,18-Jun-2014,1ra Ronda,2014,False,False
+148,Australia,Paises Bajos,B,B,18-Jun-2014,1ra Ronda,2014,False,False
+149,Colombia,Costa de Marfil,C,C,19-Jun-2014,1ra Ronda,2014,False,False
+150,Japón,Grecia,C,C,19-Jun-2014,1ra Ronda,2014,False,False
+151,Uruguay,Inglaterra,D,D,19-Jun-2014,1ra Ronda,2014,False,False
+152,Italia,Costa Rica,D,D,20-Jun-2014,1ra Ronda,2014,False,False
+153,Suiza,Francia,E,E,20-Jun-2014,1ra Ronda,2014,False,False
+154,Honduras,Ecuador,E,E,20-Jun-2014,1ra Ronda,2014,False,False
+155,Argentina,Irán,F,F,21-Jun-2014,1ra Ronda,2014,False,False
+156,Nigeria,Bosnia-Herzegovina,F,F,21-Jun-2014,1ra Ronda,2014,False,False
+157,Alemania,Ghana,G,G,21-Jun-2014,1ra Ronda,2014,False,False
+158,Estados Unidos,Portugal,G,G,22-Jun-2014,1ra Ronda,2014,False,False
+159,Bélgica,Rusia,H,H,22-Jun-2014,1ra Ronda,2014,False,False
+160,Corea del Sur,Argelia,H,H,22-Jun-2014,1ra Ronda,2014,False,False
+161,Camerún,Brasil,A,A,23-Jun-2014,1ra Ronda,2014,False,False
+162,Croacia,México,A,A,23-Jun-2014,1ra Ronda,2014,False,False
+163,Australia,España,B,B,23-Jun-2014,1ra Ronda,2014,False,False
+164,Paises Bajos,Chile,B,B,23-Jun-2014,1ra Ronda,2014,False,False
+165,Japón,Colombia,C,C,24-Jun-2014,1ra Ronda,2014,False,False
+166,Grecia,Costa de Marfil,C,C,24-Jun-2014,1ra Ronda,2014,False,False
+167,Italia,Uruguay,D,D,24-Jun-2014,1ra Ronda,2014,False,False
+168,Costa Rica,Inglaterra,D,D,24-Jun-2014,1ra Ronda,2014,False,False
+169,Honduras,Suiza,E,E,25-Jun-2014,1ra Ronda,2014,False,False
+170,Ecuador,Francia,E,E,25-Jun-2014,1ra Ronda,2014,False,False
+171,Nigeria,Argentina,F,F,25-Jun-2014,1ra Ronda,2014,False,False
+172,Bosnia-Herzegovina,Irán,F,F,25-Jun-2014,1ra Ronda,2014,False,False
+173,Estados Unidos,Alemania,G,G,26-Jun-2014,1ra Ronda,2014,False,False
+174,Portugal,Ghana,G,G,26-Jun-2014,1ra Ronda,2014,False,False
+175,Corea del Sur,Bélgica,H,H,26-Jun-2014,1ra Ronda,2014,False,False
+176,Argelia,Rusia,H,H,26-Jun-2014,1ra Ronda,2014,False,False
+177,Brasil,Chile,,,28-Jun-2014,Octavos de final,2014,True,True
+178,Colombia,Uruguay,,,28-Jun-2014,Octavos de final,2014,False,False
+179,Paises Bajos,México,,,29-Jun-2014,Octavos de final,2014,False,False
+180,Costa Rica,Grecia,,,29-Jun-2014,Octavos de final,2014,True,True
+181,Francia,Nigeria,,,30-Jun-2014,Octavos de final,2014,False,False
+182,Alemania,Argelia,,,30-Jun-2014,Octavos de final,2014,True,False
+183,Argentina,Suiza,,,01-Jul-2014,Octavos de final,2014,True,False
+184,Bélgica,Estados Unidos,,,01-Jul-2014,Octavos de final,2014,True,False
+185,Brasil,Colombia,,,04-Jul-2014,Cuartos de final,2014,False,False
+186,Francia,Alemania,,,04-Jul-2014,Cuartos de final,2014,False,False
+187,Paises Bajos,Costa Rica,,,05-Jul-2014,Cuartos de final,2014,True,True
+188,Argentina,Bélgica,,,05-Jul-2014,Cuartos de final,2014,False,False
+189,Brasil,Alemania,,,08-Jul-2014,Semifinales,2014,False,False
+190,Paises Bajos,Argentina,,,09-Jul-2014,Semifinales,2014,True,True
+191,Brasil,Paises Bajos,,,12-Jul-2014,3er puesto,2014,False,False
+192,Alemania,Argentina,,,13-Jul-2014,Final,2014,True,False
+193,Sudáfrica,México,A,A,11-Jun-2010,1ra Ronda,2010,False,False
+194,Uruguay,Francia,A,A,11-Jun-2010,1ra Ronda,2010,False,False
+195,Argentina,Nigeria,B,B,12-Jun-2010,1ra Ronda,2010,False,False
+196,Corea del Sur,Grecia,B,B,12-Jun-2010,1ra Ronda,2010,False,False
+197,Inglaterra,Estados Unidos,C,C,12-Jun-2010,1ra Ronda,2010,False,False
+198,Argelia,Eslovenia,C,C,13-Jun-2010,1ra Ronda,2010,False,False
+199,Alemania,Australia,D,D,13-Jun-2010,1ra Ronda,2010,False,False
+200,Serbia,Ghana,D,D,13-Jun-2010,1ra Ronda,2010,False,False
+201,Paises Bajos,Dinamarca,E,E,14-Jun-2010,1ra Ronda,2010,False,False
+202,Japón,Camerún,E,E,14-Jun-2010,1ra Ronda,2010,False,False
+203,Italia,Paraguay,F,F,14-Jun-2010,1ra Ronda,2010,False,False
+204,Nueva Zelanda,Eslovaquia,F,F,15-Jun-2010,1ra Ronda,2010,False,False
+205,Costa de Marfil,Portugal,G,G,15-Jun-2010,1ra Ronda,2010,False,False
+206,Brasil,Corea del Norte,G,G,15-Jun-2010,1ra Ronda,2010,False,False
+207,Honduras,Chile,H,H,16-Jun-2010,1ra Ronda,2010,False,False
+208,España,Suiza,H,H,16-Jun-2010,1ra Ronda,2010,False,False
+209,Sudáfrica,Uruguay,A,A,16-Jun-2010,1ra Ronda,2010,False,False
+210,Francia,México,A,A,17-Jun-2010,1ra Ronda,2010,False,False
+211,Grecia,Nigeria,B,B,17-Jun-2010,1ra Ronda,2010,False,False
+212,Argentina,Corea del Sur,B,B,17-Jun-2010,1ra Ronda,2010,False,False
+213,Alemania,Serbia,D,D,18-Jun-2010,1ra Ronda,2010,False,False
+214,Eslovenia,Estados Unidos,C,C,18-Jun-2010,1ra Ronda,2010,False,False
+215,Inglaterra,Argelia,C,C,18-Jun-2010,1ra Ronda,2010,False,False
+216,Ghana,Australia,D,D,19-Jun-2010,1ra Ronda,2010,False,False
+217,Paises Bajos,Japón,E,E,19-Jun-2010,1ra Ronda,2010,False,False
+218,Camerún,Dinamarca,E,E,19-Jun-2010,1ra Ronda,2010,False,False
+219,Eslovaquia,Paraguay,F,F,20-Jun-2010,1ra Ronda,2010,False,False
+220,Italia,Nueva Zelanda,F,F,20-Jun-2010,1ra Ronda,2010,False,False
+221,Brasil,Costa de Marfil,G,G,20-Jun-2010,1ra Ronda,2010,False,False
+222,Portugal,Corea del Norte,G,G,21-Jun-2010,1ra Ronda,2010,False,False
+223,Chile,Suiza,H,H,21-Jun-2010,1ra Ronda,2010,False,False
+224,España,Honduras,H,H,21-Jun-2010,1ra Ronda,2010,False,False
+225,México,Uruguay,A,A,22-Jun-2010,1ra Ronda,2010,False,False
+226,Francia,Sudáfrica,A,A,22-Jun-2010,1ra Ronda,2010,False,False
+227,Nigeria,Corea del Sur,B,B,22-Jun-2010,1ra Ronda,2010,False,False
+228,Grecia,Argentina,B,B,22-Jun-2010,1ra Ronda,2010,False,False
+229,Eslovenia,Inglaterra,C,C,23-Jun-2010,1ra Ronda,2010,False,False
+230,Estados Unidos,Argelia,C,C,23-Jun-2010,1ra Ronda,2010,False,False
+231,Ghana,Alemania,D,D,23-Jun-2010,1ra Ronda,2010,False,False
+232,Australia,Serbia,D,D,23-Jun-2010,1ra Ronda,2010,False,False
+233,Eslovaquia,Italia,F,F,24-Jun-2010,1ra Ronda,2010,False,False
+234,Paraguay,Nueva Zelanda,F,F,24-Jun-2010,1ra Ronda,2010,False,False
+235,Dinamarca,Japón,E,E,24-Jun-2010,1ra Ronda,2010,False,False
+236,Camerún,Paises Bajos,E,E,24-Jun-2010,1ra Ronda,2010,False,False
+237,Portugal,Brasil,G,G,25-Jun-2010,1ra Ronda,2010,False,False
+238,Corea del Norte,Costa de Marfil,G,G,25-Jun-2010,1ra Ronda,2010,False,False
+239,Chile,España,H,H,25-Jun-2010,1ra Ronda,2010,False,False
+240,Suiza,Honduras,H,H,25-Jun-2010,1ra Ronda,2010,False,False
+241,Uruguay,Corea del Sur,,,26-Jun-2010,Octavos de final,2010,False,False
+242,Estados Unidos,Ghana,,,26-Jun-2010,Octavos de final,2010,True,False
+243,Alemania,Inglaterra,,,27-Jun-2010,Octavos de final,2010,False,False
+244,Argentina,México,,,27-Jun-2010,Octavos de final,2010,False,False
+245,Paises Bajos,Eslovaquia,,,28-Jun-2010,Octavos de final,2010,False,False
+246,Brasil,Chile,,,28-Jun-2010,Octavos de final,2010,False,False
+247,Paraguay,Japón,,,29-Jun-2010,Octavos de final,2010,True,True
+248,España,Portugal,,,29-Jun-2010,Octavos de final,2010,False,False
+249,Paises Bajos,Brasil,,,02-Jul-2010,Cuartos de final,2010,False,False
+250,Uruguay,Ghana,,,02-Jul-2010,Cuartos de final,2010,True,True
+251,Argentina,Alemania,,,03-Jul-2010,Cuartos de final,2010,False,False
+252,Paraguay,España,,,03-Jul-2010,Cuartos de final,2010,False,False
+253,Uruguay,Paises Bajos,,,06-Jul-2010,Semifinales,2010,False,False
+254,Alemania,España,,,07-Jul-2010,Semifinales,2010,False,False
+255,Uruguay,Alemania,,,10-Jul-2010,3er puesto,2010,False,False
+256,Paises Bajos,España,,,11-Jul-2010,Final,2010,True,False
+257,Alemania,Costa Rica,A,A,09-Jun-2006,1ra Ronda,2006,False,False
+258,Polonia,Ecuador,A,A,09-Jun-2006,1ra Ronda,2006,False,False
+259,Inglaterra,Paraguay,B,B,10-Jun-2006,1ra Ronda,2006,False,False
+260,Trinidad y Tobago,Suecia,B,B,10-Jun-2006,1ra Ronda,2006,False,False
+261,Argentina,Costa de Marfil,C,C,10-Jun-2006,1ra Ronda,2006,False,False
+262,Serbia y Montenegro,Paises Bajos,C,C,11-Jun-2006,1ra Ronda,2006,False,False
+263,México,Irán,D,D,11-Jun-2006,1ra Ronda,2006,False,False
+264,Angola,Portugal,D,D,11-Jun-2006,1ra Ronda,2006,False,False
+265,Italia,Ghana,E,E,12-Jun-2006,1ra Ronda,2006,False,False
+266,Estados Unidos,República Checa,E,E,12-Jun-2006,1ra Ronda,2006,False,False
+267,Australia,Japón,F,F,12-Jun-2006,1ra Ronda,2006,False,False
+268,Brasil,Croacia,F,F,13-Jun-2006,1ra Ronda,2006,False,False
+269,Francia,Suiza,G,G,13-Jun-2006,1ra Ronda,2006,False,False
+270,Corea del Sur,Togo,G,G,13-Jun-2006,1ra Ronda,2006,False,False
+271,España,Ucrania,H,H,14-Jun-2006,1ra Ronda,2006,False,False
+272,Túnez,Arabia Saudita,H,H,14-Jun-2006,1ra Ronda,2006,False,False
+273,Alemania,Polonia,A,A,14-Jun-2006,1ra Ronda,2006,False,False
+274,Ecuador,Costa Rica,A,A,15-Jun-2006,1ra Ronda,2006,False,False
+275,Inglaterra,Trinidad y Tobago,B,B,15-Jun-2006,1ra Ronda,2006,False,False
+276,Suecia,Paraguay,B,B,15-Jun-2006,1ra Ronda,2006,False,False
+277,Argentina,Serbia y Montenegro,C,C,16-Jun-2006,1ra Ronda,2006,False,False
+278,Paises Bajos,Costa de Marfil,C,C,16-Jun-2006,1ra Ronda,2006,False,False
+279,México,Angola,D,D,16-Jun-2006,1ra Ronda,2006,False,False
+280,Portugal,Irán,D,D,17-Jun-2006,1ra Ronda,2006,False,False
+281,Italia,Estados Unidos,E,E,17-Jun-2006,1ra Ronda,2006,False,False
+282,República Checa,Ghana,E,E,17-Jun-2006,1ra Ronda,2006,False,False
+283,Brasil,Australia,F,F,18-Jun-2006,1ra Ronda,2006,False,False
+284,Japón,Croacia,F,F,18-Jun-2006,1ra Ronda,2006,False,False
+285,Francia,Corea del Sur,G,G,18-Jun-2006,1ra Ronda,2006,False,False
+286,Togo,Suiza,G,G,19-Jun-2006,1ra Ronda,2006,False,False
+287,España,Túnez,H,H,19-Jun-2006,1ra Ronda,2006,False,False
+288,Arabia Saudita,Ucrania,H,H,19-Jun-2006,1ra Ronda,2006,False,False
+289,Ecuador,Alemania,A,A,20-Jun-2006,1ra Ronda,2006,False,False
+290,Costa Rica,Polonia,A,A,20-Jun-2006,1ra Ronda,2006,False,False
+291,Suecia,Inglaterra,B,B,20-Jun-2006,1ra Ronda,2006,False,False
+292,Paraguay,Trinidad y Tobago,B,B,20-Jun-2006,1ra Ronda,2006,False,False
+293,Paises Bajos,Argentina,C,C,21-Jun-2006,1ra Ronda,2006,False,False
+294,Costa de Marfil,Serbia y Montenegro,C,C,21-Jun-2006,1ra Ronda,2006,False,False
+295,Portugal,México,D,D,21-Jun-2006,1ra Ronda,2006,False,False
+296,Irán,Angola,D,D,21-Jun-2006,1ra Ronda,2006,False,False
+297,República Checa,Italia,E,E,22-Jun-2006,1ra Ronda,2006,False,False
+298,Ghana,Estados Unidos,E,E,22-Jun-2006,1ra Ronda,2006,False,False
+299,Japón,Brasil,F,F,22-Jun-2006,1ra Ronda,2006,False,False
+300,Croacia,Australia,F,F,22-Jun-2006,1ra Ronda,2006,False,False
+301,Togo,Francia,G,G,23-Jun-2006,1ra Ronda,2006,False,False
+302,Suiza,Corea del Sur,G,G,23-Jun-2006,1ra Ronda,2006,False,False
+303,Arabia Saudita,España,H,H,23-Jun-2006,1ra Ronda,2006,False,False
+304,Ucrania,Túnez,H,H,23-Jun-2006,1ra Ronda,2006,False,False
+305,Alemania,Suecia,,,24-Jun-2006,Octavos de final,2006,False,False
+306,Argentina,México,,,24-Jun-2006,Octavos de final,2006,True,False
+307,Inglaterra,Ecuador,,,25-Jun-2006,Octavos de final,2006,False,False
+308,Portugal,Paises Bajos,,,25-Jun-2006,Octavos de final,2006,False,False
+309,Italia,Australia,,,26-Jun-2006,Octavos de final,2006,False,False
+310,Suiza,Ucrania,,,26-Jun-2006,Octavos de final,2006,True,True
+311,Brasil,Ghana,,,27-Jun-2006,Octavos de final,2006,False,False
+312,España,Francia,,,27-Jun-2006,Octavos de final,2006,False,False
+313,Alemania,Argentina,,,30-Jun-2006,Cuartos de final,2006,True,True
+314,Italia,Ucrania,,,30-Jun-2006,Cuartos de final,2006,False,False
+315,Inglaterra,Portugal,,,01-Jul-2006,Cuartos de final,2006,True,True
+316,Brasil,Francia,,,01-Jul-2006,Cuartos de final,2006,False,False
+317,Alemania,Italia,,,04-Jul-2006,Semifinales,2006,True,False
+318,Portugal,Francia,,,05-Jul-2006,Semifinales,2006,False,False
+319,Alemania,Portugal,,,08-Jul-2006,3er puesto,2006,False,False
+320,Italia,Francia,,,09-Jul-2006,Final,2006,True,True
+321,Francia,Senegal,A,A,31-May-2002,1ra Ronda,2002,False,False
+322,Irlanda,Camerún,E,E,01-Jun-2002,1ra Ronda,2002,False,False
+323,Uruguay,Dinamarca,A,A,01-Jun-2002,1ra Ronda,2002,False,False
+324,Alemania,Arabia Saudita,E,E,01-Jun-2002,1ra Ronda,2002,False,False
+325,Inglaterra,Suecia,F,F,02-Jun-2002,1ra Ronda,2002,False,False
+326,Paraguay,Sudáfrica,B,B,02-Jun-2002,1ra Ronda,2002,False,False
+327,Argentina,Nigeria,F,F,02-Jun-2002,1ra Ronda,2002,False,False
+328,España,Eslovenia,B,B,02-Jun-2002,1ra Ronda,2002,False,False
+329,Croacia,México,G,G,03-Jun-2002,1ra Ronda,2002,False,False
+330,Brasil,Turquía,C,C,03-Jun-2002,1ra Ronda,2002,False,False
+331,Italia,Ecuador,G,G,03-Jun-2002,1ra Ronda,2002,False,False
+332,China,Costa Rica,C,C,04-Jun-2002,1ra Ronda,2002,False,False
+333,Japón,Bélgica,H,H,04-Jun-2002,1ra Ronda,2002,False,False
+334,Corea del Sur,Polonia,D,D,04-Jun-2002,1ra Ronda,2002,False,False
+335,Rusia,Túnez,H,H,05-Jun-2002,1ra Ronda,2002,False,False
+336,Estados Unidos,Portugal,D,D,05-Jun-2002,1ra Ronda,2002,False,False
+337,Alemania,Irlanda,E,E,05-Jun-2002,1ra Ronda,2002,False,False
+338,Francia,Uruguay,A,A,06-Jun-2002,1ra Ronda,2002,False,False
+339,Camerún,Arabia Saudita,E,E,06-Jun-2002,1ra Ronda,2002,False,False
+340,Dinamarca,Senegal,A,A,06-Jun-2002,1ra Ronda,2002,False,False
+341,Suecia,Nigeria,F,F,07-Jun-2002,1ra Ronda,2002,False,False
+342,España,Paraguay,B,B,07-Jun-2002,1ra Ronda,2002,False,False
+343,Argentina,Inglaterra,F,F,07-Jun-2002,1ra Ronda,2002,False,False
+344,Sudáfrica,Eslovenia,B,B,08-Jun-2002,1ra Ronda,2002,False,False
+345,Italia,Croacia,G,G,08-Jun-2002,1ra Ronda,2002,False,False
+346,Brasil,China,C,C,08-Jun-2002,1ra Ronda,2002,False,False
+347,México,Ecuador,G,G,09-Jun-2002,1ra Ronda,2002,False,False
+348,Costa Rica,Turquía,C,C,09-Jun-2002,1ra Ronda,2002,False,False
+349,Japón,Rusia,H,H,09-Jun-2002,1ra Ronda,2002,False,False
+350,Corea del Sur,Estados Unidos,D,D,10-Jun-2002,1ra Ronda,2002,False,False
+351,Túnez,Bélgica,H,H,10-Jun-2002,1ra Ronda,2002,False,False
+352,Portugal,Polonia,D,D,10-Jun-2002,1ra Ronda,2002,False,False
+353,Dinamarca,Francia,A,A,11-Jun-2002,1ra Ronda,2002,False,False
+354,Senegal,Uruguay,A,A,11-Jun-2002,1ra Ronda,2002,False,False
+355,Camerún,Alemania,E,E,11-Jun-2002,1ra Ronda,2002,False,False
+356,Arabia Saudita,Irlanda,E,E,11-Jun-2002,1ra Ronda,2002,False,False
+357,Suecia,Argentina,F,F,12-Jun-2002,1ra Ronda,2002,False,False
+358,Nigeria,Inglaterra,F,F,12-Jun-2002,1ra Ronda,2002,False,False
+359,Sudáfrica,España,B,B,12-Jun-2002,1ra Ronda,2002,False,False
+360,Eslovenia,Paraguay,B,B,12-Jun-2002,1ra Ronda,2002,False,False
+361,Costa Rica,Brasil,C,C,13-Jun-2002,1ra Ronda,2002,False,False
+362,Turquía,China,C,C,13-Jun-2002,1ra Ronda,2002,False,False
+363,México,Italia,G,G,13-Jun-2002,1ra Ronda,2002,False,False
+364,Ecuador,Croacia,G,G,13-Jun-2002,1ra Ronda,2002,False,False
+365,Túnez,Japón,H,H,14-Jun-2002,1ra Ronda,2002,False,False
+366,Bélgica,Rusia,H,H,14-Jun-2002,1ra Ronda,2002,False,False
+367,Portugal,Corea del Sur,D,D,14-Jun-2002,1ra Ronda,2002,False,False
+368,Polonia,Estados Unidos,D,D,14-Jun-2002,1ra Ronda,2002,False,False
+369,Alemania,Paraguay,,,15-Jun-2002,Octavos de final,2002,False,False
+370,Dinamarca,Inglaterra,,,15-Jun-2002,Octavos de final,2002,False,False
+371,Suecia,Senegal,,,16-Jun-2002,Octavos de final,2002,True,False
+372,España,Irlanda,,,16-Jun-2002,Octavos de final,2002,True,True
+373,México,Estados Unidos,,,17-Jun-2002,Octavos de final,2002,False,False
+374,Brasil,Bélgica,,,17-Jun-2002,Octavos de final,2002,False,False
+375,Japón,Turquía,,,18-Jun-2002,Octavos de final,2002,False,False
+376,Corea del Sur,Italia,,,18-Jun-2002,Octavos de final,2002,True,False
+377,Inglaterra,Brasil,,,21-Jun-2002,Cuartos de final,2002,False,False
+378,Alemania,Estados Unidos,,,21-Jun-2002,Cuartos de final,2002,False,False
+379,España,Corea del Sur,,,22-Jun-2002,Cuartos de final,2002,True,True
+380,Senegal,Turquía,,,22-Jun-2002,Cuartos de final,2002,True,False
+381,Alemania,Corea del Sur,,,25-Jun-2002,Semifinales,2002,False,False
+382,Brasil,Turquía,,,26-Jun-2002,Semifinales,2002,False,False
+383,Corea del Sur,Turquía,,,29-Jun-2002,3er puesto,2002,False,False
+384,Alemania,Brasil,,,30-Jun-2002,Final,2002,False,False
+385,Brasil,Escocia,A,A,10-Jun-1998,1ra Ronda,1998,False,False
+386,Marruecos,Noruega,A,A,10-Jun-1998,1ra Ronda,1998,False,False
+387,Camerún,Austria,B,B,11-Jun-1998,1ra Ronda,1998,False,False
+388,Italia,Chile,B,B,11-Jun-1998,1ra Ronda,1998,False,False
+389,Arabia Saudita,Dinamarca,C,C,12-Jun-1998,1ra Ronda,1998,False,False
+390,Francia,Sudáfrica,C,C,12-Jun-1998,1ra Ronda,1998,False,False
+391,Paraguay,Bulgaria,D,D,12-Jun-1998,1ra Ronda,1998,False,False
+392,Paises Bajos,Bélgica,E,E,13-Jun-1998,1ra Ronda,1998,False,False
+393,Corea del Sur,México,E,E,13-Jun-1998,1ra Ronda,1998,False,False
+394,España,Nigeria,D,D,13-Jun-1998,1ra Ronda,1998,False,False
+395,Jamaica,Croacia,H,H,14-Jun-1998,1ra Ronda,1998,False,False
+396,RF de Yugoslavia,Irán,F,F,14-Jun-1998,1ra Ronda,1998,False,False
+397,Argentina,Japón,H,H,14-Jun-1998,1ra Ronda,1998,False,False
+398,Alemania,Estados Unidos,F,F,15-Jun-1998,1ra Ronda,1998,False,False
+399,Rumania,Colombia,G,G,15-Jun-1998,1ra Ronda,1998,False,False
+400,Inglaterra,Túnez,G,G,15-Jun-1998,1ra Ronda,1998,False,False
+401,Escocia,Noruega,A,A,16-Jun-1998,1ra Ronda,1998,False,False
+402,Brasil,Marruecos,A,A,16-Jun-1998,1ra Ronda,1998,False,False
+403,Chile,Austria,B,B,17-Jun-1998,1ra Ronda,1998,False,False
+404,Italia,Camerún,B,B,17-Jun-1998,1ra Ronda,1998,False,False
+405,Francia,Arabia Saudita,C,C,18-Jun-1998,1ra Ronda,1998,False,False
+406,Sudáfrica,Dinamarca,C,C,18-Jun-1998,1ra Ronda,1998,False,False
+407,Nigeria,Bulgaria,D,D,19-Jun-1998,1ra Ronda,1998,False,False
+408,España,Paraguay,D,D,19-Jun-1998,1ra Ronda,1998,False,False
+409,Paises Bajos,Corea del Sur,E,E,20-Jun-1998,1ra Ronda,1998,False,False
+410,Bélgica,México,E,E,20-Jun-1998,1ra Ronda,1998,False,False
+411,Japón,Croacia,H,H,20-Jun-1998,1ra Ronda,1998,False,False
+412,Argentina,Jamaica,H,H,21-Jun-1998,1ra Ronda,1998,False,False
+413,Alemania,RF de Yugoslavia,F,F,21-Jun-1998,1ra Ronda,1998,False,False
+414,Estados Unidos,Irán,F,F,21-Jun-1998,1ra Ronda,1998,False,False
+415,Colombia,Túnez,G,G,22-Jun-1998,1ra Ronda,1998,False,False
+416,Rumania,Inglaterra,G,G,22-Jun-1998,1ra Ronda,1998,False,False
+417,Italia,Austria,B,B,23-Jun-1998,1ra Ronda,1998,False,False
+418,Escocia,Marruecos,A,A,23-Jun-1998,1ra Ronda,1998,False,False
+419,Brasil,Noruega,A,A,23-Jun-1998,1ra Ronda,1998,False,False
+420,Chile,Camerún,B,B,23-Jun-1998,1ra Ronda,1998,False,False
+421,España,Bulgaria,D,D,24-Jun-1998,1ra Ronda,1998,False,False
+422,Francia,Dinamarca,C,C,24-Jun-1998,1ra Ronda,1998,False,False
+423,Nigeria,Paraguay,D,D,24-Jun-1998,1ra Ronda,1998,False,False
+424,Sudáfrica,Arabia Saudita,C,C,24-Jun-1998,1ra Ronda,1998,False,False
+425,Bélgica,Corea del Sur,E,E,25-Jun-1998,1ra Ronda,1998,False,False
+426,Paises Bajos,México,E,E,25-Jun-1998,1ra Ronda,1998,False,False
+427,Alemania,Irán,F,F,25-Jun-1998,1ra Ronda,1998,False,False
+428,Estados Unidos,RF de Yugoslavia,F,F,25-Jun-1998,1ra Ronda,1998,False,False
+429,Rumania,Túnez,G,G,26-Jun-1998,1ra Ronda,1998,False,False
+430,Colombia,Inglaterra,G,G,26-Jun-1998,1ra Ronda,1998,False,False
+431,Japón,Jamaica,H,H,26-Jun-1998,1ra Ronda,1998,False,False
+432,Argentina,Croacia,H,H,26-Jun-1998,1ra Ronda,1998,False,False
+433,Brasil,Chile,,,27-Jun-1998,Octavos de final,1998,False,False
+434,Italia,Noruega,,,27-Jun-1998,Octavos de final,1998,False,False
+435,Nigeria,Dinamarca,,,28-Jun-1998,Octavos de final,1998,False,False
+436,Francia,Paraguay,,,28-Jun-1998,Octavos de final,1998,True,False
+437,Alemania,México,,,29-Jun-1998,Octavos de final,1998,False,False
+438,Paises Bajos,RF de Yugoslavia,,,29-Jun-1998,Octavos de final,1998,False,False
+439,Argentina,Inglaterra,,,30-Jun-1998,Octavos de final,1998,True,True
+440,Rumania,Croacia,,,30-Jun-1998,Octavos de final,1998,False,False
+441,Italia,Francia,,,03-Jul-1998,Cuartos de final,1998,True,True
+442,Brasil,Dinamarca,,,03-Jul-1998,Cuartos de final,1998,False,False
+443,Alemania,Croacia,,,04-Jul-1998,Cuartos de final,1998,False,False
+444,Paises Bajos,Argentina,,,04-Jul-1998,Cuartos de final,1998,False,False
+445,Brasil,Paises Bajos,,,07-Jul-1998,Semifinales,1998,True,True
+446,Francia,Croacia,,,08-Jul-1998,Semifinales,1998,False,False
+447,Paises Bajos,Croacia,,,11-Jul-1998,3er puesto,1998,False,False
+448,Brasil,Francia,,,12-Jul-1998,Final,1998,False,False
+449,Alemania,Bolivia,C,C,17-Jun-1994,1ra Ronda,1994,False,False
+450,España,Corea del Sur,C,C,17-Jun-1994,1ra Ronda,1994,False,False
+451,Estados Unidos,Suiza,A,A,18-Jun-1994,1ra Ronda,1994,False,False
+452,Italia,Irlanda,E,E,18-Jun-1994,1ra Ronda,1994,False,False
+453,Colombia,Rumania,A,A,18-Jun-1994,1ra Ronda,1994,False,False
+454,Bélgica,Marruecos,F,F,19-Jun-1994,1ra Ronda,1994,False,False
+455,Noruega,México,E,E,19-Jun-1994,1ra Ronda,1994,False,False
+456,Camerún,Suecia,B,B,19-Jun-1994,1ra Ronda,1994,False,False
+457,Brasil,Rusia,B,B,20-Jun-1994,1ra Ronda,1994,False,False
+458,Paises Bajos,Arabia Saudita,F,F,20-Jun-1994,1ra Ronda,1994,False,False
+459,Argentina,Grecia,D,D,21-Jun-1994,1ra Ronda,1994,False,False
+460,Alemania,España,C,C,21-Jun-1994,1ra Ronda,1994,False,False
+461,Nigeria,Bulgaria,D,D,21-Jun-1994,1ra Ronda,1994,False,False
+462,Rumania,Suiza,A,A,22-Jun-1994,1ra Ronda,1994,False,False
+463,Estados Unidos,Colombia,A,A,22-Jun-1994,1ra Ronda,1994,False,False
+464,Italia,Noruega,E,E,23-Jun-1994,1ra Ronda,1994,False,False
+465,Corea del Sur,Bolivia,C,C,23-Jun-1994,1ra Ronda,1994,False,False
+466,México,Irlanda,E,E,24-Jun-1994,1ra Ronda,1994,False,False
+467,Brasil,Camerún,B,B,24-Jun-1994,1ra Ronda,1994,False,False
+468,Suecia,Rusia,B,B,24-Jun-1994,1ra Ronda,1994,False,False
+469,Bélgica,Paises Bajos,F,F,25-Jun-1994,1ra Ronda,1994,False,False
+470,Arabia Saudita,Marruecos,F,F,25-Jun-1994,1ra Ronda,1994,False,False
+471,Argentina,Nigeria,D,D,25-Jun-1994,1ra Ronda,1994,False,False
+472,Bulgaria,Grecia,D,D,26-Jun-1994,1ra Ronda,1994,False,False
+473,Estados Unidos,Rumania,A,A,26-Jun-1994,1ra Ronda,1994,False,False
+474,Suiza,Colombia,A,A,26-Jun-1994,1ra Ronda,1994,False,False
+475,Bolivia,España,C,C,27-Jun-1994,1ra Ronda,1994,False,False
+476,Alemania,Corea del Sur,C,C,27-Jun-1994,1ra Ronda,1994,False,False
+477,Irlanda,Noruega,E,E,28-Jun-1994,1ra Ronda,1994,False,False
+478,Italia,México,E,E,28-Jun-1994,1ra Ronda,1994,False,False
+479,Rusia,Camerún,B,B,28-Jun-1994,1ra Ronda,1994,False,False
+480,Brasil,Suecia,B,B,28-Jun-1994,1ra Ronda,1994,False,False
+481,Marruecos,Paises Bajos,F,F,29-Jun-1994,1ra Ronda,1994,False,False
+482,Bélgica,Arabia Saudita,F,F,29-Jun-1994,1ra Ronda,1994,False,False
+483,Grecia,Nigeria,D,D,30-Jun-1994,1ra Ronda,1994,False,False
+484,Argentina,Bulgaria,D,D,30-Jun-1994,1ra Ronda,1994,False,False
+485,Alemania,Bélgica,,,02-Jul-1994,Octavos de final,1994,False,False
+486,España,Suiza,,,02-Jul-1994,Octavos de final,1994,False,False
+487,Arabia Saudita,Suecia,,,03-Jul-1994,Octavos de final,1994,False,False
+488,Rumania,Argentina,,,03-Jul-1994,Octavos de final,1994,False,False
+489,Paises Bajos,Irlanda,,,04-Jul-1994,Octavos de final,1994,False,False
+490,Brasil,Estados Unidos,,,04-Jul-1994,Octavos de final,1994,False,False
+491,Nigeria,Italia,,,05-Jul-1994,Octavos de final,1994,True,False
+492,México,Bulgaria,,,05-Jul-1994,Octavos de final,1994,True,True
+493,Italia,España,,,09-Jul-1994,Cuartos de final,1994,False,False
+494,Paises Bajos,Brasil,,,09-Jul-1994,Cuartos de final,1994,False,False
+495,Bulgaria,Alemania,,,10-Jul-1994,Cuartos de final,1994,False,False
+496,Rumania,Suecia,,,10-Jul-1994,Cuartos de final,1994,True,True
+497,Bulgaria,Italia,,,13-Jul-1994,Semifinales,1994,False,False
+498,Suecia,Brasil,,,13-Jul-1994,Semifinales,1994,False,False
+499,Suecia,Bulgaria,,,16-Jul-1994,3er puesto,1994,False,False
+500,Brasil,Italia,,,17-Jul-1994,Final,1994,True,True
+501,Argentina,Camerún,B,B,08-Jun-1990,1ra Ronda,1990,False,False
+502,URSS,Rumania,B,B,09-Jun-1990,1ra Ronda,1990,False,False
+503,Italia,Austria,A,A,09-Jun-1990,1ra Ronda,1990,False,False
+504,Emiratos Arabes,Colombia,D,D,09-Jun-1990,1ra Ronda,1990,False,False
+505,Estados Unidos,Checoslovaquia,A,A,10-Jun-1990,1ra Ronda,1990,False,False
+506,Brasil,Suecia,C,C,10-Jun-1990,1ra Ronda,1990,False,False
+507,Alemania Occidental,Yugoslavia,D,D,10-Jun-1990,1ra Ronda,1990,False,False
+508,Costa Rica,Escocia,C,C,11-Jun-1990,1ra Ronda,1990,False,False
+509,Inglaterra,Irlanda,F,F,11-Jun-1990,1ra Ronda,1990,False,False
+510,Bélgica,Corea del Sur,E,E,12-Jun-1990,1ra Ronda,1990,False,False
+511,Paises Bajos,Egipto,F,F,12-Jun-1990,1ra Ronda,1990,False,False
+512,Uruguay,España,E,E,13-Jun-1990,1ra Ronda,1990,False,False
+513,Argentina,URSS,B,B,13-Jun-1990,1ra Ronda,1990,False,False
+514,Yugoslavia,Colombia,D,D,14-Jun-1990,1ra Ronda,1990,False,False
+515,Italia,Estados Unidos,A,A,14-Jun-1990,1ra Ronda,1990,False,False
+516,Camerún,Rumania,B,B,14-Jun-1990,1ra Ronda,1990,False,False
+517,Austria,Checoslovaquia,A,A,15-Jun-1990,1ra Ronda,1990,False,False
+518,Alemania Occidental,Emiratos Arabes,D,D,15-Jun-1990,1ra Ronda,1990,False,False
+519,Brasil,Costa Rica,C,C,16-Jun-1990,1ra Ronda,1990,False,False
+520,Suecia,Escocia,C,C,16-Jun-1990,1ra Ronda,1990,False,False
+521,Inglaterra,Paises Bajos,F,F,16-Jun-1990,1ra Ronda,1990,False,False
+522,Irlanda,Egipto,F,F,17-Jun-1990,1ra Ronda,1990,False,False
+523,Bélgica,Uruguay,E,E,17-Jun-1990,1ra Ronda,1990,False,False
+524,Corea del Sur,España,E,E,17-Jun-1990,1ra Ronda,1990,False,False
+525,Argentina,Rumania,B,B,18-Jun-1990,1ra Ronda,1990,False,False
+526,Camerún,URSS,B,B,18-Jun-1990,1ra Ronda,1990,False,False
+527,Alemania Occidental,Colombia,D,D,19-Jun-1990,1ra Ronda,1990,False,False
+528,Yugoslavia,Emiratos Arabes,D,D,19-Jun-1990,1ra Ronda,1990,False,False
+529,Italia,Checoslovaquia,A,A,19-Jun-1990,1ra Ronda,1990,False,False
+530,Austria,Estados Unidos,A,A,19-Jun-1990,1ra Ronda,1990,False,False
+531,Brasil,Escocia,C,C,20-Jun-1990,1ra Ronda,1990,False,False
+532,Suecia,Costa Rica,C,C,20-Jun-1990,1ra Ronda,1990,False,False
+533,Bélgica,España,E,E,21-Jun-1990,1ra Ronda,1990,False,False
+534,Corea del Sur,Uruguay,E,E,21-Jun-1990,1ra Ronda,1990,False,False
+535,Inglaterra,Egipto,F,F,21-Jun-1990,1ra Ronda,1990,False,False
+536,Irlanda,Paises Bajos,F,F,21-Jun-1990,1ra Ronda,1990,False,False
+537,Camerún,Colombia,,,23-Jun-1990,Octavos de final,1990,True,False
+538,Checoslovaquia,Costa Rica,,,23-Jun-1990,Octavos de final,1990,False,False
+539,Brasil,Argentina,,,24-Jun-1990,Octavos de final,1990,False,False
+540,Alemania Occidental,Paises Bajos,,,24-Jun-1990,Octavos de final,1990,False,False
+541,Irlanda,Rumania,,,25-Jun-1990,Octavos de final,1990,True,True
+542,Italia,Uruguay,,,25-Jun-1990,Octavos de final,1990,False,False
+543,España,Yugoslavia,,,26-Jun-1990,Octavos de final,1990,True,False
+544,Inglaterra,Bélgica,,,26-Jun-1990,Octavos de final,1990,True,False
+545,Argentina,Yugoslavia,,,30-Jun-1990,Cuartos de final,1990,True,True
+546,Italia,Irlanda,,,30-Jun-1990,Cuartos de final,1990,False,False
+547,Alemania Occidental,Checoslovaquia,,,01-Jul-1990,Cuartos de final,1990,False,False
+548,Camerún,Inglaterra,,,01-Jul-1990,Cuartos de final,1990,True,False
+549,Italia,Argentina,,,03-Jul-1990,Semifinales,1990,True,True
+550,Inglaterra,Alemania Occidental,,,04-Jul-1990,Semifinales,1990,True,True
+551,Italia,Inglaterra,,,07-Jul-1990,3er puesto,1990,False,False
+552,Argentina,Alemania Occidental,,,08-Jul-1990,Final,1990,False,False
+553,Bulgaria,Italia,A,A,31-May-1986,1ra Ronda,1986,False,False
+554,España,Brasil,D,D,01-Jun-1986,1ra Ronda,1986,False,False
+555,Canadá,Francia,C,C,01-Jun-1986,1ra Ronda,1986,False,False
+556,Argentina,Corea del Sur,A,A,02-Jun-1986,1ra Ronda,1986,False,False
+557,URSS,Hungría,C,C,02-Jun-1986,1ra Ronda,1986,False,False
+558,Marruecos,Polonia,F,F,02-Jun-1986,1ra Ronda,1986,False,False
+559,Bélgica,México,B,B,03-Jun-1986,1ra Ronda,1986,False,False
+560,Portugal,Inglaterra,F,F,03-Jun-1986,1ra Ronda,1986,False,False
+561,Argelia,Irlanda del Norte,D,D,03-Jun-1986,1ra Ronda,1986,False,False
+562,Escocia,Dinamarca,E,E,04-Jun-1986,1ra Ronda,1986,False,False
+563,Uruguay,Alemania Occidental,E,E,04-Jun-1986,1ra Ronda,1986,False,False
+564,Paraguay,Iraq,B,B,04-Jun-1986,1ra Ronda,1986,False,False
+565,Francia,URSS,C,C,05-Jun-1986,1ra Ronda,1986,False,False
+566,Corea del Sur,Bulgaria,A,A,05-Jun-1986,1ra Ronda,1986,False,False
+567,Italia,Argentina,A,A,05-Jun-1986,1ra Ronda,1986,False,False
+568,Hungría,Canadá,C,C,06-Jun-1986,1ra Ronda,1986,False,False
+569,Brasil,Argelia,D,D,06-Jun-1986,1ra Ronda,1986,False,False
+570,Inglaterra,Marruecos,F,F,06-Jun-1986,1ra Ronda,1986,False,False
+571,México,Paraguay,B,B,07-Jun-1986,1ra Ronda,1986,False,False
+572,Polonia,Portugal,F,F,07-Jun-1986,1ra Ronda,1986,False,False
+573,Irlanda del Norte,España,D,D,07-Jun-1986,1ra Ronda,1986,False,False
+574,Iraq,Bélgica,B,B,08-Jun-1986,1ra Ronda,1986,False,False
+575,Alemania Occidental,Escocia,E,E,08-Jun-1986,1ra Ronda,1986,False,False
+576,Dinamarca,Uruguay,E,E,08-Jun-1986,1ra Ronda,1986,False,False
+577,URSS,Canadá,C,C,09-Jun-1986,1ra Ronda,1986,False,False
+578,Hungría,Francia,C,C,09-Jun-1986,1ra Ronda,1986,False,False
+579,Corea del Sur,Italia,A,A,10-Jun-1986,1ra Ronda,1986,False,False
+580,Argentina,Bulgaria,A,A,10-Jun-1986,1ra Ronda,1986,False,False
+581,Paraguay,Bélgica,B,B,11-Jun-1986,1ra Ronda,1986,False,False
+582,Inglaterra,Polonia,F,F,11-Jun-1986,1ra Ronda,1986,False,False
+583,Portugal,Marruecos,F,F,11-Jun-1986,1ra Ronda,1986,False,False
+584,Iraq,México,B,B,11-Jun-1986,1ra Ronda,1986,False,False
+585,Irlanda del Norte,Brasil,D,D,12-Jun-1986,1ra Ronda,1986,False,False
+586,Argelia,España,D,D,12-Jun-1986,1ra Ronda,1986,False,False
+587,Dinamarca,Alemania Occidental,E,E,13-Jun-1986,1ra Ronda,1986,False,False
+588,Escocia,Uruguay,E,E,13-Jun-1986,1ra Ronda,1986,False,False
+589,URSS,Bélgica,,,15-Jun-1986,Octavos de final,1986,True,False
+590,México,Bulgaria,,,15-Jun-1986,Octavos de final,1986,False,False
+591,Brasil,Polonia,,,16-Jun-1986,Octavos de final,1986,False,False
+592,Argentina,Uruguay,,,16-Jun-1986,Octavos de final,1986,False,False
+593,Marruecos,Alemania Occidental,,,17-Jun-1986,Octavos de final,1986,False,False
+594,Italia,Francia,,,17-Jun-1986,Octavos de final,1986,False,False
+595,Dinamarca,España,,,18-Jun-1986,Octavos de final,1986,False,False
+596,Inglaterra,Paraguay,,,18-Jun-1986,Octavos de final,1986,False,False
+597,México,Alemania Occidental,,,21-Jun-1986,Cuartos de final,1986,True,True
+598,Brasil,Francia,,,21-Jun-1986,Cuartos de final,1986,True,True
+599,Bélgica,España,,,22-Jun-1986,Cuartos de final,1986,True,True
+600,Argentina,Inglaterra,,,22-Jun-1986,Cuartos de final,1986,False,False
+601,Argentina,Bélgica,,,25-Jun-1986,Semifinales,1986,False,False
+602,Alemania Occidental,Francia,,,25-Jun-1986,Semifinales,1986,False,False
+603,Bélgica,Francia,,,28-Jun-1986,3er puesto,1986,True,False
+604,Argentina,Alemania Occidental,,,29-Jun-1986,Final,1986,False,False
+605,Argentina,Bélgica,C,C,13-Jun-1982,1ra Ronda,1982,False,False
+606,Brasil,URSS,F,F,14-Jun-1982,1ra Ronda,1982,False,False
+607,Italia,Polonia,A,A,14-Jun-1982,1ra Ronda,1982,False,False
+608,Perú,Camerún,A,A,15-Jun-1982,1ra Ronda,1982,False,False
+609,Escocia,Nueva Zelanda,F,F,15-Jun-1982,1ra Ronda,1982,False,False
+610,Hungría,El Salvador,C,C,15-Jun-1982,1ra Ronda,1982,False,False
+611,Alemania Occidental,Argelia,B,B,16-Jun-1982,1ra Ronda,1982,False,False
+612,España,Honduras,E,E,16-Jun-1982,1ra Ronda,1982,False,False
+613,Inglaterra,Francia,D,D,16-Jun-1982,1ra Ronda,1982,False,False
+614,Checoslovaquia,Kuwait,D,D,17-Jun-1982,1ra Ronda,1982,False,False
+615,Yugoslavia,Irlanda del Norte,E,E,17-Jun-1982,1ra Ronda,1982,False,False
+616,Chile,Austria,B,B,17-Jun-1982,1ra Ronda,1982,False,False
+617,Argentina,Hungría,C,C,18-Jun-1982,1ra Ronda,1982,False,False
+618,Italia,Perú,A,A,18-Jun-1982,1ra Ronda,1982,False,False
+619,Brasil,Escocia,F,F,18-Jun-1982,1ra Ronda,1982,False,False
+620,Polonia,Camerún,A,A,19-Jun-1982,1ra Ronda,1982,False,False
+621,Bélgica,El Salvador,C,C,19-Jun-1982,1ra Ronda,1982,False,False
+622,URSS,Nueva Zelanda,F,F,19-Jun-1982,1ra Ronda,1982,False,False
+623,España,Yugoslavia,E,E,20-Jun-1982,1ra Ronda,1982,False,False
+624,Inglaterra,Checoslovaquia,D,D,20-Jun-1982,1ra Ronda,1982,False,False
+625,Alemania Occidental,Chile,B,B,20-Jun-1982,1ra Ronda,1982,False,False
+626,Honduras,Irlanda del Norte,E,E,21-Jun-1982,1ra Ronda,1982,False,False
+627,Francia,Kuwait,D,D,21-Jun-1982,1ra Ronda,1982,False,False
+628,Argelia,Austria,B,B,21-Jun-1982,1ra Ronda,1982,False,False
+629,URSS,Escocia,F,F,22-Jun-1982,1ra Ronda,1982,False,False
+630,Bélgica,Hungría,C,C,22-Jun-1982,1ra Ronda,1982,False,False
+631,Polonia,Perú,A,A,22-Jun-1982,1ra Ronda,1982,False,False
+632,Italia,Camerún,A,A,23-Jun-1982,1ra Ronda,1982,False,False
+633,Argentina,El Salvador,C,C,23-Jun-1982,1ra Ronda,1982,False,False
+634,Brasil,Nueva Zelanda,F,F,23-Jun-1982,1ra Ronda,1982,False,False
+635,Honduras,Yugoslavia,E,E,24-Jun-1982,1ra Ronda,1982,False,False
+636,Francia,Checoslovaquia,D,D,24-Jun-1982,1ra Ronda,1982,False,False
+637,Argelia,Chile,B,B,24-Jun-1982,1ra Ronda,1982,False,False
+638,Irlanda del Norte,España,E,E,25-Jun-1982,1ra Ronda,1982,False,False
+639,Alemania Occidental,Austria,B,B,25-Jun-1982,1ra Ronda,1982,False,False
+640,Inglaterra,Kuwait,D,D,25-Jun-1982,1ra Ronda,1982,False,False
+641,Austria,Francia,4,4,28-Jun-1982,1ra Ronda,1982,False,False
+642,Polonia,Bélgica,1,1,28-Jun-1982,1ra Ronda,1982,False,False
+643,Alemania Occidental,Inglaterra,2,2,29-Jun-1982,1ra Ronda,1982,False,False
+644,Italia,Argentina,3,3,29-Jun-1982,1ra Ronda,1982,False,False
+645,Bélgica,URSS,1,1,01-Jul-1982,1ra Ronda,1982,False,False
+646,Austria,Irlanda del Norte,4,4,01-Jul-1982,1ra Ronda,1982,False,False
+647,Argentina,Brasil,3,3,02-Jul-1982,1ra Ronda,1982,False,False
+648,Alemania Occidental,España,2,2,02-Jul-1982,1ra Ronda,1982,False,False
+649,Francia,Irlanda del Norte,4,4,04-Jul-1982,1ra Ronda,1982,False,False
+650,Polonia,URSS,1,1,04-Jul-1982,1ra Ronda,1982,False,False
+651,Italia,Brasil,3,3,05-Jul-1982,1ra Ronda,1982,False,False
+652,España,Inglaterra,2,2,05-Jul-1982,1ra Ronda,1982,False,False
+653,Alemania Occidental,Francia,,,08-Jul-1982,Semifinales,1982,True,True
+654,Polonia,Italia,,,08-Jul-1982,Semifinales,1982,False,False
+655,Polonia,Francia,,,10-Jul-1982,3er puesto,1982,False,False
+656,Italia,Alemania Occidental,,,11-Jul-1982,Final,1982,False,False
+657,Alemania Occidental,Polonia,2,2,01-Jun-1978,1ra Ronda,1978,False,False
+658,Túnez,México,2,2,02-Jun-1978,1ra Ronda,1978,False,False
+659,Italia,Francia,1,1,02-Jun-1978,1ra Ronda,1978,False,False
+660,Argentina,Hungría,1,1,02-Jun-1978,1ra Ronda,1978,False,False
+661,Paises Bajos,Irán,4,4,03-Jun-1978,1ra Ronda,1978,False,False
+662,Austria,España,3,3,03-Jun-1978,1ra Ronda,1978,False,False
+663,Perú,Escocia,4,4,03-Jun-1978,1ra Ronda,1978,False,False
+664,Suecia,Brasil,3,3,03-Jun-1978,1ra Ronda,1978,False,False
+665,Alemania Occidental,México,2,2,06-Jun-1978,1ra Ronda,1978,False,False
+666,Argentina,Francia,1,1,06-Jun-1978,1ra Ronda,1978,False,False
+667,Polonia,Túnez,2,2,06-Jun-1978,1ra Ronda,1978,False,False
+668,Italia,Hungría,1,1,06-Jun-1978,1ra Ronda,1978,False,False
+669,Paises Bajos,Perú,4,4,07-Jun-1978,1ra Ronda,1978,False,False
+670,Brasil,España,3,3,07-Jun-1978,1ra Ronda,1978,False,False
+671,Escocia,Irán,4,4,07-Jun-1978,1ra Ronda,1978,False,False
+672,Austria,Suecia,3,3,07-Jun-1978,1ra Ronda,1978,False,False
+673,Italia,Argentina,1,1,10-Jun-1978,1ra Ronda,1978,False,False
+674,Alemania Occidental,Túnez,2,2,10-Jun-1978,1ra Ronda,1978,False,False
+675,Francia,Hungría,1,1,10-Jun-1978,1ra Ronda,1978,False,False
+676,Polonia,México,2,2,10-Jun-1978,1ra Ronda,1978,False,False
+677,Perú,Irán,4,4,11-Jun-1978,1ra Ronda,1978,False,False
+678,España,Suecia,3,3,11-Jun-1978,1ra Ronda,1978,False,False
+679,Escocia,Paises Bajos,4,4,11-Jun-1978,1ra Ronda,1978,False,False
+680,Brasil,Austria,3,3,11-Jun-1978,1ra Ronda,1978,False,False
+681,Paises Bajos,Austria,A,A,14-Jun-1978,1ra Ronda,1978,False,False
+682,Alemania Occidental,Italia,A,A,14-Jun-1978,1ra Ronda,1978,False,False
+683,Brasil,Perú,B,B,14-Jun-1978,1ra Ronda,1978,False,False
+684,Argentina,Polonia,B,B,14-Jun-1978,1ra Ronda,1978,False,False
+685,Argentina,Brasil,B,B,18-Jun-1978,1ra Ronda,1978,False,False
+686,Polonia,Perú,B,B,18-Jun-1978,1ra Ronda,1978,False,False
+687,Alemania Occidental,Paises Bajos,A,A,18-Jun-1978,1ra Ronda,1978,False,False
+688,Italia,Austria,A,A,18-Jun-1978,1ra Ronda,1978,False,False
+689,Argentina,Perú,B,B,21-Jun-1978,1ra Ronda,1978,False,False
+690,Paises Bajos,Italia,A,A,21-Jun-1978,1ra Ronda,1978,False,False
+691,Brasil,Polonia,B,B,21-Jun-1978,1ra Ronda,1978,False,False
+692,Austria,Alemania Occidental,A,A,21-Jun-1978,1ra Ronda,1978,False,False
+693,Brasil,Italia,,,24-Jun-1978,3er puesto,1978,False,False
+694,Argentina,Paises Bajos,,,25-Jun-1978,Final,1978,True,False
+695,Brasil,Yugoslavia,2,2,13-Jun-1974,1ra Ronda,1974,False,False
+696,Alemania Occidental,Chile,1,1,14-Jun-1974,1ra Ronda,1974,False,False
+697,Alemania Oriental,Australia,1,1,14-Jun-1974,1ra Ronda,1974,False,False
+698,Zaire,Escocia,2,2,14-Jun-1974,1ra Ronda,1974,False,False
+699,Suecia,Bulgaria,3,3,15-Jun-1974,1ra Ronda,1974,False,False
+700,Polonia,Argentina,4,4,15-Jun-1974,1ra Ronda,1974,False,False
+701,Italia,Haití,4,4,15-Jun-1974,1ra Ronda,1974,False,False
+702,Uruguay,Paises Bajos,3,3,15-Jun-1974,1ra Ronda,1974,False,False
+703,Escocia,Brasil,2,2,18-Jun-1974,1ra Ronda,1974,False,False
+704,Australia,Alemania Occidental,1,1,18-Jun-1974,1ra Ronda,1974,False,False
+705,Yugoslavia,Zaire,2,2,18-Jun-1974,1ra Ronda,1974,False,False
+706,Chile,Alemania Oriental,1,1,18-Jun-1974,1ra Ronda,1974,False,False
+707,Paises Bajos,Suecia,3,3,19-Jun-1974,1ra Ronda,1974,False,False
+708,Argentina,Italia,4,4,19-Jun-1974,1ra Ronda,1974,False,False
+709,Haití,Polonia,4,4,19-Jun-1974,1ra Ronda,1974,False,False
+710,Bulgaria,Uruguay,3,3,19-Jun-1974,1ra Ronda,1974,False,False
+711,Zaire,Brasil,2,2,22-Jun-1974,1ra Ronda,1974,False,False
+712,Alemania Oriental,Alemania Occidental,1,1,22-Jun-1974,1ra Ronda,1974,False,False
+713,Australia,Chile,1,1,22-Jun-1974,1ra Ronda,1974,False,False
+714,Escocia,Yugoslavia,2,2,22-Jun-1974,1ra Ronda,1974,False,False
+715,Polonia,Italia,4,4,23-Jun-1974,1ra Ronda,1974,False,False
+716,Argentina,Haití,4,4,23-Jun-1974,1ra Ronda,1974,False,False
+717,Bulgaria,Paises Bajos,3,3,23-Jun-1974,1ra Ronda,1974,False,False
+718,Suecia,Uruguay,3,3,23-Jun-1974,1ra Ronda,1974,False,False
+719,Suecia,Polonia,B,B,26-Jun-1974,1ra Ronda,1974,False,False
+720,Yugoslavia,Alemania Occidental,B,B,26-Jun-1974,1ra Ronda,1974,False,False
+721,Paises Bajos,Argentina,A,A,26-Jun-1974,1ra Ronda,1974,False,False
+722,Brasil,Alemania Oriental,A,A,26-Jun-1974,1ra Ronda,1974,False,False
+723,Alemania Oriental,Paises Bajos,A,A,30-Jun-1974,1ra Ronda,1974,False,False
+724,Argentina,Brasil,A,A,30-Jun-1974,1ra Ronda,1974,False,False
+725,Polonia,Yugoslavia,B,B,30-Jun-1974,1ra Ronda,1974,False,False
+726,Alemania Occidental,Suecia,B,B,30-Jun-1974,1ra Ronda,1974,False,False
+727,Suecia,Yugoslavia,B,B,03-Jul-1974,1ra Ronda,1974,False,False
+728,Argentina,Alemania Oriental,A,A,03-Jul-1974,1ra Ronda,1974,False,False
+729,Polonia,Alemania Occidental,B,B,03-Jul-1974,1ra Ronda,1974,False,False
+730,Paises Bajos,Brasil,A,A,03-Jul-1974,1ra Ronda,1974,False,False
+731,Brasil,Polonia,,,06-Jul-1974,3er puesto,1974,False,False
+732,Paises Bajos,Alemania Occidental,,,07-Jul-1974,Final,1974,False,False
+733,México,URSS,1,1,31-May-1970,1ra Ronda,1970,False,False
+734,Inglaterra,Rumania,3,3,02-Jun-1970,1ra Ronda,1970,False,False
+735,Uruguay,Israel,2,2,02-Jun-1970,1ra Ronda,1970,False,False
+736,Perú,Bulgaria,4,4,02-Jun-1970,1ra Ronda,1970,False,False
+737,Italia,Suecia,2,2,03-Jun-1970,1ra Ronda,1970,False,False
+738,Alemania Occidental,Marruecos,4,4,03-Jun-1970,1ra Ronda,1970,False,False
+739,Bélgica,El Salvador,1,1,03-Jun-1970,1ra Ronda,1970,False,False
+740,Brasil,Checoslovaquia,3,3,03-Jun-1970,1ra Ronda,1970,False,False
+741,Perú,Marruecos,4,4,06-Jun-1970,1ra Ronda,1970,False,False
+742,Rumania,Checoslovaquia,3,3,06-Jun-1970,1ra Ronda,1970,False,False
+743,URSS,Bélgica,1,1,06-Jun-1970,1ra Ronda,1970,False,False
+744,Uruguay,Italia,2,2,06-Jun-1970,1ra Ronda,1970,False,False
+745,Suecia,Israel,2,2,07-Jun-1970,1ra Ronda,1970,False,False
+746,México,El Salvador,1,1,07-Jun-1970,1ra Ronda,1970,False,False
+747,Alemania Occidental,Bulgaria,4,4,07-Jun-1970,1ra Ronda,1970,False,False
+748,Brasil,Inglaterra,3,3,07-Jun-1970,1ra Ronda,1970,False,False
+749,URSS,El Salvador,1,1,10-Jun-1970,1ra Ronda,1970,False,False
+750,Suecia,Uruguay,2,2,10-Jun-1970,1ra Ronda,1970,False,False
+751,Alemania Occidental,Perú,4,4,10-Jun-1970,1ra Ronda,1970,False,False
+752,Brasil,Rumania,3,3,10-Jun-1970,1ra Ronda,1970,False,False
+753,Bulgaria,Marruecos,4,4,11-Jun-1970,1ra Ronda,1970,False,False
+754,Inglaterra,Checoslovaquia,3,3,11-Jun-1970,1ra Ronda,1970,False,False
+755,México,Bélgica,1,1,11-Jun-1970,1ra Ronda,1970,False,False
+756,Italia,Israel,2,2,11-Jun-1970,1ra Ronda,1970,False,False
+757,Alemania Occidental,Inglaterra,,,14-Jun-1970,Cuartos de final,1970,True,False
+758,Italia,México,,,14-Jun-1970,Cuartos de final,1970,False,False
+759,Uruguay,URSS,,,14-Jun-1970,Cuartos de final,1970,True,False
+760,Brasil,Perú,,,14-Jun-1970,Cuartos de final,1970,False,False
+761,Uruguay,Brasil,,,17-Jun-1970,Semifinales,1970,False,False
+762,Italia,Alemania Occidental,,,17-Jun-1970,Semifinales,1970,True,False
+763,Uruguay,Alemania Occidental,,,20-Jun-1970,3er puesto,1970,False,False
+764,Brasil,Italia,,,21-Jun-1970,Final,1970,False,False
+765,Inglaterra,Uruguay,1,1,11-Jul-1966,1ra Ronda,1966,False,False
+766,Alemania Occidental,Suiza,2,2,12-Jul-1966,1ra Ronda,1966,False,False
+767,URSS,Corea del Norte,4,4,12-Jul-1966,1ra Ronda,1966,False,False
+768,Brasil,Bulgaria,3,3,12-Jul-1966,1ra Ronda,1966,False,False
+769,Francia,México,1,1,13-Jul-1966,1ra Ronda,1966,False,False
+770,Italia,Chile,4,4,13-Jul-1966,1ra Ronda,1966,False,False
+771,Portugal,Hungría,3,3,13-Jul-1966,1ra Ronda,1966,False,False
+772,Argentina,España,2,2,13-Jul-1966,1ra Ronda,1966,False,False
+773,Uruguay,Francia,1,1,15-Jul-1966,1ra Ronda,1966,False,False
+774,Hungría,Brasil,3,3,15-Jul-1966,1ra Ronda,1966,False,False
+775,España,Suiza,2,2,15-Jul-1966,1ra Ronda,1966,False,False
+776,Corea del Norte,Chile,4,4,15-Jul-1966,1ra Ronda,1966,False,False
+777,Portugal,Bulgaria,3,3,16-Jul-1966,1ra Ronda,1966,False,False
+778,Alemania Occidental,Argentina,2,2,16-Jul-1966,1ra Ronda,1966,False,False
+779,URSS,Italia,4,4,16-Jul-1966,1ra Ronda,1966,False,False
+780,Inglaterra,México,1,1,16-Jul-1966,1ra Ronda,1966,False,False
+781,Portugal,Brasil,3,3,19-Jul-1966,1ra Ronda,1966,False,False
+782,Uruguay,México,1,1,19-Jul-1966,1ra Ronda,1966,False,False
+783,Argentina,Suiza,2,2,19-Jul-1966,1ra Ronda,1966,False,False
+784,Corea del Norte,Italia,4,4,19-Jul-1966,1ra Ronda,1966,False,False
+785,Inglaterra,Francia,1,1,20-Jul-1966,1ra Ronda,1966,False,False
+786,Alemania Occidental,España,2,2,20-Jul-1966,1ra Ronda,1966,False,False
+787,URSS,Chile,4,4,20-Jul-1966,1ra Ronda,1966,False,False
+788,Hungría,Bulgaria,3,3,20-Jul-1966,1ra Ronda,1966,False,False
+789,Portugal,Corea del Norte,,,23-Jul-1966,Cuartos de final,1966,False,False
+790,Inglaterra,Argentina,,,23-Jul-1966,Cuartos de final,1966,False,False
+791,Alemania Occidental,Uruguay,,,23-Jul-1966,Cuartos de final,1966,False,False
+792,URSS,Hungría,,,23-Jul-1966,Cuartos de final,1966,False,False
+793,Alemania Occidental,URSS,,,25-Jul-1966,Semifinales,1966,False,False
+794,Inglaterra,Portugal,,,26-Jul-1966,Semifinales,1966,False,False
+795,Portugal,URSS,,,28-Jul-1966,3er puesto,1966,False,False
+796,Inglaterra,Alemania Occidental,,,30-Jul-1966,Final,1966,True,False
+797,Uruguay,Colombia,1,1,30-May-1962,1ra Ronda,1962,False,False
+798,Brasil,México,3,3,30-May-1962,1ra Ronda,1962,False,False
+799,Chile,Suiza,2,2,30-May-1962,1ra Ronda,1962,False,False
+800,Argentina,Bulgaria,4,4,30-May-1962,1ra Ronda,1962,False,False
+801,Checoslovaquia,España,3,3,31-May-1962,1ra Ronda,1962,False,False
+802,URSS,Yugoslavia,1,1,31-May-1962,1ra Ronda,1962,False,False
+803,Hungría,Inglaterra,4,4,31-May-1962,1ra Ronda,1962,False,False
+804,Alemania Occidental,Italia,2,2,31-May-1962,1ra Ronda,1962,False,False
+805,Chile,Italia,2,2,02-Jun-1962,1ra Ronda,1962,False,False
+806,Brasil,Checoslovaquia,3,3,02-Jun-1962,1ra Ronda,1962,False,False
+807,Yugoslavia,Uruguay,1,1,02-Jun-1962,1ra Ronda,1962,False,False
+808,Inglaterra,Argentina,4,4,02-Jun-1962,1ra Ronda,1962,False,False
+809,Hungría,Bulgaria,4,4,03-Jun-1962,1ra Ronda,1962,False,False
+810,URSS,Colombia,1,1,03-Jun-1962,1ra Ronda,1962,False,False
+811,España,México,3,3,03-Jun-1962,1ra Ronda,1962,False,False
+812,Alemania Occidental,Suiza,2,2,03-Jun-1962,1ra Ronda,1962,False,False
+813,Alemania Occidental,Chile,2,2,06-Jun-1962,1ra Ronda,1962,False,False
+814,Hungría,Argentina,4,4,06-Jun-1962,1ra Ronda,1962,False,False
+815,URSS,Uruguay,1,1,06-Jun-1962,1ra Ronda,1962,False,False
+816,Brasil,España,3,3,06-Jun-1962,1ra Ronda,1962,False,False
+817,Yugoslavia,Colombia,1,1,07-Jun-1962,1ra Ronda,1962,False,False
+818,México,Checoslovaquia,3,3,07-Jun-1962,1ra Ronda,1962,False,False
+819,Italia,Suiza,2,2,07-Jun-1962,1ra Ronda,1962,False,False
+820,Inglaterra,Bulgaria,4,4,07-Jun-1962,1ra Ronda,1962,False,False
+821,Brasil,Inglaterra,,,10-Jun-1962,Cuartos de final,1962,False,False
+822,Checoslovaquia,Hungría,,,10-Jun-1962,Cuartos de final,1962,False,False
+823,Yugoslavia,Alemania Occidental,,,10-Jun-1962,Cuartos de final,1962,False,False
+824,Chile,URSS,,,10-Jun-1962,Cuartos de final,1962,False,False
+825,Yugoslavia,Checoslovaquia,,,13-Jun-1962,Semifinales,1962,False,False
+826,Chile,Brasil,,,13-Jun-1962,Semifinales,1962,False,False
+827,Chile,Yugoslavia,,,16-Jun-1962,3er puesto,1962,False,False
+828,Brasil,Checoslovaquia,,,17-Jun-1962,Final,1962,False,False
+829,Hungría,Gales,3,3,08-Jun-1958,1ra Ronda,1958,False,False
+830,Irlanda del Norte,Checoslovaquia,1,1,08-Jun-1958,1ra Ronda,1958,False,False
+831,Brasil,Austria,4,4,08-Jun-1958,1ra Ronda,1958,False,False
+832,Francia,Paraguay,2,2,08-Jun-1958,1ra Ronda,1958,False,False
+833,Argentina,Alemania Occidental,1,1,08-Jun-1958,1ra Ronda,1958,False,False
+834,URSS,Inglaterra,4,4,08-Jun-1958,1ra Ronda,1958,False,False
+835,Yugoslavia,Escocia,2,2,08-Jun-1958,1ra Ronda,1958,False,False
+836,Suecia,México,3,3,08-Jun-1958,1ra Ronda,1958,False,False
+837,Yugoslavia,Francia,2,2,11-Jun-1958,1ra Ronda,1958,False,False
+838,Paraguay,Escocia,2,2,11-Jun-1958,1ra Ronda,1958,False,False
+839,México,Gales,3,3,11-Jun-1958,1ra Ronda,1958,False,False
+840,Alemania Occidental,Checoslovaquia,1,1,11-Jun-1958,1ra Ronda,1958,False,False
+841,URSS,Austria,4,4,11-Jun-1958,1ra Ronda,1958,False,False
+842,Argentina,Irlanda del Norte,1,1,11-Jun-1958,1ra Ronda,1958,False,False
+843,Brasil,Inglaterra,4,4,11-Jun-1958,1ra Ronda,1958,False,False
+844,Suecia,Hungría,3,3,12-Jun-1958,1ra Ronda,1958,False,False
+845,Francia,Escocia,2,2,15-Jun-1958,1ra Ronda,1958,False,False
+846,Suecia,Gales,3,3,15-Jun-1958,1ra Ronda,1958,False,False
+847,Alemania Occidental,Irlanda del Norte,1,1,15-Jun-1958,1ra Ronda,1958,False,False
+848,Paraguay,Yugoslavia,2,2,15-Jun-1958,1ra Ronda,1958,False,False
+849,Brasil,URSS,4,4,15-Jun-1958,1ra Ronda,1958,False,False
+850,Inglaterra,Austria,4,4,15-Jun-1958,1ra Ronda,1958,False,False
+851,Hungría,México,3,3,15-Jun-1958,1ra Ronda,1958,False,False
+852,Checoslovaquia,Argentina,1,1,15-Jun-1958,1ra Ronda,1958,False,False
+853,Irlanda del Norte,Checoslovaquia,1,1,17-Jun-1958,1ra Ronda,1958,True,False
+854,Gales,Hungría,3,3,17-Jun-1958,1ra Ronda,1958,False,False
+855,URSS,Inglaterra,4,4,17-Jun-1958,1ra Ronda,1958,False,False
+856,Francia,Irlanda del Norte,,,19-Jun-1958,Cuartos de final,1958,False,False
+857,Alemania Occidental,Yugoslavia,,,19-Jun-1958,Cuartos de final,1958,False,False
+858,Brasil,Gales,,,19-Jun-1958,Cuartos de final,1958,False,False
+859,Suecia,URSS,,,19-Jun-1958,Cuartos de final,1958,False,False
+860,Alemania Occidental,Suecia,,,24-Jun-1958,Semifinales,1958,False,False
+861,Francia,Brasil,,,24-Jun-1958,Semifinales,1958,False,False
+862,Alemania Occidental,Francia,,,28-Jun-1958,3er puesto,1958,False,False
+863,Suecia,Brasil,,,29-Jun-1958,Final,1958,False,False
+864,Yugoslavia,Francia,1,1,16-Jun-1954,1ra Ronda,1954,False,False
+865,Austria,Escocia,3,3,16-Jun-1954,1ra Ronda,1954,False,False
+866,Uruguay,Checoslovaquia,3,3,16-Jun-1954,1ra Ronda,1954,False,False
+867,Brasil,México,1,1,16-Jun-1954,1ra Ronda,1954,False,False
+868,Hungría,Corea del Sur,2,2,17-Jun-1954,1ra Ronda,1954,False,False
+869,Inglaterra,Bélgica,4,4,17-Jun-1954,1ra Ronda,1954,True,False
+870,Alemania Occidental,Turquía,2,2,17-Jun-1954,1ra Ronda,1954,False,False
+871,Suiza,Italia,4,4,17-Jun-1954,1ra Ronda,1954,False,False
+872,Francia,México,1,1,19-Jun-1954,1ra Ronda,1954,False,False
+873,Brasil,Yugoslavia,1,1,19-Jun-1954,1ra Ronda,1954,True,False
+874,Austria,Checoslovaquia,3,3,19-Jun-1954,1ra Ronda,1954,False,False
+875,Uruguay,Escocia,3,3,19-Jun-1954,1ra Ronda,1954,False,False
+876,Hungría,Alemania Occidental,2,2,20-Jun-1954,1ra Ronda,1954,False,False
+877,Turquía,Corea del Sur,2,2,20-Jun-1954,1ra Ronda,1954,False,False
+878,Inglaterra,Suiza,4,4,20-Jun-1954,1ra Ronda,1954,False,False
+879,Italia,Bélgica,4,4,20-Jun-1954,1ra Ronda,1954,False,False
+880,Suiza,Italia,4,4,23-Jun-1954,1ra Ronda,1954,False,False
+881,Alemania Occidental,Turquía,2,2,23-Jun-1954,1ra Ronda,1954,False,False
+882,Uruguay,Inglaterra,,,26-Jun-1954,Cuartos de final,1954,False,False
+883,Austria,Suiza,,,26-Jun-1954,Cuartos de final,1954,False,False
+884,Hungría,Brasil,,,27-Jun-1954,Cuartos de final,1954,False,False
+885,Alemania Occidental,Yugoslavia,,,27-Jun-1954,Cuartos de final,1954,False,False
+886,Hungría,Uruguay,,,30-Jun-1954,Semifinales,1954,True,False
+887,Alemania Occidental,Austria,,,30-Jun-1954,Semifinales,1954,False,False
+888,Uruguay,Austria,,,03-Jul-1954,3er puesto,1954,False,False
+889,Hungría,Alemania Occidental,,,04-Jul-1954,Final,1954,False,False
+890,Brasil,México,1,1,24-Jun-1950,1ra Ronda,1950,False,False
+891,Suecia,Italia,3,3,25-Jun-1950,1ra Ronda,1950,False,False
+892,Yugoslavia,Suiza,1,1,25-Jun-1950,1ra Ronda,1950,False,False
+893,Inglaterra,Chile,2,2,25-Jun-1950,1ra Ronda,1950,False,False
+894,España,Estados Unidos,2,2,25-Jun-1950,1ra Ronda,1950,False,False
+895,Yugoslavia,México,1,1,28-Jun-1950,1ra Ronda,1950,False,False
+896,Brasil,Suiza,1,1,28-Jun-1950,1ra Ronda,1950,False,False
+897,Suecia,Paraguay,3,3,29-Jun-1950,1ra Ronda,1950,False,False
+898,Estados Unidos,Inglaterra,2,2,29-Jun-1950,1ra Ronda,1950,False,False
+899,España,Chile,2,2,29-Jun-1950,1ra Ronda,1950,False,False
+900,Brasil,Yugoslavia,1,1,01-Jul-1950,1ra Ronda,1950,False,False
+901,Uruguay,Bolivia,4,4,02-Jul-1950,1ra Ronda,1950,False,False
+902,Suiza,México,1,1,02-Jul-1950,1ra Ronda,1950,False,False
+903,España,Inglaterra,2,2,02-Jul-1950,1ra Ronda,1950,False,False
+904,Chile,Estados Unidos,2,2,02-Jul-1950,1ra Ronda,1950,False,False
+905,Italia,Paraguay,3,3,02-Jul-1950,1ra Ronda,1950,False,False
+906,Brasil,Suecia,F,F,09-Jul-1950,1ra Ronda,1950,False,False
+907,Uruguay,España,F,F,09-Jul-1950,1ra Ronda,1950,False,False
+908,Uruguay,Suecia,F,F,13-Jul-1950,1ra Ronda,1950,False,False
+909,Brasil,España,F,F,13-Jul-1950,1ra Ronda,1950,False,False
+910,Suecia,España,F,F,16-Jul-1950,1ra Ronda,1950,False,False
+911,Uruguay,Brasil,F,F,16-Jul-1950,1ra Ronda,1950,False,False
+912,Suiza,Alemania,,,04-Jun-1938,Octavos de final,1938,True,False
+913,Francia,Bélgica,,,05-Jun-1938,Octavos de final,1938,False,False
+914,Italia,Noruega,,,05-Jun-1938,Octavos de final,1938,True,False
+915,Brasil,Polonia,,,05-Jun-1938,Octavos de final,1938,True,False
+916,Hungría,Indias Orientales Holand.,,,05-Jun-1938,Octavos de final,1938,False,False
+917,Checoslovaquia,Paises Bajos,,,05-Jun-1938,Octavos de final,1938,True,False
+918,Cuba,Rumania,,,05-Jun-1938,Octavos de final,1938,True,False
+919,Suiza,Alemania,,,09-Jun-1938,Octavos de final,1938,False,False
+920,Cuba,Rumania,,,09-Jun-1938,Octavos de final,1938,False,False
+921,Cuba,Suecia,,,12-Jun-1938,Cuartos de final,1938,False,False
+922,Italia,Francia,,,12-Jun-1938,Cuartos de final,1938,False,False
+923,Hungría,Suiza,,,12-Jun-1938,Cuartos de final,1938,False,False
+924,Brasil,Checoslovaquia,,,12-Jun-1938,Cuartos de final,1938,True,False
+925,Brasil,Checoslovaquia,,,14-Jun-1938,Cuartos de final,1938,False,False
+926,Hungría,Suecia,,,16-Jun-1938,Semifinales,1938,False,False
+927,Brasil,Italia,,,16-Jun-1938,Semifinales,1938,False,False
+928,Brasil,Suecia,,,19-Jun-1938,3er puesto,1938,False,False
+929,Italia,Hungría,,,19-Jun-1938,Final,1938,False,False
+930,Alemania,Bélgica,,,27-May-1934,Octavos de final,1934,False,False
+931,Suecia,Argentina,,,27-May-1934,Octavos de final,1934,False,False
+932,Italia,Estados Unidos,,,27-May-1934,Octavos de final,1934,False,False
+933,Hungría,Egipto,,,27-May-1934,Octavos de final,1934,False,False
+934,España,Brasil,,,27-May-1934,Octavos de final,1934,False,False
+935,Checoslovaquia,Rumania,,,27-May-1934,Octavos de final,1934,False,False
+936,Suiza,Paises Bajos,,,27-May-1934,Octavos de final,1934,False,False
+937,Austria,Francia,,,27-May-1934,Octavos de final,1934,True,False
+938,Checoslovaquia,Suiza,,,31-May-1934,Cuartos de final,1934,False,False
+939,Austria,Hungría,,,31-May-1934,Cuartos de final,1934,False,False
+940,Alemania,Suecia,,,31-May-1934,Cuartos de final,1934,False,False
+941,Italia,España,,,31-May-1934,Cuartos de final,1934,True,False
+942,Italia,España,,,01-Jun-1934,Cuartos de final,1934,False,False
+943,Checoslovaquia,Alemania,,,03-Jun-1934,Semifinales,1934,False,False
+944,Italia,Austria,,,03-Jun-1934,Semifinales,1934,False,False
+945,Austria,Alemania,,,07-Jun-1934,3er puesto,1934,False,False
+946,Italia,Checoslovaquia,,,10-Jun-1934,Final,1934,True,False
+947,Francia,México,1,1,13-Jul-1930,1ra Ronda,1930,False,False
+948,Estados Unidos,Bélgica,4,4,13-Jul-1930,1ra Ronda,1930,False,False
+949,Rumania,Perú,3,3,14-Jul-1930,1ra Ronda,1930,False,False
+950,Yugoslavia,Brasil,2,2,14-Jul-1930,1ra Ronda,1930,False,False
+951,Argentina,Francia,1,1,15-Jul-1930,1ra Ronda,1930,False,False
+952,Chile,México,1,1,16-Jul-1930,1ra Ronda,1930,False,False
+953,Yugoslavia,Bolivia,2,2,17-Jul-1930,1ra Ronda,1930,False,False
+954,Estados Unidos,Paraguay,4,4,17-Jul-1930,1ra Ronda,1930,False,False
+955,Uruguay,Perú,3,3,18-Jul-1930,1ra Ronda,1930,False,False
+956,Argentina,México,1,1,19-Jul-1930,1ra Ronda,1930,False,False
+957,Chile,Francia,1,1,19-Jul-1930,1ra Ronda,1930,False,False
+958,Paraguay,Bélgica,4,4,20-Jul-1930,1ra Ronda,1930,False,False
+959,Brasil,Bolivia,2,2,20-Jul-1930,1ra Ronda,1930,False,False
+960,Uruguay,Rumania,3,3,21-Jul-1930,1ra Ronda,1930,False,False
+961,Argentina,Chile,1,1,22-Jul-1930,1ra Ronda,1930,False,False
+962,Argentina,Estados Unidos,,,26-Jul-1930,Semifinales,1930,False,False
+963,Uruguay,Yugoslavia,,,27-Jul-1930,Semifinales,1930,False,False
+964,Argentina,Uruguay,,,30-Jul-1930,Final,1930,False,False

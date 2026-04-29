@@ -1,0 +1,569 @@
+﻿id,mundial,pais,grupo,jugador,referencia,camiseta,posicion
+10918,1938,Alemania,,Fritz Buchloh,fritz_buchloh.php,,Arquero
+10919,1938,Alemania,,Rudolf Raftl,rudolf_raftl.php,,Arquero
+10920,1938,Alemania,,Hans Jakob,hans_jakob.php,,Arquero
+10921,1938,Alemania,,Jakob Streitle,jakob_streitle.php,,Defensor
+10922,1938,Alemania,,Willibald Schmaus,willibald_schmaus.php,,Defensor
+10923,1938,Alemania,,Reinhold Muenzenberg,reinhold_muenzenberg.php,,Defensor
+10924,1938,Alemania,,Paul Janes,paul_janes.php,,Defensor
+10925,1938,Alemania,,Stefan Skoumal,stefan_skoumal.php,,Mediocampista
+10926,1938,Alemania,,Hans Mock,hans_mock.php,,Mediocampista
+10927,1938,Alemania,,Andreas Kupfer,andreas_kupfer.php,,Mediocampista
+10928,1938,Alemania,,Franz Wagner,franz_wagner.php,,Mediocampista
+10929,1938,Alemania,,Albin Kitzinger,albin_kitzinger.php,,Mediocampista
+10930,1938,Alemania,,Ludwig Goldbrunner,ludwig_goldbrunner.php,,Mediocampista
+10931,1938,Alemania,,Fritz Szepan,fritz_szepan.php,,Delantero
+10932,1938,Alemania,,Josef Stroh,josef_stroh.php,,Delantero
+10933,1938,Alemania,,Josef Gauchel,josef_gauchel.php,,Delantero
+10934,1938,Alemania,,Otto Siffling,otto_siffling.php,,Delantero
+10935,1938,Alemania,,Rudolf Gellesch,rudolf_gellesch.php,,Delantero
+10936,1938,Alemania,,Hans Pesser,hans_pesser.php,,Delantero
+10937,1938,Alemania,,Leopold Neumer,leopold_neumer.php,,Delantero
+10938,1938,Alemania,,Wilhelm Hahnemann,wilhelm_hahnemann.php,,Delantero
+10939,1938,Alemania,,Ernest Lehner,ernest_lehner.php,,Delantero
+10940,1938,Bélgica,,Arnold Badjou,arnold_badjou.php,,Arquero
+10941,1938,Bélgica,,Robert Braet,robert_braet.php,,Arquero
+10942,1938,Bélgica,,Andre Vandeweyer,andre_vandeweyer.php,,Arquero
+10943,1938,Bélgica,,Robert Paverick,robert_paverick.php,,Defensor
+10944,1938,Bélgica,,Jean Petit,jean_petit_2.php,,Defensor
+10945,1938,Bélgica,,Corneel Seys,corneel_seys.php,,Defensor
+10946,1938,Bélgica,,Philibert Smellinckx,philibert_smellinckx.php,,Defensor
+10947,1938,Bélgica,,Frans Gommers,frans_gommers.php,,Defensor
+10948,1938,Bélgica,,Emile Stynen,emile_stynen.php,,Mediocampista
+10949,1938,Bélgica,,John Van Alphen,john_van_alphen.php,,Mediocampista
+10950,1938,Bélgica,,Paul Henry,paul_henry.php,,Mediocampista
+10951,1938,Bélgica,,Alphonse De Winter,alphonse_de_winter.php,,Mediocampista
+10952,1938,Bélgica,,Pierre Dalem,pierre_dalem.php,,Mediocampista
+10953,1938,Bélgica,,Jean Fievez,jean_fievez.php,,Delantero
+10954,1938,Bélgica,,Charles Vandewouwer,charles_vandewouwer.php,,Delantero
+10955,1938,Bélgica,,Raymond Braine,raymond_braine.php,,Delantero
+10956,1938,Bélgica,,Fernand Buyle,fernand_buyle.php,,Delantero
+10957,1938,Bélgica,,Jean Capelle,jean_capelle.php,,Delantero
+10958,1938,Bélgica,,Artur Ceuleers,artur_ceuleers.php,,Delantero
+10959,1938,Bélgica,,Joseph Nelis,joseph_nelis.php,,Delantero
+10960,1938,Bélgica,,Henri Isemborghs,henri_isemborghs.php,,Delantero
+10961,1938,Bélgica,,Bernard Voorhoof,bernard_voorhoof.php,,Delantero
+10962,1938,Brasil,,Walter Goulart,walter_goulart.php,,Arquero
+10963,1938,Brasil,,Batatais,batatais.php,,Arquero
+10964,1938,Brasil,,Nariz,nariz.php,,Defensor
+10965,1938,Brasil,,Machado,machado.php,,Defensor
+10966,1938,Brasil,,Domingos Da Guia,domingos_da_guia.php,,Defensor
+10967,1938,Brasil,,Jau,jau.php,,Defensor
+10968,1938,Brasil,,Afonsinho,afonsinho.php,,Mediocampista
+10969,1938,Brasil,,Martim,martim.php,,Mediocampista
+10970,1938,Brasil,,Zeze Procopio,zeze_procopio.php,,Mediocampista
+10971,1938,Brasil,,Argemiro,argemiro.php,,Mediocampista
+10972,1938,Brasil,,Britto,britto.php,,Mediocampista
+10973,1938,Brasil,,Brandao,brandao.php,,Mediocampista
+10974,1938,Brasil,,Leonidas,leonidas.php,,Delantero
+10975,1938,Brasil,,Tim,tim.php,,Delantero
+10976,1938,Brasil,,Romeu,romeu.php,,Delantero
+10977,1938,Brasil,,Roberto,roberto_3.php,,Delantero
+10978,1938,Brasil,,Peracio,peracio.php,,Delantero
+10979,1938,Brasil,,Patesko,patesko.php,,Delantero
+10980,1938,Brasil,,Niginho,niginho.php,,Delantero
+10981,1938,Brasil,,Hercules,hercules.php,,Delantero
+10982,1938,Brasil,,Lopes,lopes.php,,Delantero
+10983,1938,Brasil,,Luisinho,luisinho.php,,Delantero
+10984,1938,Checoslovaquia,,Karel Burkert,karel_burkert.php,,Arquero
+10985,1938,Checoslovaquia,,Frantisek Planicka,frantisek_planicka.php,,Arquero
+10986,1938,Checoslovaquia,,Josef Orth,josef_orth.php,,Defensor
+10987,1938,Checoslovaquia,,Jaroslav Burgr,jaroslav_burgr.php,,Defensor
+10988,1938,Checoslovaquia,,Ferdinand Daucik,ferdinand_daucik.php,,Defensor
+10989,1938,Checoslovaquia,,Otakar Nozir,otakar_nozir.php,,Mediocampista
+10990,1938,Checoslovaquia,,Josef Kostalek,josef_kostalek.php,,Mediocampista
+10991,1938,Checoslovaquia,,Vlastimil Kopecky,vlastimil_kopecky.php,,Mediocampista
+10992,1938,Checoslovaquia,,Karel Kolsky,karel_kolsky.php,,Mediocampista
+10993,1938,Checoslovaquia,,Pavel Cerny,pavel_cerny.php,,Mediocampista
+10994,1938,Checoslovaquia,,Jaroslav Boucek,jaroslav_boucek.php,,Mediocampista
+10995,1938,Checoslovaquia,,Oldrich Rulc,oldrich_rulc.php,,Delantero
+10996,1938,Checoslovaquia,,Karel Senecky,karel_senecky.php,,Delantero
+10997,1938,Checoslovaquia,,Jan Riha,jan_riha.php,,Delantero
+10998,1938,Checoslovaquia,,Antonin Puc,antonin_puc.php,,Delantero
+10999,1938,Checoslovaquia,,Ladislav Simunek,ladislav_simunek.php,,Delantero
+11000,1938,Checoslovaquia,,Oldrich Nejedly,oldrich_nejedly.php,,Delantero
+11001,1938,Checoslovaquia,,Josef Ludl,josef_ludl.php,,Delantero
+11002,1938,Checoslovaquia,,Arnost Kreuz,arnost_kreuz.php,,Delantero
+11003,1938,Checoslovaquia,,Vaclav Horak,vaclav_horak.php,,Delantero
+11004,1938,Checoslovaquia,,Vojtech Bradac,vojtech_bradac.php,,Delantero
+11005,1938,Checoslovaquia,,Josef Zeman,josef_zeman.php,,Delantero
+11006,1938,Cuba,,Benito Carvajales,benito_carvajales.php,,Arquero
+11007,1938,Cuba,,Juan Ayra,juan_ayra.php,,Arquero
+11008,1938,Cuba,,Jacinto Barquin,jacinto_barquin.php,,Defensor
+11009,1938,Cuba,,Manuel Chorens,manuel_chorens.php,,Defensor
+11010,1938,Cuba,,Jose Rodriguez,jose_rodriguez.php,,Mediocampista
+11011,1938,Cuba,,Tomas Fernandez,tomas_fernandez.php,,Mediocampista
+11012,1938,Cuba,,Pedro Berges,pedro_berges.php,,Mediocampista
+11013,1938,Cuba,,Joaquin Arias,joaquin_arias.php,,Mediocampista
+11014,1938,Cuba,,Mario Sosa,mario_sosa.php,,Delantero
+11015,1938,Cuba,,Hector Socorro,hector_socorro.php,,Delantero
+11016,1938,Cuba,,Carlos Oliveira,carlos_oliveira.php,,Delantero
+11017,1938,Cuba,,Jose Magrina,jose_magrina.php,,Delantero
+11018,1938,Cuba,,Pedro Ferrer,pedro_ferrer.php,,Delantero
+11019,1938,Cuba,,Juan Alonso,juan_alonso.php,,Delantero
+11020,1938,Cuba,,Juan Tunas,juan_tunas.php,,Delantero
+11021,1938,Francia,,Rene Llense,rene_llense.php,,Arquero
+11022,1938,Francia,,Laurent Di Lorto,laurent_di_lorto.php,,Arquero
+11023,1938,Francia,,Julien Darui,julien_darui.php,,Arquero
+11024,1938,Francia,,Francois Bourbotte,francois_bourbotte.php,,Defensor
+11025,1938,Francia,,Etienne Mattler,etienne_mattler.php,,Defensor
+11026,1938,Francia,,Raoul Diagne,raoul_diagne.php,,Defensor
+11027,1938,Francia,,Abdel Kader Ben Bouali,abdel_kader_ben_bouali.php,,Defensor
+11028,1938,Francia,,Czeslaw Povolny,czeslaw_povolny.php,,Defensor
+11029,1938,Francia,,Jules Vandooren,jules_vandooren.php,,Defensor
+11030,1938,Francia,,Hector Cazenave,hector_cazenave.php,,Defensor
+11031,1938,Francia,,Edmond Delfour,edmond_delfour.php,,Mediocampista
+11032,1938,Francia,,Oscar Heisserer,oscar_heisserer.php,,Mediocampista
+11033,1938,Francia,,Lucien Jasseron,lucien_jasseron.php,,Mediocampista
+11034,1938,Francia,,Gustave Jordan,gustave_jordan.php,,Mediocampista
+11035,1938,Francia,,Emile Veinante,emile_veinante.php,,Mediocampista
+11036,1938,Francia,,Jean Bastien,jean_bastien.php,,Mediocampista
+11037,1938,Francia,,Jean Nicolas,jean_nicolas.php,,Delantero
+11038,1938,Francia,,Ignace Kowalczyk,ignace_kowalczyk.php,,Delantero
+11039,1938,Francia,,Alfred Aston,alfred_aston.php,,Delantero
+11040,1938,Francia,,Roger Courtois,roger_courtois.php,,Delantero
+11041,1938,Francia,,Michel Brusseaux,michel_brusseaux.php,,Delantero
+11042,1938,Francia,,Mario Zatelli,mario_zatelli.php,,Delantero
+11043,1938,Hungría,,Jozsef Palinkas,jozsef_palinkas.php,,Arquero
+11044,1938,Hungría,,Jozsef Hada,jozsef_hada.php,,Arquero
+11045,1938,Hungría,,Antal Szabo,antal_szabo.php,,Arquero
+11046,1938,Hungría,,Sandor Biro,sandor_biro.php,,Defensor
+11047,1938,Hungría,,Lajos Koranyi,lajos_koranyi.php,,Defensor
+11048,1938,Hungría,,Gyula Polgar,gyula_polgar.php,,Defensor
+11049,1938,Hungría,,Gyorgy Szucs,gyorgy_szucs.php,,Mediocampista
+11050,1938,Hungría,,Antal Szalay,antal_szalay.php,,Mediocampista
+11051,1938,Hungría,,Jozsef Turay,jozsef_turay.php,,Mediocampista
+11052,1938,Hungría,,Bela Sarosi,bela_sarosi.php,,Mediocampista
+11053,1938,Hungría,,Istvan Balogh,istvan_balogh.php,,Mediocampista
+11054,1938,Hungría,,Gyula Lazar,gyula_lazar.php,,Mediocampista
+11055,1938,Hungría,,Janos Dudas,janos_dudas.php,,Mediocampista
+11056,1938,Hungría,,Jeno Vincze,jeno_vincze.php,,Delantero
+11057,1938,Hungría,,Mihaly Biro,mihaly_biro.php,,Delantero
+11058,1938,Hungría,,Geza Toldi,geza_toldi.php,,Delantero
+11059,1938,Hungría,,Pal Titkos,pal_titkos.php,,Delantero
+11060,1938,Hungría,,Gyula Zsengeller,gyula_zsengeller.php,,Delantero
+11061,1938,Hungría,,Laszlo Cseh,laszlo_cseh.php,,Delantero
+11062,1938,Hungría,,Ferenc Sas,ferenc_sas.php,,Delantero
+11063,1938,Hungría,,Gyorgy Sarosi,gyorgy_sarosi.php,,Delantero
+11064,1938,Hungría,,Vilmos Kohut,vilmos_kohut.php,,Delantero
+11065,1938,Indias Orientales,,Mo Heng Tan,mo_heng_tan.php,,Arquero
+11066,1938,Indias Orientales,,J. Harting,j_harting.php,,Arquero
+11067,1938,Indias Orientales,,Jack Samuels,jack_samuels.php,,Defensor
+11068,1938,Indias Orientales,,Tjaak Pattiwael,tjaak_pattiwael.php,,Defensor
+11069,1938,Indias Orientales,,Frans Hukon,frans_hukon.php,,Defensor
+11070,1938,Indias Orientales,,Dorst,dorst.php,,Defensor
+11071,1938,Indias Orientales,,G. Van Den Burgh,g_van_den_burgh.php,,Defensor
+11072,1938,Indias Orientales,,Frans Meeng,frans_meeng.php,,Mediocampista
+11073,1938,Indias Orientales,,Achmad Nawir,achmad_nawir.php,,Mediocampista
+11074,1938,Indias Orientales,,G. Faulhaber,g_faulhaber.php,,Mediocampista
+11075,1938,Indias Orientales,,Anwar Sutan,anwar_sutan.php,,Mediocampista
+11076,1938,Indias Orientales,,R. Telwe,r_telwe.php,,Delantero
+11077,1938,Indias Orientales,,Teilherber,teilherber.php,,Delantero
+11078,1938,Indias Orientales,,See Han Tan,see_han_tan.php,,Delantero
+11079,1938,Indias Orientales,,Hong Djien Tan,hong_djien_tan.php,,Delantero
+11080,1938,Indias Orientales,,Hans Taihuttu,hans_taihuttu.php,,Delantero
+11081,1938,Indias Orientales,,Henk Sommers,henk_sommers.php,,Delantero
+11082,1938,Indias Orientales,,Suvarte Soedarmadji,suvarte_soedarmadji.php,,Delantero
+11083,1938,Italia,,Aldo Olivieri,aldo_olivieri.php,,Arquero
+11084,1938,Italia,,Guido Masetti,guido_masetti.php,,Arquero
+11085,1938,Italia,,Carlo Ceresoli,carlo_ceresoli.php,,Arquero
+11086,1938,Italia,,Eraldo Monzeglio,eraldo_monzeglio.php,,Defensor
+11087,1938,Italia,,Alfredo Foni,alfredo_foni.php,,Defensor
+11088,1938,Italia,,Pietro Rava,pietro_rava.php,,Defensor
+11089,1938,Italia,,Renato Olmi,renato_olmi.php,,Mediocampista
+11090,1938,Italia,,Mario Perazzolo,mario_perazzolo.php,,Mediocampista
+11091,1938,Italia,,Ugo Locatelli,ugo_locatelli.php,,Mediocampista
+11092,1938,Italia,,Mario Genta,mario_genta.php,,Mediocampista
+11093,1938,Italia,,Michele Andreolo,michele_andreolo.php,,Mediocampista
+11094,1938,Italia,,Pietro Serantoni,pietro_serantoni.php,,Mediocampista
+11095,1938,Italia,,Giovanni Ferrari,giovanni_ferrari.php,,Mediocampista
+11096,1938,Italia,,Aldo Donati,aldo_donati.php,,Mediocampista
+11097,1938,Italia,,Sergio Bertoni,sergio_bertoni.php,,Delantero
+11098,1938,Italia,,Silvio Piola,silvio_piola.php,,Delantero
+11099,1938,Italia,,Amedeo Biavati,amedeo_biavati.php,,Delantero
+11100,1938,Italia,,Piero Pasinati,piero_pasinati.php,,Delantero
+11101,1938,Italia,,Bruno Chizzo,bruno_chizzo.php,,Delantero
+11102,1938,Italia,,Gino Colaussi,gino_colaussi.php,,Delantero
+11103,1938,Italia,,Giuseppe Meazza,giuseppe_meazza.php,,Delantero
+11104,1938,Italia,,Pietro Ferraris,pietro_ferraris.php,,Delantero
+11105,1938,Noruega,,Sverre Nordby,sverre_nordby.php,,Arquero
+11106,1938,Noruega,,Anker Kihle,anker_kihle.php,,Arquero
+11107,1938,Noruega,,Henry Johansen,henry_johansen.php,,Arquero
+11108,1938,Noruega,,Jorgen Juve,jorgen_juve.php,,Defensor
+11109,1938,Noruega,,Rolf Johannesen,rolf_johannesen.php,,Defensor
+11110,1938,Noruega,,Oivind Holmsen,oivind_holmsen.php,,Defensor
+11111,1938,Noruega,,Roald Amundsen,roald_amundsen.php,,Defensor
+11112,1938,Noruega,,Oddmund Andersen,oddmund_andersen.php,,Defensor
+11113,1938,Noruega,,Nils Eriksen,nils_eriksen.php,,Mediocampista
+11114,1938,Noruega,,Gunnar Andreassen,gunnar_andreassen.php,,Mediocampista
+11115,1938,Noruega,,Rolf Holmberg,rolf_holmberg.php,,Mediocampista
+11116,1938,Noruega,,Kristian Henriksen,kristian_henriksen.php,,Mediocampista
+11117,1938,Noruega,,Sverre Hansen,sverre_hansen.php,,Mediocampista
+11118,1938,Noruega,,Magnar Isaksen,magnar_isaksen.php,,Delantero
+11119,1938,Noruega,,Alf Martinsen,alf_martinsen.php,,Delantero
+11120,1938,Noruega,,Reidar Kvammen,reidar_kvammen.php,,Delantero
+11121,1938,Noruega,,Odd Frantzen,odd_frantzen.php,,Delantero
+11122,1938,Noruega,,Hjalmar Andresen,hjalmar_andresen.php,,Delantero
+11123,1938,Noruega,,Arne Brustad,arne_brustad.php,,Delantero
+11124,1938,Noruega,,Arne Ileby,arne_ileby.php,,Delantero
+11125,1938,Noruega,,Knut Brynildsen,knut_brynildsen.php,,Delantero
+11126,1938,Países Bajos,,Niek Michel,niek_michel.php,,Arquero
+11127,1938,Países Bajos,,Adriaan Van Male,adriaan_van_male.php,,Arquero
+11128,1938,Países Bajos,,Dick Been,dick_been.php,,Defensor
+11129,1938,Países Bajos,,Bertus Caldenhove,bertus_caldenhove.php,,Defensor
+11130,1938,Países Bajos,,Mauk Weber,mauk_weber.php,,Defensor
+11131,1938,Países Bajos,,Hendrikus Plenter,hendrikus_plenter.php,,Defensor
+11132,1938,Países Bajos,,Bas Paauwe,bas_paauwe.php,,Mediocampista
+11133,1938,Países Bajos,,Rene Pijpers,rene_pijpers.php,,Mediocampista
+11134,1938,Países Bajos,,Puck Van Heel,puck_van_heel.php,,Mediocampista
+11135,1938,Países Bajos,,Willem Anderiesen,willem_anderiesen.php,,Mediocampista
+11136,1938,Países Bajos,,Frans Hogenbirk,frans_hogenbirk.php,,Mediocampista
+11137,1938,Países Bajos,,Karel Ooms,karel_ooms.php,,Delantero
+11138,1938,Países Bajos,,Leen Vente,leen_vente.php,,Delantero
+11139,1938,Países Bajos,,Henk Van Spaandonck,henk_van_spaandonck.php,,Delantero
+11140,1938,Países Bajos,,Piet De Boer,piet_de_boer.php,,Delantero
+11141,1938,Países Bajos,,Bertus De Harder,bertus_de_harder.php,,Delantero
+11142,1938,Países Bajos,,Frans Van Der Veen,frans_van_der_veen.php,,Delantero
+11143,1938,Países Bajos,,Kick Smit,kick_smit.php,,Delantero
+11144,1938,Países Bajos,,Piet Punt,piet_punt.php,,Delantero
+11145,1938,Países Bajos,,Arie De Winter,arie_de_winter.php,,Delantero
+11146,1938,Países Bajos,,Daaf Drok,daaf_drok.php,,Delantero
+11147,1938,Países Bajos,,Frank Wels,frank_wels.php,,Delantero
+11148,1938,Polonia,,Walter Brom,walter_brom.php,,Arquero
+11149,1938,Polonia,,Edward Madejski,edward_madejski.php,,Arquero
+11150,1938,Polonia,,Edmund Tworz,edmund_tworz.php,,Defensor
+11151,1938,Polonia,,Antoni Galecki,antoni_galecki.php,,Defensor
+11152,1938,Polonia,,Edmund Giemsa,edmund_giemsa.php,,Defensor
+11153,1938,Polonia,,Wladyslaw Szszepaniak,wladyslaw_szszepaniak.php,,Defensor
+11154,1938,Polonia,,Erwin Nyc,erwin_nyc.php,,Mediocampista
+11155,1938,Polonia,,Kazimierz Lis,kazimierz_lis.php,,Mediocampista
+11156,1938,Polonia,,Wilhelm Piec,wilhelm_piec.php,,Mediocampista
+11157,1938,Polonia,,Wilhelm Gora,wilhelm_gora.php,,Mediocampista
+11158,1938,Polonia,,Ewald Dytko,ewald_dytko.php,,Mediocampista
+11159,1938,Polonia,,Jan Wasiewicz,jan_wasiewicz.php,,Mediocampista
+11160,1938,Polonia,,Fryedryk Szerfke,fryedryk_szerfke.php,,Delantero
+11161,1938,Polonia,,Ernest Wilimowski,ernest_wilimowski.php,,Delantero
+11162,1938,Polonia,,Leonard Piontek,leonard_piontek.php,,Delantero
+11163,1938,Polonia,,Stanislaw Baran,stanislaw_baran.php,,Delantero
+11164,1938,Polonia,,Ryszard Piec,ryszard_piec.php,,Delantero
+11165,1938,Polonia,,Antoni Lyko,antoni_lyko.php,,Delantero
+11166,1938,Polonia,,Jozef Korbas,jozef_korbas.php,,Delantero
+11167,1938,Polonia,,Boleslaw Habowski,boleslaw_habowski.php,,Delantero
+11168,1938,Polonia,,Ewald Cebula,ewald_cebula.php,,Delantero
+11169,1938,Polonia,,Gerard Wodarz,gerard_wodarz.php,,Delantero
+11170,1938,Rumania,,Robert Sadowsky,robert_sadowsky.php,,Arquero
+11171,1938,Rumania,,Mircea David,mircea_david.php,,Arquero
+11172,1938,Rumania,,Dumitru Pavlovici,dumitru_pavlovici.php,,Arquero
+11173,1938,Rumania,,Lazar Sfera,lazar_sfera.php,,Defensor
+11174,1938,Rumania,,Iacob Felecan,iacob_felecan.php,,Defensor
+11175,1938,Rumania,,Vasile Chiroiu,vasile_chiroiu.php,,Defensor
+11176,1938,Rumania,,Rudolf Buerger,rudolf_buerger.php,,Defensor
+11177,1938,Rumania,,Ladislau Raffinski,ladislau_raffinski.php,,Mediocampista
+11178,1938,Rumania,,Vintila Cossini,vintila_cossini.php,,Mediocampista
+11179,1938,Rumania,,Gheorghe Rasinaru,gheorghe_rasinaru.php,,Mediocampista
+11180,1938,Rumania,,Andrei Barbulescu,andrei_barbulescu.php,,Mediocampista
+11181,1938,Rumania,,Iuliu Prassler,iuliu_prassler.php,,Delantero
+11182,1938,Rumania,,Joszef Nagy,joszef_nagy.php,,Delantero
+11183,1938,Rumania,,Ioachim Moldoveanu,ioachim_moldoveanu.php,,Delantero
+11184,1938,Rumania,,Nicolae Kovacs,nicolae_kovacs.php,,Delantero
+11185,1938,Rumania,,Stefan Dobay,stefan_dobay.php,,Delantero
+11186,1938,Rumania,,Coloman Braun-Bogdan,coloman_braun_bogdan.php,,Delantero
+11187,1938,Rumania,,Ionica Bogdan,ionica_bogdan.php,,Delantero
+11188,1938,Rumania,,Iuliu Bodola,iuliu_bodola.php,,Delantero
+11189,1938,Rumania,,Silviu Bindea,silviu_bindea.php,,Delantero
+11190,1938,Rumania,,Iuliu Baratky,iuliu_baratky.php,,Delantero
+11191,1938,Suecia,,Henock Abrahamsson,henock_abrahamsson.php,,Arquero
+11192,1938,Suecia,,Gustav Sjoberg,gustav_sjoberg.php,,Arquero
+11193,1938,Suecia,,Olle Kallgren,olle_kallgren.php,,Defensor
+11194,1938,Suecia,,Erik Nilsson,erik_nilsson.php,,Defensor
+11195,1938,Suecia,,Harry Nilsson,harry_nilsson.php,,Defensor
+11196,1938,Suecia,,Ivar Eriksson,ivar_eriksson.php,,Defensor
+11197,1938,Suecia,,Karl Erik Grahn,karl_erik_grahn.php,,Mediocampista
+11198,1938,Suecia,,Kurt Svanstrom,kurt_svanstrom.php,,Mediocampista
+11199,1938,Suecia,,Sven Jacobsson,sven_jacobsson.php,,Mediocampista
+11200,1938,Suecia,,Erik Almgren,erik_almgren.php,,Mediocampista
+11201,1938,Suecia,,Arne Linderholm,arne_linderholm.php,,Mediocampista
+11202,1938,Suecia,,Arne Nyberg,arne_nyberg.php,,Delantero
+11203,1938,Suecia,,Erik Persson,erik_persson.php,,Delantero
+11204,1938,Suecia,,Sven Unger,sven_unger.php,,Delantero
+11205,1938,Suecia,,Tore Keller,tore_keller.php,,Delantero
+11206,1938,Suecia,,Sven Jonasson,sven_jonasson.php,,Delantero
+11207,1938,Suecia,,Knut Hansson,knut_hansson.php,,Delantero
+11208,1938,Suecia,,Lennart Bunke,lennart_bunke.php,,Delantero
+11209,1938,Suecia,,Curt Bergsten,curt_bergsten.php,,Delantero
+11210,1938,Suecia,,Harry Andersson,harry_andersson.php,,Delantero
+11211,1938,Suecia,,Ake Andersson,ake_andersson.php,,Delantero
+11212,1938,Suecia,,Gustav Wetterstrom,gustav_wetterstrom.php,,Delantero
+11213,1938,Suiza,,Willy Huber,willy_huber.php,,Arquero
+11214,1938,Suiza,,Renato Bizzozero,renato_bizzozero.php,,Arquero
+11215,1938,Suiza,,Erwin Ballabio,erwin_ballabio.php,,Arquero
+11216,1938,Suiza,,Adolf Stelzer,adolf_stelzer.php,,Defensor
+11217,1938,Suiza,,Severino Minelli,severino_minelli.php,,Defensor
+11218,1938,Suiza,,August Lehmann,august_lehmann.php,,Defensor
+11219,1938,Suiza,,Hermann Springer,hermann_springer.php,,Mediocampista
+11220,1938,Suiza,,Sirio Vernati,sirio_vernati.php,,Mediocampista
+11221,1938,Suiza,,Albert Guinchard,albert_guinchard.php,,Mediocampista
+11222,1938,Suiza,,Ernst Loertscher,ernst_loertscher.php,,Mediocampista
+11223,1938,Suiza,,Oskar Rauch,oskar_rauch.php,,Mediocampista
+11224,1938,Suiza,,Fritz Wagner,fritz_wagner.php,,Delantero
+11225,1938,Suiza,,Eugen Rupf,eugen_rupf.php,,Delantero
+11226,1938,Suiza,,Leopold Kielholz,leopold_kielholz.php,,Delantero
+11227,1938,Suiza,,Paul Aebi,paul_aebi.php,,Delantero
+11228,1938,Suiza,,Georges Aeby,georges_aeby.php,,Delantero
+11229,1938,Suiza,,Lauro Amado,lauro_amado.php,,Delantero
+11230,1938,Suiza,,Fredy Bickel,fredy_bickel.php,,Delantero
+11231,1938,Suiza,,Alessandro Frigerio,alessandro_frigerio.php,,Delantero
+11232,1938,Suiza,,Tullio Grassi,tullio_grassi.php,,Delantero
+11233,1938,Suiza,,Andre Abegglen,andre_abegglen.php,,Delantero
+11234,1938,Suiza,,Eugen Walachek,eugen_walachek.php,,Delantero
+11235,1934,Suiza,,Frank Sechehaye,frank_sechehaye.php,,Arquero
+11236,1934,Suiza,,Louis Gobet,louis_gobet.php,,Defensor
+11237,1934,Suiza,,Arnaldo Ortelli,arnaldo_ortelli.php,,Defensor
+11238,1934,Suiza,,Max Weiler,max_weiler.php,,Defensor
+11239,1934,Suiza,,Walter Weiler,walter_weiler.php,,Defensor
+11240,1934,Suiza,,Edmond Loichot,edmond_loichot.php,,Mediocampista
+11241,1934,Suiza,,Fernand Jaccard,fernand_jaccard.php,,Mediocampista
+11242,1934,Suiza,,Ernst Hufschmid,ernst_hufschmid.php,,Mediocampista
+11243,1934,Suiza,,Ernst Frick,ernst_frick.php,,Mediocampista
+11244,1934,Suiza,,Erwin Hochstrasser,erwin_hochstrasser.php,,Delantero
+11245,1934,Suiza,,Giuseppe Bossi,giuseppe_bossi.php,,Delantero
+11246,1934,Suiza,,Willy Von Kaenel,willy_von_kaenel.php,,Delantero
+11247,1934,Suiza,,Albert Buche,albert_buche.php,,Delantero
+11248,1934,Suiza,,Raymond Pasello,raymond_pasello.php,,Delantero
+11249,1934,Suiza,,Otto Buehler,otto_buehler.php,,Delantero
+11250,1934,Suiza,,Willy Jaeggi,willy_jaeggi.php,,Delantero
+11251,1934,Suiza,,Alfred Jaeck,alfred_jaeck.php,,Delantero
+11252,1934,Suecia,,Eivar Widlund,eivar_widlund.php,,Arquero
+11253,1934,Suecia,,Anders Rydberg,anders_rydberg.php,,Arquero
+11254,1934,Suecia,,Otto Andersson,otto_andersson.php,,Defensor
+11255,1934,Suecia,,Sven Andersson,sven_andersson.php,,Defensor
+11256,1934,Suecia,,Nils Axelsson,nils_axelsson.php,,Defensor
+11257,1934,Suecia,,Erik Granath,erik_granath.php,,Defensor
+11258,1934,Suecia,,Nils Rosen,nils_rosen.php,,Mediocampista
+11259,1934,Suecia,,Karl Johnsson,karl_johnsson.php,,Mediocampista
+11260,1934,Suecia,,Ernst Andersson,ernst_andersson.php,,Mediocampista
+11261,1934,Suecia,,Rune Carlsson,rune_carlsson.php,,Mediocampista
+11262,1934,Suecia,,Ragnar Gustavsson,ragnar_gustavsson.php,,Delantero
+11263,1934,Suecia,,Arvid Thoern,arvid_thoern.php,,Delantero
+11264,1934,Suecia,,Gunnar Olsson,gunnar_olsson.php,,Delantero
+11265,1934,Suecia,,Knut Kroon,knut_kroon.php,,Delantero
+11266,1934,Suecia,,Gosta Dunker,gosta_dunker.php,,Delantero
+11267,1934,Suecia,,Gunnar Jansson,gunnar_jansson.php,,Delantero
+11268,1934,Rumania,,William Zombory,william_zombory.php,,Arquero
+11269,1934,Rumania,,Adalbert Pullock,adalbert_pullock.php,,Arquero
+11270,1934,Rumania,,Gheorghe Albu,gheorghe_albu.php,,Defensor
+11271,1934,Rumania,,Rudolf Kotormany,rudolf_kotormany.php,,Mediocampista
+11272,1934,Rumania,,Emerich Vogl,emerich_vogl.php,,Mediocampista
+11273,1934,Rumania,,Josif Moravetz,josif_moravetz.php,,Mediocampista
+11274,1934,Rumania,,Vasile Deheleanu,vasile_deheleanu.php,,Mediocampista
+11275,1934,Rumania,,Alexandru Cuedan,alexandru_cuedan.php,,Mediocampista
+11276,1934,Rumania,,Gheorghe Ciolac,gheorghe_ciolac.php,,Delantero
+11277,1934,Rumania,,Gratian Sepi,gratian_sepi.php,,Delantero
+11278,1934,Países Bajos,,Gejus Van Der Meulen,gejus_van_der_meulen.php,,Arquero
+11279,1934,Países Bajos,,Leo Halle,leo_halle.php,,Arquero
+11280,1934,Países Bajos,,Jan Van Diepenbeek,jan_van_diepenbeek.php,,Defensor
+11281,1934,Países Bajos,,Sjef Van Run,sjef_van_run.php,,Defensor
+11282,1934,Países Bajos,,Henk Pellikaan,henk_pellikaan.php,,Mediocampista
+11283,1934,Países Bajos,,Toon Oprinsen,toon_oprinsen.php,,Mediocampista
+11284,1934,Países Bajos,,Joop Van Nellen,joop_van_nellen.php,,Delantero
+11285,1934,Países Bajos,,Manus Vrauwdeunt,manus_vrauwdeunt.php,,Delantero
+11286,1934,Países Bajos,,Arie Schoemaker,arie_schoemaker.php,,Delantero
+11287,1934,Países Bajos,,Jaap Mol,jaap_mol.php,,Delantero
+11288,1934,Países Bajos,,Kees Mijnders,kees_mijnders.php,,Delantero
+11289,1934,Países Bajos,,Wim Langendaal,wim_langendaal.php,,Delantero
+11290,1934,Países Bajos,,Alex Graafland,alex_graafland.php,,Delantero
+11291,1934,Países Bajos,,Beb Bakhuys,beb_bakhuys.php,,Delantero
+11292,1934,Italia,,Giampiero Combi,giampiero_combi.php,,Arquero
+11293,1934,Italia,,Giuseppe Cavanna,giuseppe_cavanna.php,,Arquero
+11294,1934,Italia,,Luigi Allemandi,luigi_allemandi.php,,Defensor
+11295,1934,Italia,,Virginio Rosetta,virginio_rosetta.php,,Defensor
+11296,1934,Italia,,Umberto Caligaris,umberto_caligaris.php,,Defensor
+11297,1934,Italia,,Luis Monti,luis_monti.php,,Mediocampista
+11298,1934,Italia,,Mario Pizziolo,mario_pizziolo.php,,Mediocampista
+11299,1934,Italia,,Attilio Ferraris,attilio_ferraris.php,,Mediocampista
+11300,1934,Italia,,Luigi Bertolini,luigi_bertolini.php,,Mediocampista
+11301,1934,Italia,,Mario Varglien,mario_varglien.php,,Mediocampista
+11302,1934,Italia,,Armando Castellazzi,armando_castellazzi.php,,Mediocampista
+11303,1934,Italia,,Atilio Demaria,atilio_demaria.php,,Delantero
+11304,1934,Italia,,Anfilogino Guarisi,anfilogino_guarisi.php,,Delantero
+11305,1934,Italia,,Raimundo Orsi,raimundo_orsi.php,,Delantero
+11306,1934,Italia,,Enrique Guaita,enrique_guaita.php,,Delantero
+11307,1934,Italia,,Pietro Arcari,pietro_arcari.php,,Delantero
+11308,1934,Italia,,Angelo Schiavio,angelo_schiavio.php,,Delantero
+11309,1934,Italia,,Felice Borel,felice_borel.php,,Delantero
+11310,1934,Hungría,,Jozsef Vago,jozsef_vago.php,,Defensor
+11311,1934,Hungría,,Laszlo Sternberg,laszlo_sternberg.php,,Defensor
+11312,1934,Hungría,,Gyula Futo,gyula_futo.php,,Defensor
+11313,1934,Hungría,,Istvan Palotas,istvan_palotas.php,,Mediocampista
+11314,1934,Hungría,,Rezso Somlai,rezso_somlai.php,,Mediocampista
+11315,1934,Hungría,,Istvan Tamassy,istvan_tamassy.php,,Delantero
+11316,1934,Hungría,,Pal Teleki,pal_teleki.php,,Delantero
+11317,1934,Hungría,,Istvan Avar,istvan_avar.php,,Delantero
+11318,1934,Hungría,,Gabor Szabo,gabor_szabo.php,,Delantero
+11319,1934,Hungría,,Imre Markos,imre_markos.php,,Delantero
+11320,1934,Hungría,,Tibor Kemeny,tibor_kemeny.php,,Delantero
+11321,1934,Francia,,Robert Defosse,robert_defosse.php,,Arquero
+11322,1934,Francia,,Alex Thepot,alex_thepot.php,,Arquero
+11323,1934,Francia,,Jacques Mairesse,jacques_mairesse.php,,Defensor
+11324,1934,Francia,,Georges Beaucourt,georges_beaucourt.php,,Defensor
+11325,1934,Francia,,Joseph Gonzalez,joseph_gonzalez.php,,Defensor
+11326,1934,Francia,,Noel Lietaer,noel_lietaer.php,,Mediocampista
+11327,1934,Francia,,Roger Rio,roger_rio.php,,Mediocampista
+11328,1934,Francia,,Louis Gabrillargues,louis_gabrillargues.php,,Mediocampista
+11329,1934,Francia,,Celestin Delmer,celestin_delmer.php,,Mediocampista
+11330,1934,Francia,,Georges Verriest,georges_verriest.php,,Mediocampista
+11331,1934,Francia,,Lucien Laurent,lucien_laurent.php,,Delantero
+11332,1934,Francia,,Pierre Korb,pierre_korb.php,,Delantero
+11333,1934,Francia,,Fritz Keller,fritz_keller.php,,Delantero
+11334,1934,Francia,,Joseph Alcazar,joseph_alcazar.php,,Delantero
+11335,1934,Estados Unidos,,Julius Hjulian,julius_hjulian.php,,Arquero
+11336,1934,Estados Unidos,,Joe Martinelli,joe_martinelli.php,,Defensor
+11337,1934,Estados Unidos,,George Moorhouse,george_moorhouse.php,,Defensor
+11338,1934,Estados Unidos,,Ed Czerkiewicz,ed_czerkiewicz.php,,Defensor
+11339,1934,Estados Unidos,,Herman Rapp,herman_rapp.php,,Defensor
+11340,1934,Estados Unidos,,Al Harker,al_harker.php,,Defensor
+11341,1934,Estados Unidos,,Peter Pietras,peter_pietras.php,,Mediocampista
+11342,1934,Estados Unidos,,Tom Lynch,tom_lynch.php,,Mediocampista
+11343,1934,Estados Unidos,,Bill Lehmann,bill_lehmann.php,,Mediocampista
+11344,1934,Estados Unidos,,Tom Amrhein,tom_amrhein.php,,Mediocampista
+11345,1934,Estados Unidos,,Jimmy Gallagher,jimmy_gallagher.php,,Mediocampista
+11346,1934,Estados Unidos,,Bill Fiedler,bill_fiedler.php,,Mediocampista
+11347,1934,Estados Unidos,,Billy Gonsalves,billy_gonsalves.php,,Delantero
+11348,1934,Estados Unidos,,Walter Dick,walter_dick.php,,Delantero
+11349,1934,Estados Unidos,,Werner Nilsen,werner_nilsen.php,,Delantero
+11350,1934,Estados Unidos,,Aldo Donelli,aldo_donelli.php,,Delantero
+11351,1934,Estados Unidos,,Bill Mclean,bill_mclean.php,,Delantero
+11352,1934,Estados Unidos,,Tom Florie,tom_florie.php,,Delantero
+11353,1934,Estados Unidos,,Francis Ryan,francis_ryan.php,,Delantero
+11354,1934,España,,Ricardo Zamora,ricardo_zamora.php,,Arquero
+11355,1934,España,,Juan Nogues,juan_nogues.php,,Arquero
+11356,1934,España,,Quincoces I,quincoces_i.php,,Defensor
+11357,1934,España,,Ciriaco,ciriaco.php,,Defensor
+11358,1934,España,,Marculeta,marculeta.php,,Defensor
+11359,1934,España,,Zabalo,zabalo.php,,Defensor
+11360,1934,España,,Luis Marin,luis_marin_2.php,,Mediocampista
+11361,1934,España,,Simon Lecue,simon_lecue.php,,Mediocampista
+11362,1934,España,,Jose Muguerza,jose_muguerza.php,,Mediocampista
+11363,1934,España,,Iraragorri,iraragorri.php,,Mediocampista
+11364,1934,España,,Hilario,hilario.php,,Mediocampista
+11365,1934,España,,Cilaurren,cilaurren.php,,Mediocampista
+11366,1934,España,,Luis Regueiro,luis_regueiro_2.php,,Delantero
+11367,1934,España,,Sole,sole.php,,Delantero
+11368,1934,España,,Martin Ventorla,martin_ventorla.php,,Delantero
+11369,1934,España,,Isidro Langara,isidro_langara.php,,Delantero
+11370,1934,España,,Lafuente,lafuente.php,,Delantero
+11371,1934,España,,Gorostiza,gorostiza.php,,Delantero
+11372,1934,España,,Fede,fede.php,,Delantero
+11373,1934,España,,Crisanto Bosch,crisanto_bosch.php,,Delantero
+11374,1934,España,,Chacho,chacho.php,,Delantero
+11375,1934,España,,Campanal I,campanal_i.php,,Delantero
+11376,1934,Egipto,,Aziz Fahmy,aziz_fahmy.php,,Arquero
+11377,1934,Egipto,,Kamel Masoud,kamel_masoud.php,,Arquero
+11378,1934,Egipto,,Abdel Sharli,abdel_sharley.php,,Defensor
+11379,1934,Egipto,,Ali El-Said,ali_al_sayyed.php,,Defensor
+11380,1934,Egipto,,Ismail Rafa At,ismail_rafa_at.php,,Defensor
+11381,1934,Egipto,,Hassan Ragab,hassan_ragab.php,,Mediocampista
+11382,1934,Egipto,,Mohamed Latif,mohamed_latif.php,,Mediocampista
+11383,1934,Egipto,,Hafez Kasseb,hafez_kasseb.php,,Mediocampista
+11384,1934,Egipto,,Mostafa Kamel Taha,mostafa_kamel_taha.php,,Mediocampista
+11385,1934,Egipto,,Mohamed Helmy,mohamed_helmy.php,,Mediocampista
+11386,1934,Egipto,,Ibrahim Halim,ibrahim_halim.php,,Mediocampista
+11387,1934,Egipto,,Hassan Al Far,hassan_al_far.php,,Mediocampista
+11388,1934,Egipto,,Hany Kamel,hany_kamel.php,,Delantero
+11389,1934,Egipto,,Kamel Mansour,kamel_mansour.php,,Delantero
+11390,1934,Egipto,,Mahmoud Moukhtar,mahmoud_moukhtar.php,,Delantero
+11391,1934,Egipto,,Mahmoud Negro,mahmoud_negro.php,,Delantero
+11392,1934,Egipto,,Abdulrahman Fawzi,abdulrahman_fawzi.php,,Delantero
+11393,1934,Checoslovaquia,,Cestmir Patzel,cestmir_patzel.php,,Arquero
+11394,1934,Checoslovaquia,,Ladislav Zenisek,ladislav_zenisek.php,,Defensor
+11395,1934,Checoslovaquia,,Josef Ctyroky,josef_ctyroky.php,,Defensor
+11396,1934,Checoslovaquia,,Antonin Vodicka,antonin_vodicka.php,,Mediocampista
+11397,1934,Checoslovaquia,,Rudolf Krcil,rudolf_krcil.php,,Mediocampista
+11398,1934,Checoslovaquia,,Stefan Cambal,stefan_cambal.php,,Mediocampista
+11399,1934,Checoslovaquia,,Frantisek Junek,frantisek_junek.php,,Delantero
+11400,1934,Checoslovaquia,,Josef Silny,josef_silny.php,,Delantero
+11401,1934,Checoslovaquia,,Jiri Sobotka,jiri_sobotka.php,,Delantero
+11402,1934,Checoslovaquia,,Frantisek Svoboda,frantisek_svoboda.php,,Delantero
+11403,1934,Checoslovaquia,,Geza Kalocsay,geza_kalocsay.php,,Delantero
+11404,1934,Brasil,,Pedrosa,pedrosa.php,,Arquero
+11405,1934,Brasil,,Germano,germano.php,,Arquero
+11406,1934,Brasil,,Luiz Luz,luiz_luz.php,,Defensor
+11407,1934,Brasil,,Sylvio Hoffmann,sylvio_hoffmann.php,,Defensor
+11408,1934,Brasil,,Octacilio,octacilio.php,,Defensor
+11409,1934,Brasil,,Tinoco,tinoco.php,,Mediocampista
+11410,1934,Brasil,,Ariel,ariel.php,,Mediocampista
+11411,1934,Brasil,,Waldyr,waldyr.php,,Mediocampista
+11412,1934,Brasil,,Canalli,canalli.php,,Mediocampista
+11413,1934,Brasil,,Carvalho Leite,carvalho_leite.php,,Delantero
+11414,1934,Brasil,,Attila,attila.php,,Delantero
+11415,1934,Brasil,,Armandinho,armandinho.php,,Delantero
+11416,1934,Brasil,,Waldemar De Britto,waldemar_de_britto.php,,Delantero
+11417,1934,Bélgica,,Jules Pappaert,jules_pappaert.php,,Defensor
+11418,1934,Bélgica,,Costant Joacim,costant_joacim.php,,Defensor
+11419,1934,Bélgica,,Charles Simons,charles_simons.php,,Mediocampista
+11420,1934,Bélgica,,Frans Peeraer,frans_peeraer.php,,Mediocampista
+11421,1934,Bélgica,,Jos Van Ingelgem,jos_van_ingelgem.php,,Mediocampista
+11422,1934,Bélgica,,Felix Welkenhuysen,felix_welkenhuysen.php,,Mediocampista
+11423,1934,Bélgica,,Georges Putmans,georges_putmans.php,,Mediocampista
+11424,1934,Bélgica,,Jean Claessens,jean_claessens.php,,Mediocampista
+11425,1934,Bélgica,,Auguste Hellemans,auguste_hellemans.php,,Mediocampista
+11426,1934,Bélgica,,Desire Bourgeois,desire_bourgeois.php,,Mediocampista
+11427,1934,Bélgica,,Louis Versyp,louis_versyp.php,,Delantero
+11428,1934,Bélgica,,Jean Brichaut,jean_brichaut.php,,Delantero
+11429,1934,Bélgica,,Albert Heremans,albert_heremans.php,,Delantero
+11430,1934,Bélgica,,Francois De Vries,francois_de_vries.php,,Delantero
+11431,1934,Bélgica,,Laurent Grimmonprez,laurent_grimmonprez.php,,Delantero
+11432,1934,Bélgica,,Francois Ledent,francois_ledent.php,,Delantero
+11433,1934,Bélgica,,Robert Lamoot,robert_lamoot.php,,Delantero
+11434,1934,Austria,,Peter Platzer,peter_platzer.php,,Arquero
+11435,1934,Austria,,Friederich Franzl,friederich_franzl.php,,Arquero
+11436,1934,Austria,,Willi Schmaus,willi_schmaus.php,,Defensor
+11437,1934,Austria,,Anton Janda,anton_janda.php,,Defensor
+11438,1934,Austria,,Karl Sesta,karl_sesta.php,,Defensor
+11439,1934,Austria,,Franz Cisar,franz_cisar.php,,Defensor
+11440,1934,Austria,,Leopold Hofmann,leopold_hofmann.php,,Mediocampista
+11441,1934,Austria,,Josef Smistik,josef_smistik.php,,Mediocampista
+11442,1934,Austria,,Hans Urbanek,hans_urbanek.php,,Mediocampista
+11443,1934,Austria,,Rudi Viertl,rudi_viertl.php,,Delantero
+11444,1934,Austria,,Matthias Sindelar,matthias_sindelar.php,,Delantero
+11445,1934,Austria,,Johann Walzhofer,johann_walzhofer.php,,Delantero
+11446,1934,Austria,,Toni Schall,toni_schall.php,,Delantero
+11447,1934,Austria,,Josef Bican,josef_bican.php,,Delantero
+11448,1934,Austria,,Mathias Kaburek,mathias_kaburek.php,,Delantero
+11449,1934,Austria,,Johann Horvath,johann_horvath.php,,Delantero
+11450,1934,Austria,,Josef Hassmann,josef_hassmann.php,,Delantero
+11451,1934,Austria,,Georg Braun,georg_braun.php,,Delantero
+11452,1934,Austria,,Karl Zischek,karl_zischek.php,,Delantero
+11453,1934,Argentina,,Hector Freschi,hector_freschi.php,,Arquero
+11454,1934,Argentina,,Angel Grippa,angel_grippa.php,,Arquero
+11455,1934,Argentina,,Ramon Astudillo,ramon_astudillo.php,,Defensor
+11456,1934,Argentina,,Ernesto Belis,ernesto_belis.php,,Defensor
+11457,1934,Argentina,,Enrique Chimento,enrique_chimento.php,,Defensor
+11458,1934,Argentina,,Juan Pedevilla,juan_pedevilla.php,,Defensor
+11459,1934,Argentina,,Arcadio Lopez,arcadio_lopez.php,,Mediocampista
+11460,1934,Argentina,,Jose Nehin,jose_nehin.php,,Mediocampista
+11461,1934,Argentina,,Ernesto Albarracin,ernesto_albarracin.php,,Mediocampista
+11462,1934,Argentina,,Costantino Urbieta Sosa,costantino_urbieta_sosa.php,,Mediocampista
+11463,1934,Argentina,,Alfonso Lorenzo,alfonso_lorenzo.php,,Mediocampista
+11464,1934,Argentina,,Vincente Perez,vincente_perez.php,,Delantero
+11465,1934,Argentina,,Francisco Rua,francisco_rua.php,,Delantero
+11466,1934,Argentina,,Luca Izzeta,luca_izzeta.php,,Delantero
+11467,1934,Argentina,,Roberto Iraneta,roberto_iraneta.php,,Delantero
+11468,1934,Argentina,,Alberto Galateo,alberto_galateo.php,,Delantero
+11469,1934,Argentina,,Alfredo De Vincenzi,alfredo_de_vincenzi.php,,Delantero
+11470,1934,Argentina,,Federico Wilde,federico_wilde.php,,Delantero
+11471,1934,Alemania,,Willibald Kress,willibald_kress.php,,Arquero
+11472,1934,Alemania,,Sigmund Haringer,sigmund_haringer.php,,Defensor
+11473,1934,Alemania,,Hans Schwartz,hans_schwartz.php,,Defensor
+11474,1934,Alemania,,Willy Busch,willy_busch.php,,Defensor
+11475,1934,Alemania,,Josef Streb,josef_streb.php,,Mediocampista
+11476,1934,Alemania,,Ernst Albrecht,ernst_albrecht.php,,Mediocampista
+11477,1934,Alemania,,Paul Zielinski,paul_zielinski.php,,Mediocampista
+11478,1934,Alemania,,Rudolf Gramlich,rudolf_gramlich.php,,Mediocampista
+11479,1934,Alemania,,Jakob Bender,jakob_bender.php,,Delantero
+11480,1934,Alemania,,Rudolf Noack,rudolf_noack.php,,Delantero
+11481,1934,Alemania,,Edmund Conen,edmund_conen.php,,Delantero
+11482,1934,Alemania,,Franz Dienert,franz_dienert.php,,Delantero
+11483,1934,Alemania,,Stanislaus Kobierski,stanislaus_kobierski.php,,Delantero
+11484,1934,Alemania,,Mathias Heidemann,mathias_heidemann.php,,Delantero
+11485,1934,Alemania,,Karl Hohmann,karl_hohmann.php,,Delantero
