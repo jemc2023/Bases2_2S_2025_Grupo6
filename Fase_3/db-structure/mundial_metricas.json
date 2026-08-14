@@ -1,0 +1,74 @@
+// Collection Mundial metrics
+[
+  {
+    "anio": 2022,
+    "common_info": {
+      "campeon": "Argetina",
+      "organizador": "Qatar",
+      "selecciones": 32,
+      "partidos": 64,
+      "goles": 172
+    },
+    "fase_final": [
+      {
+        "Pais_1": "Argentina",
+        "puntaje_e1": "3 (4)",
+        "puntaje_e2": "3 (2)",
+        "Pais_2": "Francia",
+        "tipo_fase": "Final",
+        "fecha": "2022-04-3"
+      }
+    ],
+    "goleadores": [
+      {
+        "jugador": "kylian mbappe",
+        "goles": 8,
+        "partidos": 7,
+        "promedio_gol": 1.14,
+        "pais": "Francia"
+      }
+    ],
+    "posicionaes_finales": [
+      {
+        "pais": "Argentina",
+        "tipo_fase": "Final",
+        "PTS": 16,
+        "PJ": 7,
+        "PG": 5,
+        "PE": 1,
+        "PP": 2,
+        "GF": 16,
+        "GC": 8,
+        "Dif": 8
+      }
+    ],
+    "grupos_y_planteles": [
+      {
+        "pais": "Argentina",
+        "grupo": "B",
+        "PTS": 16,
+        "PJ": 7,
+        "PG": 5,
+        "PE": 1,
+        "PP": 2,
+        "GF": 16,
+        "GC": 8,
+        "Dif": 8
+      }
+    ],
+    "premios": [
+      {
+        "premio": "balon de oro",
+        "jugador": "Lionel Messi",
+        "pais": "Argentina"
+      }
+    ],
+    "equipo_ideal": [
+      {
+        "jugador": "Angel Correa",
+        "posicion": "Defensa ",
+        "pais": "Francia"
+      }
+    ]
+  }
+]

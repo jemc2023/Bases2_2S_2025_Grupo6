@@ -1,0 +1,77 @@
+// Collection pais
+[
+  {
+    "pais": "Argentina",
+    "common_info": {
+      "cant_mundiales": 18,
+      "campeon": [
+        2022,
+        1986,
+        1978
+      ],
+      "subcampeon": [
+        2014,
+        1990,
+        1930
+      ],
+      "partidos_jugados": 88,
+      "partidos_ganados": "47 (53.4%)",
+      "partidos_empatados": "47 (53.4%)",
+      "partidos_perdidos": "47 (53.4%)",
+      "goles_favor": 152,
+      "goles_contra": 101,
+      "Dif": 51,
+      "prom_favor": 1.73,
+      "prom_contra": 1.15,
+      "prom_dif": 0.58,
+      "sede": [
+        1978
+      ]
+    },
+    "planteles": [
+      {
+        "mundial": 2022,
+        "equipo": [
+          {
+            "jugador": "Angel Di Maria",
+            "num_camisa": 11,
+            "posicion": "Delantero"
+          },
+          {
+            "jugador": "Lionel Messi",
+            "num_camisa": 10,
+            "posicion": "Delantero"
+          }
+        ]
+      }
+    ],
+    "jugadores": [
+      {
+        "referencia": "Lionel Messi",
+        "nombre": "Liones Andres Messi"
+        // toda la data
+      }
+    ],
+    "partidos": [
+      {
+        "anio": 2022,
+        "fecha": "2022-04-3",
+        "etapa": "Final",
+        "Pais_1": "Argentina",
+        "equipo2": "Francia",
+        "puntaje_e1": 3,
+        "puntaje_e2": 3,
+        "Pais_2":"Francia"
+      }
+    ],
+    "goleadores":[
+      {
+        "jugador":"liones messi",
+        "goles":13,
+        "prom_gol":0.57,
+        "partidos":23,
+        "mundiales":5
+      }
+    ]
+  }
+]

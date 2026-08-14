@@ -1,0 +1,95 @@
+// Collection Mundiales
+[
+  {
+    "anio": 2022,
+    "planteles": [
+      {
+        "pais": "argentina",
+        "grupo": "C",
+        "jugadores": [
+          {
+            "jugador": "Angel Di Maria",
+            "num_camisa": 11,
+            "posicion": "Delantero"
+          },
+          {
+            "jugador": "Lionel Messi",
+            "num_camisa": 10,
+            "posicion": "Delantero"
+          }
+        ]
+      }
+    ],
+    "partidos": [
+      {
+        "fecha": "2022-04-3",
+        "tipo_fase": "Final",
+        "hubo_t_extra": true,
+        "hubo_penales": false,
+        "equipo1": {
+          "pais": "Argentina",
+          "asistencias": [
+            {
+              "jugador": "Angel Di Maria",
+              "posicion": "Delantero",
+              "num_camisa": 10,
+              "estado": "Titular"
+            }
+          ],
+          "cambios": [
+            {
+              "entra": "marcos acuna",
+              "sale": "angel di maria",
+              "minuto_cambio": 64,
+              "et": true //No aparece si no fue en el ET
+            }
+          ],
+          "tarjetas": [
+            {
+              "jugador": "Angel Correa",
+              "tipo_tarjeta": "amarilla",
+              "min_tarjeta": 34
+            },
+            {
+              "jugador": "Angel Correa",
+              "tipo_tarjeta": "roja",
+              "min_tarjeta": 38
+            }
+          ],
+          "goles": [
+            {
+              "jugador": "Lionel Messi",
+              "min_marcado": "23 (de penal)"
+            }
+          ],
+          "penaless": [
+            {
+              "jugador": "Liones Messi",
+              "fue_metido": "Metido"
+            },
+            {
+              "jugador": "Random",
+              "fue_metido": "Fallido (atajado)"
+            }
+          ]
+        },
+        "equipo2": {
+          "pais": "Francia",
+          "asistencias": [
+            {
+              "jugador": "Angel Di Maria",
+              "posicion": "Delantero",
+              "num_camisa": 10,
+              "estado": "Titular"
+            }
+          ],
+          "cambios": [], //Vacio si no viene nada
+          "tarjetas": [], //Vacio si no viene nada
+          "goles": [], //Vacio si no viene nada
+          "penaless": [] //Vacio si no viene nada
+        }
+      }
+    ]
+    //Vacio en caso no haya equipo ideal
+  }
+]
